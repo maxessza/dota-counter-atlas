@@ -1,0 +1,905 @@
+{
+  "checked": "2026-09-24",
+  "rosterSource": "https://api.opendota.com/api/heroes",
+  "heroCount": 127,
+  "matchupCount": 635,
+  "minimumCountersPerHero": 5,
+  "newMatchupsAdded": 375,
+  "sources": [
+    {
+      "hero": "Abaddon",
+      "url": "https://dotacoach.gg/en/heroes/counters/abaddon",
+      "extraSources": [],
+      "patch": "7.41f",
+      "evidence": "กลไกอธิบายจากคำแนะนำ Dota Coach พร้อมเงื่อนไขการใช้"
+    },
+    {
+      "hero": "Alchemist",
+      "url": "https://dotacoach.gg/en/heroes/counters/alchemist",
+      "extraSources": [],
+      "patch": "7.41f",
+      "evidence": "กลไกอธิบายจากคำแนะนำ Dota Coach พร้อมเงื่อนไขการใช้"
+    },
+    {
+      "hero": "Ancient Apparition",
+      "url": "https://dotacoach.gg/en/heroes/counters/ancient-apparition",
+      "extraSources": [],
+      "patch": "7.41f",
+      "evidence": "กลไกอธิบายจากคำแนะนำ Dota Coach พร้อมเงื่อนไขการใช้"
+    },
+    {
+      "hero": "Anti-Mage",
+      "url": "https://dotacoach.gg/en/heroes/counters/anti-mage",
+      "extraSources": [],
+      "patch": "7.41f",
+      "evidence": "กลไกอธิบายจากคำแนะนำ Dota Coach พร้อมเงื่อนไขการใช้"
+    },
+    {
+      "hero": "Arc Warden",
+      "url": "https://dotacoach.gg/en/heroes/counters/arc-warden",
+      "extraSources": [],
+      "patch": "7.41f",
+      "evidence": "กลไกอธิบายจากคำแนะนำ Dota Coach พร้อมเงื่อนไขการใช้"
+    },
+    {
+      "hero": "Axe",
+      "url": "https://dotacoach.gg/en/heroes/counters/axe",
+      "extraSources": [],
+      "patch": "7.41f",
+      "evidence": "กลไกอธิบายจากคำแนะนำ Dota Coach พร้อมเงื่อนไขการใช้"
+    },
+    {
+      "hero": "Bane",
+      "url": "https://dotacoach.gg/en/heroes/counters/bane",
+      "extraSources": [],
+      "patch": "7.41f",
+      "evidence": "กลไกอธิบายจากคำแนะนำ Dota Coach พร้อมเงื่อนไขการใช้"
+    },
+    {
+      "hero": "Batrider",
+      "url": "https://dotacoach.gg/en/heroes/counters/batrider",
+      "extraSources": [],
+      "patch": "7.41f",
+      "evidence": "กลไกอธิบายจากคำแนะนำ Dota Coach พร้อมเงื่อนไขการใช้"
+    },
+    {
+      "hero": "Beastmaster",
+      "url": "https://dotacoach.gg/en/heroes/counters/beastmaster",
+      "extraSources": [],
+      "patch": "7.41f",
+      "evidence": "กลไกอธิบายจากคำแนะนำ Dota Coach พร้อมเงื่อนไขการใช้"
+    },
+    {
+      "hero": "Bloodseeker",
+      "url": "https://dotacoach.gg/en/heroes/counters/bloodseeker",
+      "extraSources": [],
+      "patch": "7.41f",
+      "evidence": "กลไกอธิบายจากคำแนะนำ Dota Coach พร้อมเงื่อนไขการใช้"
+    },
+    {
+      "hero": "Bounty Hunter",
+      "url": "https://dotacoach.gg/en/heroes/counters/bounty-hunter",
+      "extraSources": [],
+      "patch": "7.41f",
+      "evidence": "กลไกอธิบายจากคำแนะนำ Dota Coach พร้อมเงื่อนไขการใช้"
+    },
+    {
+      "hero": "Brewmaster",
+      "url": "https://dotacoach.gg/en/heroes/counters/brewmaster",
+      "extraSources": [],
+      "patch": "7.41f",
+      "evidence": "กลไกอธิบายจากคำแนะนำ Dota Coach พร้อมเงื่อนไขการใช้"
+    },
+    {
+      "hero": "Bristleback",
+      "url": "https://dotacoach.gg/en/heroes/counters/bristleback",
+      "extraSources": [],
+      "patch": "7.41f",
+      "evidence": "กลไกอธิบายจากคำแนะนำ Dota Coach พร้อมเงื่อนไขการใช้"
+    },
+    {
+      "hero": "Broodmother",
+      "url": "https://dotacoach.gg/en/heroes/counters/broodmother",
+      "extraSources": [],
+      "patch": "7.41f",
+      "evidence": "กลไกอธิบายจากคำแนะนำ Dota Coach พร้อมเงื่อนไขการใช้"
+    },
+    {
+      "hero": "Centaur Warrunner",
+      "url": "https://dotacoach.gg/en/heroes/counters/centaur-warrunner",
+      "extraSources": [],
+      "patch": "7.41f",
+      "evidence": "กลไกอธิบายจากคำแนะนำ Dota Coach พร้อมเงื่อนไขการใช้"
+    },
+    {
+      "hero": "Chaos Knight",
+      "url": "https://dotacoach.gg/en/heroes/counters/chaos-knight",
+      "extraSources": [],
+      "patch": "7.41f",
+      "evidence": "กลไกอธิบายจากคำแนะนำ Dota Coach พร้อมเงื่อนไขการใช้"
+    },
+    {
+      "hero": "Chen",
+      "url": "https://dotacoach.gg/en/heroes/counters/chen",
+      "extraSources": [],
+      "patch": "7.41f",
+      "evidence": "กลไกอธิบายจากคำแนะนำ Dota Coach พร้อมเงื่อนไขการใช้"
+    },
+    {
+      "hero": "Clinkz",
+      "url": "https://dotacoach.gg/en/heroes/counters/clinkz",
+      "extraSources": [],
+      "patch": "7.41f",
+      "evidence": "กลไกอธิบายจากคำแนะนำ Dota Coach พร้อมเงื่อนไขการใช้"
+    },
+    {
+      "hero": "Clockwerk",
+      "url": "https://dotacoach.gg/en/heroes/counters/clockwerk",
+      "extraSources": [],
+      "patch": "7.41f",
+      "evidence": "กลไกอธิบายจากคำแนะนำ Dota Coach พร้อมเงื่อนไขการใช้"
+    },
+    {
+      "hero": "Crystal Maiden",
+      "url": "https://dotacoach.gg/en/heroes/counters/crystal-maiden",
+      "extraSources": [],
+      "patch": "7.41f",
+      "evidence": "กลไกอธิบายจากคำแนะนำ Dota Coach พร้อมเงื่อนไขการใช้"
+    },
+    {
+      "hero": "Dark Seer",
+      "url": "https://dotacoach.gg/en/heroes/counters/dark-seer",
+      "extraSources": [],
+      "patch": "7.41f",
+      "evidence": "กลไกอธิบายจากคำแนะนำ Dota Coach พร้อมเงื่อนไขการใช้"
+    },
+    {
+      "hero": "Dark Willow",
+      "url": "https://dotacoach.gg/en/heroes/counters/dark-willow",
+      "extraSources": [],
+      "patch": "7.41f",
+      "evidence": "กลไกอธิบายจากคำแนะนำ Dota Coach พร้อมเงื่อนไขการใช้"
+    },
+    {
+      "hero": "Dawnbreaker",
+      "url": "https://dotacoach.gg/en/heroes/counters/dawnbreaker",
+      "extraSources": [],
+      "patch": "7.41f",
+      "evidence": "กลไกอธิบายจากคำแนะนำ Dota Coach พร้อมเงื่อนไขการใช้"
+    },
+    {
+      "hero": "Dazzle",
+      "url": "https://dotacoach.gg/en/heroes/counters/dazzle",
+      "extraSources": [],
+      "patch": "7.41f",
+      "evidence": "กลไกอธิบายจากคำแนะนำ Dota Coach พร้อมเงื่อนไขการใช้"
+    },
+    {
+      "hero": "Death Prophet",
+      "url": "https://dotacoach.gg/en/heroes/counters/death-prophet",
+      "extraSources": [],
+      "patch": "7.41f",
+      "evidence": "กลไกอธิบายจากคำแนะนำ Dota Coach พร้อมเงื่อนไขการใช้"
+    },
+    {
+      "hero": "Disruptor",
+      "url": "https://dotacoach.gg/en/heroes/counters/disruptor",
+      "extraSources": [],
+      "patch": "7.41f",
+      "evidence": "กลไกอธิบายจากคำแนะนำ Dota Coach พร้อมเงื่อนไขการใช้"
+    },
+    {
+      "hero": "Doom",
+      "url": "https://dotacoach.gg/en/heroes/counters/doom",
+      "extraSources": [],
+      "patch": "7.41f",
+      "evidence": "กลไกอธิบายจากคำแนะนำ Dota Coach พร้อมเงื่อนไขการใช้"
+    },
+    {
+      "hero": "Dragon Knight",
+      "url": "https://dotacoach.gg/en/heroes/counters/dragon-knight",
+      "extraSources": [],
+      "patch": "7.41f",
+      "evidence": "กลไกอธิบายจากคำแนะนำ Dota Coach พร้อมเงื่อนไขการใช้"
+    },
+    {
+      "hero": "Drow Ranger",
+      "url": "https://dotacoach.gg/en/heroes/counters/drow-ranger",
+      "extraSources": [],
+      "patch": "7.41f",
+      "evidence": "กลไกอธิบายจากคำแนะนำ Dota Coach พร้อมเงื่อนไขการใช้"
+    },
+    {
+      "hero": "Earth Spirit",
+      "url": "https://dotacoach.gg/en/heroes/counters/earth-spirit",
+      "extraSources": [],
+      "patch": "7.41f",
+      "evidence": "กลไกอธิบายจากคำแนะนำ Dota Coach พร้อมเงื่อนไขการใช้"
+    },
+    {
+      "hero": "Earthshaker",
+      "url": "https://dotacoach.gg/en/heroes/counters/earthshaker",
+      "extraSources": [],
+      "patch": "7.41f",
+      "evidence": "กลไกอธิบายจากคำแนะนำ Dota Coach พร้อมเงื่อนไขการใช้"
+    },
+    {
+      "hero": "Elder Titan",
+      "url": "https://dotacoach.gg/en/heroes/counters/elder-titan",
+      "extraSources": [],
+      "patch": "7.41f",
+      "evidence": "กลไกอธิบายจากคำแนะนำ Dota Coach พร้อมเงื่อนไขการใช้"
+    },
+    {
+      "hero": "Ember Spirit",
+      "url": "https://dotacoach.gg/en/heroes/counters/ember-spirit",
+      "extraSources": [],
+      "patch": "7.41f",
+      "evidence": "กลไกอธิบายจากคำแนะนำ Dota Coach พร้อมเงื่อนไขการใช้"
+    },
+    {
+      "hero": "Enchantress",
+      "url": "https://dotacoach.gg/en/heroes/counters/enchantress",
+      "extraSources": [],
+      "patch": "7.41f",
+      "evidence": "กลไกอธิบายจากคำแนะนำ Dota Coach พร้อมเงื่อนไขการใช้"
+    },
+    {
+      "hero": "Enigma",
+      "url": "https://dotacoach.gg/en/heroes/counters/enigma",
+      "extraSources": [],
+      "patch": "7.41f",
+      "evidence": "กลไกอธิบายจากคำแนะนำ Dota Coach พร้อมเงื่อนไขการใช้"
+    },
+    {
+      "hero": "Faceless Void",
+      "url": "https://dotacoach.gg/en/heroes/counters/faceless-void",
+      "extraSources": [],
+      "patch": "7.41f",
+      "evidence": "กลไกอธิบายจากคำแนะนำ Dota Coach พร้อมเงื่อนไขการใช้"
+    },
+    {
+      "hero": "Grimstroke",
+      "url": "https://dotacoach.gg/en/heroes/counters/grimstroke",
+      "extraSources": [],
+      "patch": "7.41f",
+      "evidence": "กลไกอธิบายจากคำแนะนำ Dota Coach พร้อมเงื่อนไขการใช้"
+    },
+    {
+      "hero": "Gyrocopter",
+      "url": "https://dotacoach.gg/en/heroes/counters/gyrocopter",
+      "extraSources": [],
+      "patch": "7.41f",
+      "evidence": "กลไกอธิบายจากคำแนะนำ Dota Coach พร้อมเงื่อนไขการใช้"
+    },
+    {
+      "hero": "Hoodwink",
+      "url": "https://dotacoach.gg/en/heroes/counters/hoodwink",
+      "extraSources": [],
+      "patch": "7.41f",
+      "evidence": "กลไกอธิบายจากคำแนะนำ Dota Coach พร้อมเงื่อนไขการใช้"
+    },
+    {
+      "hero": "Huskar",
+      "url": "https://dotacoach.gg/en/heroes/counters/huskar",
+      "extraSources": [],
+      "patch": "7.41f",
+      "evidence": "กลไกอธิบายจากคำแนะนำ Dota Coach พร้อมเงื่อนไขการใช้"
+    },
+    {
+      "hero": "Invoker",
+      "url": "https://dotacoach.gg/en/heroes/counters/invoker",
+      "extraSources": [],
+      "patch": "7.41f",
+      "evidence": "กลไกอธิบายจากคำแนะนำ Dota Coach พร้อมเงื่อนไขการใช้"
+    },
+    {
+      "hero": "Io",
+      "url": "https://dotacoach.gg/en/heroes/counters/io",
+      "extraSources": [],
+      "patch": "7.41f",
+      "evidence": "กลไกอธิบายจากคำแนะนำ Dota Coach พร้อมเงื่อนไขการใช้"
+    },
+    {
+      "hero": "Jakiro",
+      "url": "https://dotacoach.gg/en/heroes/counters/jakiro",
+      "extraSources": [],
+      "patch": "7.41f",
+      "evidence": "กลไกอธิบายจากคำแนะนำ Dota Coach พร้อมเงื่อนไขการใช้"
+    },
+    {
+      "hero": "Juggernaut",
+      "url": "https://dotacoach.gg/en/heroes/counters/juggernaut",
+      "extraSources": [],
+      "patch": "7.41f",
+      "evidence": "กลไกอธิบายจากคำแนะนำ Dota Coach พร้อมเงื่อนไขการใช้"
+    },
+    {
+      "hero": "Keeper of the Light",
+      "url": "https://dotacoach.gg/en/heroes/counters/keeper-of-the-light",
+      "extraSources": [],
+      "patch": "7.41f",
+      "evidence": "กลไกอธิบายจากคำแนะนำ Dota Coach พร้อมเงื่อนไขการใช้"
+    },
+    {
+      "hero": "Kez",
+      "url": "https://dotacoach.gg/en/heroes/counters/kez",
+      "extraSources": [],
+      "patch": "7.41f",
+      "evidence": "กลไกอธิบายจากคำแนะนำ Dota Coach พร้อมเงื่อนไขการใช้"
+    },
+    {
+      "hero": "Kunkka",
+      "url": "https://dotacoach.gg/en/heroes/counters/kunkka",
+      "extraSources": [],
+      "patch": "7.41f",
+      "evidence": "กลไกอธิบายจากคำแนะนำ Dota Coach พร้อมเงื่อนไขการใช้"
+    },
+    {
+      "hero": "Largo",
+      "url": "https://dotacoach.gg/en/heroes/counters/largo",
+      "extraSources": [
+        "https://dotacoach.gg/en/heroes/counters/largo"
+      ],
+      "patch": "7.41e (ส่วนไอเทมของแหล่งอ้างอิง)",
+      "evidence": "ข้อวิเคราะห์จากกลไก: หน้าอ้างอิงมีสถิติคู่ที่เสียเปรียบ แต่ไม่มีคำอธิบายรายฮีโร่ คู่แก้ทางทั้ง 5 และเหตุผลจึงเป็นบทวิเคราะห์ ไม่ใช่คำอธิบายจากหน้าอ้างอิง"
+    },
+    {
+      "hero": "Legion Commander",
+      "url": "https://dotacoach.gg/en/heroes/counters/legion-commander",
+      "extraSources": [],
+      "patch": "7.41f",
+      "evidence": "กลไกอธิบายจากคำแนะนำ Dota Coach พร้อมเงื่อนไขการใช้"
+    },
+    {
+      "hero": "Leshrac",
+      "url": "https://dotacoach.gg/en/heroes/counters/leshrac",
+      "extraSources": [],
+      "patch": "7.41f",
+      "evidence": "กลไกอธิบายจากคำแนะนำ Dota Coach พร้อมเงื่อนไขการใช้"
+    },
+    {
+      "hero": "Lich",
+      "url": "https://dotacoach.gg/en/heroes/counters/lich",
+      "extraSources": [],
+      "patch": "7.41f",
+      "evidence": "กลไกอธิบายจากคำแนะนำ Dota Coach พร้อมเงื่อนไขการใช้"
+    },
+    {
+      "hero": "Lifestealer",
+      "url": "https://dotacoach.gg/en/heroes/counters/lifestealer",
+      "extraSources": [],
+      "patch": "7.41f",
+      "evidence": "กลไกอธิบายจากคำแนะนำ Dota Coach พร้อมเงื่อนไขการใช้"
+    },
+    {
+      "hero": "Lina",
+      "url": "https://dotacoach.gg/en/heroes/counters/lina",
+      "extraSources": [],
+      "patch": "7.41f",
+      "evidence": "กลไกอธิบายจากคำแนะนำ Dota Coach พร้อมเงื่อนไขการใช้"
+    },
+    {
+      "hero": "Lion",
+      "url": "https://dotacoach.gg/en/heroes/counters/lion",
+      "extraSources": [],
+      "patch": "7.41f",
+      "evidence": "กลไกอธิบายจากคำแนะนำ Dota Coach พร้อมเงื่อนไขการใช้"
+    },
+    {
+      "hero": "Lone Druid",
+      "url": "https://dotacoach.gg/en/heroes/counters/lone-druid",
+      "extraSources": [],
+      "patch": "7.41f",
+      "evidence": "กลไกอธิบายจากคำแนะนำ Dota Coach พร้อมเงื่อนไขการใช้"
+    },
+    {
+      "hero": "Luna",
+      "url": "https://dotacoach.gg/en/heroes/counters/luna",
+      "extraSources": [],
+      "patch": "7.41f",
+      "evidence": "กลไกอธิบายจากคำแนะนำ Dota Coach พร้อมเงื่อนไขการใช้"
+    },
+    {
+      "hero": "Lycan",
+      "url": "https://dotacoach.gg/en/heroes/counters/lycan",
+      "extraSources": [],
+      "patch": "7.41f",
+      "evidence": "กลไกอธิบายจากคำแนะนำ Dota Coach พร้อมเงื่อนไขการใช้"
+    },
+    {
+      "hero": "Magnus",
+      "url": "https://dotacoach.gg/en/heroes/counters/magnus",
+      "extraSources": [],
+      "patch": "7.41f",
+      "evidence": "กลไกอธิบายจากคำแนะนำ Dota Coach พร้อมเงื่อนไขการใช้"
+    },
+    {
+      "hero": "Marci",
+      "url": "https://dotacoach.gg/en/heroes/counters/marci",
+      "extraSources": [],
+      "patch": "7.41f",
+      "evidence": "กลไกอธิบายจากคำแนะนำ Dota Coach พร้อมเงื่อนไขการใช้"
+    },
+    {
+      "hero": "Mars",
+      "url": "https://dotacoach.gg/en/heroes/counters/mars",
+      "extraSources": [],
+      "patch": "7.41f",
+      "evidence": "กลไกอธิบายจากคำแนะนำ Dota Coach พร้อมเงื่อนไขการใช้"
+    },
+    {
+      "hero": "Medusa",
+      "url": "https://dotacoach.gg/en/heroes/counters/medusa",
+      "extraSources": [],
+      "patch": "7.41f",
+      "evidence": "กลไกอธิบายจากคำแนะนำ Dota Coach พร้อมเงื่อนไขการใช้"
+    },
+    {
+      "hero": "Meepo",
+      "url": "https://dotacoach.gg/en/heroes/counters/meepo",
+      "extraSources": [],
+      "patch": "7.41f",
+      "evidence": "กลไกอธิบายจากคำแนะนำ Dota Coach พร้อมเงื่อนไขการใช้"
+    },
+    {
+      "hero": "Mirana",
+      "url": "https://dotacoach.gg/en/heroes/counters/mirana",
+      "extraSources": [],
+      "patch": "7.41f",
+      "evidence": "กลไกอธิบายจากคำแนะนำ Dota Coach พร้อมเงื่อนไขการใช้"
+    },
+    {
+      "hero": "Monkey King",
+      "url": "https://dotacoach.gg/en/heroes/counters/monkey-king",
+      "extraSources": [],
+      "patch": "7.41f",
+      "evidence": "กลไกอธิบายจากคำแนะนำ Dota Coach พร้อมเงื่อนไขการใช้"
+    },
+    {
+      "hero": "Morphling",
+      "url": "https://dotacoach.gg/en/heroes/counters/morphling",
+      "extraSources": [],
+      "patch": "7.41f",
+      "evidence": "กลไกอธิบายจากคำแนะนำ Dota Coach พร้อมเงื่อนไขการใช้"
+    },
+    {
+      "hero": "Muerta",
+      "url": "https://dotacoach.gg/en/heroes/counters/muerta",
+      "extraSources": [],
+      "patch": "7.41f",
+      "evidence": "กลไกอธิบายจากคำแนะนำ Dota Coach พร้อมเงื่อนไขการใช้"
+    },
+    {
+      "hero": "Naga Siren",
+      "url": "https://dotacoach.gg/en/heroes/counters/naga-siren",
+      "extraSources": [],
+      "patch": "7.41f",
+      "evidence": "กลไกอธิบายจากคำแนะนำ Dota Coach พร้อมเงื่อนไขการใช้"
+    },
+    {
+      "hero": "Nature's Prophet",
+      "url": "https://dotacoach.gg/en/heroes/counters/natures-prophet",
+      "extraSources": [],
+      "patch": "7.41f",
+      "evidence": "กลไกอธิบายจากคำแนะนำ Dota Coach พร้อมเงื่อนไขการใช้"
+    },
+    {
+      "hero": "Necrophos",
+      "url": "https://dotacoach.gg/en/heroes/counters/necrophos",
+      "extraSources": [],
+      "patch": "7.41f",
+      "evidence": "กลไกอธิบายจากคำแนะนำ Dota Coach พร้อมเงื่อนไขการใช้"
+    },
+    {
+      "hero": "Night Stalker",
+      "url": "https://dotacoach.gg/en/heroes/counters/night-stalker",
+      "extraSources": [],
+      "patch": "7.41f",
+      "evidence": "กลไกอธิบายจากคำแนะนำ Dota Coach พร้อมเงื่อนไขการใช้"
+    },
+    {
+      "hero": "Nyx Assassin",
+      "url": "https://dotacoach.gg/en/heroes/counters/nyx-assassin",
+      "extraSources": [],
+      "patch": "7.41f",
+      "evidence": "กลไกอธิบายจากคำแนะนำ Dota Coach พร้อมเงื่อนไขการใช้"
+    },
+    {
+      "hero": "Ogre Magi",
+      "url": "https://dotacoach.gg/en/heroes/counters/ogre-magi",
+      "extraSources": [],
+      "patch": "7.41f",
+      "evidence": "กลไกอธิบายจากคำแนะนำ Dota Coach พร้อมเงื่อนไขการใช้"
+    },
+    {
+      "hero": "Omniknight",
+      "url": "https://dotacoach.gg/en/heroes/counters/omniknight",
+      "extraSources": [],
+      "patch": "7.41f",
+      "evidence": "กลไกอธิบายจากคำแนะนำ Dota Coach พร้อมเงื่อนไขการใช้"
+    },
+    {
+      "hero": "Oracle",
+      "url": "https://dotacoach.gg/en/heroes/counters/oracle",
+      "extraSources": [],
+      "patch": "7.41f",
+      "evidence": "กลไกอธิบายจากคำแนะนำ Dota Coach พร้อมเงื่อนไขการใช้"
+    },
+    {
+      "hero": "Outworld Destroyer",
+      "url": "https://dotacoach.gg/en/heroes/counters/outworld-devourer",
+      "extraSources": [],
+      "patch": "7.41f",
+      "evidence": "กลไกอธิบายจากคำแนะนำ Dota Coach พร้อมเงื่อนไขการใช้"
+    },
+    {
+      "hero": "Pangolier",
+      "url": "https://dotacoach.gg/en/heroes/counters/pangolier",
+      "extraSources": [],
+      "patch": "7.41f",
+      "evidence": "กลไกอธิบายจากคำแนะนำ Dota Coach พร้อมเงื่อนไขการใช้"
+    },
+    {
+      "hero": "Phantom Assassin",
+      "url": "https://dotacoach.gg/en/heroes/counters/phantom-assassin",
+      "extraSources": [],
+      "patch": "7.41f",
+      "evidence": "กลไกอธิบายจากคำแนะนำ Dota Coach พร้อมเงื่อนไขการใช้"
+    },
+    {
+      "hero": "Phantom Lancer",
+      "url": "https://dotacoach.gg/en/heroes/counters/phantom-lancer",
+      "extraSources": [],
+      "patch": "7.41f",
+      "evidence": "กลไกอธิบายจากคำแนะนำ Dota Coach พร้อมเงื่อนไขการใช้"
+    },
+    {
+      "hero": "Phoenix",
+      "url": "https://dotacoach.gg/en/heroes/counters/phoenix",
+      "extraSources": [],
+      "patch": "7.41f",
+      "evidence": "กลไกอธิบายจากคำแนะนำ Dota Coach พร้อมเงื่อนไขการใช้"
+    },
+    {
+      "hero": "Primal Beast",
+      "url": "https://dotacoach.gg/en/heroes/counters/primal-beast",
+      "extraSources": [],
+      "patch": "7.41f",
+      "evidence": "กลไกอธิบายจากคำแนะนำ Dota Coach พร้อมเงื่อนไขการใช้"
+    },
+    {
+      "hero": "Puck",
+      "url": "https://dotacoach.gg/en/heroes/counters/puck",
+      "extraSources": [],
+      "patch": "7.41f",
+      "evidence": "กลไกอธิบายจากคำแนะนำ Dota Coach พร้อมเงื่อนไขการใช้"
+    },
+    {
+      "hero": "Pudge",
+      "url": "https://dotacoach.gg/en/heroes/counters/pudge",
+      "extraSources": [],
+      "patch": "7.41f",
+      "evidence": "กลไกอธิบายจากคำแนะนำ Dota Coach พร้อมเงื่อนไขการใช้"
+    },
+    {
+      "hero": "Pugna",
+      "url": "https://dotacoach.gg/en/heroes/counters/pugna",
+      "extraSources": [],
+      "patch": "7.41f",
+      "evidence": "กลไกอธิบายจากคำแนะนำ Dota Coach พร้อมเงื่อนไขการใช้"
+    },
+    {
+      "hero": "Queen of Pain",
+      "url": "https://dotacoach.gg/en/heroes/counters/queen-of-pain",
+      "extraSources": [],
+      "patch": "7.41f",
+      "evidence": "กลไกอธิบายจากคำแนะนำ Dota Coach พร้อมเงื่อนไขการใช้"
+    },
+    {
+      "hero": "Razor",
+      "url": "https://dotacoach.gg/en/heroes/counters/razor",
+      "extraSources": [],
+      "patch": "7.41f",
+      "evidence": "กลไกอธิบายจากคำแนะนำ Dota Coach พร้อมเงื่อนไขการใช้"
+    },
+    {
+      "hero": "Riki",
+      "url": "https://dotacoach.gg/en/heroes/counters/riki",
+      "extraSources": [],
+      "patch": "7.41f",
+      "evidence": "กลไกอธิบายจากคำแนะนำ Dota Coach พร้อมเงื่อนไขการใช้"
+    },
+    {
+      "hero": "Ringmaster",
+      "url": "https://dotacoach.gg/en/heroes/counters/ringmaster",
+      "extraSources": [],
+      "patch": "7.41f",
+      "evidence": "กลไกอธิบายจากคำแนะนำ Dota Coach พร้อมเงื่อนไขการใช้"
+    },
+    {
+      "hero": "Rubick",
+      "url": "https://dotacoach.gg/en/heroes/counters/rubick",
+      "extraSources": [],
+      "patch": "7.41f",
+      "evidence": "กลไกอธิบายจากคำแนะนำ Dota Coach พร้อมเงื่อนไขการใช้"
+    },
+    {
+      "hero": "Sand King",
+      "url": "https://dotacoach.gg/en/heroes/counters/sand-king",
+      "extraSources": [],
+      "patch": "7.41f",
+      "evidence": "กลไกอธิบายจากคำแนะนำ Dota Coach พร้อมเงื่อนไขการใช้"
+    },
+    {
+      "hero": "Shadow Demon",
+      "url": "https://dotacoach.gg/en/heroes/counters/shadow-demon",
+      "extraSources": [],
+      "patch": "7.41f",
+      "evidence": "กลไกอธิบายจากคำแนะนำ Dota Coach พร้อมเงื่อนไขการใช้"
+    },
+    {
+      "hero": "Shadow Fiend",
+      "url": "https://dotacoach.gg/en/heroes/counters/shadow-fiend",
+      "extraSources": [],
+      "patch": "7.41f",
+      "evidence": "กลไกอธิบายจากคำแนะนำ Dota Coach พร้อมเงื่อนไขการใช้"
+    },
+    {
+      "hero": "Shadow Shaman",
+      "url": "https://dotacoach.gg/en/heroes/counters/shadow-shaman",
+      "extraSources": [],
+      "patch": "7.41f",
+      "evidence": "กลไกอธิบายจากคำแนะนำ Dota Coach พร้อมเงื่อนไขการใช้"
+    },
+    {
+      "hero": "Silencer",
+      "url": "https://dotacoach.gg/en/heroes/counters/silencer",
+      "extraSources": [],
+      "patch": "7.41f",
+      "evidence": "กลไกอธิบายจากคำแนะนำ Dota Coach พร้อมเงื่อนไขการใช้"
+    },
+    {
+      "hero": "Skywrath Mage",
+      "url": "https://dotacoach.gg/en/heroes/counters/skywrath-mage",
+      "extraSources": [],
+      "patch": "7.41f",
+      "evidence": "กลไกอธิบายจากคำแนะนำ Dota Coach พร้อมเงื่อนไขการใช้"
+    },
+    {
+      "hero": "Slardar",
+      "url": "https://dotacoach.gg/en/heroes/counters/slardar",
+      "extraSources": [],
+      "patch": "7.41f",
+      "evidence": "กลไกอธิบายจากคำแนะนำ Dota Coach พร้อมเงื่อนไขการใช้"
+    },
+    {
+      "hero": "Slark",
+      "url": "https://dotacoach.gg/en/heroes/counters/slark",
+      "extraSources": [],
+      "patch": "7.41f",
+      "evidence": "กลไกอธิบายจากคำแนะนำ Dota Coach พร้อมเงื่อนไขการใช้"
+    },
+    {
+      "hero": "Snapfire",
+      "url": "https://dotacoach.gg/en/heroes/counters/snapfire",
+      "extraSources": [],
+      "patch": "7.41f",
+      "evidence": "กลไกอธิบายจากคำแนะนำ Dota Coach พร้อมเงื่อนไขการใช้"
+    },
+    {
+      "hero": "Sniper",
+      "url": "https://dotacoach.gg/en/heroes/counters/sniper",
+      "extraSources": [],
+      "patch": "7.41f",
+      "evidence": "กลไกอธิบายจากคำแนะนำ Dota Coach พร้อมเงื่อนไขการใช้"
+    },
+    {
+      "hero": "Spectre",
+      "url": "https://dotacoach.gg/en/heroes/counters/spectre",
+      "extraSources": [],
+      "patch": "7.41f",
+      "evidence": "กลไกอธิบายจากคำแนะนำ Dota Coach พร้อมเงื่อนไขการใช้"
+    },
+    {
+      "hero": "Spirit Breaker",
+      "url": "https://dotacoach.gg/en/heroes/counters/spirit-breaker",
+      "extraSources": [],
+      "patch": "7.41f",
+      "evidence": "กลไกอธิบายจากคำแนะนำ Dota Coach พร้อมเงื่อนไขการใช้"
+    },
+    {
+      "hero": "Storm Spirit",
+      "url": "https://dotacoach.gg/en/heroes/counters/storm-spirit",
+      "extraSources": [],
+      "patch": "7.41f",
+      "evidence": "กลไกอธิบายจากคำแนะนำ Dota Coach พร้อมเงื่อนไขการใช้"
+    },
+    {
+      "hero": "Sven",
+      "url": "https://dotacoach.gg/en/heroes/counters/sven",
+      "extraSources": [],
+      "patch": "7.41f",
+      "evidence": "กลไกอธิบายจากคำแนะนำ Dota Coach พร้อมเงื่อนไขการใช้"
+    },
+    {
+      "hero": "Techies",
+      "url": "https://dotacoach.gg/en/heroes/counters/techies",
+      "extraSources": [],
+      "patch": "7.41f",
+      "evidence": "กลไกอธิบายจากคำแนะนำ Dota Coach พร้อมเงื่อนไขการใช้"
+    },
+    {
+      "hero": "Templar Assassin",
+      "url": "https://dotacoach.gg/en/heroes/counters/templar-assassin",
+      "extraSources": [],
+      "patch": "7.41f",
+      "evidence": "กลไกอธิบายจากคำแนะนำ Dota Coach พร้อมเงื่อนไขการใช้"
+    },
+    {
+      "hero": "Terrorblade",
+      "url": "https://dotacoach.gg/en/heroes/counters/terrorblade",
+      "extraSources": [],
+      "patch": "7.41f",
+      "evidence": "กลไกอธิบายจากคำแนะนำ Dota Coach พร้อมเงื่อนไขการใช้"
+    },
+    {
+      "hero": "Tidehunter",
+      "url": "https://dotacoach.gg/en/heroes/counters/tidehunter",
+      "extraSources": [],
+      "patch": "7.41f",
+      "evidence": "กลไกอธิบายจากคำแนะนำ Dota Coach พร้อมเงื่อนไขการใช้"
+    },
+    {
+      "hero": "Timbersaw",
+      "url": "https://dotacoach.gg/en/heroes/counters/timbersaw",
+      "extraSources": [],
+      "patch": "7.41f",
+      "evidence": "กลไกอธิบายจากคำแนะนำ Dota Coach พร้อมเงื่อนไขการใช้"
+    },
+    {
+      "hero": "Tinker",
+      "url": "https://dotacoach.gg/en/heroes/counters/tinker",
+      "extraSources": [],
+      "patch": "7.41f",
+      "evidence": "กลไกอธิบายจากคำแนะนำ Dota Coach พร้อมเงื่อนไขการใช้"
+    },
+    {
+      "hero": "Tiny",
+      "url": "https://dotacoach.gg/en/heroes/counters/tiny",
+      "extraSources": [],
+      "patch": "7.41f",
+      "evidence": "กลไกอธิบายจากคำแนะนำ Dota Coach พร้อมเงื่อนไขการใช้"
+    },
+    {
+      "hero": "Treant Protector",
+      "url": "https://dotacoach.gg/en/heroes/counters/treant-protector",
+      "extraSources": [],
+      "patch": "7.41f",
+      "evidence": "กลไกอธิบายจากคำแนะนำ Dota Coach พร้อมเงื่อนไขการใช้"
+    },
+    {
+      "hero": "Troll Warlord",
+      "url": "https://dotacoach.gg/en/heroes/counters/troll-warlord",
+      "extraSources": [],
+      "patch": "7.41f",
+      "evidence": "กลไกอธิบายจากคำแนะนำ Dota Coach พร้อมเงื่อนไขการใช้"
+    },
+    {
+      "hero": "Tusk",
+      "url": "https://dota2counters.com/heroes/tusk/",
+      "extraSources": [
+        "https://dotacoach.gg/en/heroes/counters/tusk",
+        "https://dotacoach.gg/en/heroes/counters/clockwerk",
+        "https://dota2counters.com/heroes/tusk/"
+      ],
+      "patch": "7.41f",
+      "evidence": "กลไกอธิบายจากคำแนะนำ Dota Coach พร้อมเงื่อนไขการใช้"
+    },
+    {
+      "hero": "Underlord",
+      "url": "https://dotacoach.gg/en/heroes/counters/underlord",
+      "extraSources": [],
+      "patch": "7.41f",
+      "evidence": "กลไกอธิบายจากคำแนะนำ Dota Coach พร้อมเงื่อนไขการใช้"
+    },
+    {
+      "hero": "Undying",
+      "url": "https://dotacoach.gg/en/heroes/counters/undying",
+      "extraSources": [],
+      "patch": "7.41f",
+      "evidence": "กลไกอธิบายจากคำแนะนำ Dota Coach พร้อมเงื่อนไขการใช้"
+    },
+    {
+      "hero": "Ursa",
+      "url": "https://dotacoach.gg/en/heroes/counters/ursa",
+      "extraSources": [],
+      "patch": "7.41f",
+      "evidence": "กลไกอธิบายจากคำแนะนำ Dota Coach พร้อมเงื่อนไขการใช้"
+    },
+    {
+      "hero": "Vengeful Spirit",
+      "url": "https://dotacoach.gg/en/heroes/counters/vengeful-spirit",
+      "extraSources": [],
+      "patch": "7.41f",
+      "evidence": "กลไกอธิบายจากคำแนะนำ Dota Coach พร้อมเงื่อนไขการใช้"
+    },
+    {
+      "hero": "Venomancer",
+      "url": "https://dotacoach.gg/en/heroes/counters/venomancer",
+      "extraSources": [],
+      "patch": "7.41f",
+      "evidence": "กลไกอธิบายจากคำแนะนำ Dota Coach พร้อมเงื่อนไขการใช้"
+    },
+    {
+      "hero": "Viper",
+      "url": "https://dotacoach.gg/en/heroes/counters/viper",
+      "extraSources": [],
+      "patch": "7.41f",
+      "evidence": "กลไกอธิบายจากคำแนะนำ Dota Coach พร้อมเงื่อนไขการใช้"
+    },
+    {
+      "hero": "Visage",
+      "url": "https://dotacoach.gg/en/heroes/counters/visage",
+      "extraSources": [],
+      "patch": "7.41f",
+      "evidence": "กลไกอธิบายจากคำแนะนำ Dota Coach พร้อมเงื่อนไขการใช้"
+    },
+    {
+      "hero": "Void Spirit",
+      "url": "https://dotacoach.gg/en/heroes/counters/void-spirit",
+      "extraSources": [],
+      "patch": "7.41f",
+      "evidence": "กลไกอธิบายจากคำแนะนำ Dota Coach พร้อมเงื่อนไขการใช้"
+    },
+    {
+      "hero": "Warlock",
+      "url": "https://dotacoach.gg/en/heroes/counters/warlock",
+      "extraSources": [],
+      "patch": "7.41f",
+      "evidence": "กลไกอธิบายจากคำแนะนำ Dota Coach พร้อมเงื่อนไขการใช้"
+    },
+    {
+      "hero": "Weaver",
+      "url": "https://dotacoach.gg/en/heroes/counters/weaver",
+      "extraSources": [],
+      "patch": "7.41f",
+      "evidence": "กลไกอธิบายจากคำแนะนำ Dota Coach พร้อมเงื่อนไขการใช้"
+    },
+    {
+      "hero": "Windranger",
+      "url": "https://dotacoach.gg/en/heroes/counters/windranger",
+      "extraSources": [],
+      "patch": "7.41f",
+      "evidence": "กลไกอธิบายจากคำแนะนำ Dota Coach พร้อมเงื่อนไขการใช้"
+    },
+    {
+      "hero": "Winter Wyvern",
+      "url": "https://dotacoach.gg/en/heroes/counters/winter-wyvern",
+      "extraSources": [],
+      "patch": "7.41f",
+      "evidence": "กลไกอธิบายจากคำแนะนำ Dota Coach พร้อมเงื่อนไขการใช้"
+    },
+    {
+      "hero": "Witch Doctor",
+      "url": "https://dotacoach.gg/en/heroes/counters/witch-doctor",
+      "extraSources": [],
+      "patch": "7.41f",
+      "evidence": "กลไกอธิบายจากคำแนะนำ Dota Coach พร้อมเงื่อนไขการใช้"
+    },
+    {
+      "hero": "Wraith King",
+      "url": "https://dotacoach.gg/en/heroes/counters/wraith-king",
+      "extraSources": [],
+      "patch": "7.41f",
+      "evidence": "กลไกอธิบายจากคำแนะนำ Dota Coach พร้อมเงื่อนไขการใช้"
+    },
+    {
+      "hero": "Zeus",
+      "url": "https://dotacoach.gg/en/heroes/counters/zeus",
+      "extraSources": [],
+      "patch": "7.41f",
+      "evidence": "กลไกอธิบายจากคำแนะนำ Dota Coach พร้อมเงื่อนไขการใช้"
+    }
+  ]
+}
