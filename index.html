@@ -1,4 +1,90 @@
 <!doctype html>
-<html lang="th"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>Counter Atlas — Dota 2</title><meta name="description" content="ค้นหาว่าฮีโร่ Dota 2 แพ้ทางใคร พร้อมเหตุผลภาษาไทย"><link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 40 40'%3E%3Crect width='40' height='40' rx='8' fill='%23e76c47'/%3E%3Cpath d='M10 10L30 30M30 10L10 30' stroke='white' stroke-width='5'/%3E%3C/svg%3E"><link rel="stylesheet" href="styles.css"><script defer src="data.js"></script><script defer src="app.js"></script></head>
-<body><header><a class="brand" href="index.html"><span class="mark">×</span> COUNTER<span class="muted">ATLAS</span></a><span class="edition">DOTA 2 / คู่มือภาษาไทย</span></header><main><section class="intro"><div><p class="eyebrow">KNOW YOUR MATCHUP</p><h1>รู้จุดอ่อน ก่อนเลือกฮีโร่<span>.</span></h1><p class="muted">เลือกตัวที่อยากรับมือ แล้วดูว่าใครแก้ทางได้ เพราะอะไร</p></div><div class="dataset">ฮีโร่ในฐานข้อมูล<strong><b id="hero-total">127</b> <span>HEROES</span></strong></div></section><div class="workspace"><aside><label for="search">ค้นหาฮีโร่</label><input id="search" type="search" placeholder="ชื่อภาษาอังกฤษ / ชื่อย่อ เช่น AM" autocomplete="off"><label for="attribute" class="filter-label">ประเภทฮีโร่</label><select id="attribute"><option value="">ทุกประเภท</option><option value="str">Strength</option><option value="agi">Agility</option><option value="int">Intelligence</option><option value="all">Universal</option></select><p id="count" class="small muted" aria-live="polite"></p><nav id="heroes" aria-label="เลือกฮีโร่"></nav><p class="scope">ครบ 127 ฮีโร่ตามรายชื่อที่ตรวจ</p></aside><section id="detail" aria-live="polite"></section></div><footer>คู่มือจากกลไกการเล่น • ไม่ใช่อันดับอัตราชนะสด • ตรวจแหล่งข้อมูล 24 ก.ย. 2026<br>ผลจริงขึ้นกับเลน ไอเทม ฝีมือ และดราฟต์ทั้งทีม ข้อมูลอาจเปลี่ยนตามแพตช์ · <a class="roster-source" href="https://api.opendota.com/api/heroes" target="_blank" rel="noopener noreferrer">รายชื่อฮีโร่: OpenDota</a></footer></main></body></html>
+<html lang="th">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <title>Counter Atlas — Dota 2</title>
+  <meta name="description" content="วางแผนดราฟต์ Dota 2 ค้นหาฮีโร่แก้ทางและไอเทม พร้อมเหตุผลภาษาไทย">
+  <link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 40 40'%3E%3Crect width='40' height='40' rx='8' fill='%23e76c47'/%3E%3Cpath d='M10 10L30 30M30 10L10 30' stroke='white' stroke-width='5'/%3E%3C/svg%3E">
+  <link rel="stylesheet" href="styles.css">
+  <script defer src="data.js"></script>
+  <script defer src="item-data.js"></script>
+  <script defer src="app.js"></script>
+</head>
+<body>
+  <header>
+    <a class="brand" href="index.html"><span class="mark">×</span> COUNTER<span class="muted">ATLAS</span></a>
+    <span class="edition">DOTA 2 / คู่มือภาษาไทย</span>
+  </header>
+  <main>
+    <section class="intro">
+      <div>
+        <p class="eyebrow">KNOW YOUR MATCHUP</p>
+        <h1>รู้จุดอ่อน ก่อนเลือกฮีโร่<span>.</span></h1>
+        <p class="muted">เทียบดราฟต์ทั้งสองฝั่ง แล้วเลือกตัวที่รับมือได้ตามตำแหน่ง</p>
+      </div>
+      <div class="dataset">ฮีโร่ในฐานข้อมูล<strong><b id="hero-total">127</b> <span>HEROES</span></strong></div>
+    </section>
+    <section class="draft-tool" aria-labelledby="draft-heading">
+      <div class="draft-intro">
+        <p class="eyebrow">DRAFT ASSISTANT</p>
+        <h2 id="draft-heading">วางแผนดราฟต์สองฝั่ง</h2>
+        <p>ใส่ฮีโร่ฝั่งตรงข้ามและตัวที่ทีมเราเลือกแล้ว ระบบจะแนะนำตัวถัดไปสำหรับตำแหน่งที่ยังว่าง</p>
+      </div>
+      <div class="draft-lineups">
+        <section class="draft-team" aria-labelledby="enemy-team-heading">
+          <div class="draft-team-head"><h3 id="enemy-team-heading">ฝั่งตรงข้าม</h3><span id="enemy-count" class="lineup-count" aria-live="polite">0 / 5</span></div>
+          <div class="draft-slot-grid enemy-slot-grid">
+            <div class="draft-slot"><label for="enemy-1">ฮีโร่ศัตรู 1</label><div class="hero-picker"><input id="enemy-1" class="draft-hero-input" data-team="enemy" type="search" placeholder="พิมพ์ตัวแรก เช่น A" autocomplete="off" aria-autocomplete="list" aria-controls="suggest-enemy-1" aria-expanded="false"><div id="suggest-enemy-1" class="hero-suggestions" role="listbox" hidden></div></div></div>
+            <div class="draft-slot"><label for="enemy-2">ฮีโร่ศัตรู 2</label><div class="hero-picker"><input id="enemy-2" class="draft-hero-input" data-team="enemy" type="search" placeholder="พิมพ์ตัวแรก เช่น A" autocomplete="off" aria-autocomplete="list" aria-controls="suggest-enemy-2" aria-expanded="false"><div id="suggest-enemy-2" class="hero-suggestions" role="listbox" hidden></div></div></div>
+            <div class="draft-slot"><label for="enemy-3">ฮีโร่ศัตรู 3</label><div class="hero-picker"><input id="enemy-3" class="draft-hero-input" data-team="enemy" type="search" placeholder="พิมพ์ตัวแรก เช่น A" autocomplete="off" aria-autocomplete="list" aria-controls="suggest-enemy-3" aria-expanded="false"><div id="suggest-enemy-3" class="hero-suggestions" role="listbox" hidden></div></div></div>
+            <div class="draft-slot"><label for="enemy-4">ฮีโร่ศัตรู 4</label><div class="hero-picker"><input id="enemy-4" class="draft-hero-input" data-team="enemy" type="search" placeholder="พิมพ์ตัวแรก เช่น A" autocomplete="off" aria-autocomplete="list" aria-controls="suggest-enemy-4" aria-expanded="false"><div id="suggest-enemy-4" class="hero-suggestions" role="listbox" hidden></div></div></div>
+            <div class="draft-slot"><label for="enemy-5">ฮีโร่ศัตรู 5</label><div class="hero-picker"><input id="enemy-5" class="draft-hero-input" data-team="enemy" type="search" placeholder="พิมพ์ตัวแรก เช่น A" autocomplete="off" aria-autocomplete="list" aria-controls="suggest-enemy-5" aria-expanded="false"><div id="suggest-enemy-5" class="hero-suggestions" role="listbox" hidden></div></div></div>
+          </div>
+        </section>
+        <section class="draft-team" aria-labelledby="ally-team-heading">
+          <div class="draft-team-head"><h3 id="ally-team-heading">ฝั่งเรา</h3><span id="ally-count" class="lineup-count" aria-live="polite">0 / 5</span></div>
+          <div class="draft-slot-grid ally-slot-grid">
+            <div class="draft-slot position-slot"><label for="ally-pos1">Carry · Pos 1</label><div class="hero-picker"><input id="ally-pos1" class="draft-hero-input" data-team="ours" data-position="pos1" type="search" placeholder="พิมพ์ตัวแรก เช่น A" autocomplete="off" aria-autocomplete="list" aria-controls="suggest-ally-pos1" aria-expanded="false"><div id="suggest-ally-pos1" class="hero-suggestions" role="listbox" hidden></div></div></div>
+            <div class="draft-slot position-slot"><label for="ally-pos2">Mid · Pos 2</label><div class="hero-picker"><input id="ally-pos2" class="draft-hero-input" data-team="ours" data-position="pos2" type="search" placeholder="พิมพ์ตัวแรก เช่น A" autocomplete="off" aria-autocomplete="list" aria-controls="suggest-ally-pos2" aria-expanded="false"><div id="suggest-ally-pos2" class="hero-suggestions" role="listbox" hidden></div></div></div>
+            <div class="draft-slot position-slot"><label for="ally-pos3">Offlane · Pos 3</label><div class="hero-picker"><input id="ally-pos3" class="draft-hero-input" data-team="ours" data-position="pos3" type="search" placeholder="พิมพ์ตัวแรก เช่น A" autocomplete="off" aria-autocomplete="list" aria-controls="suggest-ally-pos3" aria-expanded="false"><div id="suggest-ally-pos3" class="hero-suggestions" role="listbox" hidden></div></div></div>
+            <div class="draft-slot position-slot"><label for="ally-pos4">Soft Support · Pos 4</label><div class="hero-picker"><input id="ally-pos4" class="draft-hero-input" data-team="ours" data-position="pos4" type="search" placeholder="พิมพ์ตัวแรก เช่น A" autocomplete="off" aria-autocomplete="list" aria-controls="suggest-ally-pos4" aria-expanded="false"><div id="suggest-ally-pos4" class="hero-suggestions" role="listbox" hidden></div></div></div>
+            <div class="draft-slot position-slot"><label for="ally-pos5">Hard Support · Pos 5</label><div class="hero-picker"><input id="ally-pos5" class="draft-hero-input" data-team="ours" data-position="pos5" type="search" placeholder="พิมพ์ตัวแรก เช่น A" autocomplete="off" aria-autocomplete="list" aria-controls="suggest-ally-pos5" aria-expanded="false"><div id="suggest-ally-pos5" class="hero-suggestions" role="listbox" hidden></div></div></div>
+          </div>
+        </section>
+      </div>
+      <div class="draft-controls">
+        <label for="draft-position">แนะนำตัวสำหรับตำแหน่ง</label>
+        <select id="draft-position"></select>
+        <button id="draft-clear" type="button" disabled>ล้างทั้งสองฝั่ง</button>
+      </div>
+      <p class="draft-help">ตัวกรองตำแหน่งใช้ D2PT role grid 7.41f เป็นตัวเลือกหลัก แล้วเสริมด้วยบทบาททั่วไปของฮีโร่ จึงเป็นคำแนะนำโดยประมาณและอาจเปลี่ยนตามแพตช์ · ตัวที่เลือกไปแล้วจะไม่ถูกแนะนำซ้ำ · <a href="https://dota2protracker.com/meta-hero-grids" target="_blank" rel="noopener noreferrer">ที่มาบทบาท</a></p>
+      <p id="draft-status" class="small muted" aria-live="polite">กรอกฮีโร่ทั้งสองฝั่งเพื่อเริ่มประเมิน</p>
+      <div id="draft-results" aria-live="polite"></div>
+      <div id="draft-item-results"></div>
+    </section>
+    <div class="workspace">
+      <aside>
+        <label for="search">ค้นหาฮีโร่</label>
+        <input id="search" type="search" placeholder="ชื่อภาษาอังกฤษ / ชื่อย่อ เช่น AM" autocomplete="off">
+        <label for="attribute" class="filter-label">ประเภทฮีโร่</label>
+        <select id="attribute">
+          <option value="">ทุกประเภท</option>
+          <option value="str">Strength</option>
+          <option value="agi">Agility</option>
+          <option value="int">Intelligence</option>
+          <option value="all">Universal</option>
+        </select>
+        <p id="count" class="small muted" aria-live="polite"></p>
+        <nav id="heroes" aria-label="เลือกฮีโร่"></nav>
+        <p class="scope">ครบ 127 ฮีโร่ตามรายชื่อที่ตรวจ</p>
+      </aside>
+      <section id="detail" aria-live="polite"></section>
+    </div>
+    <footer>คู่มือจากกลไกการเล่น • ไม่ใช่อันดับอัตราชนะสด • ตรวจแหล่งข้อมูล 25 ก.ย. 2026<br>ผลจริงขึ้นกับเลน ไอเทม ฝีมือ และดราฟต์ทั้งทีม ข้อมูลอาจเปลี่ยนตามแพตช์ · <a class="roster-source" href="https://api.opendota.com/api/heroes" target="_blank" rel="noopener noreferrer">รายชื่อฮีโร่: OpenDota</a></footer>
+  </main>
+</body>
+</html>
+
+
 

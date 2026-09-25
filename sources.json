@@ -4,6 +4,12 @@
   "heroCount": 127,
   "matchupCount": 635,
   "minimumCountersPerHero": 5,
+  "positionSource": {
+    "url": "https://dota2protracker.com/meta-hero-grids",
+    "patch": "7.41f",
+    "checked": "2026-09-24",
+    "method": "Top 7 role grid heroes are preferred; broader position candidates are inferred from OpenDota role tags"
+  },
   "newMatchupsAdded": 375,
   "sources": [
     {
@@ -901,5 +907,25 @@
       "patch": "7.41f",
       "evidence": "กลไกอธิบายจากคำแนะนำ Dota Coach พร้อมเงื่อนไขการใช้"
     }
-  ]
+  ],
+  "itemSources": {
+    "checked": "2026-09-25",
+    "communityList": {
+      "url": "https://dota2counters.com/items/",
+      "scope": "item suggestions by enemy hero; community experience and opinions; not ranked"
+    },
+    "currentMechanics": {
+      "url": "https://dotacoach.gg/en/items",
+      "patch": "7.41f",
+      "scope": "item mechanics and current item catalog"
+    },
+    "perHeroDetails": "Dota Coach counter page linked on each hero detail when available",
+    "curatedRows": {
+      "Enigma": "Dota Coach counter items, patch 7.41f",
+      "Primal Beast": "Dota Coach counter items, patch 7.41f",
+      "Skywrath Mage": "Dota Coach counter items, patch 7.41f",
+      "Largo": "Dota Coach counter items, patch 7.41e"
+    },
+    "note": "Displayed item explanations describe general item mechanics and purchase conditions; they are not a required build or a guarantee of countering the hero."
+  }
 }
