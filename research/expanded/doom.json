@@ -1,0 +1,49 @@
+{
+  "name": "Doom",
+  "slug": "doom",
+  "url": "https://dotacoach.gg/en/heroes/counters/doom",
+  "patch": "7.41f",
+  "checked": "2026-09-24",
+  "pairs": [
+    {
+      "name": "Arc Warden",
+      "reason": "Tempest Double allows Arc to fight even when Doomed, diminishing Doom's impact. His Magnetic Field provides evasion for him and his team making Infernal Blade clunky to use due to Doom's increased attack range. Arc's split pushing and kiting potential make it hard for Doom to control him, effectively countering Doom's single-target, ultimate-dependant playstyle."
+    },
+    {
+      "name": "Meepo",
+      "reason": "Divided we Stand allows Meepo to keep most of his impact even when Doomed. Most importantly, Megameepo (Aghanim's Scepeter Upgrade) allows Meepo Prime to save any of his Meepo's from Doom and completely prevent the Doomed Meepo from receiving any damage for its duration from any source other than Doom. This greatly complicates Doom's gameplay as post Aghanim's Scepeter he is forced to Doom Meepo Prime, who can just stay back and Poof himself onto the Doomed Meepo to save him."
+    },
+    {
+      "name": "Medusa",
+      "reason": "Mana Shield does not take into account any Armor or Magic Resistance, making it the perfect counter to Doom's Pure Damage. Cold Blooded (Aghanim's Shard Upgrade) when combined with Aghanim's Scepeter allows Dusa to stun Doom upon casting Doom and naturally create distance. Doom lacks Mana Burn and the Attack Speed to justify a Diffusal/Disperser and struggles greatly to get trough Dusa's Manapool."
+    },
+    {
+      "name": "Lone Druid",
+      "reason": "If you Doom the Spirit Bear LD can just resummon it if it happens to die, if you Doom LD then the Spirit Bear runs rampant. True Form's transformation time does not get interrupted by Doom and is not considered a heal, providing its HP bonus despite Doom's healing negation."
+    },
+    {
+      "name": "Rubick",
+      "reason": "Spell Steal allows Rubick to cast a significantly improved version of Doom as it increases its duration and damage greatly, while reducing its cooldown. Telekinesis once improved with Aghanim's Shard can be used as a pseudo save for any Doomed targets and reposition them to safety."
+    },
+    {
+      "name": "Night Stalker",
+      "reason": "Night Stalker thrives in darkness, gaining increased vision, movement speed, and silence, which makes it harder for Doom to control or escape him. Night Stalker’s tankiness and ability to chase down targets during nighttime make it difficult for Doom to survive or get his full combo off effectively."
+    },
+    {
+      "name": "Batrider",
+      "reason": "Batrider’s Flaming Lasso can catch Doom early in fights and lock him down before Doom can react. Batrider’s burst damage and mobility let him focus Doom quickly, preventing Doom from using his ultimate effectively. If Doom gets caught first, he can be killed before turning the fight around. So against Batrider, Doom needs to be careful with positioning and timing to avoid getting disabled and burst down early."
+    },
+    {
+      "name": "Wraith King",
+      "reason": "Wraith King’s Reincarnation gives him a built-in second life, which makes him naturally resilient against Doom. Even if Doom uses his ultimate to silence and disable Wraith King, when Wraith King dies, he comes back with full health and mana, allowing him to fight back. This makes it harder for Doom to lock him down and kill him outright"
+    },
+    {
+      "name": "Tusk",
+      "reason": "Tusk can be a great save against Doom’s ultimate because of his Snowball ability. When an ally is doomed and about to get focused, Tusk can quickly roll in with Snowball, grab that ally and others, and give them a moment of invulnerability inside the snowball. This can disrupt Doom’s damage and disable, giving the doomed ally a chance to survive or escape once the Snowball ends. So Tusk’s save potential really helps counter Doom’s lockdown in team fights."
+    },
+    {
+      "name": "Lina",
+      "reason": "Lina can definitely punish Doom if she catches him off guard from the backlines. Her high burst damage with abilities like Laguna Blade can quickly melt Doom before he gets a chance to use his ultimate or tank up. Since Doom isn’t very mobile, if Lina positions well and jumps on him early, she can take him out of the fight fast. So Lina’s burst and range make her a real threat to Doom."
+    }
+  ]
+}

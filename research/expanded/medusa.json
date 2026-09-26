@@ -1,0 +1,53 @@
+{
+  "name": "Medusa",
+  "slug": "medusa",
+  "url": "https://dotacoach.gg/en/heroes/counters/medusa",
+  "patch": "7.41f",
+  "checked": "2026-09-24",
+  "pairs": [
+    {
+      "name": "Alchemist",
+      "reason": "Simply put by the time Medusa is ready to fight Alchemist is ready to end the game. Her inability to pressure early or scale quickly when paired against Alch's farming potential often result's in games where she has half an inventory versus a maxed out Alch. Chemical Rage and Berserk Potion dispel Gorgon's Grasp."
+    },
+    {
+      "name": "Anti-Mage",
+      "reason": "Mana Break is amazing at shredding trough Medusa's mana pool and turning her core defensive mechanic Mana Shield against her with a huge Mana Void follow up . Manta is a staple item for AM that provides him with dispel for Gorgon's Grasp root and Counter Spell can block/reflect Mystic Snake."
+    },
+    {
+      "name": "Dark Seer",
+      "reason": "Wall of Replica and Normal Punch (Aghanim's Scepter Upgrade) can create multiple Illusions of Medusa to do devastating amounts of damage to her own team as she tends to build heavy stat items to improve her own Manta Illusions' damage and durability. The Illusions DS creates inherit both Mana Shield and Split Shot if it was active at the moment of creating the Illusion. Surge is amazing at disengaging from Stone Gaze or closing the gap on Dusa."
+    },
+    {
+      "name": "Nyx Assassin",
+      "reason": "Nyx burns Medusa’s mana with Mana Burn and stuns her with Spiked Carapace off Split Shot. Vendetta bursts her before she can react. She triggers his spells unintentionally with constant attacks. Nyx repeatedly harasses and disables her during crucial fights."
+    },
+    {
+      "name": "Slark",
+      "reason": "Slark dodges Split Shot and Stone Gaze with Shadow Dance and pounces out of danger. He builds up Essence Shift during drawn-out fights. Medusa can’t hit him reliably in fog or darkness. She struggles to lock him down or match his agility scaling."
+    },
+    {
+      "name": "Centaur Warrunner",
+      "reason": "Centaur absorbs her attacks with Retaliate and initiates with Hoof Stomp. Stampede helps his team disengage from Stone Gaze. Medusa’s slow mobility becomes a liability against his high-tempo play. He survives her damage and enables his allies to burst her."
+    },
+    {
+      "name": "Alchemist",
+      "reason": "Alchemist farms much faster than Medusa and applies pressure earlier. His BKB timing allows him to ignore Stone Gaze. Acid Spray and Unstable Concoction burst Medusa before she’s fully online. He snowballs into late game with more map control."
+    },
+    {
+      "name": "Pangolier",
+      "reason": "Pangolier’s Rolling Thunder disables Medusa during her Stone Gaze and ruins positioning. Diffusal Blade drains her mana quickly and forces retreat. His mobility allows him to avoid Split Shot and kite her. Pango controls teamfights where she needs to stand ground."
+    },
+    {
+      "name": "Monkey King",
+      "reason": "Monkey King builds Diffusal Blade and stays in Wukong’s Command to drain Medusa’s mana. She can’t escape the arena without items like Force Staff. His high physical DPS overwhelms her early before she scales. He jumps on top of her and avoids most of her damage."
+    },
+    {
+      "name": "Shadow Demon",
+      "reason": "Shadow Demon disrupts Medusa during her Stone Gaze and makes illusions of her. These illusions deal high damage and drain her mana with Split Shot. Disruption saves allies from Life Drain and Mystic Snake. He stalls fights long enough to counter her momentum."
+    },
+    {
+      "name": "Sniper",
+      "reason": "Sniper outranges Medusa and chips her down safely from distance. She struggles to reach him through his mobility and slows. Sniper doesn’t rely on mana, so Stone Gaze has minimal impact. He scales better with attack range and pure damage items."
+    }
+  ]
+}

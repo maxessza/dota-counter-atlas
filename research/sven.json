@@ -1,0 +1,21 @@
+{
+  "name": "Sven",
+  "slug": "sven",
+  "url": "https://dotacoach.gg/en/heroes/counters/sven",
+  "patch": "7.41f",
+  "checked": "2026-09-24",
+  "pairs": [
+    {
+      "name": "Razor",
+      "reason": "Razors high movement speed will kite and Static Link will sap Sven's insane attack damage, and it even goes through Black King Bar."
+    },
+    {
+      "name": "Medusa",
+      "reason": "Mana Shield makes it very hard for Sven to burst her within Storm Hammer's stun duration. Stone Gaze makes it very difficult for Sven to fight Medusa at any stage of the game."
+    },
+    {
+      "name": "Axe",
+      "reason": "Berserker's Call prevents Sven from bursting his targets before Axe can interfere. The worst kind of opponent for Sven is one who can stop him from attacking who he wants to, which is exactly what Axe does. Culling Blade may finish off Sven before he has the chance to lifesteal or run with Warcry. Axe is a very common Blade Mail carrier which will make very short work of a Sven with God's Strength activated."
+    }
+  ]
+}

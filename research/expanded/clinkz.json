@@ -1,0 +1,49 @@
+{
+  "name": "Clinkz",
+  "slug": "clinkz",
+  "url": "https://dotacoach.gg/en/heroes/counters/clinkz",
+  "patch": "7.41f",
+  "checked": "2026-09-24",
+  "pairs": [
+    {
+      "name": "Phantom Lancer",
+      "reason": "Clinkz struggles against Phantom Lancer because PL buys Manta and Diffusal Blade, making it hard to identify the real one. This often leaves Clinkz out of mana, allowing Phantom Lancer to kill him easily."
+    },
+    {
+      "name": "Naga Siren",
+      "reason": "Naga buys Manta and uses Ensnare to lock down Clinkz, making it difficult for him to catch the real Naga, leaving him vulnerable to being killed by naga or her allies."
+    },
+    {
+      "name": "Chaos Knight",
+      "reason": "Chaos Knight buys Manta, allowing him to quickly turn and burst Clinkz if he tries to initiate, making it risky for Clinkz to engage."
+    },
+    {
+      "name": "Wraith King",
+      "reason": "Wraith King doesn’t mind if Clinkz bursts through his first life because he can follow up with Wraithfire Blast, and Clinkz will be slowed by Reincarnation, making it hard for him to escape."
+    },
+    {
+      "name": "Meepo",
+      "reason": "Meepo can net Clinkz even when he's invisible, revealing his position. Meepo can then chain more nets and burst Clinkz down quickly with Poof."
+    },
+    {
+      "name": "Morphling",
+      "reason": "Morphling can morph into Strength to survive Clinkz’s burst if Clinkz tries to turn on him. Morphling’s high damage and mobility with Waveform let him either fight back effectively or escape Clinkz’s initiation."
+    },
+    {
+      "name": "Arc Warden",
+      "reason": "Arc Warden can easily dodge Clinkz’s right-clicks using Magnetic Field. Essence Flux and Spark Wraith help Arc Warden deal damage and catch Clinkz if he tries to escape."
+    },
+    {
+      "name": "Lycan",
+      "reason": "Lycan can chase down Clinkz easily thanks to his high movement speed during Shapeshift. With just a Dust or Gem, Lycan can reveal and kill Clinkz mid to late game."
+    },
+    {
+      "name": "Earth Spirit",
+      "reason": "Earth Spirit’s Rolling Boulder and Silence effectively lock down Clinkz, preventing his escape. Additionally, Magnetize deals damage over time, making it even harder for Clinkz to get away alive."
+    },
+    {
+      "name": "Slardar",
+      "reason": "Slardar’s Corrosive Haze reveals Clinkz and reduces his armor, making Clinkz much easier to kill. This makes Slardar an effective counter against Clinkz."
+    }
+  ]
+}

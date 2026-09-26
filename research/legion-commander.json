@@ -1,0 +1,21 @@
+{
+  "name": "Legion Commander",
+  "slug": "legion-commander",
+  "url": "https://dotacoach.gg/en/heroes/counters/legion-commander",
+  "patch": "7.41f",
+  "checked": "2026-09-24",
+  "pairs": [
+    {
+      "name": "Dazzle",
+      "reason": "Shallow Grave prevents Legion Commander from killing her opponents in Duels. Shadow Wave will heal an ally caught in a Duel, as well as dealing damage to Legion Commander."
+    },
+    {
+      "name": "Outworld Devourer",
+      "reason": "Astral Imprisonment prevents Legion Commander from killing her opponents in Duels."
+    },
+    {
+      "name": "Pugna",
+      "reason": "Decrepify on either hero stops Legion Commander from completing a Duel, and dissuades her from initiating Duels on ethereal allies. Life Drain can help Pugna's teammates win a fight, either by killing Legion Commander or replenishing her target's health."
+    }
+  ]
+}

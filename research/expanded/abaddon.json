@@ -1,0 +1,65 @@
+{
+  "name": "Abaddon",
+  "slug": "abaddon",
+  "url": "https://dotacoach.gg/en/heroes/counters/abaddon",
+  "patch": "7.41f",
+  "checked": "2026-09-24",
+  "pairs": [
+    {
+      "name": "Ancient Apparition",
+      "reason": "Ancient Apparition's Ice Blast completely nullifies Mist Coil and Borrowed Time as Abaddon cannot heal himself or his allies who are affected by the spell."
+    },
+    {
+      "name": "Axe",
+      "reason": "Axe's Culling Blade can kill Abaddon during Borrowed Time if his HP falls below the threshold of the spell. Aphotic Shield also doesn't dispel Berserker's Call. However, it does help absorb some of the damage dealt by Axe and his team."
+    },
+    {
+      "name": "Brewmaster",
+      "reason": "Brewmaster's Storm Brewling can Tornado Abaddon during Borrowed Time to keep him in place and waste his ultimate duration. The Storm Brewling can also dispel Abaddon's Aphotic Shield and take it off instantly."
+    },
+    {
+      "name": "Disruptor",
+      "reason": "Disruptor can keep Abaddon inside Kinetic Field to prevent him from running at heroes or escaping during Borrowed Time. Disruptor's Glimpse also cannot be dispelled by Aphotic Shield and repositions Abaddon back into the enemy team if he managed to create some distance during Borrowed Time."
+    },
+    {
+      "name": "Doom",
+      "reason": "Doom's Doom spell completely nullifies Mist Coil and Borrowed Time as Abaddon cannot heal himself or his allies who are affected by the ultimate."
+    },
+    {
+      "name": "Lycan",
+      "reason": "Lycan's pack of Wolves make it difficult for Abaddon to fight or absorb damage for his cores in the laning stage. Beyond that, Abaddon also cannot stop Lycan from taking towers as he cannot stand and absorb the high damage coming from Lycan and his units."
+    },
+    {
+      "name": "Outworld Devourer",
+      "reason": "Outworld Devourer's Astral Imprisonment wastes a lot of the Borrowed Time duration and cannot be dispelled with Aphotic Shield. Outworld Devourer also has the potential to burst down Abaddon with Sanity's Eclipse without letting Borrowed Time trigger, even if it is off cooldown."
+    },
+    {
+      "name": "Phantom Assassin",
+      "reason": "Phantom Assassin's high physical damage is a bad matchup for Abaddon because of his low armor. Later in the game, Phantom Assassin gets Aghanim's Shard and can Break Abaddon using Fan of Knives, which makes Abaddon trigger Borrowed Time manually."
+    },
+    {
+      "name": "Phantom Lancer",
+      "reason": "Abaddon doesn't have much AoE damage to threaten Phantom Lancer while he has a lot of illusions around him. Once Phantom Lancer gets Diffusal Blade, it's very easy for him to burn Abaddon's mana with illusions and render him useless."
+    },
+    {
+      "name": "Razor",
+      "reason": "Razor's Static Link cannot be dispelled by Aphotic Shield, and lets Razor rack up massive damage from Abaddon or his allies. Razor also does a ton of physical damage during Eye of the Storm, which is a bad matchup for Abaddon because of his low armor."
+    },
+    {
+      "name": "Shadow Demon",
+      "reason": "Shadow Demon's Demonic Purge and Shadow Poison cannot be dispelled by Aphotic Shield, which are his biggest damage spells. Demonic Purge also dispels Aphotic Shield, and when upgraded with Aghanim's Scepter, also Breaks Abaddon and makes him trigger Borrowed Time manually. Disruption also lets Shadow Demon waste a lot of the Borrowed Time duration."
+    },
+    {
+      "name": "Slark",
+      "reason": "Slark does not care much about Borrowed Time and keeps hitting Abaddon to rack up Essence Shift stacks. Since Abaddon gets healed up during Borrowed Time, it gives Slark an even bigger HP pool to keep attacking and build up his agility and other stats."
+    },
+    {
+      "name": "Timbersaw",
+      "reason": "Timbersaw can easily trigger Borrowed Time very quickly by doing massive burst damage to Abaddon with his spells. Once the ultimate ends, Timbersaw can just as easily kill Abaddon with another round of spells."
+    },
+    {
+      "name": "Viper",
+      "reason": "Viper's Poison Attack has no cooldown, and he can easily reapply the stacks dispelled by Abaddon's Aphotic Shield. Viper's Viper Strike also Breaks Abaddon and makes him trigger Borrowed Time manually. This interaction coupled with a Silence from Orchid or another hero can cause massive issues for Abaddon."
+    }
+  ]
+}

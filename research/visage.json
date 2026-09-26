@@ -1,0 +1,21 @@
+{
+  "name": "Visage",
+  "slug": "visage",
+  "url": "https://dotacoach.gg/en/heroes/counters/visage",
+  "patch": "7.41f",
+  "checked": "2026-09-24",
+  "pairs": [
+    {
+      "name": "Winter Wyvern",
+      "reason": "Since the Familiars are always around Visage, catching him in a Winters Curse and potentially kill him."
+    },
+    {
+      "name": "Luna",
+      "reason": "Moon Glaives is very effective against Visage because not only it can easily destroy Visage's Familiars, but can also remove one instance of Gravekeeper's Cloak upon each hit to Visage, leaving him susceptible to damage. Once Visage's Familiars are picked off and all instances of Gravekeeper's Cloak are removed, Luna will be able to easily kill Visage with Eclipse."
+    },
+    {
+      "name": "Tidehunter",
+      "reason": "Visage's Familiars cannot penetrate Kraken Shell and will do almost no damage to Tidehunter. Anchor Smash's bonus damage has the potential to kill Familiars or reduce their damage."
+    }
+  ]
+}

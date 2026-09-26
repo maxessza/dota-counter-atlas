@@ -1,0 +1,21 @@
+{
+  "name": "Earth Spirit",
+  "slug": "earth-spirit",
+  "url": "https://dotacoach.gg/en/heroes/counters/earth-spirit",
+  "patch": "7.41f",
+  "checked": "2026-09-24",
+  "pairs": [
+    {
+      "name": "Bane",
+      "reason": "Earth Spirit struggles versus Bane because Bane’s Fiend’s Grip can disable him for a long duration, preventing Earth Spirit from using his spells or escaping. Bane’s strong single-target lockdown and nightmare control limit Earth Spirit’s ability to initiate or counterinitiate effectively. This makes it dangerous for Earth Spirit to enter fights without backup."
+    },
+    {
+      "name": "Lycan",
+      "reason": "Against Lycan, Earth Spirit finds it difficult to deal with Lycan’s strong pushing power and summoned units, which can overwhelm his abilities. Lycan’s high physical damage and mobility let him chase Earth Spirit down, making it risky for Earth to engage. Additionally, Lycan’s ultimate boosts his survivability and damage, reducing Earth Spirit’s impact in fights."
+    },
+    {
+      "name": "Dazzle",
+      "reason": "Earth Spirit struggles against Dazzle because Dazzle’s Shallow Grave can save allies from his burst damage and stuns, making it harder for Earth Spirit to secure kills. Dazzle’s strong healing and armor reduction also help his team survive Earth Spirit’s damage and control, prolonging fights."
+    }
+  ]
+}

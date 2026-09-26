@@ -1,0 +1,21 @@
+{
+  "name": "Huskar",
+  "slug": "huskar",
+  "url": "https://dotacoach.gg/en/heroes/counters/huskar",
+  "patch": "7.41f",
+  "checked": "2026-09-24",
+  "pairs": [
+    {
+      "name": "Ancient Apparition",
+      "reason": "Ice Blast is one of, if not the best spell against Huskar as he is the only hero in DOTA that does not have a Mana pool and utilizes HP to cast his spells and items. It prevents his Berserker's Bloodhealing and the lack of mobility in Huskar's kit makes it difficult for him to disengage easily and wait out the duration safely. Even if he just gets clipped by Ice Blast's debuff he usually dies to Armlet as he generally runs around at already low HP."
+    },
+    {
+      "name": "Necrophos",
+      "reason": "Huskar loves playing on low HP to get maximum benefit from his Berserker's Blood, making him a perfect target for Reaper's Scythe. Ghost Shroud prevents Huskar from atacking Necro, and level 20 talent essentially negates Huskar's level 20 talent for extra HP regen."
+    },
+    {
+      "name": "Bloodseeker",
+      "reason": "Huskar loves playing on low HP to get maximum benefit from his Berserker's Blood, making him constantly visible to Bloodseeker due to Thirst. This usually prevents him from sneaking a solo Rosh or to safely flash farm as fast as possible with as little HP as possible. Rupture does damage during Life Break."
+    }
+  ]
+}

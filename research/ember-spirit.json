@@ -1,0 +1,21 @@
+{
+  "name": "Ember Spirit",
+  "slug": "ember-spirit",
+  "url": "https://dotacoach.gg/en/heroes/counters/ember-spirit",
+  "patch": "7.41f",
+  "checked": "2026-09-24",
+  "pairs": [
+    {
+      "name": "Oracle",
+      "reason": "Fortune's End can dispel Flame Guard and Searing Chains, while being able to connect with Ember DURING Sleight of Fist and Activate Remnant, rooting him for the remainder of the duration as soon as he reaches his final destination. Purifying Flames is a low cooldown, high damage nuke that can make quick work of Flame Guard. Fate's Edict both mitigates the entirety of Ember's Magic Damage, as well as prevent him from attacking even during Sleight of Fist."
+    },
+    {
+      "name": "Night Stalker",
+      "reason": "Crippling Fear makes it a nightmare for Ember to juke around with Fire Remnants and Sleights of Fist as Nightstalker can camp either his Sleight of Fist or Fire Remnant locations with Crippling Fear pre-activated. Dark Ascension providing flying movement and unobstructed vision further complicates Ember's core gameplay as he struggles to hide out of sight or behind impassable terrain."
+    },
+    {
+      "name": "Huskar",
+      "reason": "Huskar DESTROYS Ember in lane and completely shuts down his early game as he deals too much damage and has too much sustain for Ember to deal with. Ember's best bet is to try and get as much resources as possible from the lane and leave as the matchup only gets worse for him troughout the entirety of the laning stage."
+    }
+  ]
+}

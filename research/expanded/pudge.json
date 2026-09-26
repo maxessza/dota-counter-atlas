@@ -1,0 +1,93 @@
+{
+  "name": "Pudge",
+  "slug": "pudge",
+  "url": "https://dotacoach.gg/en/heroes/counters/pudge",
+  "patch": "7.41f",
+  "checked": "2026-09-24",
+  "pairs": [
+    {
+      "name": "Abaddon",
+      "reason": "Aphotic Shield is a low cooldown ability that can outright dispel Dismember and when combined with Mist Coil, Pudge finds himself struggling to output enough damage to get through all the sustain. Withering Mist provides additional healing mitigation, which is one of core Pudge's main strengths he plays for. Borrowed Time can be used during Dismember to dispel it."
+    },
+    {
+      "name": "Anti-Mage",
+      "reason": "Counterspell can block and reflect Dismember, while providing significant Magic Resistance that mitigates a lot of Pudge's damage from Rot and Dismember. Blink's mobility makes it hard for Pudge to keep up with Anti Mage, or lock him down and stay on top of him when combined with Counterspell."
+    },
+    {
+      "name": "Beastmaster",
+      "reason": "Meat Hook is Pudge's signature and arguably most impactful ability. Call of the Wild Boar makes it hard for Pudge to land a Meat Hook on Beastmaster or any of his allies, while Call of the Wild Hawk summons hovering in a circle around Beastmaster makes it a complete Hail Marry play whether the Meat Hook would connect or not. Primal Roar interrupts Dismember."
+    },
+    {
+      "name": "Bristleback",
+      "reason": "Bristleback's dominant physical damage and armor reduction through his spells and right clicks makes short work of a low armor Pudge. Bristleback cares little about getting Hooked by Pudge, and actually wants to get Hooked to immediately be in the middle of fights and burst down Pudge with his Quill Spray and right clicks. Pudge's spell combo also doesn't threaten Bristleback because of his tankiness."
+    },
+    {
+      "name": "Chaos Knight",
+      "reason": "Chaos Knight and his Phantasm illusions easily burst down a low armor Pudge with their dominant physical damage during the armor reduction from Reality Rift. Pudge also has a difficult time Hooking his target among the Chaos Knight illusions, and his AoE Rot damage isn't enough to immediately find the real hero. Pudge's spell combo also doesn't threaten Chaos Knight because of his tankiness and lifesteal through Chaos Strike procs."
+    },
+    {
+      "name": "Clockwerk",
+      "reason": "Clockwerk's long range stun through Hook Shot lets him interrupt Pudge's Dismember channel on his target. Clockwerk also isn't threatened by Pudge's Meat Hook into Dismember as he can activate Battery Assault when next to him to interrupt his ultimate easily. Pudge also has a hard time running down Clockwerk with Rot as Power Cogs can easily push him away."
+    },
+    {
+      "name": "Legion Commander",
+      "reason": "Legion Commander's Press the Attack is a strong dispel that stops Pudge's Dismember channel when she presses her spell on the Dismember target. Legion Commander's dominant physical damage also makes short work of a low armor Pudge, and gives her easy Duel wins to accumulate damage throughout the game."
+    },
+    {
+      "name": "Lifestealer",
+      "reason": "Feast scales with Flesh Heap - you know it's a bad matchup when your own scaling powers up your opponent as well. Rage is amazing against Pudge as the debuff immunity avoids the slow from Rot, while the magic resistance reduces the damage from Dismember and Rot. Between Open Wounds and Feast, Pudge struggles to output enough damage to get trough Lifestealer's sustain alone. Even Infest can be used as a save by instantly healing a Dismembered ally."
+    },
+    {
+      "name": "Lina",
+      "reason": "Lina's burst damage spells take down Pudge in fights as his damage block from Meat Shield does him little help to reduce the damage. The Light Strike Array stun also stops the Dismember channel to prevent Pudge from locking down and killing anyone."
+    },
+    {
+      "name": "Lone Druid",
+      "reason": "Lone Druid and his Spirit Bear dish out a ton of physical damage to make short work of a low armor Pudge, who struggles to get away from the Spirit Bear because of the Entangle root. Lone Druid also becomes extremely tanky during True Form, and the hero as well as his Spirit Bear are not threatened by Pudge's Meat Hook into Dismember combo. Savage Roar from either Lone Druid or his Spirit Bear can also disrupt the Dismember channel."
+    },
+    {
+      "name": "Monkey King",
+      "reason": "Pudge's Meat Shield does little to negate the massive burst damage done by Monkey King's Boundless Strike and Primal Spring. Monkey King also gets to build up Jingu Mastery stacks easily by attacking an immobile Pudge and burst him down because of his low armor. Boundless Strike also lets Monkey King stop the Dismember channel."
+    },
+    {
+      "name": "Necrophos",
+      "reason": "Necrophos' Heartstopper Aura reduces the max HP of heroes around him, which works incredibly well against a high HP Pudge and his Flesh Heap strength gain. Pudge also does self damage with Rot and relies on his high HP pool to run down heroes, but Necrophos threatens to kill Pudge with Reaper's Scythe whenever he falls below half HP, making it extremely difficult for Pudge to get aggressive in fights."
+    },
+    {
+      "name": "Outworld Devourer",
+      "reason": "Pudge's Meat Shield does little to reduce Outworld Destroyer's massive damage through his spells and Arcane Orb right clicks. Pudge's low mana pool also lets Outworld Destroyer threaten him with Sanity's Eclipse after just one Astral Imprisonment usage. Astral Imprisonment on Pudge or his Dismember target also interrupts the ultimate, as long as Outworld Destroyer isn't stunned himself by the spell."
+    },
+    {
+      "name": "Slardar",
+      "reason": "Slardar's dominant physical damage and armor reduction through his spells and right clicks makes short work of a low armor Pudge. Slardar's lockdown through Slithereen Crush and Bash of the Deep interrupts the Dismember channel, as long as Slardar isn't stunned by the spell himself. Slardar's high movement speed through Guardian Sprint also lets him dodge Meat Hook, as well as distance himself from Pudge and his Rot damage."
+    },
+    {
+      "name": "Slark",
+      "reason": "Pudge's high HP pool and Flesh Heap strength gain works against him as it only gives Slark a bigger HP pool to right click and build up Essence Shift stacks throughout the game. Slark's mobility through Pounce lets him dodge Meat Hook as well as get away from Pudge and his Rot damage. Slark can also easily dispel Dismember off himself with a timely Dark Pact, and is never threatened by Pudge as long as Shadow Dance is off cooldown. The Depth Shroud from Aghanim's Shard also stops the Dismember channel on an ally."
+    },
+    {
+      "name": "Tidehunter",
+      "reason": "Tidehunter is never threatened by Pudge's Meat Hook into Dismember combo because of his high HP pool, and Kraken Shell always dispels Dismember if Pudge's damage exceeds the threshold of the spell. Tidehunter also cares little about getting Hooked, and actually wants it to happen when Ravage is off cooldown, as it brings him right in the middle of the enemy team to stun all of them. Ravage also interrupts the Dismember channel."
+    },
+    {
+      "name": "Timbersaw",
+      "reason": "Timbersaw's burst damage through his spells makes short work of Pudge, as his Meat Shield does little to reduce the damage coming towards him. Timbersaw's Whirling Death connection on Pudge also reduces his strength, turning his Flesh Heap stacks against him and making him much less tanky. Timbersaw's mobility through Timber Chain also lets him avoid Meat Hook, and his high HP pool means Pudge never threatens him with his spell combo."
+    },
+    {
+      "name": "Undying",
+      "reason": "Undying's Tombstone is a massive counter to Meat Hook as it spawns zombies on top of Pudge and his team, which compels him to right click and kill the zombies if he wants to Hook anyone in fights. Undying also steals strength through Decay, making himself extremely tanky while rendering Pudge's Flesh heap stacks completely useless. This leads to Undying never feeling threatened by Pudge's Meat Hook into Dismember combo."
+    },
+    {
+      "name": "Ursa",
+      "reason": "Fury Swipes makes it so that no itemization would ever make Pudge unkillable. Earthshock is effective at dodging Meat Hook as well as staying on top of Pudge. Enrage gives Ursa an abundance of damage reduction to mitigate even Meat Hook's pure damage, as well as status resistance to reduce Dismember's duration. Aghanim's Scepter can further upgrade Enrage allowing Ursa to use it during Dismember and dispel it."
+    },
+    {
+      "name": "Weaver",
+      "reason": "Weaver's high mobility through Shukuchi makes it extremely difficult for Pudge to ever land a Meat Hook on him, while Rot does not slow Weaver at all during Shukuchi, meaning Pudge can never run him down with his spell. Weaver can also undo all the damage and get away with Time Lapse. Weaver's dominant physical damage and armor reduction through The Swarm beetles also makes short work of a low armor Pudge."
+    },
+    {
+      "name": "Wraith King",
+      "reason": "Wraith King's dominant physical and pure damage with his Spectral Blade facet makes short work of a low armor Pudge. If Wraith King has the Bone Guard facet, his skeletons make it extremely difficult for Pudge to land the Meat Hook on his target. Pudge's spell combo also doesn't threaten a tanky Wraith King, while the second life from Reincarnation means Wraith King doesn't have to worry about Dismember on both lives."
+    }
+  ]
+}

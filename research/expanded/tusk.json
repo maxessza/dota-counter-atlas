@@ -1,0 +1,33 @@
+{
+  "name": "Tusk",
+  "slug": "tusk",
+  "url": "https://dotacoach.gg/en/heroes/counters/tusk",
+  "patch": "7.41f",
+  "checked": "2026-09-24",
+  "pairs": [
+    {
+      "name": "Queen of Pain",
+      "reason": "Blink allows Queen of Pain to escape from an incoming Snowball and Ice Shards."
+    },
+    {
+      "name": "Earthshaker",
+      "reason": "Echo Slam is good against Snowball since it bunches everyone up. This can set up some prime opportunities for Blink Echo Slams."
+    },
+    {
+      "name": "Anti-Mage",
+      "reason": "Mana Break is very effective against Tusk, as he has a very low mana pool. Blink allows Anti-Mage to escape from an incoming Snowball."
+    },
+    {
+      "name": "",
+      "reason": "Timbersaw’s physical damage resistance significantly reduces the effectiveness of Tusk’s Tag Team and Walrus Punch. Additionally, by lowering Strength with Whirling Death, Timbersaw can make even tanky heroes like Tusk vulnerable to his high pure damage output"
+    },
+    {
+      "name": "",
+      "reason": "Underlord’s tankiness makes him hard to bring down, even with Tusk’s full combo. Pit of Malice counters Tusk effectively by rooting him and disabling Snowball, leaving him vulnerable to follow-up damage"
+    },
+    {
+      "name": "",
+      "reason": "Dawnbreaker can counter Tusk’s initiation by using Starbreaker to fight back and Celestial Hammer to escape Ice Shards. Solar Guardian offers strong defensive utility, saving allies or herself and turning engagements in her team’s favor"
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "name": "Invoker",
+  "slug": "invoker",
+  "url": "https://dotacoach.gg/en/heroes/counters/invoker",
+  "patch": "7.41f",
+  "checked": "2026-09-24",
+  "pairs": [
+    {
+      "name": "Anti-Mage",
+      "reason": "Anti Mage can easily close the gap on Invoker with Blink and burst him down by burning his mana and finishing him off with Mana Void. The mana burn also means Invoker may not have enough mana to use key defensive spells. Anti Mage can also Blink away from Invoker's spell combo and reflect Cold Snap or Rod of Atos easily."
+    },
+    {
+      "name": "Broodmother",
+      "reason": "Broodmother is a very fast hero and is hard to keep in place to burst down with Invoker's spell combo. Invoker is also a slow hero without active Wex orbs and high levels in Ghost Walk, which makes him vulnerable to get run down by Spiderlings under the Orchid silence, which is a common purchase for Broodmother. The Necrotic Webs facet also reduces the HP regen from active Quas orbs."
+    },
+    {
+      "name": "Centaur Warrunner",
+      "reason": "Centaur's Stampede can easily help his entire time close the gap on a slow and squishy Invoker and burst him down before he can react with his spells. Centaur is also a very high HP hero, and with Blade Mail on top of Retaliate, Invoker can easily die if he throws his spell combo on Centaur."
+    }
+  ]
+}

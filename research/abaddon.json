@@ -1,0 +1,21 @@
+{
+  "name": "Abaddon",
+  "slug": "abaddon",
+  "url": "https://dotacoach.gg/en/heroes/counters/abaddon",
+  "patch": "7.41f",
+  "checked": "2026-09-24",
+  "pairs": [
+    {
+      "name": "Ancient Apparition",
+      "reason": "Ancient Apparition's Ice Blast completely nullifies Mist Coil and Borrowed Time as Abaddon cannot heal himself or his allies who are affected by the spell."
+    },
+    {
+      "name": "Axe",
+      "reason": "Axe's Culling Blade can kill Abaddon during Borrowed Time if his HP falls below the threshold of the spell. Aphotic Shield also doesn't dispel Berserker's Call. However, it does help absorb some of the damage dealt by Axe and his team."
+    },
+    {
+      "name": "Brewmaster",
+      "reason": "Brewmaster's Storm Brewling can Tornado Abaddon during Borrowed Time to keep him in place and waste his ultimate duration. The Storm Brewling can also dispel Abaddon's Aphotic Shield and take it off instantly."
+    }
+  ]
+}

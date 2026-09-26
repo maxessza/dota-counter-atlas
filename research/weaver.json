@@ -1,0 +1,21 @@
+{
+  "name": "Weaver",
+  "slug": "weaver",
+  "url": "https://dotacoach.gg/en/heroes/counters/weaver",
+  "patch": "7.41f",
+  "checked": "2026-09-24",
+  "pairs": [
+    {
+      "name": "Faceless Void",
+      "reason": "Chronosphere completely shuts Weaver down, catching him before he can Time Lapse. Void’s time-lock bashes are hard to dodge during fights. Weaver cannot fight into Void once BKB and items are up. His lack of hard disable makes Void scale freely."
+    },
+    {
+      "name": "Phantom Lancer",
+      "reason": "Weaver can’t handle Phantom Lancer’s illusions without AoE damage. He gets overwhelmed by Diffusal Blade and mana burn. Time Lapse often targets the wrong illusion, making survival unreliable. PL dominates long fights where Weaver loses control."
+    },
+    {
+      "name": "Morphling",
+      "reason": "Morphling outscales Weaver and can morph into him for mobility. Weaver has no way to burst Morphling before he shifts to strength. Morphling’s sustain and magic burst punish Weaver's low HP. In late game, Morphling wins almost every duel."
+    }
+  ]
+}

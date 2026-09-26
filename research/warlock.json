@@ -1,0 +1,21 @@
+{
+  "name": "Warlock",
+  "slug": "warlock",
+  "url": "https://dotacoach.gg/en/heroes/counters/warlock",
+  "patch": "7.41f",
+  "checked": "2026-09-24",
+  "pairs": [
+    {
+      "name": "Tidehunter",
+      "reason": "Tide shrugs off Fatal Bonds and Upheaval with Kraken Shell. He wins teamfights with Ravage before Warlock can impact the fight, and Golems can’t pierce his tankiness. He scales better in 5v5s."
+    },
+    {
+      "name": "Bounty Hunter",
+      "reason": "Bounty thrives on hunting supports like Warlock, who lacks escape or armor. Track ensures Warlock gets deleted first in fights, and his constant harassment keeps Warlock from safely warding or channeling."
+    },
+    {
+      "name": "Elder Titan",
+      "reason": "ET negates Warlock’s sustain by reducing magic resistance. His spirit combo and Echo Stomp can zone Warlock and stop his channeled abilities. Bonds are useless if Warlock dies before casting."
+    }
+  ]
+}

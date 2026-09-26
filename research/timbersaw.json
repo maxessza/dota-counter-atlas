@@ -1,0 +1,21 @@
+{
+  "name": "Timbersaw",
+  "slug": "timbersaw",
+  "url": "https://dotacoach.gg/en/heroes/counters/timbersaw",
+  "patch": "7.41f",
+  "checked": "2026-09-24",
+  "pairs": [
+    {
+      "name": "Batrider",
+      "reason": "Batrider sticks Napalm stacks and forces Timbersaw to waste mobility early. Lasso pulls him out of Timber Chain path and into danger. Timbersaw can’t cleanse the debuff and melts under Firefly. Batrider snowballs easily if he wins the lane."
+    },
+    {
+      "name": "Bloodseeker",
+      "reason": "Rupture prevents Timbersaw from using Timber Chain, his main escape. Bloodseeker capitalizes on Timbersaw’s frequent movement with huge burst. Thirst keeps him visioned and makes juking impossible. In most cases, Bloodseeker forces Timbersaw to play passively."
+    },
+    {
+      "name": "Faceless Void",
+      "reason": "Chronosphere traps Timbersaw before he can react with Timber Chain. Timbersaw cannot save allies or himself inside the sphere. Faceless Void's physical burst bypasses his reactive armor. He’s especially vulnerable if caught without mana or Chain cooldown."
+    }
+  ]
+}

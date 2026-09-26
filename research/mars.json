@@ -1,0 +1,21 @@
+{
+  "name": "Mars",
+  "slug": "mars",
+  "url": "https://dotacoach.gg/en/heroes/counters/mars",
+  "patch": "7.41f",
+  "checked": "2026-09-24",
+  "pairs": [
+    {
+      "name": "Lifestealer",
+      "reason": "Lifestealer can use Rage to escape Arena of Blood and avoid Spear of Mars’ stun, making him difficult to control. Additionally, he thrives against heroes with large health pools, which can reduce Mars’ relative tankiness and make him more vulnerable."
+    },
+    {
+      "name": "Juggernaut",
+      "reason": "Blade Fury lets Juggernaut escape Arena of Blood and dodge Spear of Mars’ stun. It’s also a strong tool for chasing and killing Mars early, since he is more susceptible to magical damage."
+    },
+    {
+      "name": "Puck",
+      "reason": "Puck is highly elusive and difficult to control. Without items like Hex or Eul’s Scepter, landing a Spear of Mars and killing her can be very challenging."
+    }
+  ]
+}

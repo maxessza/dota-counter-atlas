@@ -1,0 +1,33 @@
+{
+  "name": "Ringmaster",
+  "slug": "ringmaster",
+  "url": "https://dotacoach.gg/en/heroes/counters/ringmaster",
+  "patch": "7.41f",
+  "checked": "2026-09-24",
+  "pairs": [
+    {
+      "name": "Oracle",
+      "reason": "Oracle's Forutne's End is a low cooldown AOE dispel that can remove Escape Act without even having to target the enemy but instead an ally."
+    },
+    {
+      "name": "Shadow Demon",
+      "reason": "Demonic Purge prevents Ringmaster from saving his allies with Escape Act."
+    },
+    {
+      "name": "Invoker",
+      "reason": "Invoker can use Tornado to dispel Escape Act."
+    },
+    {
+      "name": "Brewmaster",
+      "reason": "Brewmaster can use Dispel Magic from his Storm Panda to dispel Escape Act."
+    },
+    {
+      "name": "Bloodseeker",
+      "reason": "Rupture and Blood Rite take their effect despite of Escape Act's defensive properties."
+    },
+    {
+      "name": "Pangolier",
+      "reason": "Escape Act does little to help against Pango's kit as he does exclusively Area of Effect Physical damage."
+    }
+  ]
+}

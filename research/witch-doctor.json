@@ -1,0 +1,21 @@
+{
+  "name": "Witch Doctor",
+  "slug": "witch-doctor",
+  "url": "https://dotacoach.gg/en/heroes/counters/witch-doctor",
+  "patch": "7.41f",
+  "checked": "2026-09-24",
+  "pairs": [
+    {
+      "name": "Puck",
+      "reason": "Puck can easily dodge your Paralyzing cask and Maledict as well as Silence you during Death Ward."
+    },
+    {
+      "name": "Templar Assassin",
+      "reason": "Templar's Reflection uses instances to negate damage and all of Witch Doctors spells are instance damage. Witch Doctor also has low armor which Templar Assassin can reduce even further with Meld."
+    },
+    {
+      "name": "Anti-Mage",
+      "reason": "Anti-Mage can easily deflect your predictable Paralyzing Cask and set you up for a kill, in addition he can blink away from trouble or blink in pre-emptively with Counter Spell."
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "name": "Anti-Mage",
+  "slug": "anti-mage",
+  "url": "https://dotacoach.gg/en/heroes/counters/anti-mage",
+  "patch": "7.41f",
+  "checked": "2026-09-24",
+  "pairs": [
+    {
+      "name": "Night Stalker",
+      "reason": "Crippling Fear prevents AM from abusing his amazing mobility by not allowing him to use Blink. Dark Ascension makes it hard for AM to play on the outskirts of fights and wait for his opportune moment as NS's vision outranges Blink substantially. NS has one of the lowest Intelligence gains in DOTA and generally builds for rightclick making him a poor Mana Void target."
+    },
+    {
+      "name": "Meepo",
+      "reason": "Simply put Meepo stats checks AM like no other hero as any stats he builds get it's value multiplied and is easily able to overwhelm AM after just a couple of items and a couple of extra Meepos. Earthbind can be used to chain root AM to death."
+    },
+    {
+      "name": "Huskar",
+      "reason": "Mana Break and Mana Void literally do nothing against Huskar as he is the only hero in DOTA without a Mana pool. Counterspell does NOT block/ reflect Life Break nor does Blink disjoint it as Huskar still follows him."
+    },
+    {
+      "name": "Phantom Assassin",
+      "reason": "AM has amazing Magic Resistance and a low HP pool to balance that out, while PA does huge bursts of Physical Damage and can usually delete an AM with a single Phantom Strike and a couple of Coup de Grace crits. PA is not the best target for Mana Void as she has low Intelligence gain and does not itemize for Mana much and forces AM into investing in a MKB due to her massive built in evasion."
+    },
+    {
+      "name": "Lone Druid",
+      "reason": "Simply put Lone Druid stats checks AM to an overwhelming degree as he is essentially 2 heroes that do exclusively Physical Damage. Summon Spirit Bear's base stats are already too much for AM to deal with and a single Etangling Claws proc into a Save Roar fear is usually enough to get him killed."
+    },
+    {
+      "name": "Axe",
+      "reason": "Counter Helix and Culling Blade both do Pure damage, which does not get mitigated by Counterspell's Magic Resistance and are especially effective versus low HP pool heroes like AM. Berserker's Call provides reliable lockdown for AM that cannot be dispelled. AM having one of the lowest BATs in the game make him trigger Counter Helix frequently and usually a single Call+BM+CB combo from Axe is more than enough to kill him."
+    },
+    {
+      "name": "Troll Warlord",
+      "reason": "Troll simply scales exponentially better than AM to a point where in a straight up fight AM simply gets overwhelmed. Troll can chain ensnare AM preventing him from using Blink and cause him to miss attacks with Whirling Axes (Melee). Mana Void doesn't do much to Troll as he has one of the lowest Intelligence gains in DOTA."
+    },
+    {
+      "name": "Legion Commander",
+      "reason": "Legion does infinitely scaling Physical Damage and provides a long duration lockdown trough Duel. Counterspell CAN both block and reflect Duel, however reflecting it is almost always an outcome AM would've rather avoided. AM has one of the lowest BATs in the game making it easy for LC to get Moment of Courage procs."
+    },
+    {
+      "name": "Kez",
+      "reason": "With high DPS and a silence that shuts down his Blink, leaving him vulnerable. Kez's mobility lets him kite or close the gap, controlling the fight's pace. This prevents Anti-Mage from escaping, farming, or initiating effectively, especially before he gets key items like Manta Style."
+    }
+  ]
+}

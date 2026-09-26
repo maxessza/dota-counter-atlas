@@ -1,0 +1,37 @@
+{
+  "name": "Ursa",
+  "slug": "ursa",
+  "url": "https://dotacoach.gg/en/heroes/counters/ursa",
+  "patch": "7.41f",
+  "checked": "2026-09-24",
+  "pairs": [
+    {
+      "name": "Phantom Lancer",
+      "reason": "Ursa has no sustained AoE to deal with illusions, it becomes worse since Phantom Lancer can create more illusions in a matter of seconds. Diffusal Blade can be used to drain Ursa mana. This is a standard item for Phantom Lancer in every match. Doppelganger applies basic dispel on Phantom Lancer, which will remove the slow from Earthshock. It also resets fights with more illusions, making hard for Ursa to hit the real Phantom Lancer. Manta Style creates two more illusions and also applies a basic dispel, further complicating the problem for Ursa to deal with."
+    },
+    {
+      "name": "Slark",
+      "reason": "Enrage cannot restore attributes stolen by Essence Shift and will reduce his physical damage output. Even if Ursa initiates with Earthshock, Slark can Pounce away or use Dark Pact after Ursa's initiation to avoid Fury Swipes' damage until Earthshock's slow is gone. Shadow Dance provides a save against the initiation of Ursa."
+    },
+    {
+      "name": "Chaos Knight",
+      "reason": "Ursa has no way to clear illusions quickly, making him vulnerable to Chaos Bolt and Phantasm combo. Reality Rift can quickly relocate or reinitiate on Ursa once the duration of Enrage is over. Phantasm can be used to dispel Earthshock's slow. Manta Style is another item that counter Ursa greatly. Ursa has low mobility, once jumped on by Reality Rift, Ursa struggles to escape. Doom"
+    },
+    {
+      "name": "Troll Warlord",
+      "reason": "Troll Warlord can be a tough matchup for Ursa. Whirling Axes apply miss chance, making it difficult for Ursa to land attacks and build Fury Swipes stacks. If Ursa initiates first, Troll can activate Battle Trance and potentially outlast Ursa in a drawn-out manfight."
+    },
+    {
+      "name": "Winter Wyvern",
+      "reason": "Cold Embrace completely negates Ursa’s physical damage while healing the target, shutting down his burst potential. Winter’s Curse can also turn Ursa’s high attack speed and damage against his own team, often causing him to burst down an ally"
+    },
+    {
+      "name": "Disruptor",
+      "reason": "Disruptor is a strong control hero against Ursa. Kinetic Field can trap Ursa and prevent him from chasing or escaping. More importantly, Static Storm silences Ursa, preventing him from activating Enrage, which makes him highly vulnerable during its duration."
+    },
+    {
+      "name": "Drow Ranger",
+      "reason": "Drow Ranger counters Ursa by kiting him with Frost Arrows and silencing him with Gust, preventing him from using Enrage. Her high physical damage from range makes it difficult for Ursa to close the gap and survive long enough to fight back"
+    }
+  ]
+}

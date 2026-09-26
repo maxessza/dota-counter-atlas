@@ -1,0 +1,21 @@
+{
+  "name": "Undying",
+  "slug": "undying",
+  "url": "https://dotacoach.gg/en/heroes/counters/undying",
+  "patch": "7.41f",
+  "checked": "2026-09-24",
+  "pairs": [
+    {
+      "name": "Ursa",
+      "reason": "Ursas Overpower is a great counter for killing the tombstone. Fury Swipes also counters the tanky profile Undying has."
+    },
+    {
+      "name": "Lina",
+      "reason": "Lina's attack range and Fiery Soul are an incredible counter to Tombstone."
+    },
+    {
+      "name": "Snapfire",
+      "reason": "Lil' Shredder destroys Tombstone quickly from a safe range. Her high magic burst punishes Undying's low mobility and poor scaling. She also zones Undying out of teamfights and punishes his early grouping."
+    }
+  ]
+}

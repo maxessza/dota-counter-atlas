@@ -1,0 +1,21 @@
+{
+  "name": "Earthshaker",
+  "slug": "earthshaker",
+  "url": "https://dotacoach.gg/en/heroes/counters/earthshaker",
+  "patch": "7.41f",
+  "checked": "2026-09-24",
+  "pairs": [
+    {
+      "name": "Wraith King",
+      "reason": "Reincarnation serves as a natural deterent for Earthshaker to all in Wraith King with an Echo Slam as he would shortly come back to life, while Shaker would be left with not much in the tank. WK can select Spectral Blade as a facet instead of Bone Guard in order to reduce the number of Echo Slam targets."
+    },
+    {
+      "name": "Spectre",
+      "reason": "Disperion + BM is a huge deterent for Earthshaker to drop Echo Slam whenever he wants, as often times it would mean his own death. Spectral Dagger can be used to move through Fissure's wall to prevent being blocked. Spectre's ability to instantly get on top of Earthshaker with Shadow Step or Haunt ruins his initiation and doesn't allow him to comfortably wait for his opportune moment."
+    },
+    {
+      "name": "Night Stalker",
+      "reason": "Dark Ascension providing unobstructed vision and flight, while reducing Earthshaker's and his team's vision allows NS to spot Shaker and stick on him relentlessly with Crippling Fear, not allowing him to get of a clean initiation or any spells for that matter. Despite Fissure being able to stun NS he can still fly over it."
+    }
+  ]
+}

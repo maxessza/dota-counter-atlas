@@ -1,0 +1,53 @@
+{
+  "name": "Phantom Lancer",
+  "slug": "phantom-lancer",
+  "url": "https://dotacoach.gg/en/heroes/counters/phantom-lancer",
+  "patch": "7.41f",
+  "checked": "2026-09-24",
+  "pairs": [
+    {
+      "name": "Underlord",
+      "reason": "Atrophy Aura reduces BASE attack damage and PL being an Illusion hero greatly benefits from stacking Agility and increasing his Base damage and Attack Speed to empowers his Illusions. Agility stacking means high armor so both Firestorm and Pit of Malice are great at providing reliable Magic damage and Crowd Control for him and his Illusions due to their AOE properties."
+    },
+    {
+      "name": "Leshrac",
+      "reason": "Leshrac's AoE abilities destroy Phantom Lancer's illusions. Diabolic Edict and Pulse Nova require no targeting, thus hitting Phantom Lancer whenever he's nearby."
+    },
+    {
+      "name": "Jakiro",
+      "reason": "Jakiro's AoE abilities are great against Phantom Lancer: Dual Breath slows down and damages Phantom Lancer and his illusions. Liquid Fire will not only deal AoE damage but also lowers Phantom Lancer's attack speed. Ice Path and Macropyre combo can easily clear all of Phantom Lancer's illusions. Jakiro can predict Doppelganger and Ice Path on top."
+    },
+    {
+      "name": "Earthshaker",
+      "reason": "Earthshaker absolutely destroys Phantom Lancer with Echo Slam, which scales with number of illusions. Every illusion becomes a source of damage in teamfights. Fissure and Enchant Totem also stop PL’s movement. One good Echo can turn the tide and win the fight outright."
+    },
+    {
+      "name": "Sven",
+      "reason": "Sven’s cleave from Great Cleave and huge burst from God's Strength wipe out Phantom Lancer’s illusions. Storm Hammer stuns all units in a small radius, making it easy to hit the real PL. Sven scales just as well and brings more raw damage to fights. If Sven gets a good initiation, PL dies before illusions matter."
+    },
+    {
+      "name": "Axe",
+      "reason": "Axe is one of the best illusion counters with his passive Counter Helix. Berserker’s Call forces PL and illusions to attack him, triggering spins. Blade Mail punishes illusion damage and Culling Blade finishes off the real PL. He dominates mid-game and forces PL to avoid direct fights."
+    },
+    {
+      "name": "Sand King",
+      "reason": "Sand King has multiple AOE tools like Burrowstrike, Sandstorm, and Epicenter. Phantom Lancer can’t stand in fights due to continuous AOE damage. Blink initiation from Sand King disrupts PL’s positioning instantly. If Sand King gets a good Epicenter, illusions vanish in seconds"
+    },
+    {
+      "name": "Timbersaw",
+      "reason": "Timbersaw excels at killing clustered illusions with Chakram and Whirling Death. He is incredibly tanky and doesn’t care about physical damage from PL. Timber Chain helps him escape and reposition while continuing AOE spam. PL can’t kill him unless massively ahead."
+    },
+    {
+      "name": "Dark Seer",
+      "reason": "Dark Seer’s Ion Shell deals AOE damage and clears illusions while farming. Wall of Replica creates a strong PL illusion, turning his own power against him. Vacuum combos well with AOE allies and punishes clumped illusions. PL’s illusions become more of a liability than an asset."
+    },
+    {
+      "name": "Necrophos",
+      "reason": "Necrophos punishes drawn-out fights, which PL often thrives in. Ghost Shroud protects Necrophos from physical damage and heals him massively. Reaper’s Scythe punishes low-HP heroes like PL after extended pokes. He thrives while PL struggles to finish him off due to his sustain."
+    },
+    {
+      "name": "Ember Spirit",
+      "reason": "Ember Spirit clears illusions effortlessly with Sleight of Fist + Maelstrom or Battle Fury. Remnants allow him to escape and poke PL without commitment. Phantom Lancer’s illusions don’t survive long enough to do meaningful damage. A well-farmed Ember becomes untouchable for PL and his illusions."
+    }
+  ]
+}

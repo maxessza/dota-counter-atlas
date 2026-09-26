@@ -1,0 +1,21 @@
+{
+  "name": "Faceless Void",
+  "slug": "faceless-void",
+  "url": "https://dotacoach.gg/en/heroes/counters/faceless-void",
+  "patch": "7.41f",
+  "checked": "2026-09-24",
+  "pairs": [
+    {
+      "name": "Night Stalker",
+      "reason": "Crippling Fear can silence Faceless Void for a long time, preventing him from using his Time Walk and Chronosphere."
+    },
+    {
+      "name": "Abaddon",
+      "reason": "Mist Coil and Aphotic Shield enable Abaddon to keep an ally alive during Chronosphere. Borrowed Time prevents Faceless Void from killing Abaddon during his Chronosphere."
+    },
+    {
+      "name": "Kunkka",
+      "reason": "Ghostship can stun Faceless Void and give damage reduction to allies that are trapped during Chronosphere. Torrent can stun Faceless Void from outside Chronosphere. X Marks the Spot can bring back Faceless Void if he escapes using Time Walk."
+    }
+  ]
+}

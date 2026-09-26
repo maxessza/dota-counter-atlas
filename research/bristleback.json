@@ -1,0 +1,21 @@
+{
+  "name": "Bristleback",
+  "slug": "bristleback",
+  "url": "https://dotacoach.gg/en/heroes/counters/bristleback",
+  "patch": "7.41f",
+  "checked": "2026-09-24",
+  "pairs": [
+    {
+      "name": "Viper",
+      "reason": "Viper Strike is a reliable low cooldown ability that Breaks the Damage Reduction and Quill Spray procs of Bristleback as well as the further acquiring of stacks from Warpath for it's duration - this completely cripples Bristleback and creates a window of opportunity to outright kill him."
+    },
+    {
+      "name": "Ancient Apparition",
+      "reason": "Ice Blast prevents Bristleback from healing with Bloodstone or any other sources of sustain, making it difficult for him to play fights in a manner which he wants to - by trading his HP in order to get Bristleback procs and do damage in order to heal back up and keep repeating the cycle."
+    },
+    {
+      "name": "Legion Commander",
+      "reason": "Duel forces Bristleback to face LC, preventing him from taking advantage of his Bristleback Damage Reduction and Quill Spray procs for it's duration providing LC's team with a window of opportunity to outright kill him even without Break or Healing reduction."
+    }
+  ]
+}

@@ -1,0 +1,61 @@
+{
+  "name": "Marci",
+  "slug": "marci",
+  "url": "https://dotacoach.gg/en/heroes/counters/marci",
+  "patch": "7.41f",
+  "checked": "2026-09-24",
+  "pairs": [
+    {
+      "name": "Ancient Apparition",
+      "reason": "The Ice Blast from Ancient Apparition nullifies the lifesteal from either Sidekick or Bodyguard and makes it difficult for Marci to commit to fights with Unleash."
+    },
+    {
+      "name": "Axe",
+      "reason": "The armor gain during Bersekers Call combined with the Blade Mail active makes it difficult for Marci to commit on Axe with Unleash as the Counter Helix procs and return damage will likely kill Marci instead."
+    },
+    {
+      "name": "Bloodseeker",
+      "reason": "Rupture does massive damage to Marci if she uses Rebound during it, effectively halting her mobility. A follow up Blood Rite and right click committal makes Marci easy pickings for Bloodseeker."
+    },
+    {
+      "name": "Dark Willow",
+      "reason": "Bramble Maze makes it difficult for Marci to maneuver and commit to fights using Rebound. Dark Willow also becomes untargetable with right clicks during Shadow Realm, rendering Marcis Unleash useless against her."
+    },
+    {
+      "name": "Death Prophet",
+      "reason": "The Death Prophet silence, high damage, and HP sustain in close proximity makes it difficult for Marci to commit onto her and burst her down during Unleash. Doing so will likely get Marci killed instead."
+    },
+    {
+      "name": "Lifestealer",
+      "reason": "A well timed Rage from Lifestealer ignores Marcis control spells and gives him the upper hand in a right click battle with the high damage and HP sustain through Feast and Open Wounds."
+    },
+    {
+      "name": "Lycan",
+      "reason": "The movement speed gain during Shapeshift allows Lycan to heavily kite Marci during Unleash while Howl makes it difficult for her to dish out her full right click damage. Marci also is not effective at defending towers against the heavy push from Lycan and his wolf pack."
+    },
+    {
+      "name": "Mars",
+      "reason": "The Arena of Blood stops Marci from jumping in or out of its walls, nullifying her mobility through Rebound. Marci also finds it difficult to burst down Mars in a right click battle because of the damage reduction from Bulwark."
+    },
+    {
+      "name": "Necrophos",
+      "reason": "Necrophos can make himself invulnerable to Marcis right clicks during Unleash by using Ghost Shroud and kiting her. The heavy burst from Reapers Scythe also keeps Marci on thin ice if she commits to fights as she can die if she gets below half HP."
+    },
+    {
+      "name": "Oracle",
+      "reason": "Oracle can heavily disrupt Marcis right click damage output during Unleash with the disarm from Fates Edict as well as nullify her mobility with the root from Fortunes End. Marci also relies on quickly bursting down heroes and False Promise completely counters that."
+    },
+    {
+      "name": "Puck",
+      "reason": "The silence and leash from Pucks spells makes it difficult for Marci to maneuver in fights with Rebound. Puck is also difficult to lock down and hit during Unleash as she can easily dodge the Rebound stun using Phase Shift and move away with Illusory Orb."
+    },
+    {
+      "name": "Pugna",
+      "reason": "Marci relies on quickly bursting down heroes and Pugna completely counters that by using Decrepify on either Marci or her target to waste a lot of her Unleash duration."
+    },
+    {
+      "name": "Weaver",
+      "reason": "Weaver is difficult to lock down and hit during Unleash as he can become invisible and extremely fast using Shukuchi to dodge the Rebound stun. Weaver can also dish out his right click damage from range while kiting Marci."
+    }
+  ]
+}

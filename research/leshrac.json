@@ -1,0 +1,21 @@
+{
+  "name": "Leshrac",
+  "slug": "leshrac",
+  "url": "https://dotacoach.gg/en/heroes/counters/leshrac",
+  "patch": "7.41f",
+  "checked": "2026-09-24",
+  "pairs": [
+    {
+      "name": "Ancient Apparition",
+      "reason": "AA's ult - Ice Blast completely negates Leshrac's sustain in fights, crippling him significantly and forces him to flee the fight altogether or risk getting bursted. He can keep his distance in order to use his spell making it difficult for Leshrac to reach him."
+    },
+    {
+      "name": "Medusa",
+      "reason": "Medusa's unique Mana Shield counts as a damage absorb, which does not proc any Lifesteal or Spelllifesteal effects. Leshrac naturally has a high mana pool trough his base stats and natural itemization, which Medusa can further abuse to sustain herself trough Mystic Snake."
+    },
+    {
+      "name": "Drow Ranger",
+      "reason": "Drow Ranger's Aghanim's Scepter is one of the strongest healing reduction abilities in DOTA and greatly diminishes Leshrac's sustain. She has high attack range to keep her distance and a consistent slow to kite Leshrac, making it difficult for him to get on top of her."
+    }
+  ]
+}

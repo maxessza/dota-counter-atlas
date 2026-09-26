@@ -1,0 +1,21 @@
+{
+  "name": "Wraith King",
+  "slug": "wraith-king",
+  "url": "https://dotacoach.gg/en/heroes/counters/wraith-king",
+  "patch": "7.41f",
+  "checked": "2026-09-24",
+  "pairs": [
+    {
+      "name": "Underlord",
+      "reason": "Atrophy Aura reduces WK's attack damage, which is almost all of his total damage output. Underlord can control him multiple times with Pit of Malice, as he lacks innate dispel. Fiend's Gate allows him to bring in the numbers on WK if he ever gets caught out anywhere on the map in order to get trough his second life via Reincarnation."
+    },
+    {
+      "name": "Tidehunter",
+      "reason": "Anchor Smash reduces WK's attack damage significantly, which is almost all of his total damage output. Blubber can dispel Wraithfire Blast after a single Mortal Strike as the game goes on. Gush reduces armor, which WK already struggles with and Dead in the Water is hard for WK to deal with due to his low base attack speed. Ravage can be timed as Reincarnation is about to revive WK to instantly disable him."
+    },
+    {
+      "name": "Phoenix",
+      "reason": "WK's total damage output comes mostly from his attacks and Phoenix can make them both miss with Blinding Sun or reduce their frequency with Fire Spirits. Supernova can be hard for WK to deal with as he is a melee hero and also lacks good base attack speed or built in debuff immunity."
+    }
+  ]
+}

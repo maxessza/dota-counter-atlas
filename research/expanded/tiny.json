@@ -1,0 +1,49 @@
+{
+  "name": "Tiny",
+  "slug": "tiny",
+  "url": "https://dotacoach.gg/en/heroes/counters/tiny",
+  "patch": "7.41f",
+  "checked": "2026-09-24",
+  "pairs": [
+    {
+      "name": "Alchemist",
+      "reason": "Tiny naturally has high base attack damage due to his ult - Grow. Alch is capable of reducing it with Corrosive Weaponry and cripple Tiny's overall damage output significantly. Alch acquires items quite fast to build up his HP pool, making it hard for Tiny to burst him with a single Toss + Avalanche + Tree Throw combo and can quickly heal back up with Chemical Rage."
+    },
+    {
+      "name": "Lifestealer",
+      "reason": "Lifestealer’s Rage makes him immune to all of Tiny’s magic-based combo. He out-sustains Tiny in fights and bursts him with Feast damage. Tiny can’t kill Lifestealer unless he’s controlled by someone else. Lifestealer shrugs off every spell and punishes his low armor."
+    },
+    {
+      "name": "Necrophos",
+      "reason": "Necrophos shrugs off Tiny’s burst with sustain and Ghost Shroud. Reaper’s Scythe punishes Tiny’s low status resistance early. Avalanche and Toss do little once Necrophos is tanky. He scales better and punishes Tiny’s lack of BKB early."
+    },
+    {
+      "name": "Enchantress",
+      "reason": "Enchantress survives early burst with Untouchable and heal. Tiny cannot deal enough right-click damage to finish her off. Nature’s Attendants keeps her alive through Avalanche Toss. She dominates long fights where Tiny runs out of impact."
+    },
+    {
+      "name": "Undying",
+      "reason": "Undying’s zombies and Tombstone make it hard for Tiny to engage. Decay reduces Tiny’s damage and survivability. Tiny’s burst is wasted on tanky targets like Undying who soaks up spell combos that would otherwise kill squishies heroes."
+    },
+    {
+      "name": "Death Prophet",
+      "reason": "Tiny can’t burst Death Prophet fast enough to prevent Spirit Siphon. Exorcism forces him to disengage as he can’t trade in teamfights. Death Prophet tanks the combo and punishes Tiny during cooldowns. Her sustained DPS scales better."
+    },
+    {
+      "name": "Underlord",
+      "reason": "Underlord punishes Tiny with Pit of Malice and high base health regen. Firestorm burns him down after his initial combo. Tiny can’t deal with tanky frontliners without follow-up damage. Underlord’s root delays Tiny’s escape and cuts his impact."
+    },
+    {
+      "name": "Ember Spirit",
+      "reason": "Ember Spirit dodges Avalanche with Sleight of Fist and escapes Toss with Remnant. His magic immunity scaling punishes Tiny’s reliance on burst. Tiny can’t lock him down without extra disable. Ember punishes any missed combo with high DPS."
+    },
+    {
+      "name": "Viper",
+      "reason": "Viper zones Tiny out of lane with poison and breaks his armor gains. Nethertoxin prevents combo usage under towers. Tiny gets melted by damage-over-time effects and lacks sustain. He can’t fight back once Viper gets even a slight lead."
+    },
+    {
+      "name": "Huskar",
+      "reason": "Huskar shrugs off burst and punishes Tiny with Burning Spear stacks. His passive makes Avalanche’s burst less effective. Once Huskar gets armlet or BKB, Tiny has no way to stop him. Huskar snowballs past Tiny before he finishes his core items."
+    }
+  ]
+}

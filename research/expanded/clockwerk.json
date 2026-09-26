@@ -1,0 +1,37 @@
+{
+  "name": "Clockwerk",
+  "slug": "clockwerk",
+  "url": "https://dotacoach.gg/en/heroes/counters/clockwerk",
+  "patch": "7.41f",
+  "checked": "2026-09-24",
+  "pairs": [
+    {
+      "name": "Beastmaster",
+      "reason": "Clockwerk’s Battery Assault targets a single enemy, allowing Beastmaster’s summoned boars and hawks to absorb the damage. Additionally, Beastmaster’s summons make it difficult for Clockwerk to land his Hookshot , as he might end up targeting the summons instead of Beastmaster himself."
+    },
+    {
+      "name": "Phantom Lancer",
+      "reason": "Phantom Lancer can easily escape Clockwerk’s Cogs using Doppelganger, and his illusions absorb Battery Assault damage. As a natural Diffusal Blade buyer, Phantom Lancer can quickly burn Clockwerk’s mana, rendering him ineffective."
+    },
+    {
+      "name": "Juggernaut",
+      "reason": "Juggernaut can easily bypass Battery Assault and Power Cogs by using Blade Fury, allowing him to quickly turn the fight around on Clockwerk."
+    },
+    {
+      "name": "Terrorblade",
+      "reason": "Terrorblade’s illusions can tank Battery Assault, and his high attack speed allows him to quickly destroy Power Cogs. Even if Clockwerk isolates Terrorblade, he can use Sunder to turn the fight and kill Clockwerk instead."
+    },
+    {
+      "name": "Visage",
+      "reason": "Visage is naturally tanky, and his familiars help soak up Battery Assault damage. Both Visage and his familiars can quickly destroy Power Cogs with their attacks. Clockwerk can only initiate and lock down heroes, lacking burst damage, so Visage can easily turn fights around and punish Clockwerk."
+    },
+    {
+      "name": "Anti-Mage",
+      "reason": "Anti-Mage’s Blink and built-in magic resistance make him hard to lock down. Even if Clockwerk hooks him, Anti-Mage can use Manta Style and Blink to escape or turn the fight around against Clockwerk."
+    },
+    {
+      "name": "Queen of Pain",
+      "reason": "Queen of Pain can easily escape Clockwerk’s spells using Blink and kite him effectively. She can slow Clockwerk’s movement speed with Shadow Strike and then finish him off quickly with Sonic Wave."
+    }
+  ]
+}

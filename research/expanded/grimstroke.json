@@ -1,0 +1,49 @@
+{
+  "name": "Grimstroke",
+  "slug": "grimstroke",
+  "url": "https://dotacoach.gg/en/heroes/counters/grimstroke",
+  "patch": "7.41f",
+  "checked": "2026-09-24",
+  "pairs": [
+    {
+      "name": "Anti-Mage",
+      "reason": "Anti-Mage easily dispels Grimstroke’s Inkswell with Manta Style and avoids his combo with Blink. Grimstroke's high mana pool makes him vulnerable to Mana Void."
+    },
+    {
+      "name": "Naga Siren",
+      "reason": "Naga’s illusions confuse targeting for Inkswell and Soulbind. Her Song resets fights completely, making Grimstroke’s long cooldowns unreliable."
+    },
+    {
+      "name": "Clinkz",
+      "reason": "Clinkz picks off Grimstroke before he can cast spells. His mobility and invisibility make it hard for Grim to land skillshots or defend himself."
+    },
+    {
+      "name": "Spectre",
+      "reason": "Spectre jumps to the backline with Haunt and instantly pressures Grimstroke. He lacks escape or tankiness, making him an easy pickoff."
+    },
+    {
+      "name": "Dark Willow",
+      "reason": "Willow’s mobility and shadow realm lets her dodge Inkswell and Phantoms. Terrorize can counter-initiate against Grimstroke’s aggressive combo."
+    },
+    {
+      "name": "Arc Warden",
+      "reason": "Grimstroke struggles to deal with Arc's double presence from Tempest Double. Spark Wraiths and constant harass zone Grimstroke out of fights."
+    },
+    {
+      "name": "Bristleback",
+      "reason": "Bristle shrugs off Grimstroke’s magical poke. Soulbind rarely gets value due to Bristle's natural spread positioning and high durability."
+    },
+    {
+      "name": "Mirana",
+      "reason": "Mirana’s Leap and Moonlight Shadow allow her and allies to evade Inkswell and Soulbind. She also arrows Grimstroke easily from fog when he channels."
+    },
+    {
+      "name": "Lycan",
+      "reason": "Grimstroke has no way to stop Lycan’s physical burst or high-speed pushes. His summons waste Phantom’s Embrace and quickly dive Grimstroke in fights."
+    },
+    {
+      "name": "Gyrocopter",
+      "reason": "Grimstroke’s low mobility makes him vulnerable to Flak Cannon and Call Down. Gyro thrives in chaotic teamfights where Grimstroke gets overwhelmed."
+    }
+  ]
+}

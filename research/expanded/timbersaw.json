@@ -1,0 +1,49 @@
+{
+  "name": "Timbersaw",
+  "slug": "timbersaw",
+  "url": "https://dotacoach.gg/en/heroes/counters/timbersaw",
+  "patch": "7.41f",
+  "checked": "2026-09-24",
+  "pairs": [
+    {
+      "name": "Batrider",
+      "reason": "Batrider sticks Napalm stacks and forces Timbersaw to waste mobility early. Lasso pulls him out of Timber Chain path and into danger. Timbersaw can’t cleanse the debuff and melts under Firefly. Batrider snowballs easily if he wins the lane."
+    },
+    {
+      "name": "Bloodseeker",
+      "reason": "Rupture prevents Timbersaw from using Timber Chain, his main escape. Bloodseeker capitalizes on Timbersaw’s frequent movement with huge burst. Thirst keeps him visioned and makes juking impossible. In most cases, Bloodseeker forces Timbersaw to play passively."
+    },
+    {
+      "name": "Faceless Void",
+      "reason": "Chronosphere traps Timbersaw before he can react with Timber Chain. Timbersaw cannot save allies or himself inside the sphere. Faceless Void's physical burst bypasses his reactive armor. He’s especially vulnerable if caught without mana or Chain cooldown."
+    },
+    {
+      "name": "Pugna",
+      "reason": "Pugna’s Nether Ward punishes Timbersaw’s high spell frequency. Decrepify interrupts Chakram burst and saves teammates. Life Drain cuts through Timbersaw’s defenses and regrowth. Pugna makes Timbersaw’s damage and durability unreliable in teamfights."
+    },
+    {
+      "name": "Grimstroke",
+      "reason": "Soulbind prevents double Timber Chains or escaping with mobility. Ink Swell stuns him if he stays in close quarters. Grimstroke punishes Timbersaw’s grouped aggression. His combo disables even tanky targets long enough for allies to finish them off."
+    },
+    {
+      "name": "Silencer",
+      "reason": "Silencer shuts Timbersaw down completely with Global Silence. Without spells, Timbersaw becomes useless and easy to burst. Arcane Curse punishes him for frequent spell usage. Timbersaw cannot purge or dispel the silences effectively."
+    },
+    {
+      "name": "Templar Assassin",
+      "reason": "Timbersaw's early harass gets blocked by Refraction. TA bursts Timbersaw down before he can build defensive items. His lack of burst damage allows TA to melt supports uncontested. He struggles to reach her once she gets mobility items."
+    },
+    {
+      "name": "Leshrac",
+      "reason": "Leshrac deals heavy magical damage that outpaces Timbersaw’s regen. Timbersaw’s armor and health pool don’t help much against Pulse Nova. Leshrac pushes towers faster than Timbersaw can stall. He outpaces him in both tempo and impact."
+    },
+    {
+      "name": "Ursa",
+      "reason": "Ursa shreds through Timbersaw’s reactive stacks with Fury Swipes. His quick burst damage finishes Timbersaw before he can regen. Ursa closes the gap with Earthshock and ignores chain mobility. Timbersaw can’t survive extended duels."
+    },
+    {
+      "name": "Outworld Devourer",
+      "reason": "Astral Imprisonment disrupts Timber Chain escapes and combos. Arcane Orb deals pure damage and pierces through armor stacking. Sanity’s Eclipse bursts Timbersaw due to his small mana pool. OD scales faster and counters him throughout the game."
+    }
+  ]
+}

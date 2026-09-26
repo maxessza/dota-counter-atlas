@@ -1,0 +1,21 @@
+{
+  "name": "Grimstroke",
+  "slug": "grimstroke",
+  "url": "https://dotacoach.gg/en/heroes/counters/grimstroke",
+  "patch": "7.41f",
+  "checked": "2026-09-24",
+  "pairs": [
+    {
+      "name": "Anti-Mage",
+      "reason": "Anti-Mage easily dispels Grimstroke’s Inkswell with Manta Style and avoids his combo with Blink. Grimstroke's high mana pool makes him vulnerable to Mana Void."
+    },
+    {
+      "name": "Naga Siren",
+      "reason": "Naga’s illusions confuse targeting for Inkswell and Soulbind. Her Song resets fights completely, making Grimstroke’s long cooldowns unreliable."
+    },
+    {
+      "name": "Clinkz",
+      "reason": "Clinkz picks off Grimstroke before he can cast spells. His mobility and invisibility make it hard for Grim to land skillshots or defend himself."
+    }
+  ]
+}

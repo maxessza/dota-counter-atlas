@@ -1,0 +1,49 @@
+{
+  "name": "Windranger",
+  "slug": "windranger",
+  "url": "https://dotacoach.gg/en/heroes/counters/windranger",
+  "patch": "7.41f",
+  "checked": "2026-09-24",
+  "pairs": [
+    {
+      "name": "Centaur Warrunner",
+      "reason": "Retaliate will shred through Windranger's health if she chooses to attack him during Focus Fire. Stampede can help his teammates escape from Windrun and Focus Fire."
+    },
+    {
+      "name": "Bloodseeker",
+      "reason": "Rupture turns Windranger's mobility against her. Blood Rite's silence makes Windranger totally useless, since she's extremely reliant on abilities."
+    },
+    {
+      "name": "Axe",
+      "reason": "Windranger’s long channeling Focus Fire makes her a prime target for Berserker’s Call. Axe forces her to attack him, triggering counter helix and controlling her. She gets countered hard during her burst window."
+    },
+    {
+      "name": "Tiny",
+      "reason": "Tiny can burst Windranger instantly with Avalanche and Toss combo. Her Windrun does nothing to stop his magic burst and toss disables her mobility. She has trouble locking him down before he deletes her. He invalidates her midgame power spikes with his quick burst."
+    },
+    {
+      "name": "Queen of Pain",
+      "reason": "Queen of Pain bursts Windranger down with Scream and Sonic Wave before she can Windrun. Her mobility allows her to escape Focus Fire and avoid Shackleshot setups. Windranger can’t contest her laning pressure or match her tempo. Queen of Pain thrives against squishy mids like her."
+    },
+    {
+      "name": "Clockwerk",
+      "reason": "Clockwerk traps Windranger inside Power Cogs, forcing her to use Windrun defensively. Battery Assault cancels her channeling abilities like Focus Fire and Powershot. She gets isolated and controlled before she can contribute. Clockwerk punishes her weak escapes under pressure."
+    },
+    {
+      "name": "Arc Warden",
+      "reason": "Arc Warden out-ranges Windranger and uses double Magnetic Fields to evade her damage. His clone soaks Shackleshot and Focus Fire, wasting her cooldowns. He forces Windranger to commit spells inefficiently. Over time, he zones her out and controls the map safely."
+    },
+    {
+      "name": "Tusk",
+      "reason": "Tusk closes the gap on Windranger with Snowball and disables her with Walrus Punch. He tanks her initial burst and returns with high-impact control. Shackleshot is hard to land reliably on him. Windrun cannot save her from physical burst while stunned or isolated."
+    },
+    {
+      "name": "Razor",
+      "reason": "Razor drains Windranger’s damage with Static Link, making her Focus Fire weak. Windrun does not stop his movement-based chase or Eye of the Storm. She cannot trade damage effectively in prolonged fights. Razor punishes her need to stay close during engagements."
+    },
+    {
+      "name": "Kunkka",
+      "reason": "Kunkka catches Windranger with X Mark and follows with Torrent and Boat combo. Her Windrun doesn’t dodge his magic burst or disable chain. He forces fights where her mobility is ineffective. Kunkka can out-tank and control her in most encounters."
+    }
+  ]
+}

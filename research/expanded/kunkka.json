@@ -1,0 +1,45 @@
+{
+  "name": "Kunkka",
+  "slug": "kunkka",
+  "url": "https://dotacoach.gg/en/heroes/counters/kunkka",
+  "patch": "7.41f",
+  "checked": "2026-09-24",
+  "pairs": [
+    {
+      "name": "Timbersaw",
+      "reason": "He shrugs off Kunkka’s physical damage with Reactive Armor. Kunkka lacks magic burst to bring him down. Timber also out-pushes and controls lanes faster than Kunkka."
+    },
+    {
+      "name": "Lifestealer",
+      "reason": "Lifestealer is immune to X-Torrent combo while Rage is active. He can use Infest to dodge Boat and burst squishy supports around Kunkka. Kunkka struggles to kite or kill a fat Lifestealer."
+    },
+    {
+      "name": "Alchemist",
+      "reason": "Alchemist farms faster and scales harder than Kunkka. Acid Spray + Radiance burn ruins Kunkka’s Cleave-focused fighting style. He tanks through combo and recovers instantly with regen or BKB"
+    },
+    {
+      "name": "Juggernaut",
+      "reason": "Blade Fury dodges Torrent and Boat entirely. Juggernaut can Omnislash Kunkka before he combos. Healing Ward sustains his team through Cleave poke."
+    },
+    {
+      "name": "Undying",
+      "reason": "Undying punishes long fights, which Kunkka prefers. Tombstone demands early team fight items, delaying Kunkka’s damage output. He also reduces Kunkka’s strength, weakening his tankiness over time. Undying can save teammates with Tombstone by buyying aghanim's shard nullifying kunkka combo's."
+    },
+    {
+      "name": "Pangolier",
+      "reason": "Highly mobile, Pangolier dodges Torrent/Boat combos easily. Rolling Thunder stuns Kunkka before he can cast anything. Cleave is less effective against a hero who jumps in and out of fights."
+    },
+    {
+      "name": "Venomancer",
+      "reason": "Venomancer’s spells disables Blink Dagger and punishes grouped-up teamfighting. Kunkka lacks sustain and usually doesn’t build magic resistance items . Venomancer slows Kunkka and his allies, making it hard to chase or disengage."
+    },
+    {
+      "name": "Ember Spirit",
+      "reason": "Ember dodges Torrent and Boat with Sleight and Remnant. He out-farms Kunkka, has high mobility, and pokes from a safe distance.Tidebringer rarely hits him, and he punishes Kunkka’s long cooldowns."
+    },
+    {
+      "name": "Elder Titan",
+      "reason": "ET reduces armor, punishing Kunkka’s high-HP, low-armor build. Spirit + Stomp combo can cancel Kunkka’s setup and isolate him. He scales better in teamfights and destroys Kunkka."
+    }
+  ]
+}

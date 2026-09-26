@@ -1,0 +1,89 @@
+{
+  "name": "Monkey King",
+  "slug": "monkey-king",
+  "url": "https://dotacoach.gg/en/heroes/counters/monkey-king",
+  "patch": "7.41f",
+  "checked": "2026-09-24",
+  "pairs": [
+    {
+      "name": "Batrider",
+      "reason": "Batrider's Firefly lets him break trees and stun Monkey King if he is perched on top of a broken tree with Tree Dance. Batrider can also follow and chase down Monkey King during Firefly when he tries to use the trees to get away. Batrider's Flaming Lasso and the displacement from Flamebreak also lets him bring Monkey King outside the Wukong's Command ring, which stops his ultimate."
+    },
+    {
+      "name": "Beastmaster",
+      "reason": "Beastmaster's Wild Axes lets him cut down trees to stun Monkey King if he is perched on top of a broken tree with Tree Dance. Monkey King also struggles to run down Beastmaster because of the Hawk root and Boar movement speed slow on attacks. Later in the game, Beastmaster can also burst down Monkey King every time during his long duration lockdown with Primal Roar."
+    },
+    {
+      "name": "Bounty Hunter",
+      "reason": "Bounty Hunter's Track lets him maintain vision of Monkey King when he is perched on top of trees with Tree Dance, effectively countering his ability to stay hidden in tree lines. A casual Quelling Blade can also cut down Monkey King's tree from the Shadow Walk invisibility and stun him if he is not careful."
+    },
+    {
+      "name": "Enchantress",
+      "reason": "Enchantress can dispel Monkey King's Jingu Mastery stacks every time with Enchant, which massively reduces his damage and survivability in fights. With levels in Untouchable, Monkey King also struggles to right click Enchantress to build up Jingu Mastery stacks. Enchantress can also burst down Monkey King inside the Wukong's Command ring with the high damage from Impetus that ignores his high armor."
+    },
+    {
+      "name": "Enigma",
+      "reason": "Enigma's Midnight Pulse lets him cut down a bunch of trees to stun Monkey King if he is perched on top of a broken tree with Tree Dance. This also counters his mobility quite a bit during the laning stage. The periodic stun from Malefice also makes it difficult for Monkey King to cast a timely Wukong's Command."
+    },
+    {
+      "name": "Keeper of the Light",
+      "reason": "Keeper of the Light's Blinding Light push can easily bring Monkey King out of his Wukong's Command ring, which ends his ultimate. Blinding Light also pushes Monkey King off of trees, and can also be used to push him away when he jumps in with Primal Spring and tries to build up Jingu Mastery stacks. The Solar Bind magic resistance reduction can also get Monkey King bursted inside the Wukong's Command ring."
+    },
+    {
+      "name": "Magnus",
+      "reason": "Magnus' Skewer and the slight displacement from Reverse Polarity can easily bring Monkey King out of his Wukong's Command ring, which ends his ultimate. Skewer also breaks trees, which can stun Monkey King if he is perched on top of a broken tree with Tree Dance. Shockwave also makes Monkey King step down if he is perched on a tree, while also putting Tree Dance on cooldown."
+    },
+    {
+      "name": "Mars",
+      "reason": "Mars' Spear of Mars and the slight displacement from God's Rebuke can easily bring Monkey King out of his Wukong's Command ring, which ends his ultimate. Arena of Blood also breaks trees in a massive radius, even outside its AoE, which can be used to find and stun Monkey King when he is perched on top of a tree. Mars also takes reduced damage from Monkey King's right clicks when facing him because of Bulwark."
+    },
+    {
+      "name": "Muerta",
+      "reason": "Muerta's Pierce the Veil makes her immune to physical damage, and lets her counter Monkey King's physical damage. Pierce the Veil also does magical damage, which completely ignores Monkey King's armor gain inside Wukong's Command to burst him down with right clicks. Muerta's Dead Shot also breaks trees on the initial target to stun Monkey King when he is perched on a tree, and the fear makes him step down from the tree."
+    },
+    {
+      "name": "Phantom Assassin",
+      "reason": "Phantom Assassin's evasion from her innate dodges a lot of Monkey King's attacks to prevent him from building up Jingu Mastery stacks. Phantom Assassin can also jump Monkey King with Phantom Strike, and fight him inside Wukong's Command as her crit damage with Coup de Grace overwhelms Monkey King, despite his high armor."
+    },
+    {
+      "name": "Phoenix",
+      "reason": "Phoenix's Supernova breaks trees in a massive radius, which can be used to find and stun Monkey King when he is perched on top of a tree. Icarus Dive also breaks trees to stun Monkey King in the same way. The damage over time from Phoenix's abilities also puts Tree Dance on cooldown for a lengthy duration, preventing him from using the spell to get in fights or escape."
+    },
+    {
+      "name": "Queen of Pain",
+      "reason": "Queen of Pain's damage with her spells easily kills Monkey King, even inside Wukong's Command, as most of her damage is pure and magical. The push from Sonic Wave can also push Monkey King outside the Wukong's Command ring, which ends his ultimate. Queen of Pain can also jump away from Monkey King with Blink when he jumps her with Primal Spring. Shadow Strike also puts Tree Dance on cooldown for a lengthy duration."
+    },
+    {
+      "name": "Riki",
+      "reason": "Riki's mobility with Blink Strike and Tricks of the Trade easily lets him dodge the damage from Monkey King's Primal Spring and Boundless Strike. The same spells also let Riki get away and prevent the buildup of Jingu Mastery stacks. Once Riki becomes invisible with Cloak and Dagger, he can wait for Monkey King on creep waves, and silence him inside Smoke Screen to prevent him from getting away, which leads to easy kills."
+    },
+    {
+      "name": "Storm Spirit",
+      "reason": "Storm Spirit's mobility with Ball Lightning makes him extremely difficult to target with the Boundless Strike stun or the Primal Spring damage. The high mobility also lets Storm Spirit jump Monkey King inside Wukong's Command and burst him down with his magical damage. Ball Lightning also breaks trees, which can stun Monkey King if he is perched on top of a broken tree with Tree Dance."
+    },
+    {
+      "name": "Sven",
+      "reason": "Sven provides armor to his entire team with Warcry to negate a lot of Monkey King's dominant physical damage. The same spell also provides movement speed to Sven's team to run and get outside the Wukong's Command ring. Once Sven gets Revenant's Brooch, his damage gain from God's Strength can easily overwhelm Monkey King inside Wukong's Command, despite his armor gain."
+    },
+    {
+      "name": "Techies",
+      "reason": "Blast Off! destroys trees and can stun Monkey King while he is perched on a tree with Tree Dance. Techies likes to hide Proximity Mines in tree lines, which can trigger when Monkey King jumps across trees to move around, giving away his position and damaging him in the process as he can't immediately attack them atop a tree."
+    },
+    {
+      "name": "Timbersaw",
+      "reason": "All of Timbersaw's active abilities break trees, which can stun Monkey King if he is perched on top of a broken tree with Tree Dance. Timbersaw also does pure damage, which ignores Monkey King's high armor inside Wukong's Command to burst him down. Reactive Armor also helps reduce Monkey King's dominant physical damage."
+    },
+    {
+      "name": "Vengeful Spirit",
+      "reason": "Vengeful Spirit's Nether Swap can easily displace Monkey King outside his Wukong's Command ring, which ends his ultimate. The vision provided by Wave of Terror also lets Vengeful Spirit find Monkey King when he is perched on top of a tree with Tree Dance. The Magic Missile stun also helps fend off Monkey King when he jumps Vengeful Spirit with Primal Spring."
+    },
+    {
+      "name": "Viper",
+      "reason": "Viper's Viper Strike can break Monkey King, preventing him from building up Jingu Mastery stacks in the duration of the spell. This massively reduces his damage and survivability in fights. Viper's damage over time with his active and passive abilities put Tree Dance on cooldown for a length duration, which counters Monkey King's ability to get into fights or escape."
+    },
+    {
+      "name": "Windranger",
+      "reason": "Windranger's Powershot breaks trees, which can stun Monkey King if he is perched on top of a broken tree with Tree Dance. Shackleshot becomes easier to land on Monkey King as he is usually in and around tree lines to use Tree Dance. Windranger also completely evades Monkey King's right clicks during Windrun, preventing him from building Jingu Mastery stacks, and lets her run at him even inside the Wukong's Command ring."
+    }
+  ]
+}

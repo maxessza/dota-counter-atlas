@@ -1,0 +1,33 @@
+{
+  "name": "Meepo",
+  "slug": "meepo",
+  "url": "https://dotacoach.gg/en/heroes/counters/meepo",
+  "patch": "7.41f",
+  "checked": "2026-09-24",
+  "pairs": [
+    {
+      "name": "Underlord",
+      "reason": "All of Pitlords abilities are AOE, which allow him to affect most if not all Meepos. Atrophy Aura reduces BASE attack damage and Meepo generally builds heavy stats items to empower his clones. Pit of Malice's root prevents Meepo from using Poof or Dig (Meepo's Aghanim's Shard) and does NOT get dispelled by Megameepo ( Meepo's Aghanim's Scepter). High stats means high HP and Armor, which Firestorm cares little for due to it's Magic and % Max HP damage."
+    },
+    {
+      "name": "Beastmaster",
+      "reason": "Divided We Stand gives Drums of Slom multiple targets to affect and when combined with Crimson Guard usually results in Meepo struggling to output enough damage to kill Beastmaster. Wild Axes deal scaling Magic Damage on a low cooldown, which provides considarable AOE damage to help damage all of Meepos clones and Primal Roar is vital for isolating a single Meepo and focusing it down.."
+    },
+    {
+      "name": "Bristleback",
+      "reason": "Earthbind does not prevent Bristleback from turning around, allowing him to turn his Bristleback towards Meepo during it. Divided we Stand provides extra HERO targets for Bristleback to get additional Spell Lifesteal for full value with Quill Spray and Bristleback procs."
+    },
+    {
+      "name": "Enigma",
+      "reason": "Black Hole and Midnight Pulse are capable of controlling and doing immense damage to all Meepos. Black Hole can be used on a single Meepo to prevent the rest of his clones from comming to his aid with Poof as they would also be instantly affected by it. Midnight Pulse can deal immense damage to MegaMeepo (Aghanim's Scepter upgrade) as it deals % current HP, while Black Hole can be placed on top of Dig to instantly control any Meepo that exits it."
+    },
+    {
+      "name": "Leshrac",
+      "reason": "Leshrac thrives in games where he can get high uptime on his spells onto his enemies to keep healing and do massive amounts of damage. Meepo provides him with up to 4 extra immobile targets to do so, making it difficult for him to output enough damage to get trough Lesh's sustain alone."
+    },
+    {
+      "name": "Winter Wyvern",
+      "reason": "Winter's Curse turns Meepo's clones against the primary target, often resulting in an easy kill. Splinter Blast deals significant AoE magic damage to all Meepos, while Cold Embrace protects allies caught by Earthbind, pontentially saving them."
+    }
+  ]
+}

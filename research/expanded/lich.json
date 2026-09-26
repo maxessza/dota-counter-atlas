@@ -1,0 +1,33 @@
+{
+  "name": "Lich",
+  "slug": "lich",
+  "url": "https://dotacoach.gg/en/heroes/counters/lich",
+  "patch": "7.41f",
+  "checked": "2026-09-24",
+  "pairs": [
+    {
+      "name": "Wraith King",
+      "reason": "Wraith King can survive trough Lich's damage with Reincarnation. He further provide this protection to his team with Aghanim's Scepter and can soak up Chain Frost bounces with his many Bone Guard skeletons."
+    },
+    {
+      "name": "Oracle",
+      "reason": "Shadow Demon can dispel Frost Shield with Fortune's End and save an ally from Chain frost with his False Promise or Fate's Edict."
+    },
+    {
+      "name": "Shadow Demon",
+      "reason": "Shadow Demon can dispel Frost Shield with Demonic Purge and save an ally from Chain frost with his Disruption. Even if an ally is caught out Disseminate can be used to return much of Lich's damage back to his team."
+    },
+    {
+      "name": "Ringmaster",
+      "reason": "Ringmaster can save an ally with Escape Act from Lich's vast amounts of Magical damage or by interrupting Sinister Gaze."
+    },
+    {
+      "name": "Centaur Warrunner",
+      "reason": "Stampede is amazing at disengaging Centaur's entire team from Chain Frost as it negates all the many slows that Lich's toolkit utilizes to keep his enemies close."
+    },
+    {
+      "name": "Outworld Devourer",
+      "reason": "OD can save an ally with Astral Imprisonment from Lich's vast amounts of Magical damage or by interrupting Sinister Gaze."
+    }
+  ]
+}

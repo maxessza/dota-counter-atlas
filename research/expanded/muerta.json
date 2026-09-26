@@ -1,0 +1,49 @@
+{
+  "name": "Muerta",
+  "slug": "muerta",
+  "url": "https://dotacoach.gg/en/heroes/counters/muerta",
+  "patch": "7.41f",
+  "checked": "2026-09-24",
+  "pairs": [
+    {
+      "name": "Spectre",
+      "reason": "Spectre punishes backline, squishy heroes like Muerta with Haunt and Dispersion. She ignores Dead Shot zoning and thrives in chaos. Her tankiness outlasts Muerta’s damage window. Once she reaches her items, Muerta cannot duel her effectively."
+    },
+    {
+      "name": "Wraith King",
+      "reason": "Wraith King revives with Reincarnation, which wastes Muerta’s burst window during Pierce the Veil. His sustain and crit-based damage out-trade her in late fights. He can close the gap and slow her before she escapes. Her lack of stuns gives him room to dominate."
+    },
+    {
+      "name": "Chen",
+      "reason": "Chen’s army of creeps absorbs Muerta’s abilities and reduces her effectiveness. His healing and sustain offset her poke and burst. Divine Favor and Hand of God counteract her execution power. Muerta cannot keep up in push scenarios against his units."
+    },
+    {
+      "name": "Axe",
+      "reason": "Axe punishes Muerta’s low mobility with Blink Call and Blade Mail. She cannot easily escape Berserker’s Call or survive his Counter Helix spins. If she uses Pierce the Veil near him, he reflects all the damage. Axe forces her into bad positioning consistently."
+    },
+    {
+      "name": "Centaur Warrunner",
+      "reason": "Centaur’s Blink stun and tankiness make it hard for Muerta to win trades. Her pure damage is good, but not fast enough to stop Retaliate. He disrupts her positioning with Stampede and burst follow-up. Muerta struggles to kite or kill him alone."
+    },
+    {
+      "name": "Zeus",
+      "reason": "Zeus outputs more burst damage than Muerta in teamfights and trades. He can nuke her before she uses Pierce the Veil. His global presence and spell damage give him a clear edge. Muerta cannot hide or burst him fast enough without being punished."
+    },
+    {
+      "name": "Kunkka",
+      "reason": "Kunkka's X Mark the Spot and Torrent make her escape tools irrelevant. He is tanky and hard to burst due to Ghostship’s damage reduction. Her low armor is exploited by his cleave and physical spells. She gets caught easily by his Area of effect combo."
+    },
+    {
+      "name": "Rubick",
+      "reason": "Rubick can steal The Calling or Dead Shot and use them just as well. His Telekinesis disables her before she bursts him. He can position defensively to avoid Pierce the Veil. Muerta’s predictable abilities make her a good spell donor to him."
+    },
+    {
+      "name": "Ringmaster",
+      "reason": "Ringmaster can tank Muerta’s burst while out-scaling her with high Area of effect and disruption. His traps and control punish her stationary ultimate. He can pull or snare her out of position. Muerta finds it hard to contest objectives against him."
+    },
+    {
+      "name": "Templar Assassin",
+      "reason": "Templar Assassin bursts Muerta with high physical damage before she gets value from Pierce the Veil. Her Refraction blocks Muerta’s shots effectively. Templar Assassin snowballs faster and punishes poor positioning. Muerta cannot deal with her tempo advantage."
+    }
+  ]
+}

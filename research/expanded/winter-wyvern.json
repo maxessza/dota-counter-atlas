@@ -1,0 +1,33 @@
+{
+  "name": "Winter Wyvern",
+  "slug": "winter-wyvern",
+  "url": "https://dotacoach.gg/en/heroes/counters/winter-wyvern",
+  "patch": "7.41f",
+  "checked": "2026-09-24",
+  "pairs": [
+    {
+      "name": "Tinker",
+      "reason": "Tinker's Defense Matrix gives him Status Resistance and to all his teammates, which will have your Winters Curse effectiveness lowered. It is also exceptionally hard for you to catch Tinker."
+    },
+    {
+      "name": "Bounty Hunter",
+      "reason": "Bounty Hunters playstyle usually relies on lurking and scouting. This will cost you a lot of gold in buying detection and as well as being tracked will reveal your position."
+    },
+    {
+      "name": "Pugna",
+      "reason": "Pugna's Nether Ward punishes Winter Wyvern for casting spells by dealing damage, making her abilities costly to use. Additionally, Decrepify can save the target of Winter's Curse by making them immune to physical damage"
+    },
+    {
+      "name": "Outworld Devourer",
+      "reason": "Outworld Devourer can counter Winter’s Curse by using Astral Imprisonment to save allies. His magical damage also bypasses Cold Embrace, making Wyvern’s primary save much less effective"
+    },
+    {
+      "name": "Anti-Mage",
+      "reason": "Anti-Mage is a strong counter to Winter Wyvern due to his high magic resistance and spell reflection from Counterspell. His mobility with Blink and Manta Style makes it hard for Wyvern to escape or react defensively before being killed .If he successfully reflects Winter’s Curse, he can potentially turn the entire fight in his favor"
+    },
+    {
+      "name": "Vengeful Spirit",
+      "reason": "Nether Swap is a top-tier counter to Winter’s Curse thanks to its instant cast and long range, making it one of the most reliable tools for saving cursed allies"
+    }
+  ]
+}

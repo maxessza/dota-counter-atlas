@@ -1,0 +1,49 @@
+{
+  "name": "Dark Willow",
+  "slug": "dark-willow",
+  "url": "https://dotacoach.gg/en/heroes/counters/dark-willow",
+  "patch": "7.41f",
+  "checked": "2026-09-24",
+  "pairs": [
+    {
+      "name": "Juggernaut",
+      "reason": "Blade Fury makes him magic immune, allowing him to avoid Willow’s disables and burst damage. His Healing Ward provides sustain for himself and allies during fights, countering Willow’s poke. Juggernaut’s Omnislash can quickly burst Willow down if she gets caught out"
+    },
+    {
+      "name": "Axe",
+      "reason": "Berserker’s Call forces Willow to attack him, disrupting her spellcasting. His Counter Helix punishes Willow’s close-range attacks and summons. Axe’s high durability and tankiness allow him to survive Willow’s burst damage. With Culling Blade, he can finish Willow off quickly if she gets low."
+    },
+    {
+      "name": "Legion Commander",
+      "reason": "Duel locks Willow in place preventing her from escaping or casting spells freely.Legion’s high burst damage can quickly take down Willow during the duel.Willow’s disables are less effective when caught in Duel limiting her teamfight impact.Legion’s Press the Attack can also remove Dark Willow Brambles or Cursed Crown."
+    },
+    {
+      "name": "Phantom Lancer",
+      "reason": "His multiple illusions can absorb Willow’s disables like Cursed Crown and Brambles making it harder to control him. Terrorize is less effective against illusions. Phantom Lancer’s mobility and dispersion allow him to evade Willow’s burst damage. With good positioning he can overwhelm Willow in fights."
+    },
+    {
+      "name": "Warlock",
+      "reason": "Warlock’s Shadow Word provides sustain against Willow’s poke.His Chaotic Offering stuns and deals AoE damage disrupting Willow’s positioning.Warlock’s teamfight presence and healing give him an edge over Willow in prolonged fights."
+    },
+    {
+      "name": "Wraith King",
+      "reason": "His Reincarnation allows him to survive Willow’s burst damage. Wraith King’s passive lifesteal and stuns help him sustain and control fights. Willow’s disables are less effective against his durability and second life .In fights Wraith King can outlast Willow and punish her cooldowns."
+    },
+    {
+      "name": "Leshrac",
+      "reason": "His high magical damage and Diabolic Edict quickly burn Willow. Leshrac’s disables like Pulse Nova and Lightning Storm can disrupt Willow’s spells. His strong lane presence and push make it hard for Willow to control the game. Leshrac’s burst and sustain overpower Willow in fights."
+    },
+    {
+      "name": "Puck",
+      "reason": "Puck’s Illusory Orb and Waning Rift silence and damage Willow, preventing her from casting spells. Puck’s high mobility and Dream Coil control limit Willow’s movement and escape. Puck can outmaneuver and burst Willow down effectively."
+    },
+    {
+      "name": "Queen of Pain",
+      "reason": "Her high burst damage and mobility allow her to quickly kill Willow before she can react.QoP’s Blink helps her dodge Willow’s disables and reposition in fights.Her Scream of Pain and Shadow Strike pressure Willow in lane and teamfights."
+    },
+    {
+      "name": "Elder Titan",
+      "reason": "His Echo Stomp can stun Willow, preventing her from casting spells. Natural Order reduces Willow’s armor and magic resistance, increasing damage taken. Elder Titan’s Astral Spirit provides vision and damage to pressure Willow. His teamfight presence disrupts Willow’s control and burst potential."
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "name": "Silencer",
+  "slug": "silencer",
+  "url": "https://dotacoach.gg/en/heroes/counters/silencer",
+  "patch": "7.41f",
+  "checked": "2026-09-24",
+  "pairs": [
+    {
+      "name": "Phantom Lancer",
+      "reason": "Silencer has no AoE or illusions control, so he gets overwhelmed by PL’s duplicates. PL can easily dodge Arcane Curse and nullify Silencer’s single-target impact. Global Silence doesn’t stop PL’s scaling or survivability."
+    },
+    {
+      "name": "Tidehunter",
+      "reason": "Tidehunter is naturally tanky and can purge Global Silence with Kraken Shell. He shrugs off Silencer’s harass and dominates the teamfight post-silence. Tide doesn't rely on constant spell casting, weakening Silencer’s kit."
+    },
+    {
+      "name": "Abaddon",
+      "reason": "Abaddon dispels Global Silence with Aphotic Shield and his ultimate, Borrowed Time, triggers despite silence. He removes Arcane Curse from himself or allies easily. Silencer has no way to stop Abaddon’s sustain-based playstyle."
+    }
+  ]
+}

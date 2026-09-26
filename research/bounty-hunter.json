@@ -1,0 +1,21 @@
+{
+  "name": "Bounty Hunter",
+  "slug": "bounty-hunter",
+  "url": "https://dotacoach.gg/en/heroes/counters/bounty-hunter",
+  "patch": "7.41f",
+  "checked": "2026-09-24",
+  "pairs": [
+    {
+      "name": "Abaddon",
+      "reason": "Aphotic Shield is a low cooldown ability that can dispel Track and almost matches Tracks's cooldown, making it significantly more difficult for BH to play to his core strengths. Borrowed Time can be activated during Shadow Walk's stun to dispel it and can further dispel Track by itself."
+    },
+    {
+      "name": "Oracle",
+      "reason": "Fortune's End is a low cooldown ability that can dispel Track and almost matches Tracks's cooldown, making it significantly more difficult for BH to play to his core strengths. Additionally, Fortune's End can reveal BH during Shadow Walk . Fate's Edict prevents BH from attacking, hindering his ability to apply Jinada. False Promise adds another layer of protection with a save and an extra dispel for any Tracked targets."
+    },
+    {
+      "name": "Legion Commander",
+      "reason": "Press the Attack is a low cooldown ability that can dispel Track, crippling's BH vision advantage. Duel is effective at locking BH down and killing him as he has an above average BAT increasing the frequency of Moment of Courage procs."
+    }
+  ]
+}

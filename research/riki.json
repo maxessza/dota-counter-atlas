@@ -1,0 +1,21 @@
+{
+  "name": "Riki",
+  "slug": "riki",
+  "url": "https://dotacoach.gg/en/heroes/counters/riki",
+  "patch": "7.41f",
+  "checked": "2026-09-24",
+  "pairs": [
+    {
+      "name": "Axe",
+      "reason": "The taunt from Axe's Berseker's Call makes Riki attack him by force and not remain invisible through Cloak and Dagger, or use Blink Strike and Tricks of the Trade to do more damage or get away. Axe can also proc Counter Helix through the Smoke Screen silence once it reaches enough attack counters. Axe's high HP pool and tanky item purchases also makes it extremely difficult for Riki to ever burst him down, even after he gets Diffusal Blade."
+    },
+    {
+      "name": "Bounty Hunter",
+      "reason": "Bounty Hunter's Track reveals Riki through his Cloak and Dagger invisibility, which is his main asset of roaming and setting up kills. Until he purchases a Manta Style or gets to level 25 for the Dispel talent on Tricks of the Trade, Riki has no way to take off Track and finds it extremely difficult to play around it. Bounty Hunter's high armor also makes him relatively tanky against Riki's physical damage."
+    },
+    {
+      "name": "Bristleback",
+      "reason": "Bristleback takes reduced damage when getting hit from the back because of his passive Bristleback ability. This massively counters Riki as his Blink Strike lands him behind Bristleback for right clicks, and his Tricks of the Trade also strikes enemy units from behind in its AoE. Bristleback also releases Quill Spray or Viscous Nasal Goo from the Bristleback damage threshold, depending on the facet he selected, which reflects damage back to Riki or deters him from fighting because of the armor reduction."
+    }
+  ]
+}

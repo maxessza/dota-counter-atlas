@@ -1,0 +1,21 @@
+{
+  "name": "Templar Assassin",
+  "slug": "templar-assassin",
+  "url": "https://dotacoach.gg/en/heroes/counters/templar-assassin",
+  "patch": "7.41f",
+  "checked": "2026-09-24",
+  "pairs": [
+    {
+      "name": "Huskar",
+      "reason": "Huskar's burn damage from Burning Spear is incredibly strong against Templar Assassin as it completely cancels out her Refraction from the burning over time which results in making her very vulnerable to ganks and harassments, and in turn forcing her out of the lane. Huskar often buys Heaven's Halberd."
+    },
+    {
+      "name": "Viper",
+      "reason": "The damage over time from Viper's Poison Attack and Viper Strike rapidly wear down Refraction charges, allowing Templar Assassin to be damaged. Additionally, Corrosive Skin causes her attacks to apply damage overtime on her as well."
+    },
+    {
+      "name": "Phantom Lancer",
+      "reason": "Phantom Lancer's illusions destroy Refraction charges very quickly. Diffusal Blade, his core item, drains Templar Assassin's small mana pool, rendering her unable to save herself with Meld."
+    }
+  ]
+}

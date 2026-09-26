@@ -1,0 +1,21 @@
+{
+  "name": "Puck",
+  "slug": "puck",
+  "url": "https://dotacoach.gg/en/heroes/counters/puck",
+  "patch": "7.41f",
+  "checked": "2026-09-24",
+  "pairs": [
+    {
+      "name": "Night Stalker",
+      "reason": "Night Stalker silences and reveals Puck during Night Time. Crippling Fear prevents all spellcasting and forces BKB. Puck has no safe escape once silenced. Night Stalker is one of the best counters to mobile, squishy heroes."
+    },
+    {
+      "name": "Riki",
+      "reason": "Riki’s Smoke Screen disables Puck’s spell usage completely. He can scout and follow Puck even in trees or during Orb. Diffusal Blade and burst damage kill Puck fast. Puck struggles in teamfights when silenced from invisibility."
+    },
+    {
+      "name": "Lone Druid",
+      "reason": "Lone Druid’s bear is tanky and applies strong push and root pressure. Puck can’t clear the bear easily with his burst. Once rooted, Puck dies quickly to physical damage. Druid forces early towers and ends games before Puck scales."
+    }
+  ]
+}

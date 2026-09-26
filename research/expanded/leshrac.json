@@ -1,0 +1,45 @@
+{
+  "name": "Leshrac",
+  "slug": "leshrac",
+  "url": "https://dotacoach.gg/en/heroes/counters/leshrac",
+  "patch": "7.41f",
+  "checked": "2026-09-24",
+  "pairs": [
+    {
+      "name": "Ancient Apparition",
+      "reason": "AA's ult - Ice Blast completely negates Leshrac's sustain in fights, crippling him significantly and forces him to flee the fight altogether or risk getting bursted. He can keep his distance in order to use his spell making it difficult for Leshrac to reach him."
+    },
+    {
+      "name": "Medusa",
+      "reason": "Medusa's unique Mana Shield counts as a damage absorb, which does not proc any Lifesteal or Spelllifesteal effects. Leshrac naturally has a high mana pool trough his base stats and natural itemization, which Medusa can further abuse to sustain herself trough Mystic Snake."
+    },
+    {
+      "name": "Drow Ranger",
+      "reason": "Drow Ranger's Aghanim's Scepter is one of the strongest healing reduction abilities in DOTA and greatly diminishes Leshrac's sustain. She has high attack range to keep her distance and a consistent slow to kite Leshrac, making it difficult for him to get on top of her."
+    },
+    {
+      "name": "Doom",
+      "reason": "Doom's ult - Doom completely negates Leshrac's sustain in fights, crippling him significantly and forces him to flee the fight altogether or risk getting bursted. He's a natural Shiva builder and can Devour a Vhoul Assassin, which makes him greatly effective even outside of Doom."
+    },
+    {
+      "name": "Lifestealer",
+      "reason": "Lifestealer has multiple ways of mitigating or completely avoiding Leshrac's damage trough his Rage/Unfettered and Infest. His abudance of sustain trough Feast and Open Wounds can easily result in a situation where Leshrac runs out of Mana before LS runs out of HP."
+    },
+    {
+      "name": "Ember Spirit",
+      "reason": "Ember's flexible itemization allows him to go for all 4 healing reduction items (Shiva, Skadi, Vessel, Orb of Corrosion) and a Mageslayer completely crippling Leshrac's sustain and damage output. His mobility is borderline ridiculous and makes it hard for Lesh to stay on top of him."
+    },
+    {
+      "name": "Undying",
+      "reason": "Undying excels in long fights, where Leshrac normally thrives but Tombstone shifts that advantage. Decay reduces Leshrac’s effective HP pool, weakening his early presence. Leshrac struggles to kill Tombstone with right-clicks, and his team gets zoned out. In lane, Undying can easily out-sustain and harass Leshrac."
+    },
+    {
+      "name": "Queen of Pain",
+      "reason": "QoP's high mobility lets her blink out of Pulse Nova and split Earth range. She can dodge Leshrac’s skill shots and harass him hard in lane with Shadow Strike. Leshrac has no silence or hard lockdown, making him an easy target post-laning."
+    },
+    {
+      "name": "Elder Titan",
+      "reason": "Natural Order removes Leshrac’s base magic resistance and armor, making him paper-thin. Spirit + Stomp combo disables Leshrac. In teamfights, Leshrac often gets deleted by Echo Stomp + Earth Splitter before he can output damage. ET’s aura destroys Leshrac’s mid-game tankiness that he depends on."
+    }
+  ]
+}

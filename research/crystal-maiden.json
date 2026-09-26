@@ -1,0 +1,21 @@
+{
+  "name": "Crystal Maiden",
+  "slug": "crystal-maiden",
+  "url": "https://dotacoach.gg/en/heroes/counters/crystal-maiden",
+  "patch": "7.41f",
+  "checked": "2026-09-24",
+  "pairs": [
+    {
+      "name": "Anti-Mage",
+      "reason": "His high mobility and Spell Shield make it hard for CM to land spells. He easily jumps and kills her due to her low mobility and armor. Mana Void punishes her high mana pool and teamfights."
+    },
+    {
+      "name": "Nyx Assassin",
+      "reason": "He easily sets up kills on CM with Vendetta and Mana Burn. Spiked Carapace reflects her AoE spells, punishing her in fights. CM’s low HP makes her an easy target for Nyx’s burst combo."
+    },
+    {
+      "name": "Pugna",
+      "reason": "Nether Ward heavily punishes CM’s high mana-cost spells."
+    }
+  ]
+}

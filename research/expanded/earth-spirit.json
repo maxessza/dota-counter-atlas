@@ -1,0 +1,45 @@
+{
+  "name": "Earth Spirit",
+  "slug": "earth-spirit",
+  "url": "https://dotacoach.gg/en/heroes/counters/earth-spirit",
+  "patch": "7.41f",
+  "checked": "2026-09-24",
+  "pairs": [
+    {
+      "name": "Bane",
+      "reason": "Earth Spirit struggles versus Bane because Bane’s Fiend’s Grip can disable him for a long duration, preventing Earth Spirit from using his spells or escaping. Bane’s strong single-target lockdown and nightmare control limit Earth Spirit’s ability to initiate or counterinitiate effectively. This makes it dangerous for Earth Spirit to enter fights without backup."
+    },
+    {
+      "name": "Lycan",
+      "reason": "Against Lycan, Earth Spirit finds it difficult to deal with Lycan’s strong pushing power and summoned units, which can overwhelm his abilities. Lycan’s high physical damage and mobility let him chase Earth Spirit down, making it risky for Earth to engage. Additionally, Lycan’s ultimate boosts his survivability and damage, reducing Earth Spirit’s impact in fights."
+    },
+    {
+      "name": "Dazzle",
+      "reason": "Earth Spirit struggles against Dazzle because Dazzle’s Shallow Grave can save allies from his burst damage and stuns, making it harder for Earth Spirit to secure kills. Dazzle’s strong healing and armor reduction also help his team survive Earth Spirit’s damage and control, prolonging fights."
+    },
+    {
+      "name": "Marci",
+      "reason": "Earth Spirit is bad against Marci because her high mobility and disables make it hard for him to lock her down. Marci can quickly dodge his skillshots and punish him during his cooldowns. Her sustain and crowd control disrupt Earth Spirit’s initiation and burst damage."
+    },
+    {
+      "name": "Enigma",
+      "reason": "Against Enigma, Earth Spirit struggles because Enigma’s Black Hole disables multiple heroes, making it difficult for Earth Spirit to act or escape during fights. Enigma’s ability to summon Eidolons also creates distractions and forces Earth Spirit to split his attention, reducing his effectiveness."
+    },
+    {
+      "name": "Huskar",
+      "reason": "Earth Spirit is weak versus Huskar because Huskar’s life-steal and magic resistance let him survive Earth Spirit’s burst damage. Huskar can aggressively fight Earth Spirit, especially at low health, forcing him to play cautiously. His Burning Spear damage and sustain make it tough for Earth Spirit to secure kills early."
+    },
+    {
+      "name": "Grimstroke",
+      "reason": "Earth Spirit struggles against Grimstroke because Grimstroke’s Ink Swell provides strong crowd control and damage, making it risky for Earth Spirit to initiate. Grimstroke’s Stroke of Fate can poke and harass from a distance, limiting Earth Spirit’s ability to engage safely. Additionally, Grimstroke’s Soulbind amplifies disables on multiple targets, increasing the threat Earth Spirit poses."
+    },
+    {
+      "name": "Lifestealer",
+      "reason": "Against Lifestealer, Earth Spirit has a hard time dealing with Lifestealer’s high durability and Rage ability, which grants magic immunity during fights. Lifestealer can easily shrug off Earth Spirit’s disables and punish him with strong melee damage. The close-range nature of Lifestealer forces Earth Spirit to be cautious about when and how to engage."
+    },
+    {
+      "name": "Elder Titan",
+      "reason": "Earth Spirit is weak versus Elder Titan because his Spirit and natural tankiness absorb much of Earth Spirit’s burst damage. Elder Titan’s Earth Splitter ultimate creates zone control that limits Earth Spirit’s movement and initiation options. The Astral Spirit can also scout and harass Earth Spirit, making it harder for him to find openings."
+    }
+  ]
+}

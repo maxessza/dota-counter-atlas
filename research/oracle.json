@@ -1,0 +1,21 @@
+{
+  "name": "Oracle",
+  "slug": "oracle",
+  "url": "https://dotacoach.gg/en/heroes/counters/oracle",
+  "patch": "7.41f",
+  "checked": "2026-09-24",
+  "pairs": [
+    {
+      "name": "Shadow Demon",
+      "reason": "Demonic Purge dispels Fate's Edict Magic Resistance and Purifying Flame's heal buff, while Demonic Cleanse (Aghanim's Shard Upgade) dispels both Fortune's End's root and Fate's Edict Disarm. Shadow Poison cannot be dispelled by Fortune's End. Disruption can prevent Fortune's End from connecting to it's target and dispelling and vital buffs or debuffs from it."
+    },
+    {
+      "name": "Lone Druid",
+      "reason": "LD can pick up an Aghanim's Shard and when combined with his level 15 talent for Savage Roar can have a low cooldown dispel for both Fate's Edict's disarm and Fortune's End's root for both LD and the Spirit Bear, that almost matches Fate's Edict cooldown. This makes it hard for Oracle to stop LD and Spirit Bear to run rampart."
+    },
+    {
+      "name": "Undying",
+      "reason": "Decay partially works trough both False Promise and Fate's Edict's Magic Resistance as it keeps reducing Strength and the target's current HP. The only thing that Fortune's End can dispel are Flesh Golem's Plague and Tombstone's Deathlust Slow, which can be easily re-applied. Oracle does not contribute in any meaningful way towards Tombstone's destruction."
+    }
+  ]
+}

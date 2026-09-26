@@ -1,0 +1,21 @@
+{
+  "name": "Nature's Prophet",
+  "slug": "natures-prophet",
+  "url": "https://dotacoach.gg/en/heroes/counters/natures-prophet",
+  "patch": "7.41f",
+  "checked": "2026-09-24",
+  "pairs": [
+    {
+      "name": "Batrider",
+      "reason": "Batrider has an easy time getting close to an immobile Nature's Prophet with Sticky Napalm stacks and Firefly, which also breaks the Sprout trees to maintain vision and keep on top of him. Nature's Prophet also struggles to Teleport away because of the long duration Flaming Lasso lockdown. Flamebreak also breaks Sprout trees when a unit that is pushed collides with a tree."
+    },
+    {
+      "name": "Broodmother",
+      "reason": "Nature's Prophet can never trap or hold back Broodmother or her Spiderlings with Sprout while they are in the AoE of one of her Webs. Broodmother also has an easy time running at a squishy and immobile Nature's Prophet and burst him down before he can Teleport away. However, Broodmother has to be careful about the damage from Sprout and Wrath of Nature as it can kill most of her Spider army."
+    },
+    {
+      "name": "Dawnbreaker",
+      "reason": "Dawnbreaker's Celestial Hammer gives her mobility to get on top of a squishy and immobile Nature's Prophet while breaking his Sprout trees to maintain vision of him. Dawnbreaker can also use one of her teammates to use Solar Guardian to get close to Nature's Prophet while saving her ally caught inside Sprout. Dawnbreaker's high damage through her spells and right clicks also helps deal with Treants throughout the game."
+    }
+  ]
+}

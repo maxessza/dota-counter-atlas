@@ -1,0 +1,49 @@
+{
+  "name": "Jakiro",
+  "slug": "jakiro",
+  "url": "https://dotacoach.gg/en/heroes/counters/jakiro",
+  "patch": "7.41f",
+  "checked": "2026-09-24",
+  "pairs": [
+    {
+      "name": "Anti-Mage",
+      "reason": "Blink allows Anti-Mage to both, escape from Jakiro and to hunt down Jakiro, who has no way to escape without items. Counterspell protects Anti-Mage against Jakiro's mostly-magical damage. Both Mana Void and Mana Burn is very hazardous for Jakiro because of his high mana."
+    },
+    {
+      "name": "Clockwerk",
+      "reason": "Battery Assault prevents Jakiro from casting spells as all his spells have very long cast times. Jakiro is also an easy target for Clockwerk's Hookshot + Power Cogs combo, as he has little mobility and no escape without items. Alternatively, if the enemy Clockwerk traps one of his own allies or Jakiro's allies in the cogs, it gives Jakiro an ideal setup to punish Clockwerk and his ally or to save Jakiro's ally."
+    },
+    {
+      "name": "Rubick",
+      "reason": "Fade Bolt can hinder Jakiro's early pushing power by clearing creep waves. All of Jakiro's spells are great for Rubick to Spell Steal. Ice Path is a great spell for Rubick so steal, since Rubick has no cast time on stolen abilities, making Rubick's version of Ice Path much more reliable than Jakiro's. Macropyre is a great way for Rubick to deal immense amount of damage."
+    },
+    {
+      "name": "Morphling",
+      "reason": "Morphling has high mobility with Waveform and can escape Macropyre and Ice Path easily. He shifts into high Strength during Jakiro’s slow damage over time from Dual Breath and Liquid Fire. He can also Morph into Jakiro and use his spells effectively. Jakiro’s lack of burst damage makes it hard to punish Morphling early."
+    },
+    {
+      "name": "Pangolier",
+      "reason": "Pangolier’s Rolling Thunder interrupts Jakiro’s long cast animations. Jakiro has no mobility and gets chain-stunned easily by Shield Crash and Rolling Thunder. Dual Breath and Ice Path are hard to land on a rolling Pangolier."
+    },
+    {
+      "name": "Tidehunter",
+      "reason": "Tidehunter shrugs off Jakiro’s spell with high natural HP regen and Kraken Shell dispell. Ravage disrupts Jakiro's spell casting and team fight setup. Jakiro cannot zone Tide effectively in lane due to Anchor Smash reducing his damage. Jakiro's slow damage output can't threaten Tide post-laning phase."
+    },
+    {
+      "name": "Tinker",
+      "reason": "Tinker rearms and keeps his distance, while Jakiro lacks gap-closing and burst. March of the Machines clears waves faster than Jakiro can push. Ice Path and Macropyre don’t reach Tinker once he starts blinking and hiding."
+    },
+    {
+      "name": "Batrider",
+      "reason": "Batrider dominates Jakiro in lane with Sticky Napalm stacking. Jakiro’s slow cast times make him vulnerable to Lasso initiation. Flamebreak and Firefly kill him quickly as he lacks escape tools."
+    },
+    {
+      "name": "Legion Commander",
+      "reason": "Legion easily duels Jakiro due to his immobility and low armor. Jakiro’s slow cast time makes it hard to react to Duel. Even if Jakiro survives, his damage-over-time spells won’t stop Legion’s single-target burst. Legion builds BKB/Scetper early, ignoring Jakiro’s control spells."
+    },
+    {
+      "name": "Huskar",
+      "reason": "Huskar’s high magic resistance from Berserker’s Blood makes him resist all of Jakiro’s magic damage. He jumps Jakiro with Life Break and melts him in seconds. Jakiro cannot disengage once Huskar is on top of him. Ice Path is too slow to interrupt his aggressive plays."
+    }
+  ]
+}

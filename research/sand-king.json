@@ -1,0 +1,21 @@
+{
+  "name": "Sand King",
+  "slug": "sand-king",
+  "url": "https://dotacoach.gg/en/heroes/counters/sand-king",
+  "patch": "7.41f",
+  "checked": "2026-09-24",
+  "pairs": [
+    {
+      "name": "Lifestealer",
+      "reason": "Lifestealers Rage provides Magic Resistance and Debuff Immunity which helps with all of Sandkings Spells."
+    },
+    {
+      "name": "Juggernaut",
+      "reason": "Blade Fury provides Magic Resistance and Debuff Immunity which helps with all of Sandkings Spells."
+    },
+    {
+      "name": "Wraith King",
+      "reason": "Sand King relies on comboing enemies from 100 to 0 using Epicenter and Burrowstrike. However, Wraith King's Reincarnation makes him a poor target, as Sand King usually doesn't want to commit his full combo on a hero who immediately comes back to life"
+    }
+  ]
+}

@@ -1,0 +1,69 @@
+{
+  "name": "Chaos Knight",
+  "slug": "chaos-knight",
+  "url": "https://dotacoach.gg/en/heroes/counters/chaos-knight",
+  "patch": "7.41f",
+  "checked": "2026-09-24",
+  "pairs": [
+    {
+      "name": "Shadow Demon",
+      "reason": "SD can use Disruption on both CK and his Phantasm Illusions to create Illusions of his own that inherit Chaos Strike, while CK's own innate Reins of Chaos can be triggered by Disruption to create additional Illusions for SD. Disruption can also be used as a save to disrupt CK's Chaos Bolt/Reality Rift combo and prevent him from bursting a single target down."
+    },
+    {
+      "name": "Dark Seer",
+      "reason": "Wall of Replica and Normal Punch (Aghanim's Scepter Upgrade) can create Illusions of CK that inherit Chaos Strike. CK's own innate Reins of Chaos can trigger both on Wall of Replica and Normal Punch, creating additional Illusions. Normal Punch can additionally create Illusions from ANY CK Illusions and not necessarily CK himself."
+    },
+    {
+      "name": "Tidehunter",
+      "reason": "Blubber can dispel both Chaos Strike and Reality Rift, allowing Tide to counter initiate and stun CK and all of his Illusions with Ravage. Anchor Smash can mitigate most of CK's and his Illusions' damage as most of his total damage output comes from attacking. Dead in the Water (Aghanim's Shard Upgrade) prevents CK from using Reality Rift and his Illusions do reduced damage to it. Kraken Shell provides further damage mitigation against CK's attacks."
+    },
+    {
+      "name": "Medusa",
+      "reason": "All of Medusa's abilities are AOE, making her very effective versus CK and his Illusions. Split Shot allows Dusa to attack CK and any of his Illusions. Reality Rift cannot be used during Gorgon's Grasp. Stone Gaze and Mystic Snake's Aghanim's Scepter upgrade allow Medusa to stun all of CK's Illusions. Mana Shield does not take into account Reality Rift's armor reduction and as much single target burst damage CK can output with his Phantasm, realistically he struggles to go trough all of Dusa's mana pool in a single Chaos Bolt - once Dusa is able to get Stone Gaze of CK is forced to retreat."
+    },
+    {
+      "name": "Axe",
+      "reason": "CK's total damage output is mostly physical, trough his and his Illusions' attacks, which get greatly mitigated by Axe's infinetely scaling Armor and trigger Counter Helix. Berserker's Call can lock down both CK and his Illusions and Aghanim's Scepter can reduce CK's right-click damage significantly, which is most of his total damage output."
+    },
+    {
+      "name": "Terrorblade",
+      "reason": "Due to Chaos Knight’s Reins of Chaos facet constantly summoning illusions, Terrorblade can use Reflection to spawn his own illusions of Chaos Knight. These reflected illusions hit hard and help Terrorblade dominate the lane, especially during early trades. This interaction makes it difficult for Chaos Knight to sustain or commit aggressively, giving Terrorblade a strong laning advantage."
+    },
+    {
+      "name": "Phantom Lancer",
+      "reason": "Phantom Lancer can dodge Chaos Knight's Chaos Bolt using Doppelganger. Doppelganger grants a brief period of invulnerability and disjoints projectiles. If timed correctly, it completely evades Chaos Bolt. It also creates illusions, making it harder for Chaos Knight to find the real PL. This makes Doppelganger a strong counterplay tool against Chaos Knight's stun"
+    },
+    {
+      "name": "Naga Siren",
+      "reason": "Naga's ultimate, Song of the Siren, puts all nearby enemies to sleep, allowing her to disengage from fights or set up team plays. This is particularly useful against Chaos Mirror Image creates illusions and disjoints projectiles, enabling Naga to dodge Chaos Knight's Chaos Bolt if timed correctly. Naga's illusions can match or surpass those of Chaos Knight, especially when equipped with items like Manta Style and Radiance. Her illusions benefit from Rip Tide, which reduces enemy armor and deals area damage, effectively clearing Chaos Knight's illusion, Ensnare roots Chaos Knight, preventing him from using Reality Rift to reposition or escape, giving Naga's team an advantage in engagements."
+    },
+    {
+      "name": "Warlock",
+      "reason": "Warlock is strong against Chaos Knight due to his area-of-effect abilities. He can cast Fatal Bonds on Chaos Knight and his illusions, linking their damage. Follow up with Chaotic Offering to stun and damage them all at once. Upheaval slows Chaos Knight and his illusions, making escape or chasing difficult. This combo can quickly eliminate Chaos Knight’s illusions and turn teamfights."
+    },
+    {
+      "name": "Kunkka",
+      "reason": "Kunkka is generally favored against Chaos Knight in fights. Torrent and Ghostship deal AoE damage, clearing Chaos Knight's illusions effectively. X Marks the Spot prevents Chaos Knight from escaping after using Reality Rift. Kunkka’s high durability and Cleave from Tidebringer punish grouped illusion"
+    },
+    {
+      "name": "Timbersaw",
+      "reason": "His Whirling Death and Chakram deal pure AoE damage, quickly clearing illusions. Reactive Armor gives him tankiness against Chaos Knight’s burst and right-clicks. Timber Chain allows him to escape Reality Rift and reposition easily. Chaos Knight struggles to deal sustained damage to Timbersaw due to his durability and illusion-clearing tools."
+    },
+    {
+      "name": "Sand King",
+      "reason": "Sand Storm and Caustic Finale deal AoE damage, clearing illusions efficiently. Burrowstrike provides reliable stun and escape from Reality Rift. Epicenter deals massive AoE magic damage, overwhelming Chaos Knight and his illusions. Sand King's AoE burst and mobility make him a strong counter to Chaos Knight’s illusion-based playstyle."
+    },
+    {
+      "name": "Winter Wyvern",
+      "reason": "Winter’s Curse can force Chaos Knight and his illusions to attack each other, often killing him. Splinter Blast hits a main target and damages nearby illusions, helping clear them. Arctic Burn slows and deals percentage-based damage, piercing Chaos Knight’s tankiness. Cold Embrace can save allies from Chaos Knight’s burst by granting strong healing and armor."
+    },
+    {
+      "name": "Brewmaster",
+      "reason": "His Primal Split creates powerful elemental spirits that can disable and harass Chaos Knight and his illusions. Thunder Clap reduces enemy attack speed, limiting Chaos Knight’s damage output. Brewmaster’s tankiness and crowd control help survive Chaos Knight’s burst and control the fight. Using Storm Brewling’s Cyclone during Primal Split can lock down Chaos Knight, preventing him from using abilities."
+    },
+    {
+      "name": "Earthshaker",
+      "reason": "His Fissure provides a reliable stun and terrain block, disrupting Chaos Knight’s initiation. Aftershock combos with his abilities to deal burst AoE damage, clearing illusions quickly. Echo Slam is devastating against Chaos Knight’s illusions, often turning fights decisively. Earthshaker’s crowd control and AoE damage make him a strong counter to Chaos Knight’s playstyle."
+    }
+  ]
+}

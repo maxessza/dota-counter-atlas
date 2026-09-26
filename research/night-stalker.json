@@ -1,0 +1,21 @@
+{
+  "name": "Night Stalker",
+  "slug": "night-stalker",
+  "url": "https://dotacoach.gg/en/heroes/counters/night-stalker",
+  "patch": "7.41f",
+  "checked": "2026-09-24",
+  "pairs": [
+    {
+      "name": "Naga Siren",
+      "reason": "Nightstalker's lack of AOE damage makes it difficult for him to deal with Mirror Image Illusions - this allows Naga to manfight him and to keep the waves pushed, giving her and her team the upper hand. Both Ensnare and Song of the Siren can be used to lockdown or kite Nightstalker during Dark Ascension."
+    },
+    {
+      "name": "Arc Warden",
+      "reason": "NS loves isolating a single target and Tempest Double allows Arc to have reliable backup to fight back. Flux and Spark Wraith slow, which greatly help with kiting NS while Magnetic Field provides evasion for Arc and his team. Arc Warden’s strong split-pushing forces Night Stalker to spread thin as he is slow at clearing waves, and Spark Wraith provides vision, diminishing Night Stalker’s ability to fly and hide over cliffs and terrain during Dark Ascension."
+    },
+    {
+      "name": "Bloodseeker",
+      "reason": "Rupture limits NS's mobility from Hunter in the Night as he is forced to pay in blood to make use of his enhanced movement speed as well as flying over terrain during Dark Ascension. Thirst and Blood Rite can provide vision on NS as he tries to juke and hide over trees and cliffs in order to disengeage a fight when he gets low on health."
+    }
+  ]
+}

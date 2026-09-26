@@ -1,0 +1,21 @@
+{
+  "name": "Shadow Shaman",
+  "slug": "shadow-shaman",
+  "url": "https://dotacoach.gg/en/heroes/counters/shadow-shaman",
+  "patch": "7.41f",
+  "checked": "2026-09-24",
+  "pairs": [
+    {
+      "name": "Visage",
+      "reason": "Visage’s familiars interrupt Shackles and easily cancel any channeling. His burst damage deletes Shadow Shaman quickly, and he’s tanky enough to survive wards with Cloak and Gravekeeper’s Cloak."
+    },
+    {
+      "name": "Terrorblade",
+      "reason": "Terrorblade's illusions easily kill Serpent Wards while he remains untouched. Shadow Shaman lacks the AoE tools to clear illusions, and he dies in a few hits if caught out."
+    },
+    {
+      "name": "Lone Druid",
+      "reason": "Lone Druid’s bear can break Shackles or tank Serpent Wards while the Druid focuses down Shaman. The dual-target threat makes it hard to lock him down properly in fights."
+    }
+  ]
+}

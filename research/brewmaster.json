@@ -1,0 +1,21 @@
+{
+  "name": "Brewmaster",
+  "slug": "brewmaster",
+  "url": "https://dotacoach.gg/en/heroes/counters/brewmaster",
+  "patch": "7.41f",
+  "checked": "2026-09-24",
+  "pairs": [
+    {
+      "name": "Visage",
+      "reason": "Visage can easily outfight Brewmaster by leveraging his powerful familiars. The familiars add consistent damage and lockdown, making it difficult for Brewmaster to engage safely. Their burst and control can overwhelm Brewmaster before he fully commits to fights. Visage’s ability to zone and pressure with familiars gives him an advantage in sustained engagements."
+    },
+    {
+      "name": "Lycan",
+      "reason": "Lycan can easily turn on Brewmaster using Shape Shift for increased movement speed and damage. He can quickly chase down and pick off Brewlings due to their low durability and slower movement. Lycan’s high mobility and burst make it hard for Brewmaster to maintain control in fights. This allows Lycan to exploit Brewmaster’s weaknesses and dominate engagements"
+    },
+    {
+      "name": "Primal Beast",
+      "reason": "Primal Beast can get on top of Brewmaster using Onslaught of the Beast and Pulverize to initiate aggressively. He can use Trample to quickly kill Brewmaster’s Brewlings, removing Brewmaster’s key control tools. Primal Beast’s lockdown and burst damage make him a strong counter to Brewmaster in fights"
+    }
+  ]
+}

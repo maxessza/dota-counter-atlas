@@ -1,0 +1,21 @@
+{
+  "name": "Razor",
+  "slug": "razor",
+  "url": "https://dotacoach.gg/en/heroes/counters/razor",
+  "patch": "7.41f",
+  "checked": "2026-09-24",
+  "pairs": [
+    {
+      "name": "Primal Beast",
+      "reason": "Primal Beast closes gaps quickly, making Razor’s kiting ineffective. Onslaught and Trample punish Razor’s lack of lockdown or escape. Razor gets interrupted before Static Link becomes impactful. Primal Beast snowballs easily through Razor’s weak early damage."
+    },
+    {
+      "name": "Queen of Pain",
+      "reason": "Queen of Pain out-ranges and out-pokes Razor in lane. Her Blink allows easy escapes from Static Link attempts. She builds magical burst damage that Razor cannot reduce. Razor is forced to waste Plasma Field just to stay relevant in fights."
+    },
+    {
+      "name": "Bloodseeker",
+      "reason": "Bloodseeker thrives on fast movement and punishes Razor’s chase attempts with Rupture. Razor cannot run without taking massive damage. Blood Rite zones Razor from using Static Link safely. Razor gets outpaced in tempo and punished in overextensions."
+    }
+  ]
+}

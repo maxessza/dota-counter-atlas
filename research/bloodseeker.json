@@ -1,0 +1,21 @@
+{
+  "name": "Bloodseeker",
+  "slug": "bloodseeker",
+  "url": "https://dotacoach.gg/en/heroes/counters/bloodseeker",
+  "patch": "7.41f",
+  "checked": "2026-09-24",
+  "pairs": [
+    {
+      "name": "Medusa",
+      "reason": "Mana Shield provides the perfect defense for Medusa against Thirst as you generally have to go through her entire Mana Pool before being able to reduce her HP significantly. She can use Stone Gaze to stand her ground in order to deal with Rupture and Blood Mist is horrible against Mana Shield as it does not trigger any Lifesteal and her low HP pool counteracts the max HP percentage damage. Cold Blooded (Aghanim's Shard) procs from Rupture providing her an extra layer of protection."
+    },
+    {
+      "name": "Storm Spirit",
+      "reason": "Ball of Lightning provides invulnerability allowing Storm to stay mobile, while affected by Rupture as it does not damage him during it. This also allows Storm to dodge Blood Rite or just move out of it entirely and keep his distance from Bloodseeker."
+    },
+    {
+      "name": "Juggernaut",
+      "reason": "Healing Ward provides massive AOE healing, which makes it significantly more difficult for Thirst to empower Bloodseeker. Blade Fury can be used to soak Blood Rite, while Omnislash and Swiftslash (Aghanim's Scepter upgrade) provide invulnerability allowing Jugg to use them during Rupture without getting damaged and pack enough burst damage to outright kill Bloodseeker."
+    }
+  ]
+}

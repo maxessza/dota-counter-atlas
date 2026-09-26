@@ -1,0 +1,21 @@
+{
+  "name": "Lion",
+  "slug": "lion",
+  "url": "https://dotacoach.gg/en/heroes/counters/lion",
+  "patch": "7.41f",
+  "checked": "2026-09-24",
+  "pairs": [
+    {
+      "name": "Tidehunter",
+      "reason": "Blubber can dispel both Earth Spike and Hex without a cooldown essentially, as long as Tide is taking sufficient damage and can survie it. This makes Tide impossible to initiate on without a Break as upon dispelling the crowd control with Blubber he can instantly \"turn the tide\" with Ravage."
+    },
+    {
+      "name": "Spectre",
+      "reason": "Shadow Step allows Spectre to consistently get on top of Lion and dirsupt him from efficiently using his Earth Spike and Hex. Spectral Dagger allows Spectre to track him down even in Glimmer Cape and Dispersion makes it hard for Lion to fight back with Finger of Death."
+    },
+    {
+      "name": "Rubick",
+      "reason": "Rubick takes Lion's kit and turns it against him and his team, but better. Spell Steal increases the duration of both Earth Spike and Hex, while Arcane Supremacy increases the damage of Earth Spike and Finger of Death. Might and Magus provides additional Magic Resistance to Rubick making him suprisingly tanky versus Lion's exclusive magic damage kit."
+    }
+  ]
+}

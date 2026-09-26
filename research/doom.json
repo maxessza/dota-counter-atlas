@@ -1,0 +1,21 @@
+{
+  "name": "Doom",
+  "slug": "doom",
+  "url": "https://dotacoach.gg/en/heroes/counters/doom",
+  "patch": "7.41f",
+  "checked": "2026-09-24",
+  "pairs": [
+    {
+      "name": "Arc Warden",
+      "reason": "Tempest Double allows Arc to fight even when Doomed, diminishing Doom's impact. His Magnetic Field provides evasion for him and his team making Infernal Blade clunky to use due to Doom's increased attack range. Arc's split pushing and kiting potential make it hard for Doom to control him, effectively countering Doom's single-target, ultimate-dependant playstyle."
+    },
+    {
+      "name": "Meepo",
+      "reason": "Divided we Stand allows Meepo to keep most of his impact even when Doomed. Most importantly, Megameepo (Aghanim's Scepeter Upgrade) allows Meepo Prime to save any of his Meepo's from Doom and completely prevent the Doomed Meepo from receiving any damage for its duration from any source other than Doom. This greatly complicates Doom's gameplay as post Aghanim's Scepeter he is forced to Doom Meepo Prime, who can just stay back and Poof himself onto the Doomed Meepo to save him."
+    },
+    {
+      "name": "Medusa",
+      "reason": "Mana Shield does not take into account any Armor or Magic Resistance, making it the perfect counter to Doom's Pure Damage. Cold Blooded (Aghanim's Shard Upgrade) when combined with Aghanim's Scepeter allows Dusa to stun Doom upon casting Doom and naturally create distance. Doom lacks Mana Burn and the Attack Speed to justify a Diffusal/Disperser and struggles greatly to get trough Dusa's Manapool."
+    }
+  ]
+}

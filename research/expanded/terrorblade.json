@@ -1,0 +1,49 @@
+{
+  "name": "Terrorblade",
+  "slug": "terrorblade",
+  "url": "https://dotacoach.gg/en/heroes/counters/terrorblade",
+  "patch": "7.41f",
+  "checked": "2026-09-24",
+  "pairs": [
+    {
+      "name": "Dark Seer",
+      "reason": "Wall of Replica and Normal Punch (Aghanim's Scepter Upgrade) can create multiple Illusions of TB to do devastating amounts of damage to his own team as he tends to build heavy stat items to improve his own Mirror Image Illusions' damage and durability. The Illusions DS creates inherit Metamorphosis if it was active at the moment of creating the Illusion. In lane, TB struggles versus Ion Shell as he is a low HP but high Armor melee hero, that lacks wave clear. Surge is amazing at both disengaging and closing the gap on TB as Conjure Image's slow does not work during it."
+    },
+    {
+      "name": "Axe",
+      "reason": "Axe is the hardest counter to TB. He clears illusions with Battle Hunger and Counter Helix, locks TB with Berserker’s Call, and bursts him down before Sunder with Culling Blade. His toolkit punishes illusion-based heroes hard."
+    },
+    {
+      "name": "Phantom Lancer",
+      "reason": "PL overwhelms TB with illusions. TB can't tell the real PL apart, and Reflection isn’t useful against illusions. PL also has natural Diffusal Blade to burn TB’s mana, making Sunder risky or impossible to use."
+    },
+    {
+      "name": "Tinker",
+      "reason": "Tinker spams lasers to wipe illusions from afar. TB can’t reach or pressure him easily without support, and Laser's Blind heavily cripples TB’s right-click DPS. Tinker thrives against illusion carries like TB."
+    },
+    {
+      "name": "Winter Wyvern",
+      "reason": "Winter’s Curse can turn TB’s illusions against him, dealing massive damage to his teammates. She stalls pushes with Splinter Blast and zones TB out with Arctic Burn. Wyvern punishes TB's clumping and illusions."
+    },
+    {
+      "name": "Keeper of the Light",
+      "reason": "Keeper's Illuminate clears illusions from distance, and Blinding Light makes TB miss attacks during Metamorphosis. His high mobility and sustain keep teammates safe while TB struggles to lock anyone down."
+    },
+    {
+      "name": "Brewmaster",
+      "reason": "Primal Split removes TB from the fight temporarily with Cyclone. Brew’s split units also ignore TB’s illusions and can delay long enough to waste Metamorphosis duration. TB can't manfight the brewlings effectively."
+    },
+    {
+      "name": "Lich",
+      "reason": "Chain Frost shreds TB and his illusions during pushes or teamfights. Frost Shield slows TB and blocks a chunk of right-click damage. TB’s low early mobility and grouping style make him very vulnerable to Lich’s kit."
+    },
+    {
+      "name": "Puck",
+      "reason": "Puck kites TB endlessly. Waning Rift silences him to prevent Sunder, and Dream Coil punishes his movement. TB has no way to reliably hit or lock down Puck, making her an annoying lane and fight threat."
+    },
+    {
+      "name": "Warlock",
+      "reason": "Chaotic Offering drops through BKB and stuns TB mid-Sunder. Fatal Bonds punishes TB’s illusions by spreading damage. Warlock’s sustain and teamfight scaling delay TB’s timing and let his team punish TB’s grouping."
+    }
+  ]
+}

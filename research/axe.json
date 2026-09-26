@@ -1,0 +1,21 @@
+{
+  "name": "Axe",
+  "slug": "axe",
+  "url": "https://dotacoach.gg/en/heroes/counters/axe",
+  "patch": "7.41f",
+  "checked": "2026-09-24",
+  "pairs": [
+    {
+      "name": "Abaddon",
+      "reason": "Abaddon's ulti can be used DURING Berserker's Call.Despite Culling Blade going trough Borrowed Time, Abaddon still provides barriers and healing for allies caught out by Axe's Berserker's Call. His Aphotic Shield additionally dispells Battle Hunger."
+    },
+    {
+      "name": "Shadow Demon",
+      "reason": "SD can use Disruption on Axe to interfere with his with Berserker's Call, or an ally to provide them with invulnerability during it. Aghanim's Scepter gives Break to his ultimate, which greatly cripples Axe's capabilities."
+    },
+    {
+      "name": "Tusk",
+      "reason": "Tuskar can use Snowball to save his entire team from Berserker's Call and provide them with invulnerability. Additionally, his Aghanim's Scepter allows him to reposition Axe a great distance away from his Called targets."
+    }
+  ]
+}

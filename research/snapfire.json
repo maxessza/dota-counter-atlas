@@ -1,0 +1,21 @@
+{
+  "name": "Snapfire",
+  "slug": "snapfire",
+  "url": "https://dotacoach.gg/en/heroes/counters/snapfire",
+  "patch": "7.41f",
+  "checked": "2026-09-24",
+  "pairs": [
+    {
+      "name": "Brewmaster",
+      "reason": "Brewmaster’s split units dodge Mortimer Kisses and disable Snapfire. Cyclone removes her from fights before she casts spells. His mobility lets him dodge Scatterblast and Cookie stuns. Snapfire gets little value against his spread-out playstyle."
+    },
+    {
+      "name": "Faceless Void",
+      "reason": "Faceless Void punishes Snapfire with Chronosphere before she can react. She relies on positioning and is vulnerable to instant initiation. Her damage becomes irrelevant if caught in Chrono. Snapfire struggles to fight into his lockdown and scaling."
+    },
+    {
+      "name": "Bounty Hunter",
+      "reason": "Bounty Hunter snipes Snapfire in the backlines with Track and burst. He snowballs off gold from repeated kills on her. Snapfire has no escape if caught out of position. Track removes her fog safety and limits her aggressive posturing."
+    }
+  ]
+}

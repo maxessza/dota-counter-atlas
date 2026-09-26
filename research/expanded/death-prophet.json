@@ -1,0 +1,49 @@
+{
+  "name": "Death Prophet",
+  "slug": "death-prophet",
+  "url": "https://dotacoach.gg/en/heroes/counters/death-prophet",
+  "patch": "7.41f",
+  "checked": "2026-09-24",
+  "pairs": [
+    {
+      "name": "Ancient Apparition",
+      "reason": "Ice Blast prevents you from healing from Spirit Siphon and Exorcism which is the most reliant way of Death Prophet to survive during teamfights."
+    },
+    {
+      "name": "Anti-Mage",
+      "reason": "Your high mana pool and frequent mana usage will make you a prime target for Anti Mage with his Mana Void."
+    },
+    {
+      "name": "Doom",
+      "reason": "Doom is going to stop you from casting spells which will make you useless during teamfights unless you have already casted Exorcism before that. You cannot heal during Doom."
+    },
+    {
+      "name": "Terrorblade",
+      "reason": "ChatGPT said: Terrorblade can use Sunder to swap health with Death Prophet and finish her off in team fights. His illusions create high sustained damage, overwhelming her defenses. Metamorphosis increases his attack power, making it harder for Death Prophet to survive prolonged fights. If Terrorblade controls the tempo, he can burst her before she uses Exorcism effectively"
+    },
+    {
+      "name": "Lycan",
+      "reason": "Lycan can easily bait Exorcism and disengage or engage using his ultimate, Shapeshift, allowing him to chase down and finish Death Prophet quickly, exploiting her cooldowns and limited mobility during fights."
+    },
+    {
+      "name": "Elder Titan",
+      "reason": "Elder Titan can Echo Stomp to lock down Death Prophet, allowing his team to set up kills or interrupt her while chasing. Natural Order strips her armor and magic resistance, making her much easier to kill."
+    },
+    {
+      "name": "",
+      "reason": "Shadow Demon can use Demonic Purge to slow Death Prophet’s movement and disrupt her with Disruption if she’s chasing allies, making him both a strong counter and a valuable save."
+    },
+    {
+      "name": "Undying",
+      "reason": "Undying can use Tombstone to spawn zombies on Death Prophet, while his ultimate Flesh Golem boosts his tankiness and damage. His healing and strength-stealing abilities let him sustain and fight effectively against Death Prophet."
+    },
+    {
+      "name": "Bristleback",
+      "reason": "Bristleback can sustain against Death Prophet’s aggression. If Death Prophet tries to commit, Bristleback can spam Quill Spray and use Viscous Nasal Goo to wear her down, then turn the fight in his favor."
+    },
+    {
+      "name": "Venomancer",
+      "reason": "Venomancer can slow Death Prophet using his Venomous Gale, Poison Sting, and Plague Ward attacks, limiting her impact by reducing her movement speed and making it harder for her to fight effectively."
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "name": "Venomancer",
+  "slug": "venomancer",
+  "url": "https://dotacoach.gg/en/heroes/counters/venomancer",
+  "patch": "7.41f",
+  "checked": "2026-09-24",
+  "pairs": [
+    {
+      "name": "Phantom Lancer",
+      "reason": "Venomancer struggles against Phantom Lancer due to his illusions overwhelming Plague Wards. His poison damage is spread thin across duplicates. PL can dispel slows with Doppelganger and easily avoid Gale. Venomancer can’t stop PL from farming or taking over long fights."
+    },
+    {
+      "name": "Arc Warden",
+      "reason": "Arc Warden outranges Venomancer and uses his clone to kill Plague Wards safely. His magnetic field allows allies to ignore poison chip damage. Venomancer cannot approach Arc Warden without being punished by spark wraiths and flux. He loses map control and poke wars."
+    },
+    {
+      "name": "Brewmaster",
+      "reason": "Brewmaster dispels all of Venomancer’s damage-over-time effects with Primal Split. During the split, he removes Plague Wards and disables Venomancer’s positioning. Gale and Nova become useless once dispelled. Brewmaster’s utility and tankiness outlasts Venomancer’s slow burn."
+    }
+  ]
+}

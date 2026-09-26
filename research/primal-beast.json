@@ -1,0 +1,21 @@
+{
+  "name": "Primal Beast",
+  "slug": "primal-beast",
+  "url": "https://dotacoach.gg/en/heroes/counters/primal-beast",
+  "patch": "7.41f",
+  "checked": "2026-09-24",
+  "pairs": [
+    {
+      "name": "Anti-Mage",
+      "reason": "Anti-Mage blinks out of Onslaught and avoids Trample entirely. Mana Break weakens Primal Beast’s ability to spam spells. Pulverize is hard to land reliably due to Anti-Mage’s mobility. In late game, Anti-Mage outscales and deletes Primal Beast effortlessly."
+    },
+    {
+      "name": "Undying",
+      "reason": "Undying out-sustains Primal Beast in early fights with Decay spam. Tombstone forces Primal Beast to reposition instead of diving. Undying’s tanky build slows down Primal Beast’s snowball potential. Teamfighting against Undying becomes difficult without backup."
+    },
+    {
+      "name": "Doom",
+      "reason": "Doom completely disables Primal Beast’s entire kit during fights. Once Doomed, Primal Beast cannot Trample, Pulverize, or escape. Doom’s tanky presence also survives Primal Beast’s burst. One well-timed ultimate can shut down Primal Beast’s game plan."
+    }
+  ]
+}

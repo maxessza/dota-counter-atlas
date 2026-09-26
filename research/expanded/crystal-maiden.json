@@ -1,0 +1,37 @@
+{
+  "name": "Crystal Maiden",
+  "slug": "crystal-maiden",
+  "url": "https://dotacoach.gg/en/heroes/counters/crystal-maiden",
+  "patch": "7.41f",
+  "checked": "2026-09-24",
+  "pairs": [
+    {
+      "name": "Anti-Mage",
+      "reason": "His high mobility and Spell Shield make it hard for CM to land spells. He easily jumps and kills her due to her low mobility and armor. Mana Void punishes her high mana pool and teamfights."
+    },
+    {
+      "name": "Nyx Assassin",
+      "reason": "He easily sets up kills on CM with Vendetta and Mana Burn. Spiked Carapace reflects her AoE spells, punishing her in fights. CM’s low HP makes her an easy target for Nyx’s burst combo."
+    },
+    {
+      "name": "Pugna",
+      "reason": "Nether Ward heavily punishes CM’s high mana-cost spells."
+    },
+    {
+      "name": "Clockwerk",
+      "reason": "He traps CM with Hookshot and Cogs, making her an easy kill. CM can’t escape due to low mobility and lack of defensive tools. Her channeling ultimate gets canceled easily by Battery Assault and Hookshot."
+    },
+    {
+      "name": "Slark",
+      "reason": "He shrugs off her slows and roots with Dark Pact. Essence Shift makes him stronger the longer fights go, while CM gets weaker. Hard to lock down and escapes easily after picking her off."
+    },
+    {
+      "name": "Rubick",
+      "reason": "He can steal powerful spells like Frostbite or Freezing Field and use them more effectively. Rubick outranges her and can disable or zone her with Telekinesis."
+    },
+    {
+      "name": "Pudge",
+      "reason": "He can Hook CM out of position and kill her quickly. Flesh Heap’s magic resistance helps him survive her spells. Rot and Dismember counter her low mobility and squishy nature"
+    }
+  ]
+}

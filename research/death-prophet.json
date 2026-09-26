@@ -1,0 +1,21 @@
+{
+  "name": "Death Prophet",
+  "slug": "death-prophet",
+  "url": "https://dotacoach.gg/en/heroes/counters/death-prophet",
+  "patch": "7.41f",
+  "checked": "2026-09-24",
+  "pairs": [
+    {
+      "name": "Ancient Apparition",
+      "reason": "Ice Blast prevents you from healing from Spirit Siphon and Exorcism which is the most reliant way of Death Prophet to survive during teamfights."
+    },
+    {
+      "name": "Anti-Mage",
+      "reason": "Your high mana pool and frequent mana usage will make you a prime target for Anti Mage with his Mana Void."
+    },
+    {
+      "name": "Doom",
+      "reason": "Doom is going to stop you from casting spells which will make you useless during teamfights unless you have already casted Exorcism before that. You cannot heal during Doom."
+    }
+  ]
+}

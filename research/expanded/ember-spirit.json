@@ -1,0 +1,53 @@
+{
+  "name": "Ember Spirit",
+  "slug": "ember-spirit",
+  "url": "https://dotacoach.gg/en/heroes/counters/ember-spirit",
+  "patch": "7.41f",
+  "checked": "2026-09-24",
+  "pairs": [
+    {
+      "name": "Oracle",
+      "reason": "Fortune's End can dispel Flame Guard and Searing Chains, while being able to connect with Ember DURING Sleight of Fist and Activate Remnant, rooting him for the remainder of the duration as soon as he reaches his final destination. Purifying Flames is a low cooldown, high damage nuke that can make quick work of Flame Guard. Fate's Edict both mitigates the entirety of Ember's Magic Damage, as well as prevent him from attacking even during Sleight of Fist."
+    },
+    {
+      "name": "Night Stalker",
+      "reason": "Crippling Fear makes it a nightmare for Ember to juke around with Fire Remnants and Sleights of Fist as Nightstalker can camp either his Sleight of Fist or Fire Remnant locations with Crippling Fear pre-activated. Dark Ascension providing flying movement and unobstructed vision further complicates Ember's core gameplay as he struggles to hide out of sight or behind impassable terrain."
+    },
+    {
+      "name": "Huskar",
+      "reason": "Huskar DESTROYS Ember in lane and completely shuts down his early game as he deals too much damage and has too much sustain for Ember to deal with. Ember's best bet is to try and get as much resources as possible from the lane and leave as the matchup only gets worse for him troughout the entirety of the laning stage."
+    },
+    {
+      "name": "Slark",
+      "reason": "Slark's Dark Pact dispels Searing Chains. Pounce provides strong lockdown for Ember, which can be further upgraded with Aghanim's Scepter to extend it's duration. Slark's best defensive mechanics are Shadow Dance and Depth Shroud, which prevent Ember from applying Searing Chains or connecting with Sleight of Fist, while giving him enough sustain to survive trough Flame Guard and Fire Remnants."
+    },
+    {
+      "name": "Lone Druid",
+      "reason": "Lone Druid DESTROYS Ember in lane and completely shuts down his early game as he deals too much damage and has too much sustain for Ember to deal with. Ember's best bet is to try and get as much resources as possible from the lane and leave as the matchup only gets worse for him troughout the entirety of the laning stage. His Entangling Claws render Ember unable to use both his Sleight of Fist and Activate Fire Remnant."
+    },
+    {
+      "name": "Meepo",
+      "reason": "As Meepo gets his first Meepo clone the laning stage pretty much ends for Ember as it becomes a 2 on 1 situation. As the game goes on Meepo can provide a reliable chain root for Ember in order to lock him down. His general item selection of heavy stats items end up overwhelming Ember as he often struggles to output enough damage to ever kill Meepo by himself."
+    },
+    {
+      "name": "Shadow Fiend",
+      "reason": "A good Shadow Fiend can completely destroy Ember in lane, just like most other melee hroes. He is a natural Eul'builder in order to set up his ult, which dispels Ember's Flameguard. Even if Shadow Fiend manages too miss one too many Shadow Razes and not completely boot Ember out of lane he can still push out the wave in just a second and roam, leaving Ember to defend his tower."
+    },
+    {
+      "name": "Legion Commander",
+      "reason": "Legion's Duel provides a long lockdown for Ember and the longer the game goes the less probable it becomes for Ember to survive it, irrelevant of his itemization. LC's Press the Attack is able to dispel Searing Chains and a single Overwhelming Odds in the midst of battle is usually enough damage to break Ember's Flame Guard."
+    },
+    {
+      "name": "Monkey King",
+      "reason": "Monkey King can sustain in lane against Ember Spirit, disrupting his early game and preventing him from farming freely. This pressure delays Ember’s core items and slows his transition into the mid and late game. Keeping Ember under farmed reduces his overall impact in teamfights."
+    },
+    {
+      "name": "Tinker",
+      "reason": "Tinker can heal his team with Healing Bots, making Ember Spirit’s chip damage largely ineffective. This reduces Ember's impact in fights, especially during early skirmishes."
+    },
+    {
+      "name": "Bane",
+      "reason": "Bane’s kit allows him to completely disable Ember Spirit in team fights with single-target lockdown. Abilities like Fiend’s Grip and Nightmare can interrupt Ember’s mobility and burst him down. This makes it difficult for Ember to weave in and out of fights effectively."
+    }
+  ]
+}

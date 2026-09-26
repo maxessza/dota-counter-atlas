@@ -1,0 +1,21 @@
+{
+  "name": "Slardar",
+  "slug": "slardar",
+  "url": "https://dotacoach.gg/en/heroes/counters/slardar",
+  "patch": "7.41f",
+  "checked": "2026-09-24",
+  "pairs": [
+    {
+      "name": "Abaddon",
+      "reason": "Abaddon can cast Aphotic Shield on any of his allies to immediately dispel Corrosive Haze and/or the stun and the slow components of Slithereen Crush. All of Slardar's debuffs are also removed if Abaddon's Borrowed Time triggers."
+    },
+    {
+      "name": "Phantom Lancer",
+      "reason": "Phantom Lancer's Doppelganger has a low cooldown and applies a basic dispel on PL, making it hard to keep Corrosive Haze on him. Phantom Lancer usually purchases Manta Style which provides another basic dispel to remove Corrosive Haze with. Besides Slithereen Crush, Slardar does not have another way to deal with illusions and has a low mana pool, which allows Phantom Lancer with Diffusal Blade to quickly build up illusions while draining Slardar's mana."
+    },
+    {
+      "name": "Slark",
+      "reason": "Dark Pact purges off Corrosive Haze quickly and can pre-cast it to remove the Slithereen Crush stun duration, which removes Slardar's key tool for chasing and bursting. Shadow Dance makes Slark untargetable, so even if he’s low, Slardar can’t finish him off during that duration."
+    }
+  ]
+}

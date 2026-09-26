@@ -1,0 +1,49 @@
+{
+  "name": "Nyx Assassin",
+  "slug": "nyx-assassin",
+  "url": "https://dotacoach.gg/en/heroes/counters/nyx-assassin",
+  "patch": "7.41f",
+  "checked": "2026-09-24",
+  "pairs": [
+    {
+      "name": "Meepo",
+      "reason": "Nyx is ineffective against multiple Meepo clones due to poor AoE. Meepo punishes Nyx’s low durability when caught. Mana Burn and Vendetta lose value against multiple targets. Nyx struggles to disable all clones in a fight."
+    },
+    {
+      "name": "Grimstroke",
+      "reason": "Grimstroke’s Ink Swell makes it dangerous for Nyx to initiate. Soulbind prevents Nyx from using Vendetta escape. Nyx cannot easily reflect or disable Grimstroke’s spells. Grim punishes Nyx in teamfights and offers better lockdown."
+    },
+    {
+      "name": "Beastmaster",
+      "reason": "Beastmaster controls the map well, reducing Nyx’s ganking potential. Nyx can’t solo-kill Beastmaster easily due to aura and summon tanking. His physical damage overwhelms Nyx in fights."
+    },
+    {
+      "name": "Slardar",
+      "reason": "Slardar's Corrosive Haze reveals Nyx during invisibility. He outpaces Nyx with strong physical damage and mobility. Slardar punishes Nyx’s fragile build with quick bursts. Nyx has no escape once spotted under vision."
+    },
+    {
+      "name": "Disruptor",
+      "reason": "Disruptor shuts down Nyx with Glimpse and Static Storm. Nyx can’t escape or gank safely once revealed. Carapace is ineffective against kinetic field setups. Disruptor nullifies Nyx’s map presence and forces passive play."
+    },
+    {
+      "name": "Lifestealer",
+      "reason": "Lifestealer shrugs off Nyx’s disables with Rage. Mana Burn and Impale don’t affect him during spell immunity. Nyx cannot burst or kite Lifestealer reliably. Nyx offers little control against Lifestealer’s brawling style."
+    },
+    {
+      "name": "Dragon Knight",
+      "reason": "Dragon Knight is too tanky for Nyx to burst with spells. His magic resistance and regen make Mana Burn negligible. Nyx struggles to slow DK’s push and sustain. Vendetta has little value against his natural tankiness."
+    },
+    {
+      "name": "Viper",
+      "reason": "Viper’s magic resistance and range punish Nyx’s approach. Nethertoxin disables Nyx’s passive stun utility. Nyx is forced out of fights by poison damage. He can’t reliably trade or harass Viper in lane or skirmishes."
+    },
+    {
+      "name": "Bane",
+      "reason": "Bane has strong single-target lockdown to counter Nyx. Fiend’s Grip disables him through Vendetta. Bane’s sustain tools allow him to survive burst. Nyx is punished for overcommitting in fights."
+    },
+    {
+      "name": "Ogre Magi",
+      "reason": "Ogre is too tanky and buys detection for Vendetta. He punishes Nyx with Fireblast chains and harassment. Nyx struggles to make him a priority target."
+    }
+  ]
+}

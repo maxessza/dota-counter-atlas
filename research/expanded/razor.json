@@ -1,0 +1,49 @@
+{
+  "name": "Razor",
+  "slug": "razor",
+  "url": "https://dotacoach.gg/en/heroes/counters/razor",
+  "patch": "7.41f",
+  "checked": "2026-09-24",
+  "pairs": [
+    {
+      "name": "Primal Beast",
+      "reason": "Primal Beast closes gaps quickly, making Razor’s kiting ineffective. Onslaught and Trample punish Razor’s lack of lockdown or escape. Razor gets interrupted before Static Link becomes impactful. Primal Beast snowballs easily through Razor’s weak early damage."
+    },
+    {
+      "name": "Queen of Pain",
+      "reason": "Queen of Pain out-ranges and out-pokes Razor in lane. Her Blink allows easy escapes from Static Link attempts. She builds magical burst damage that Razor cannot reduce. Razor is forced to waste Plasma Field just to stay relevant in fights."
+    },
+    {
+      "name": "Bloodseeker",
+      "reason": "Bloodseeker thrives on fast movement and punishes Razor’s chase attempts with Rupture. Razor cannot run without taking massive damage. Blood Rite zones Razor from using Static Link safely. Razor gets outpaced in tempo and punished in overextensions."
+    },
+    {
+      "name": "Enigma",
+      "reason": "Enigma can farm freely against Razor and Black Hole stops all his mobility. Razor has no disables to stop Enigma from channeling. Eye of the Storm cannot break through Black Hole without external help. Enigma’s teamfight presence overshadows Razor in big engagements."
+    },
+    {
+      "name": "Arc Warden",
+      "reason": "Arc Warden’s magnetic field nullifies Razor’s physical attacks. Tempest Double can bait out Static Link and abilities. Razor cannot lock down Arc Warden long enough to prevent split-push. Arc Warden wins through patience, poke, and map pressure."
+    },
+    {
+      "name": "Morphling",
+      "reason": "Morphling can disengage and reposition faster than Razor can catch. Static Link gets dodged through Waveform or Attribute Shift. Morphling deals mixed damage and scales harder into late game. Razor’s lack of burst makes Morphling difficult to punish."
+    },
+    {
+      "name": "Anti-Mage",
+      "reason": "Anti-Mage avoids Static Link completely with Blink. Mana Break prevents Razor from casting spells consistently. Razor cannot chase Anti-Mage effectively and loses in split-push scenarios. In the late game, Anti-Mage scales far beyond Razor’s power peak."
+    },
+    {
+      "name": "Chen",
+      "reason": "Chen can heal allies through Razor’s damage over time. Summoned creeps tank Eye of the Storm and block Plasma Field. Razor’s single-target nature cannot overcome Chen’s team-based sustain. Chen thrives in fights Razor tries to isolate."
+    },
+    {
+      "name": "Weaver",
+      "reason": "Weaver kites Razor easily and avoids Static Link with Shukuchi. Razor cannot chase or lockdown Weaver reliably. Time Lapse removes Razor’s chip damage and resets engagements. Razor gets outmaneuvered and outscaled over time."
+    },
+    {
+      "name": "Techies",
+      "reason": "Techies sets mines that punish Razor’s linear chasing. Razor often overextends and walks into Proximity Mines. Static Link does not stop Techies’ area control and zoning. Razor is vulnerable during fights and cannot burst Techies."
+    }
+  ]
+}

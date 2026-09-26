@@ -1,0 +1,85 @@
+{
+  "name": "Tinker",
+  "slug": "tinker",
+  "url": "https://dotacoach.gg/en/heroes/counters/tinker",
+  "patch": "7.41f",
+  "checked": "2026-09-24",
+  "pairs": [
+    {
+      "name": "Anti-Mage",
+      "reason": "Anti Mage has an easy time jumping on a squishy and immobile Tinker with Blink and burn his mana with his Mana Break right clicks, which lets him follow up with Mana Void to burst him down because of his high mana pool. Anti Mage can also block and reflect Laser with Counterspell to avoid getting blinded. Defense Matrix also does Tinker little help against Anti Mage's right clicks into Mana Void burst. The Mana Void mini stun also stops the Rearm and Keen Conveyance channel."
+    },
+    {
+      "name": "Batrider",
+      "reason": "Batrider has an easy time running down a squishy and immobile Tinker during Firefly while he is slowed by Sticky Napalm in the laning stage. Defense Matrix and the Laser blind does Tinker little help getting run down in this manner. Later in the game, Batrider's Blink Dagger into Flaming Lasso lets him drag Tinker to his team and burst him down without letting him teleport away with Keen Conveyance. Flamebreak also lets Batrider push Tinker closer to him and find him in tree lines."
+    },
+    {
+      "name": "Clockwerk",
+      "reason": "Clockwerk's Rocket Flare gives him vision to find Tinker hiding in tree lines, which lets him follow up with his long range Hookshot to lock down Tinker and interrupt his Rearm and Keen Conveyance teleport. Battery Assault also prevents Tinker from Rearming or teleporting, while Defense Matrix does little against the mini stun inside Power Cogs. Clockwerk can also kick one of his Power Cogs from range to stop Tinker's channeling spells."
+    },
+    {
+      "name": "Doom",
+      "reason": "Doom's ultimate Doom disables a squishy and immobile Tinker from using spells, which makes him completely useless as he relies heavily on his spells to get in and out of fights as well as do damage and survive. Doom can easily run down Tinker in the duration of his ultimate with the movement speed boost during Scorched Earth. The Infernal Blade mini stun also stops Tinker's channeling spells."
+    },
+    {
+      "name": "Earth Spirit",
+      "reason": "Earth Spirit's Rolling Boulder lets him get on top of a squishy and immobile Tinker from range to follow up with the damage and control from the rest of his spells to burst him down. Earth Spirit is also invulnerable during his Roll, letting him avoid the March of the Machines damage. The Geomagnetic Grip silence also interrupts Tinker's channeling spells, including his Keen Conveyance teleport."
+    },
+    {
+      "name": "Invoker",
+      "reason": "Tinker relies on staying in the back or hide in tree lines where enemy heroes cannot get to him during teamfights or while farming. But Invoker has an easy time finding Tinker with Tornado to dispel Defense Matrix and land his spell combo on the squishy hero. Invoker can also easily interrupt Tinker's Teleport and Rearm channel to ensure he cannot get away."
+    },
+    {
+      "name": "Kunkka",
+      "reason": "Kunkka's X Marks the Spot into follow up spell combo from long range is a massive problem for Tinker throughout the game as he cannot Rearm or teleport away with Keen Conveyance when targeted by the spell. Even if Tinker's teleport completes, he comes right back to the X Mark. Torrent also provides vision in its AoE to find Tinker in tree lines."
+    },
+    {
+      "name": "Legion Commander",
+      "reason": "Legion Commander's Blink Dagger into Duel lets her find a squishy Tinker in tree lines while he pushes out lanes alone with March of the Machines after his Keen Conveyance teleport. This makes for easy Duel wins for Legion Commander and snowball in the game with the accumulated damage. Press the Attack also dispels the blind from Laser."
+    },
+    {
+      "name": "Night Stalker",
+      "reason": "Night Stalker's flying vision and movement during Dark Ascension lets him find a squishy and immobile Tinker in tree lines while he pushes out lanes alone with March of the Machines after his Keen Conveyance teleport. Once on top of Tinker, The Crippling Fear silence prevents him from using any spells, including teleporting away with Keen Conveyance, making for an easy kill for Night Stalker. The Void mini stun during night time also interrupts Tinker's channeling spells."
+    },
+    {
+      "name": "Nyx Assassin",
+      "reason": "Nyx Assassin has an easy time finding a squishy Tinker in tree lines during his Vendetta invisibility while he pushes out lanes alone with March of the Machines after his Keen Conveyance teleport. This gives Nyx Assassin easy kills with the Vendetta hit followed by his spells combo. Nyx Assassin can also use Spiked Carapace during the Vendetta invisibility to use the AoE damage from March of the Machines to stun Tinker and stop his channeling spells."
+    },
+    {
+      "name": "Pangolier",
+      "reason": "Pangolier has an easy time closing the gap on a squishy and immobile Tinker during Rolling Thunder and burst him down by chain stunning him to prevent him from Rearming or teleporting away with Keen Conveyance. Pangolier cares little about the Laser blind when doing damage with Swashbuckle, while the magic resistance while rolling prevents most of the damage from March of the Machines."
+    },
+    {
+      "name": "Pudge",
+      "reason": "Pudge gets easy hooks on a stationary Tinker while he channels Rearm and Keen Conveyance in fights to bring him close and burst him down with a follow up Dismember and run down during Rot. The status resistance from Defense Matrix does little help against the slow from Rot. Pudge can also practically absorb all the damage from March of the Machines with his Meat Shield active."
+    },
+    {
+      "name": "Pugna",
+      "reason": "Pugna's Nether Ward does massive damage to Tinker when he uses any spell in its AoE because of their high mana cost. Since Tinker uses his volley of spells multiple times in fights with Rearm, the Ward massively counters him and threatens his life if he continues to cast spells in its AoE. Pugna also cares little about the Laser blind, while his Life Drain channel keeps him healthy while standing in March of the Machines as Tinker has no stun or silence to stop it."
+    },
+    {
+      "name": "Silencer",
+      "reason": "The silence from Silencer's Global Silence and Last Word are massive issues for Tinker throughout the game as he relies on his spells to get in and out of fights as well as do damage and survive. Arcane Curse also damages and slows Tinker for a lengthy duration if he keeps casting his volley of spells multiple times with Rearm when affected by the spell."
+    },
+    {
+      "name": "Skywrath Mage",
+      "reason": "Skywrath Mage's long range instant silence with Ancient Seal renders Tinker completely useless in fights as he relies on his spells to get in and out of fights as well as do damage and survive. This lets Skywrath Mage follow up with his burst damage from spells to kill a squishy and immobile Tinker while he cannot do anything. Skywrath Mage can also target Tinker with his Mystic Flare burst even without Rod of Atos as he stands in place to channel his Rearm and Keen Conveyance teleport."
+    },
+    {
+      "name": "Slark",
+      "reason": "Slark's high movement speed through his innate and the mobility through Pounce lets him find and get on top of a squishy Tinker while he pushes out lanes alone with March of the Machines after his Keen Conveyance teleport. This lets Slark get easy kills and build up Essence Shift stacks as he can dispel the Laser blind with Dark Pact, while keeping himself healthy inside March of the Machines with the HP regeneration during Shadow Dance. The Pounce leash also prevents Tinker from teleporting away with Keen Conveyance."
+    },
+    {
+      "name": "Spirit Breaker",
+      "reason": "Spirit Breaker sets up easy kills on a squishy Tinker throughout the game with his Charge of Darkness as Tinker has no way of stopping its collision. This is particularly useful in the laning stage for Spirit Breaker to keep ganking Tinker and killing him over and over to slow down his game, while snowballing himself with the gold and experience. Charge of Darkness also follows Tinker where ever he Teleports with Keen Conveyance to get on top of him, and can always be stopped manually to avoid going into Tinker's base."
+    },
+    {
+      "name": "Storm Spirit",
+      "reason": "Storm Spirit has a decent time in lane against Tinker as he can get last hits with Static Remnant despite the blind from Laser. Once Storm Spirit gets to level 6 and has Ball Lightning, he can easily close the gap on Tinker and burst him down during the Electric Vortex lockdown. Storm Spirit is also invulnerable during his Ball Lightning jump, which prevents all the damage from March of the Machines. The Electric Vortex pull also interrupts Tinker's channeling spells."
+    },
+    {
+      "name": "Zeus",
+      "reason": "Zeus has a decent time in lane against Tinker as he can get last hits with Arc Lightning and Lightning Bolt despite the blind from Laser. Later in the game, Zeus' global Thundergod's Wrath finds and damages Tinker while he stays in tree lines or hides behind his team, letting Zeus follow up with the rest of his spells to close the gap and burst him down. Once Zeus gets Aghanim's Scepter, Nimbus becomes another global tool to damage Tinker and stop his channeling spells along with Lightning Bolt."
+    }
+  ]
+}

@@ -1,0 +1,2657 @@
+[
+  {
+    "name": "Anti-Mage",
+    "slug": "anti-mage",
+    "url": "https://dotacoach.gg/en/heroes/counters/anti-mage",
+    "patch": "7.41f",
+    "checked": "2026-09-24",
+    "pairs": [
+      {
+        "name": "Night Stalker",
+        "reason": "Crippling Fear prevents AM from abusing his amazing mobility by not allowing him to use Blink. Dark Ascension makes it hard for AM to play on the outskirts of fights and wait for his opportune moment as NS's vision outranges Blink substantially. NS has one of the lowest Intelligence gains in DOTA and generally builds for rightclick making him a poor Mana Void target."
+      },
+      {
+        "name": "Meepo",
+        "reason": "Simply put Meepo stats checks AM like no other hero as any stats he builds get it's value multiplied and is easily able to overwhelm AM after just a couple of items and a couple of extra Meepos. Earthbind can be used to chain root AM to death."
+      },
+      {
+        "name": "Huskar",
+        "reason": "Mana Break and Mana Void literally do nothing against Huskar as he is the only hero in DOTA without a Mana pool. Counterspell does NOT block/ reflect Life Break nor does Blink disjoint it as Huskar still follows him."
+      }
+    ]
+  },
+  {
+    "name": "Axe",
+    "slug": "axe",
+    "url": "https://dotacoach.gg/en/heroes/counters/axe",
+    "patch": "7.41f",
+    "checked": "2026-09-24",
+    "pairs": [
+      {
+        "name": "Abaddon",
+        "reason": "Abaddon's ulti can be used DURING Berserker's Call.Despite Culling Blade going trough Borrowed Time, Abaddon still provides barriers and healing for allies caught out by Axe's Berserker's Call. His Aphotic Shield additionally dispells Battle Hunger."
+      },
+      {
+        "name": "Shadow Demon",
+        "reason": "SD can use Disruption on Axe to interfere with his with Berserker's Call, or an ally to provide them with invulnerability during it. Aghanim's Scepter gives Break to his ultimate, which greatly cripples Axe's capabilities."
+      },
+      {
+        "name": "Tusk",
+        "reason": "Tuskar can use Snowball to save his entire team from Berserker's Call and provide them with invulnerability. Additionally, his Aghanim's Scepter allows him to reposition Axe a great distance away from his Called targets."
+      }
+    ]
+  },
+  {
+    "name": "Bane",
+    "slug": "bane",
+    "url": "https://dotacoach.gg/en/heroes/counters/bane",
+    "patch": "7.41f",
+    "checked": "2026-09-24",
+    "pairs": [
+      {
+        "name": "Pudge",
+        "reason": "Pudge has various ways of saving his teammates from Bane's spells. He can Meat Hook stationary allies under the effects of Nightmare and Fiend's Grip as well as pick up an Aghanim's Shard to Dismember them and cancel their effects altogether."
+      },
+      {
+        "name": "Naga Siren",
+        "reason": "Bane's lack of AOE damage makes it difficult for him to deal with Mirror Image Illusions - this allows Naga to keep the waves pushed, giving her and her team the upper hand. Song of the Siren can interrupt Fiend's Grip even when upgraded by Aghanim's Scepter and more importantly even if it connects with the real Naga then Mirror Image Illusions can be sent to dispatch of the channeling Bane."
+      },
+      {
+        "name": "Silencer",
+        "reason": "Global Silence interrupts Fiend's Grip from anywhere on the map, even if upgraded with Aghanim's Scepter. BKB and any debuff immunity effects do not prevent this as it pierces debuff immunity making it almost impossible for Bane to get of a full duration Fiend's Grip on any of Silencer's teammates."
+      }
+    ]
+  },
+  {
+    "name": "Bloodseeker",
+    "slug": "bloodseeker",
+    "url": "https://dotacoach.gg/en/heroes/counters/bloodseeker",
+    "patch": "7.41f",
+    "checked": "2026-09-24",
+    "pairs": [
+      {
+        "name": "Medusa",
+        "reason": "Mana Shield provides the perfect defense for Medusa against Thirst as you generally have to go through her entire Mana Pool before being able to reduce her HP significantly. She can use Stone Gaze to stand her ground in order to deal with Rupture and Blood Mist is horrible against Mana Shield as it does not trigger any Lifesteal and her low HP pool counteracts the max HP percentage damage. Cold Blooded (Aghanim's Shard) procs from Rupture providing her an extra layer of protection."
+      },
+      {
+        "name": "Storm Spirit",
+        "reason": "Ball of Lightning provides invulnerability allowing Storm to stay mobile, while affected by Rupture as it does not damage him during it. This also allows Storm to dodge Blood Rite or just move out of it entirely and keep his distance from Bloodseeker."
+      },
+      {
+        "name": "Juggernaut",
+        "reason": "Healing Ward provides massive AOE healing, which makes it significantly more difficult for Thirst to empower Bloodseeker. Blade Fury can be used to soak Blood Rite, while Omnislash and Swiftslash (Aghanim's Scepter upgrade) provide invulnerability allowing Jugg to use them during Rupture without getting damaged and pack enough burst damage to outright kill Bloodseeker."
+      }
+    ]
+  },
+  {
+    "name": "Crystal Maiden",
+    "slug": "crystal-maiden",
+    "url": "https://dotacoach.gg/en/heroes/counters/crystal-maiden",
+    "patch": "7.41f",
+    "checked": "2026-09-24",
+    "pairs": [
+      {
+        "name": "Anti-Mage",
+        "reason": "His high mobility and Spell Shield make it hard for CM to land spells. He easily jumps and kills her due to her low mobility and armor. Mana Void punishes her high mana pool and teamfights."
+      },
+      {
+        "name": "Nyx Assassin",
+        "reason": "He easily sets up kills on CM with Vendetta and Mana Burn. Spiked Carapace reflects her AoE spells, punishing her in fights. CM’s low HP makes her an easy target for Nyx’s burst combo."
+      },
+      {
+        "name": "Pugna",
+        "reason": "Nether Ward heavily punishes CM’s high mana-cost spells."
+      }
+    ]
+  },
+  {
+    "name": "Drow Ranger",
+    "slug": "drow-ranger",
+    "url": "https://dotacoach.gg/en/heroes/counters/drow-ranger",
+    "patch": "7.41f",
+    "checked": "2026-09-24",
+    "pairs": [
+      {
+        "name": "Faceless Void",
+        "reason": "Time Walk can be used to close the distance within Drow Ranger, hindering her Marksmanship bonus. Faceless Void can also lock down Drow Ranger with Chronosphere before she has the chance to retaliate due to her low health pool."
+      },
+      {
+        "name": "Arc Warden",
+        "reason": "Flux along with Spark Wraith allows Arc Warden to quickly burst down Drow Ranger due to her low health. Magnetic Field will be a big nuisance while pushing towers against Arc. However, Drow Ranger can bypass Magnetic Field's evasion bonus thanks to Marksmanship but only while hitting heroes."
+      },
+      {
+        "name": "Chaos Knight",
+        "reason": "Drow Ranger cant deal with illusion heroes naturally so Chaos Knights Phantasm will be a big problem as well as Reality Rift being able to pull you in closer and disabling your Markmanship."
+      }
+    ]
+  },
+  {
+    "name": "Earthshaker",
+    "slug": "earthshaker",
+    "url": "https://dotacoach.gg/en/heroes/counters/earthshaker",
+    "patch": "7.41f",
+    "checked": "2026-09-24",
+    "pairs": [
+      {
+        "name": "Wraith King",
+        "reason": "Reincarnation serves as a natural deterent for Earthshaker to all in Wraith King with an Echo Slam as he would shortly come back to life, while Shaker would be left with not much in the tank. WK can select Spectral Blade as a facet instead of Bone Guard in order to reduce the number of Echo Slam targets."
+      },
+      {
+        "name": "Spectre",
+        "reason": "Disperion + BM is a huge deterent for Earthshaker to drop Echo Slam whenever he wants, as often times it would mean his own death. Spectral Dagger can be used to move through Fissure's wall to prevent being blocked. Spectre's ability to instantly get on top of Earthshaker with Shadow Step or Haunt ruins his initiation and doesn't allow him to comfortably wait for his opportune moment."
+      },
+      {
+        "name": "Night Stalker",
+        "reason": "Dark Ascension providing unobstructed vision and flight, while reducing Earthshaker's and his team's vision allows NS to spot Shaker and stick on him relentlessly with Crippling Fear, not allowing him to get of a clean initiation or any spells for that matter. Despite Fissure being able to stun NS he can still fly over it."
+      }
+    ]
+  },
+  {
+    "name": "Juggernaut",
+    "slug": "juggernaut",
+    "url": "https://dotacoach.gg/en/heroes/counters/juggernaut",
+    "patch": "7.41f",
+    "checked": "2026-09-24",
+    "pairs": [
+      {
+        "name": "Axe",
+        "reason": "Berserker's Call pierces spell immunity, making a Blade Fury teleport escape impossible. It's very useful against Omnislash as well. Juggernaut's low base health and high attack speed causes him to take a lot of damage from Counter Helix. Axe is a common Blade Mail and Blink Dagger carrier making him a very big potential threat before Juggernaut get his items."
+      },
+      {
+        "name": "Legion Commander",
+        "reason": "Duel pierces spell immunity, making a Blade Fury teleport escape impossible as well as being a threat with Blink Dagger and Blade Mail all over the map."
+      },
+      {
+        "name": "Windranger",
+        "reason": "Windrun negates the damage from Omnislash and gives Windranger enough movement speed to get out of Blade Fury range."
+      }
+    ]
+  },
+  {
+    "name": "Mirana",
+    "slug": "mirana",
+    "url": "https://dotacoach.gg/en/heroes/counters/mirana",
+    "patch": "7.41f",
+    "checked": "2026-09-24",
+    "pairs": [
+      {
+        "name": "Bloodseeker",
+        "reason": "Rupture damages Mirana during Leap and is a big deterent for her to spam it as she has one of the lowest strength gains in the game and Pure Damage is primarily countered by flat HP and HP regeneration. Thirst allows BS to reveal any opponents under the effects of Moonlight Shadow that have been damaged sufficiently."
+      },
+      {
+        "name": "Puck",
+        "reason": "Dream Coil prevents Mirana from using Leap. Waining Rift, Phase Shift and Ethereal Jaunt can be used to dodge Sacred Arrow and Starstorm. Jostling Rift can cancel Leap mid air."
+      },
+      {
+        "name": "Mars",
+        "reason": "Arena of Blood prevents Mirana and her teammates from attacking across its walls, mitigating a huge component of her damage output, while simultaneously preventing her from Leaping in and out of it. Bulwark can mitigate the damage from her attacks and further re-direct them to Mars. God's Rebuke and Spear of Mars can interrupt Leap mid air."
+      }
+    ]
+  },
+  {
+    "name": "Morphling",
+    "slug": "morphling",
+    "url": "https://dotacoach.gg/en/heroes/counters/morphling",
+    "patch": "7.41f",
+    "checked": "2026-09-24",
+    "pairs": [
+      {
+        "name": "Alchemist",
+        "reason": "Morphling naturally has high base attack damage and Alch is capable of significantly reducing it with Corrosive Weaponry and cripple Morph's overall damage output. Chemical Rage is by far Alchemist's best spell, which Morphling is unable to copy with his ult - Morph. Morph can be slow to ramp up and generally speaking by the time he's ready to fight Alch is ready to take his Ancient."
+      },
+      {
+        "name": "Ancient Apparition",
+        "reason": "Ice Blast prevents Morphling from using Attribute Shift (Strength Gain) to increase his HP pool and 'heal' up. To farm optimally Morphlings keep their HP low in order to have as much Agility as possible, which allows AA to snipe him across the map with Ice Blast."
+      },
+      {
+        "name": "Axe",
+        "reason": "Axe counters Morphling with instant disable from Blink Call into Blade Mail. Morphling’s low armor while shifting strength becomes a liability. Axe punishes greedy Morph builds with pure initiation. Morphling can’t avoid dying if caught while not fully morphed."
+      }
+    ]
+  },
+  {
+    "name": "Shadow Fiend",
+    "slug": "shadow-fiend",
+    "url": "https://dotacoach.gg/en/heroes/counters/shadow-fiend",
+    "patch": "7.41f",
+    "checked": "2026-09-24",
+    "pairs": [
+      {
+        "name": "Chen",
+        "reason": "Chen’s creeps pressure Shadow Fiend in lane, and his team-wide sustain punishes burst-based heroes like SF. Shadow Fiend has a hard time dealing with spread-out fights and split-push."
+      },
+      {
+        "name": "Troll Warlord",
+        "reason": "Troll is a hard counter in manfights. Shadow Fiend relies on burst and kiting, but Troll wins long engagements and can disarm Shadow Fiend with Whirling Axes and lock him down with bash."
+      },
+      {
+        "name": "Zeus",
+        "reason": "Zeus outranges and out-pokes Shadow Fiend. He doesn’t care about armor or BKB early, and constantly chips SF down. Zeus can cancel Blink Dagger from fog with his global ult."
+      }
+    ]
+  },
+  {
+    "name": "Phantom Lancer",
+    "slug": "phantom-lancer",
+    "url": "https://dotacoach.gg/en/heroes/counters/phantom-lancer",
+    "patch": "7.41f",
+    "checked": "2026-09-24",
+    "pairs": [
+      {
+        "name": "Underlord",
+        "reason": "Atrophy Aura reduces BASE attack damage and PL being an Illusion hero greatly benefits from stacking Agility and increasing his Base damage and Attack Speed to empowers his Illusions. Agility stacking means high armor so both Firestorm and Pit of Malice are great at providing reliable Magic damage and Crowd Control for him and his Illusions due to their AOE properties."
+      },
+      {
+        "name": "Leshrac",
+        "reason": "Leshrac's AoE abilities destroy Phantom Lancer's illusions. Diabolic Edict and Pulse Nova require no targeting, thus hitting Phantom Lancer whenever he's nearby."
+      },
+      {
+        "name": "Jakiro",
+        "reason": "Jakiro's AoE abilities are great against Phantom Lancer: Dual Breath slows down and damages Phantom Lancer and his illusions. Liquid Fire will not only deal AoE damage but also lowers Phantom Lancer's attack speed. Ice Path and Macropyre combo can easily clear all of Phantom Lancer's illusions. Jakiro can predict Doppelganger and Ice Path on top."
+      }
+    ]
+  },
+  {
+    "name": "Puck",
+    "slug": "puck",
+    "url": "https://dotacoach.gg/en/heroes/counters/puck",
+    "patch": "7.41f",
+    "checked": "2026-09-24",
+    "pairs": [
+      {
+        "name": "Night Stalker",
+        "reason": "Night Stalker silences and reveals Puck during Night Time. Crippling Fear prevents all spellcasting and forces BKB. Puck has no safe escape once silenced. Night Stalker is one of the best counters to mobile, squishy heroes."
+      },
+      {
+        "name": "Riki",
+        "reason": "Riki’s Smoke Screen disables Puck’s spell usage completely. He can scout and follow Puck even in trees or during Orb. Diffusal Blade and burst damage kill Puck fast. Puck struggles in teamfights when silenced from invisibility."
+      },
+      {
+        "name": "Lone Druid",
+        "reason": "Lone Druid’s bear is tanky and applies strong push and root pressure. Puck can’t clear the bear easily with his burst. Once rooted, Puck dies quickly to physical damage. Druid forces early towers and ends games before Puck scales."
+      }
+    ]
+  },
+  {
+    "name": "Pudge",
+    "slug": "pudge",
+    "url": "https://dotacoach.gg/en/heroes/counters/pudge",
+    "patch": "7.41f",
+    "checked": "2026-09-24",
+    "pairs": [
+      {
+        "name": "Abaddon",
+        "reason": "Aphotic Shield is a low cooldown ability that can outright dispel Dismember and when combined with Mist Coil, Pudge finds himself struggling to output enough damage to get through all the sustain. Withering Mist provides additional healing mitigation, which is one of core Pudge's main strengths he plays for. Borrowed Time can be used during Dismember to dispel it."
+      },
+      {
+        "name": "Anti-Mage",
+        "reason": "Counterspell can block and reflect Dismember, while providing significant Magic Resistance that mitigates a lot of Pudge's damage from Rot and Dismember. Blink's mobility makes it hard for Pudge to keep up with Anti Mage, or lock him down and stay on top of him when combined with Counterspell."
+      },
+      {
+        "name": "Beastmaster",
+        "reason": "Meat Hook is Pudge's signature and arguably most impactful ability. Call of the Wild Boar makes it hard for Pudge to land a Meat Hook on Beastmaster or any of his allies, while Call of the Wild Hawk summons hovering in a circle around Beastmaster makes it a complete Hail Marry play whether the Meat Hook would connect or not. Primal Roar interrupts Dismember."
+      }
+    ]
+  },
+  {
+    "name": "Razor",
+    "slug": "razor",
+    "url": "https://dotacoach.gg/en/heroes/counters/razor",
+    "patch": "7.41f",
+    "checked": "2026-09-24",
+    "pairs": [
+      {
+        "name": "Primal Beast",
+        "reason": "Primal Beast closes gaps quickly, making Razor’s kiting ineffective. Onslaught and Trample punish Razor’s lack of lockdown or escape. Razor gets interrupted before Static Link becomes impactful. Primal Beast snowballs easily through Razor’s weak early damage."
+      },
+      {
+        "name": "Queen of Pain",
+        "reason": "Queen of Pain out-ranges and out-pokes Razor in lane. Her Blink allows easy escapes from Static Link attempts. She builds magical burst damage that Razor cannot reduce. Razor is forced to waste Plasma Field just to stay relevant in fights."
+      },
+      {
+        "name": "Bloodseeker",
+        "reason": "Bloodseeker thrives on fast movement and punishes Razor’s chase attempts with Rupture. Razor cannot run without taking massive damage. Blood Rite zones Razor from using Static Link safely. Razor gets outpaced in tempo and punished in overextensions."
+      }
+    ]
+  },
+  {
+    "name": "Sand King",
+    "slug": "sand-king",
+    "url": "https://dotacoach.gg/en/heroes/counters/sand-king",
+    "patch": "7.41f",
+    "checked": "2026-09-24",
+    "pairs": [
+      {
+        "name": "Lifestealer",
+        "reason": "Lifestealers Rage provides Magic Resistance and Debuff Immunity which helps with all of Sandkings Spells."
+      },
+      {
+        "name": "Juggernaut",
+        "reason": "Blade Fury provides Magic Resistance and Debuff Immunity which helps with all of Sandkings Spells."
+      },
+      {
+        "name": "Wraith King",
+        "reason": "Sand King relies on comboing enemies from 100 to 0 using Epicenter and Burrowstrike. However, Wraith King's Reincarnation makes him a poor target, as Sand King usually doesn't want to commit his full combo on a hero who immediately comes back to life"
+      }
+    ]
+  },
+  {
+    "name": "Storm Spirit",
+    "slug": "storm-spirit",
+    "url": "https://dotacoach.gg/en/heroes/counters/storm-spirit",
+    "patch": "7.41f",
+    "checked": "2026-09-24",
+    "pairs": [
+      {
+        "name": "Anti-Mage",
+        "reason": "Mana Break can quickly burn Storm Spirit's mana, preventing him from escaping. Blink allows Anti-Mage to catch up to Storm Spirit when he tries to use his Ball Lightning to escape. Mana Void deals massive damage to Storm Spirit as well as his teammates, as Storm Spirit depletes his mana pool by using Ball Lightning. Counterspell's passive magic resistance reduces much of Storm Spirit's magical damage dealt to Anti-Mage, and the active aspect may even make Storm Spirit disable himself"
+      },
+      {
+        "name": "Doom",
+        "reason": "Doom prevents Storm Spirit from using all of his abilities and items, rendering Storm Spirit useless in a fight."
+      },
+      {
+        "name": "Ember Spirit",
+        "reason": "Flame Guard absorbs up to 500 magical damage (700 with Level 10 talents), which helps Ember Spirit survive against Storm Spirit's high magical damage. Searing Chains can root enemies up to 3 seconds, making Storm Spirit unable to escape with Ball Lightning. Fire Remnant deals high magical damage when casting multiple instances at once, granting Ember Spirit the damage to burst Storm Spirit down in the early to mid game."
+      }
+    ]
+  },
+  {
+    "name": "Sven",
+    "slug": "sven",
+    "url": "https://dotacoach.gg/en/heroes/counters/sven",
+    "patch": "7.41f",
+    "checked": "2026-09-24",
+    "pairs": [
+      {
+        "name": "Razor",
+        "reason": "Razors high movement speed will kite and Static Link will sap Sven's insane attack damage, and it even goes through Black King Bar."
+      },
+      {
+        "name": "Medusa",
+        "reason": "Mana Shield makes it very hard for Sven to burst her within Storm Hammer's stun duration. Stone Gaze makes it very difficult for Sven to fight Medusa at any stage of the game."
+      },
+      {
+        "name": "Axe",
+        "reason": "Berserker's Call prevents Sven from bursting his targets before Axe can interfere. The worst kind of opponent for Sven is one who can stop him from attacking who he wants to, which is exactly what Axe does. Culling Blade may finish off Sven before he has the chance to lifesteal or run with Warcry. Axe is a very common Blade Mail carrier which will make very short work of a Sven with God's Strength activated."
+      }
+    ]
+  },
+  {
+    "name": "Tiny",
+    "slug": "tiny",
+    "url": "https://dotacoach.gg/en/heroes/counters/tiny",
+    "patch": "7.41f",
+    "checked": "2026-09-24",
+    "pairs": [
+      {
+        "name": "Alchemist",
+        "reason": "Tiny naturally has high base attack damage due to his ult - Grow. Alch is capable of reducing it with Corrosive Weaponry and cripple Tiny's overall damage output significantly. Alch acquires items quite fast to build up his HP pool, making it hard for Tiny to burst him with a single Toss + Avalanche + Tree Throw combo and can quickly heal back up with Chemical Rage."
+      },
+      {
+        "name": "Lifestealer",
+        "reason": "Lifestealer’s Rage makes him immune to all of Tiny’s magic-based combo. He out-sustains Tiny in fights and bursts him with Feast damage. Tiny can’t kill Lifestealer unless he’s controlled by someone else. Lifestealer shrugs off every spell and punishes his low armor."
+      },
+      {
+        "name": "Necrophos",
+        "reason": "Necrophos shrugs off Tiny’s burst with sustain and Ghost Shroud. Reaper’s Scythe punishes Tiny’s low status resistance early. Avalanche and Toss do little once Necrophos is tanky. He scales better and punishes Tiny’s lack of BKB early."
+      }
+    ]
+  },
+  {
+    "name": "Vengeful Spirit",
+    "slug": "vengeful-spirit",
+    "url": "https://dotacoach.gg/en/heroes/counters/vengeful-spirit",
+    "patch": "7.41f",
+    "checked": "2026-09-24",
+    "pairs": [
+      {
+        "name": "Phantom Lancer",
+        "reason": "Venge struggles to deal with PL’s illusions and has no AoE clear. Swap becomes ineffective when she can’t identify the real one. Her armor reduction barely affects his illusion damage. PL overwhelms Venge by dragging fights out."
+      },
+      {
+        "name": "Naga Siren",
+        "reason": "Naga's illusions ignore armor reduction and punish Venge’s low AoE. Her Song of the Siren cancels Venge’s aggression and resets fights. Naga scales far better and pushes lanes too quickly. Venge can’t control the tempo late game."
+      },
+      {
+        "name": "Elder Titan",
+        "reason": "Elder Titan removes base armor with Natural Order, making Venge and her illusions extremely vulnerable. His stun and stomp combo disable her before she casts. ET’s AoE zoning keeps her away from her ideal positioning. Venge becomes fragile in fights."
+      }
+    ]
+  },
+  {
+    "name": "Windranger",
+    "slug": "windranger",
+    "url": "https://dotacoach.gg/en/heroes/counters/windranger",
+    "patch": "7.41f",
+    "checked": "2026-09-24",
+    "pairs": [
+      {
+        "name": "Centaur Warrunner",
+        "reason": "Retaliate will shred through Windranger's health if she chooses to attack him during Focus Fire. Stampede can help his teammates escape from Windrun and Focus Fire."
+      },
+      {
+        "name": "Bloodseeker",
+        "reason": "Rupture turns Windranger's mobility against her. Blood Rite's silence makes Windranger totally useless, since she's extremely reliant on abilities."
+      },
+      {
+        "name": "Axe",
+        "reason": "Windranger’s long channeling Focus Fire makes her a prime target for Berserker’s Call. Axe forces her to attack him, triggering counter helix and controlling her. She gets countered hard during her burst window."
+      }
+    ]
+  },
+  {
+    "name": "Zeus",
+    "slug": "zeus",
+    "url": "https://dotacoach.gg/en/heroes/counters/zeus",
+    "patch": "7.41f",
+    "checked": "2026-09-24",
+    "pairs": [
+      {
+        "name": "Storm Spirit",
+        "reason": "Storm counters Zeus by using Ball Lightning to quickly close the gap and dodge Zeus’s spells. His mobility and Electric Vortex allow him to lock Zeus down, preventing him from casting spells and bursting him down before Zeus can react."
+      },
+      {
+        "name": "Meepo",
+        "reason": "Meepo can chain Net to lock down Zeus and quickly burst him down with multiple clones, making it hard for Zeus to escape or cast spells effectively."
+      },
+      {
+        "name": "Broodmother",
+        "reason": "Broodmother’s webs let her sustain against Zeus’s nukes by providing regeneration and damage reduction. Her mobility in the webs also allows her to chase down Zeus easily, making it hard for him to escape."
+      }
+    ]
+  },
+  {
+    "name": "Kunkka",
+    "slug": "kunkka",
+    "url": "https://dotacoach.gg/en/heroes/counters/kunkka",
+    "patch": "7.41f",
+    "checked": "2026-09-24",
+    "pairs": [
+      {
+        "name": "Timbersaw",
+        "reason": "He shrugs off Kunkka’s physical damage with Reactive Armor. Kunkka lacks magic burst to bring him down. Timber also out-pushes and controls lanes faster than Kunkka."
+      },
+      {
+        "name": "Lifestealer",
+        "reason": "Lifestealer is immune to X-Torrent combo while Rage is active. He can use Infest to dodge Boat and burst squishy supports around Kunkka. Kunkka struggles to kite or kill a fat Lifestealer."
+      },
+      {
+        "name": "Alchemist",
+        "reason": "Alchemist farms faster and scales harder than Kunkka. Acid Spray + Radiance burn ruins Kunkka’s Cleave-focused fighting style. He tanks through combo and recovers instantly with regen or BKB"
+      }
+    ]
+  },
+  {
+    "name": "Lina",
+    "slug": "lina",
+    "url": "https://dotacoach.gg/en/heroes/counters/lina",
+    "patch": "7.41f",
+    "checked": "2026-09-24",
+    "pairs": [
+      {
+        "name": "Abaddon",
+        "reason": "Lina can never combo and kill Abaddon with all her spells as long as Borrowed Time is off cooldown. Aphotic Shield and Mist Coil also protect his allies from dying to Lina's spells. Once Abaddon gets Blink Dagger, he can jump Lina and run her down with the movement speed slow through Curse of Avernus, and forces Lina to play defensively."
+      },
+      {
+        "name": "Anti-Mage",
+        "reason": "Lina struggles to fend off Anti Mage, who can easily Blink next to her and burst her down with Mana Void after draining her mana through his right clicks empowered with Mana Break. Anti Mage also has the potential to block and reflect Lina's Laguna Blade damage back to her with Counterspell. Counterspell also provides magic resistance to reduce a lot of Lina's burst damage from her spell combo."
+      },
+      {
+        "name": "Centaur Warrunner",
+        "reason": "Centaur Warrunner's high HP from his Innate, strength gain, and item purchases prevents Lina from bursting him down with her spell combo. Once Centaur gets Blade Mail, he can reflect a lot of Lina's burst damage back to her in combination with Retaliate and threaten her life every time. Stampede also lets Centaur's entire team close the gap on a squishy Lina and burst her down."
+      }
+    ]
+  },
+  {
+    "name": "Lion",
+    "slug": "lion",
+    "url": "https://dotacoach.gg/en/heroes/counters/lion",
+    "patch": "7.41f",
+    "checked": "2026-09-24",
+    "pairs": [
+      {
+        "name": "Tidehunter",
+        "reason": "Blubber can dispel both Earth Spike and Hex without a cooldown essentially, as long as Tide is taking sufficient damage and can survie it. This makes Tide impossible to initiate on without a Break as upon dispelling the crowd control with Blubber he can instantly \"turn the tide\" with Ravage."
+      },
+      {
+        "name": "Spectre",
+        "reason": "Shadow Step allows Spectre to consistently get on top of Lion and dirsupt him from efficiently using his Earth Spike and Hex. Spectral Dagger allows Spectre to track him down even in Glimmer Cape and Dispersion makes it hard for Lion to fight back with Finger of Death."
+      },
+      {
+        "name": "Rubick",
+        "reason": "Rubick takes Lion's kit and turns it against him and his team, but better. Spell Steal increases the duration of both Earth Spike and Hex, while Arcane Supremacy increases the damage of Earth Spike and Finger of Death. Might and Magus provides additional Magic Resistance to Rubick making him suprisingly tanky versus Lion's exclusive magic damage kit."
+      }
+    ]
+  },
+  {
+    "name": "Shadow Shaman",
+    "slug": "shadow-shaman",
+    "url": "https://dotacoach.gg/en/heroes/counters/shadow-shaman",
+    "patch": "7.41f",
+    "checked": "2026-09-24",
+    "pairs": [
+      {
+        "name": "Visage",
+        "reason": "Visage’s familiars interrupt Shackles and easily cancel any channeling. His burst damage deletes Shadow Shaman quickly, and he’s tanky enough to survive wards with Cloak and Gravekeeper’s Cloak."
+      },
+      {
+        "name": "Terrorblade",
+        "reason": "Terrorblade's illusions easily kill Serpent Wards while he remains untouched. Shadow Shaman lacks the AoE tools to clear illusions, and he dies in a few hits if caught out."
+      },
+      {
+        "name": "Lone Druid",
+        "reason": "Lone Druid’s bear can break Shackles or tank Serpent Wards while the Druid focuses down Shaman. The dual-target threat makes it hard to lock him down properly in fights."
+      }
+    ]
+  },
+  {
+    "name": "Slardar",
+    "slug": "slardar",
+    "url": "https://dotacoach.gg/en/heroes/counters/slardar",
+    "patch": "7.41f",
+    "checked": "2026-09-24",
+    "pairs": [
+      {
+        "name": "Abaddon",
+        "reason": "Abaddon can cast Aphotic Shield on any of his allies to immediately dispel Corrosive Haze and/or the stun and the slow components of Slithereen Crush. All of Slardar's debuffs are also removed if Abaddon's Borrowed Time triggers."
+      },
+      {
+        "name": "Phantom Lancer",
+        "reason": "Phantom Lancer's Doppelganger has a low cooldown and applies a basic dispel on PL, making it hard to keep Corrosive Haze on him. Phantom Lancer usually purchases Manta Style which provides another basic dispel to remove Corrosive Haze with. Besides Slithereen Crush, Slardar does not have another way to deal with illusions and has a low mana pool, which allows Phantom Lancer with Diffusal Blade to quickly build up illusions while draining Slardar's mana."
+      },
+      {
+        "name": "Slark",
+        "reason": "Dark Pact purges off Corrosive Haze quickly and can pre-cast it to remove the Slithereen Crush stun duration, which removes Slardar's key tool for chasing and bursting. Shadow Dance makes Slark untargetable, so even if he’s low, Slardar can’t finish him off during that duration."
+      }
+    ]
+  },
+  {
+    "name": "Tidehunter",
+    "slug": "tidehunter",
+    "url": "https://dotacoach.gg/en/heroes/counters/tidehunter",
+    "patch": "7.41f",
+    "checked": "2026-09-24",
+    "pairs": [
+      {
+        "name": "Anti-Mage",
+        "reason": "Mana Break quickly burns Tidehunter's mana pool, preventing him from spamming his abilities, and Kraken Shell does not mitigate the bonus damage component. Blink allows Anti-Mage to enter combat quickly and safely after Ravage. A well-timed Counterspell can reflect Gush back at Tidehunter."
+      },
+      {
+        "name": "Ursa",
+        "reason": "Fury Swipes will keep stacking on Tidehunter since it cannot be dispelled by Kraken Shell and its bonus damage cannot be reduced by Anchor Smash. Enrage dispels the slow from Gush, and if upgraded with Aghanim's Scepter, can even dispel Ravage's stun."
+      },
+      {
+        "name": "Slark",
+        "reason": "Dark Pact dispels debuffs from Gush, Anchor Smash and even Ravage if timed correctly. Kraken Shell cannot restore attributes stolen by Essence Shift or dispel the leash if he gets Pounced."
+      }
+    ]
+  },
+  {
+    "name": "Witch Doctor",
+    "slug": "witch-doctor",
+    "url": "https://dotacoach.gg/en/heroes/counters/witch-doctor",
+    "patch": "7.41f",
+    "checked": "2026-09-24",
+    "pairs": [
+      {
+        "name": "Puck",
+        "reason": "Puck can easily dodge your Paralyzing cask and Maledict as well as Silence you during Death Ward."
+      },
+      {
+        "name": "Templar Assassin",
+        "reason": "Templar's Reflection uses instances to negate damage and all of Witch Doctors spells are instance damage. Witch Doctor also has low armor which Templar Assassin can reduce even further with Meld."
+      },
+      {
+        "name": "Anti-Mage",
+        "reason": "Anti-Mage can easily deflect your predictable Paralyzing Cask and set you up for a kill, in addition he can blink away from trouble or blink in pre-emptively with Counter Spell."
+      }
+    ]
+  },
+  {
+    "name": "Lich",
+    "slug": "lich",
+    "url": "https://dotacoach.gg/en/heroes/counters/lich",
+    "patch": "7.41f",
+    "checked": "2026-09-24",
+    "pairs": [
+      {
+        "name": "Wraith King",
+        "reason": "Wraith King can survive trough Lich's damage with Reincarnation. He further provide this protection to his team with Aghanim's Scepter and can soak up Chain Frost bounces with his many Bone Guard skeletons."
+      },
+      {
+        "name": "Oracle",
+        "reason": "Shadow Demon can dispel Frost Shield with Fortune's End and save an ally from Chain frost with his False Promise or Fate's Edict."
+      },
+      {
+        "name": "Shadow Demon",
+        "reason": "Shadow Demon can dispel Frost Shield with Demonic Purge and save an ally from Chain frost with his Disruption. Even if an ally is caught out Disseminate can be used to return much of Lich's damage back to his team."
+      }
+    ]
+  },
+  {
+    "name": "Riki",
+    "slug": "riki",
+    "url": "https://dotacoach.gg/en/heroes/counters/riki",
+    "patch": "7.41f",
+    "checked": "2026-09-24",
+    "pairs": [
+      {
+        "name": "Axe",
+        "reason": "The taunt from Axe's Berseker's Call makes Riki attack him by force and not remain invisible through Cloak and Dagger, or use Blink Strike and Tricks of the Trade to do more damage or get away. Axe can also proc Counter Helix through the Smoke Screen silence once it reaches enough attack counters. Axe's high HP pool and tanky item purchases also makes it extremely difficult for Riki to ever burst him down, even after he gets Diffusal Blade."
+      },
+      {
+        "name": "Bounty Hunter",
+        "reason": "Bounty Hunter's Track reveals Riki through his Cloak and Dagger invisibility, which is his main asset of roaming and setting up kills. Until he purchases a Manta Style or gets to level 25 for the Dispel talent on Tricks of the Trade, Riki has no way to take off Track and finds it extremely difficult to play around it. Bounty Hunter's high armor also makes him relatively tanky against Riki's physical damage."
+      },
+      {
+        "name": "Bristleback",
+        "reason": "Bristleback takes reduced damage when getting hit from the back because of his passive Bristleback ability. This massively counters Riki as his Blink Strike lands him behind Bristleback for right clicks, and his Tricks of the Trade also strikes enemy units from behind in its AoE. Bristleback also releases Quill Spray or Viscous Nasal Goo from the Bristleback damage threshold, depending on the facet he selected, which reflects damage back to Riki or deters him from fighting because of the armor reduction."
+      }
+    ]
+  },
+  {
+    "name": "Enigma",
+    "slug": "enigma",
+    "url": "https://dotacoach.gg/en/heroes/counters/enigma",
+    "patch": "7.41f",
+    "checked": "2026-09-24",
+    "pairs": [
+      {
+        "name": "Alchemist",
+        "reason": "The massive HP regen from Chemical Rage provides solid protection from being bursted during a Black Hole. Enigma's many Eidolons trigger Greevil's Greed and often become the focus of Alch for some massive easy gold. Malefice get's dispelled by both Chemical Rage and Berserk Potion."
+      },
+      {
+        "name": "Bristleback",
+        "reason": "Bristleback can mitigate significant damage during Black Hole and Midnight Pulse and even kill off Enigma with Quill Spray procs before a full Black Hole channel is completed. Eidolons have relatively low armor and mostly provide extra Gold and XP for Bristleback."
+      },
+      {
+        "name": "Spectre",
+        "reason": "Spectre's Dispersion makes her one of the better heroes to survie a Black Hole as Dispersion reduces ANY damage source incluing BH's Pure damage. Shadow Step and Haunt allow Spectre to focus Enigma and prevent him from executing a clean Black Hole."
+      }
+    ]
+  },
+  {
+    "name": "Tinker",
+    "slug": "tinker",
+    "url": "https://dotacoach.gg/en/heroes/counters/tinker",
+    "patch": "7.41f",
+    "checked": "2026-09-24",
+    "pairs": [
+      {
+        "name": "Anti-Mage",
+        "reason": "Anti Mage has an easy time jumping on a squishy and immobile Tinker with Blink and burn his mana with his Mana Break right clicks, which lets him follow up with Mana Void to burst him down because of his high mana pool. Anti Mage can also block and reflect Laser with Counterspell to avoid getting blinded. Defense Matrix also does Tinker little help against Anti Mage's right clicks into Mana Void burst. The Mana Void mini stun also stops the Rearm and Keen Conveyance channel."
+      },
+      {
+        "name": "Batrider",
+        "reason": "Batrider has an easy time running down a squishy and immobile Tinker during Firefly while he is slowed by Sticky Napalm in the laning stage. Defense Matrix and the Laser blind does Tinker little help getting run down in this manner. Later in the game, Batrider's Blink Dagger into Flaming Lasso lets him drag Tinker to his team and burst him down without letting him teleport away with Keen Conveyance. Flamebreak also lets Batrider push Tinker closer to him and find him in tree lines."
+      },
+      {
+        "name": "Clockwerk",
+        "reason": "Clockwerk's Rocket Flare gives him vision to find Tinker hiding in tree lines, which lets him follow up with his long range Hookshot to lock down Tinker and interrupt his Rearm and Keen Conveyance teleport. Battery Assault also prevents Tinker from Rearming or teleporting, while Defense Matrix does little against the mini stun inside Power Cogs. Clockwerk can also kick one of his Power Cogs from range to stop Tinker's channeling spells."
+      }
+    ]
+  },
+  {
+    "name": "Sniper",
+    "slug": "sniper",
+    "url": "https://dotacoach.gg/en/heroes/counters/sniper",
+    "patch": "7.41f",
+    "checked": "2026-09-24",
+    "pairs": [
+      {
+        "name": "Storm Spirit",
+        "reason": "While Storm may struggle against Sniper early on, he can dominate in the mid to late game using Ball Lightning and Electric Vortex to quickly close the gap and burst Sniper down."
+      },
+      {
+        "name": "Centaur Warrunner",
+        "reason": "Centaur Warrunner is naturally tanky, and with Blade Mail and his passive Retaliate, he can reflect a lot of Sniper’s damage. As a frequent Blink Dagger buyer, he can close the distance easily and punish Sniper. His ultimate, Stampede, helps his team initiate or escape, making him an effective counter to Sniper."
+      },
+      {
+        "name": "Morphling",
+        "reason": "Morphling can turn into Sniper and outdamage him with higher attack speed and agility when fully morphed. He can also chase and finish Sniper off using Waveform, making it hard for Sniper to escape or trade effectively."
+      }
+    ]
+  },
+  {
+    "name": "Necrophos",
+    "slug": "necrophos",
+    "url": "https://dotacoach.gg/en/heroes/counters/necrophos",
+    "patch": "7.41f",
+    "checked": "2026-09-24",
+    "pairs": [
+      {
+        "name": "Ancient Apparition",
+        "reason": "Ice Blast prevents Necro from healing trough Sadist and Death Pulse, while having Ghost Shroud amplify it's damage as it reduces Magic Resistance. Necro has no innate mobility spells and is quite slow and stationery, making it difficult for him to disengage easily and wait out the duration of Ice Blast in safety."
+      },
+      {
+        "name": "Arc Warden",
+        "reason": "Necro is strong and sturdy but slow and stationary making Spark Wraith and Flux amazing tools at wearing him down and keeping him at bay. Tempest Double allows Arc to continue fighting and splitpushing even if Reaper's Scythe manages to kill the main Arc, diminishing it's effectiveness. Shiva's Guard as well as Necro's level 20 talent reduces Barracuda's HP regen."
+      },
+      {
+        "name": "Shadow Demon",
+        "reason": "Disruption is just a nightmare for Necro - any Illusions that it creates inherit Hearthstopper Aura as well as other auras like Radiance or Shiva, which Necro naturally builds into, as well as Sadist and Profane Potency to help them stay alive. Disruption can be used as a save from Reaper's Scythe as it has a fairly long connection time. Demonic Purge dispels Ghost Shroud and hinders Necro's already low mobility even further."
+      }
+    ]
+  },
+  {
+    "name": "Warlock",
+    "slug": "warlock",
+    "url": "https://dotacoach.gg/en/heroes/counters/warlock",
+    "patch": "7.41f",
+    "checked": "2026-09-24",
+    "pairs": [
+      {
+        "name": "Tidehunter",
+        "reason": "Tide shrugs off Fatal Bonds and Upheaval with Kraken Shell. He wins teamfights with Ravage before Warlock can impact the fight, and Golems can’t pierce his tankiness. He scales better in 5v5s."
+      },
+      {
+        "name": "Bounty Hunter",
+        "reason": "Bounty thrives on hunting supports like Warlock, who lacks escape or armor. Track ensures Warlock gets deleted first in fights, and his constant harassment keeps Warlock from safely warding or channeling."
+      },
+      {
+        "name": "Elder Titan",
+        "reason": "ET negates Warlock’s sustain by reducing magic resistance. His spirit combo and Echo Stomp can zone Warlock and stop his channeled abilities. Bonds are useless if Warlock dies before casting."
+      }
+    ]
+  },
+  {
+    "name": "Beastmaster",
+    "slug": "beastmaster",
+    "url": "https://dotacoach.gg/en/heroes/counters/beastmaster",
+    "patch": "7.41f",
+    "checked": "2026-09-24",
+    "pairs": [
+      {
+        "name": "Medusa",
+        "reason": "Mana Shield allows Medusa to survive Beastmaster's Primal Roar and to counter initiate with Stone Gaze. Split Shot, Mystic Snake and Gorgon's Grasp all affect multiple targets and are naturally effective at clearing Call of the Wild Boar and Call of the Wild Hawk summons. Primal Road triggers Cold Blooded making Medusa even more survivable."
+      },
+      {
+        "name": "Dawnbreaker",
+        "reason": "Both Starbreaker and Celestial hammer are both effective at clearing Call of the Wild Boar and Call of the Wild Hawk summons due to their AOE property. More importantly Solar Guardian provides a global save, and counter initiation for Primal Roared ally anywhere on the map."
+      },
+      {
+        "name": "Sand King",
+        "reason": "Sand King's kit is entirely AOE making it easy for him to clear Call of the Wild Boar and Call of the Wild Hawk. More importantly, Caustic Finale turns Beastmaster's summons against him as even a single Stinger can affect multiple summons that upon death nuke Beastmaster for massive damage."
+      }
+    ]
+  },
+  {
+    "name": "Queen of Pain",
+    "slug": "queen-of-pain",
+    "url": "https://dotacoach.gg/en/heroes/counters/queen-of-pain",
+    "patch": "7.41f",
+    "checked": "2026-09-24",
+    "pairs": [
+      {
+        "name": "Anti-Mage",
+        "reason": "Anti Mage's Blink together with Mana Break on right clicks lets him get on top of Queen of Pain and burn her mana. This makes Queen of Pain Blink defensively every time if she doesn't want to get bursted by Mana Void because of her high mana pool. Anti Mage can also easily block and reflect Shadow Strike with Counterspell, leaving only Scream of Pain and Sonic Wave as her real damage sources. Anti Mage's magic resistance through Counterspell also reduce a lot of Queen of Pain's spell damage."
+      },
+      {
+        "name": "Bloodseeker",
+        "reason": "Bloodseeker's Rupture keeps Queen of Pain in place and prevents her from using Blink to get away if she wants to avoid taking a ton of damage. This lets Bloodseeker follow up with the Blood Rite silence and damage on a squishy and immobile Queen of Pain and burst her down with his right clicks."
+      },
+      {
+        "name": "Centaur Warrunner",
+        "reason": "Centaur Warrunner's Return Retaliate returns a ton of Queen of Pain's burst damage back to her, threatening her life if she uses her spell combo on a tanky Centaur. Once Centaur gets Blade Mail, this reflection damage is even greater and practically prevents Queen of Pain from ever targeting him with her burst damage without the fear of dying herself. Stampede also enables Centaur's entire to close the gap on a squishy Queen of Pain."
+      }
+    ]
+  },
+  {
+    "name": "Venomancer",
+    "slug": "venomancer",
+    "url": "https://dotacoach.gg/en/heroes/counters/venomancer",
+    "patch": "7.41f",
+    "checked": "2026-09-24",
+    "pairs": [
+      {
+        "name": "Phantom Lancer",
+        "reason": "Venomancer struggles against Phantom Lancer due to his illusions overwhelming Plague Wards. His poison damage is spread thin across duplicates. PL can dispel slows with Doppelganger and easily avoid Gale. Venomancer can’t stop PL from farming or taking over long fights."
+      },
+      {
+        "name": "Arc Warden",
+        "reason": "Arc Warden outranges Venomancer and uses his clone to kill Plague Wards safely. His magnetic field allows allies to ignore poison chip damage. Venomancer cannot approach Arc Warden without being punished by spark wraiths and flux. He loses map control and poke wars."
+      },
+      {
+        "name": "Brewmaster",
+        "reason": "Brewmaster dispels all of Venomancer’s damage-over-time effects with Primal Split. During the split, he removes Plague Wards and disables Venomancer’s positioning. Gale and Nova become useless once dispelled. Brewmaster’s utility and tankiness outlasts Venomancer’s slow burn."
+      }
+    ]
+  },
+  {
+    "name": "Faceless Void",
+    "slug": "faceless-void",
+    "url": "https://dotacoach.gg/en/heroes/counters/faceless-void",
+    "patch": "7.41f",
+    "checked": "2026-09-24",
+    "pairs": [
+      {
+        "name": "Night Stalker",
+        "reason": "Crippling Fear can silence Faceless Void for a long time, preventing him from using his Time Walk and Chronosphere."
+      },
+      {
+        "name": "Abaddon",
+        "reason": "Mist Coil and Aphotic Shield enable Abaddon to keep an ally alive during Chronosphere. Borrowed Time prevents Faceless Void from killing Abaddon during his Chronosphere."
+      },
+      {
+        "name": "Kunkka",
+        "reason": "Ghostship can stun Faceless Void and give damage reduction to allies that are trapped during Chronosphere. Torrent can stun Faceless Void from outside Chronosphere. X Marks the Spot can bring back Faceless Void if he escapes using Time Walk."
+      }
+    ]
+  },
+  {
+    "name": "Wraith King",
+    "slug": "wraith-king",
+    "url": "https://dotacoach.gg/en/heroes/counters/wraith-king",
+    "patch": "7.41f",
+    "checked": "2026-09-24",
+    "pairs": [
+      {
+        "name": "Underlord",
+        "reason": "Atrophy Aura reduces WK's attack damage, which is almost all of his total damage output. Underlord can control him multiple times with Pit of Malice, as he lacks innate dispel. Fiend's Gate allows him to bring in the numbers on WK if he ever gets caught out anywhere on the map in order to get trough his second life via Reincarnation."
+      },
+      {
+        "name": "Tidehunter",
+        "reason": "Anchor Smash reduces WK's attack damage significantly, which is almost all of his total damage output. Blubber can dispel Wraithfire Blast after a single Mortal Strike as the game goes on. Gush reduces armor, which WK already struggles with and Dead in the Water is hard for WK to deal with due to his low base attack speed. Ravage can be timed as Reincarnation is about to revive WK to instantly disable him."
+      },
+      {
+        "name": "Phoenix",
+        "reason": "WK's total damage output comes mostly from his attacks and Phoenix can make them both miss with Blinding Sun or reduce their frequency with Fire Spirits. Supernova can be hard for WK to deal with as he is a melee hero and also lacks good base attack speed or built in debuff immunity."
+      }
+    ]
+  },
+  {
+    "name": "Death Prophet",
+    "slug": "death-prophet",
+    "url": "https://dotacoach.gg/en/heroes/counters/death-prophet",
+    "patch": "7.41f",
+    "checked": "2026-09-24",
+    "pairs": [
+      {
+        "name": "Ancient Apparition",
+        "reason": "Ice Blast prevents you from healing from Spirit Siphon and Exorcism which is the most reliant way of Death Prophet to survive during teamfights."
+      },
+      {
+        "name": "Anti-Mage",
+        "reason": "Your high mana pool and frequent mana usage will make you a prime target for Anti Mage with his Mana Void."
+      },
+      {
+        "name": "Doom",
+        "reason": "Doom is going to stop you from casting spells which will make you useless during teamfights unless you have already casted Exorcism before that. You cannot heal during Doom."
+      }
+    ]
+  },
+  {
+    "name": "Phantom Assassin",
+    "slug": "phantom-assassin",
+    "url": "https://dotacoach.gg/en/heroes/counters/phantom-assassin",
+    "patch": "7.41f",
+    "checked": "2026-09-24",
+    "pairs": [
+      {
+        "name": "Axe",
+        "reason": "Phantom Strike's extra attack speed will cause Phantom Assassin to trigger Counter Helix more often, which can be fatal for Phantom Assassin in the early game. Jumping on Axe with Phantom Strike is not a good idea for Phantom Assassin at all as it makes her a seriously easy target for a counter-initiation with Berserker's Call and Blade Mail. Most of Axe's abilities pierce Black King Bar, allowing him to lock down Phantom Assassin at any time. Berserker's Call greatly reduces Phantom Assassin's ability to crit hard against Axe, and may cause her to kill herself when used with Blade Mail. Berserker's Call can also affect Phantom Assassin even if she has Black King Bar active as Berserker's Call can fully pierce spell immunity, making Berserker's Call one of the best abilities in the game against heroes like Phantom Assassin who wants to kill opponents quickly without being interrupted. Culling Blade can often kill Phantom Assassin before she can do anything due to her low health and strength gain. And every time Culling Blade successfully kills Phantom Assassin or any of her teammates, Axe gains permanent armor from it, which in combination with armour items that Axe often purchases like Blade Mail, Crimson Guard, Assault Cuirass and Shiva's Guard can make Phantom Assassin's attacks only tickle Axe."
+      },
+      {
+        "name": "Troll Warlord",
+        "reason": "Whirling Axes (Melee) makes it hard for Phantom Assassin to land a Coup de Grace. Troll Warlord often buys Silver Edge and Monkey King Bar, the items that greatly help against Phantom Assassin's Blur ability. Battle Trance completely negates Phantom Assassin's large damage output, preventing Troll Warlord from dying easily. The lifesteal also allows Troll Warlord to restore much of his health."
+      },
+      {
+        "name": "Windranger",
+        "reason": "Phantom Assassin's Blur is useless against Windranger as she commonly buys items that require Javelin like Maelstrom, Monkey King Bar or Bloodthorn, and other than Stifling Dagger, Phantom Assassin has nothing else that can bypass Windrun. Additionally, Phantom Assassin doesn't like building Monkey King Bar because her crits are reliant on attack damage. Focus Fire can still deal considerable damage despite Blur's evasion due to the increased attack speed."
+      }
+    ]
+  },
+  {
+    "name": "Pugna",
+    "slug": "pugna",
+    "url": "https://dotacoach.gg/en/heroes/counters/pugna",
+    "patch": "7.41f",
+    "checked": "2026-09-24",
+    "pairs": [
+      {
+        "name": "Primal Beast",
+        "reason": "Primal Beast punishes Pugna’s squishy nature with high physical burst. Pugna struggles to cast when caught by Onslaught and Trample. Nether Ward has little impact on Primal’s low mana use spells. Pugna can’t disengage or defend himself once locked down."
+      },
+      {
+        "name": "Chen",
+        "reason": "Chen overwhelms Pugna’s push tempo with stronger creeps and global healing. Pugna’s spells are inefficient against Chen’s army. Divine Favor and Hand of God outheal Life Drain. Pugna’s early push is easily stalled by creeps and sustain."
+      },
+      {
+        "name": "Huskar",
+        "reason": "Huskar jumps onto Pugna and punishes his low armor and HP. Life Break into Burning Spears bypasses Pugna’s healing attempts. Decrepify helps slightly, but Huskar’s magic resistance scales fast. Huskar snowballs through fights where Pugna is forced to play passively."
+      }
+    ]
+  },
+  {
+    "name": "Templar Assassin",
+    "slug": "templar-assassin",
+    "url": "https://dotacoach.gg/en/heroes/counters/templar-assassin",
+    "patch": "7.41f",
+    "checked": "2026-09-24",
+    "pairs": [
+      {
+        "name": "Huskar",
+        "reason": "Huskar's burn damage from Burning Spear is incredibly strong against Templar Assassin as it completely cancels out her Refraction from the burning over time which results in making her very vulnerable to ganks and harassments, and in turn forcing her out of the lane. Huskar often buys Heaven's Halberd."
+      },
+      {
+        "name": "Viper",
+        "reason": "The damage over time from Viper's Poison Attack and Viper Strike rapidly wear down Refraction charges, allowing Templar Assassin to be damaged. Additionally, Corrosive Skin causes her attacks to apply damage overtime on her as well."
+      },
+      {
+        "name": "Phantom Lancer",
+        "reason": "Phantom Lancer's illusions destroy Refraction charges very quickly. Diffusal Blade, his core item, drains Templar Assassin's small mana pool, rendering her unable to save herself with Meld."
+      }
+    ]
+  },
+  {
+    "name": "Viper",
+    "slug": "viper",
+    "url": "https://dotacoach.gg/en/heroes/counters/viper",
+    "patch": "7.41f",
+    "checked": "2026-09-24",
+    "pairs": [
+      {
+        "name": "Naga Siren",
+        "reason": "Naga Siren’s illusions overwhelm Viper’s single-target damage style. He can’t clear illusions quickly, and they burn his mana. Song of the Siren resets fights where Viper tries to initiate. She scales harder into late game and dominates after laning."
+      },
+      {
+        "name": "Phantom Lancer",
+        "reason": "Phantom Lancer creates too many illusions for Viper to handle. Viper’s slows do little once PL gets Diffusal and Manta. He can’t clear illusions fast enough and gets overwhelmed. PL shrugs off poison damage with high sustain."
+      },
+      {
+        "name": "Terrorblade",
+        "reason": "Terrorblade resists Viper's early pressure due to high armor and Conjure Image. He outscales Viper and punishes his lack of burst. Viper can’t stop Sunder and gets destroyed in later fights. TB's illusions also act as meat shields against Viper's output."
+      }
+    ]
+  },
+  {
+    "name": "Luna",
+    "slug": "luna",
+    "url": "https://dotacoach.gg/en/heroes/counters/luna",
+    "patch": "7.41f",
+    "checked": "2026-09-24",
+    "pairs": [
+      {
+        "name": "Dark Seer",
+        "reason": "Wall of Replica and Normal Punch (Aghanim's Scepter Upgrade) can create multiple Illusions of Luna to do devastating amounts of damage to her own team as she tends to build heavy stat items to improve her own Manta Illusions' damage and durability. The Illusions DS creates inherit both Moon Glaives and Lunar Blessing. Surge is amazing at disengaging from Eclipse or closing the gap on Luna."
+      },
+      {
+        "name": "Juggernaut",
+        "reason": "Both Blade Fury and Omnislash are direct counters to Eclipse, offering Juggernaut spell immunity and invulnerabilty. Therefore, Luna will need assistance in taking down Juggernaut as going solo will not be successful. Because of her low range, Luna cannot easily destroy Healing Ward."
+      },
+      {
+        "name": "Shadow Demon",
+        "reason": "Demonic Purge takes off Luna's superior mobility, removing the need for chasing her and allowing your team to reposition in team fights or escape when at low HP. If Shadow Demon has Aghanim's Scepter it will also take away glaive bounces and extra damage from Luna's passive. And Luna's commonly items Manta Style and Black King Bar does not work dispell to Demonic Purge Luna's illusions created by Disruption are very valuable with their Moon Glaives. These will effectively counter her pushing attempts and are painfully effective in team fights. Disruption can be used to save an ally from Eclipse. For the same reasons, Shadow Demon makes a very powerful ally for Luna when they are in the same team."
+      }
+    ]
+  },
+  {
+    "name": "Dragon Knight",
+    "slug": "dragon-knight",
+    "url": "https://dotacoach.gg/en/heroes/counters/dragon-knight",
+    "patch": "7.41f",
+    "checked": "2026-09-24",
+    "pairs": [
+      {
+        "name": "Necrophos",
+        "reason": "Heartstopper Aura and Reaper's Scythe go right through Dragon Knight's armor."
+      },
+      {
+        "name": "Ursa",
+        "reason": "Fury Swipes can tear Dragon knight down as it stacks infinitely."
+      },
+      {
+        "name": "Outworld Devourer",
+        "reason": "Arcane Orb's constant pure damage output is devastating to Dragon Knight. Dragon Knight's relatively low mana pool leads to heavy damage from Sanity's Eclipse, which also bypasses his armor."
+      }
+    ]
+  },
+  {
+    "name": "Dazzle",
+    "slug": "dazzle",
+    "url": "https://dotacoach.gg/en/heroes/counters/dazzle",
+    "patch": "7.41f",
+    "checked": "2026-09-24",
+    "pairs": [
+      {
+        "name": "Axe",
+        "reason": "Axe's Culling Blade can kill a hero protected by Dazzle's Shallow Grave if the target's HP is below the Culling Blade threshold. Shallow Grave prevents a hero from dying by damage, but Culling Blade is an instant kill that bypasses death prevention effects like Grave. As long as the target's HP is low enough, Axe will execute them even under Grave."
+      },
+      {
+        "name": "Ancient Apparition",
+        "reason": "Ice Blast prevents all healing, disabling Shallow Grave's sustain and Shadow Wave’s healing. The debuff lingers, making it dangerous for low-HP targets even after retreating. If a hero under Shallow Grave drops below the Ice Blast kill threshold, they will die as soon as Grave ends."
+      },
+      {
+        "name": "Phantom Lancer",
+        "reason": "He can dispel Shadow Poison with Doppelganger. His illusions burn Dazzle’s mana quickly with defusal blade making him unable to cast spells or use Shallow Grave. Phantom Lancer can kite Dazzle and pressure him constantly rendering him useless in fights without mana."
+      }
+    ]
+  },
+  {
+    "name": "Clockwerk",
+    "slug": "clockwerk",
+    "url": "https://dotacoach.gg/en/heroes/counters/clockwerk",
+    "patch": "7.41f",
+    "checked": "2026-09-24",
+    "pairs": [
+      {
+        "name": "Beastmaster",
+        "reason": "Clockwerk’s Battery Assault targets a single enemy, allowing Beastmaster’s summoned boars and hawks to absorb the damage. Additionally, Beastmaster’s summons make it difficult for Clockwerk to land his Hookshot , as he might end up targeting the summons instead of Beastmaster himself."
+      },
+      {
+        "name": "Phantom Lancer",
+        "reason": "Phantom Lancer can easily escape Clockwerk’s Cogs using Doppelganger, and his illusions absorb Battery Assault damage. As a natural Diffusal Blade buyer, Phantom Lancer can quickly burn Clockwerk’s mana, rendering him ineffective."
+      },
+      {
+        "name": "Juggernaut",
+        "reason": "Juggernaut can easily bypass Battery Assault and Power Cogs by using Blade Fury, allowing him to quickly turn the fight around on Clockwerk."
+      }
+    ]
+  },
+  {
+    "name": "Leshrac",
+    "slug": "leshrac",
+    "url": "https://dotacoach.gg/en/heroes/counters/leshrac",
+    "patch": "7.41f",
+    "checked": "2026-09-24",
+    "pairs": [
+      {
+        "name": "Ancient Apparition",
+        "reason": "AA's ult - Ice Blast completely negates Leshrac's sustain in fights, crippling him significantly and forces him to flee the fight altogether or risk getting bursted. He can keep his distance in order to use his spell making it difficult for Leshrac to reach him."
+      },
+      {
+        "name": "Medusa",
+        "reason": "Medusa's unique Mana Shield counts as a damage absorb, which does not proc any Lifesteal or Spelllifesteal effects. Leshrac naturally has a high mana pool trough his base stats and natural itemization, which Medusa can further abuse to sustain herself trough Mystic Snake."
+      },
+      {
+        "name": "Drow Ranger",
+        "reason": "Drow Ranger's Aghanim's Scepter is one of the strongest healing reduction abilities in DOTA and greatly diminishes Leshrac's sustain. She has high attack range to keep her distance and a consistent slow to kite Leshrac, making it difficult for him to get on top of her."
+      }
+    ]
+  },
+  {
+    "name": "Nature's Prophet",
+    "slug": "natures-prophet",
+    "url": "https://dotacoach.gg/en/heroes/counters/natures-prophet",
+    "patch": "7.41f",
+    "checked": "2026-09-24",
+    "pairs": [
+      {
+        "name": "Batrider",
+        "reason": "Batrider has an easy time getting close to an immobile Nature's Prophet with Sticky Napalm stacks and Firefly, which also breaks the Sprout trees to maintain vision and keep on top of him. Nature's Prophet also struggles to Teleport away because of the long duration Flaming Lasso lockdown. Flamebreak also breaks Sprout trees when a unit that is pushed collides with a tree."
+      },
+      {
+        "name": "Broodmother",
+        "reason": "Nature's Prophet can never trap or hold back Broodmother or her Spiderlings with Sprout while they are in the AoE of one of her Webs. Broodmother also has an easy time running at a squishy and immobile Nature's Prophet and burst him down before he can Teleport away. However, Broodmother has to be careful about the damage from Sprout and Wrath of Nature as it can kill most of her Spider army."
+      },
+      {
+        "name": "Dawnbreaker",
+        "reason": "Dawnbreaker's Celestial Hammer gives her mobility to get on top of a squishy and immobile Nature's Prophet while breaking his Sprout trees to maintain vision of him. Dawnbreaker can also use one of her teammates to use Solar Guardian to get close to Nature's Prophet while saving her ally caught inside Sprout. Dawnbreaker's high damage through her spells and right clicks also helps deal with Treants throughout the game."
+      }
+    ]
+  },
+  {
+    "name": "Lifestealer",
+    "slug": "lifestealer",
+    "url": "https://dotacoach.gg/en/heroes/counters/lifestealer",
+    "patch": "7.41f",
+    "checked": "2026-09-24",
+    "pairs": [
+      {
+        "name": "Batrider",
+        "reason": "Flaming Lasso pierces Debuff Immunity capable of stunning an repositioning LS even during his Rage. Flamebreak can be used to kite LS and Firefly allows Batrider to move over impassable terrain like cliffs to prevent him from hitting you."
+      },
+      {
+        "name": "Bane",
+        "reason": "Fiend's Grip pierces debuff immunity making it great at controlling LS during his Rage. Enfeeble greatly reduces his rightclick damage, which is his main source of damage and forces him to get even closer in order to use Infest or Open Wounds. Nightmare is effective at controlling or isolating him in a fight and Brain Sap can damage him during Rage."
+      },
+      {
+        "name": "Enigma",
+        "reason": "Black Hole pierces Rage's Debuff Immunity and does not get mitigated by Unfettered's Status Resistance nor does it get dispelled as it is a channel, giving Enigma a reliable way of locking down LS. Midnight Pulse also pierces Rage's Debuff Immunity and does not get mitigated by Status Resistance. In lane Eidolons are amazing at securing last hits and more importantly denies due ot LS's low base attack damage."
+      }
+    ]
+  },
+  {
+    "name": "Dark Seer",
+    "slug": "dark-seer",
+    "url": "https://dotacoach.gg/en/heroes/counters/dark-seer",
+    "patch": "7.41f",
+    "checked": "2026-09-24",
+    "pairs": [
+      {
+        "name": "Bloodseeker",
+        "reason": "Rupture makes it more difficult to get value out of Surge as the hasted movement speed now comes with a damage cost. Sanguiovore helps sustain Bloodseeker in lane against Ion Shell harass. Bloodseeker's Illusions do not inhherit Thirst, making him a weak Illusion hero that does not spawn a LVL 30 META TB with Wall of Replica or Normal Punch."
+      },
+      {
+        "name": "Oracle",
+        "reason": "Fortune's End can dispel both Ion Shell and Surge, while providing valuable lockdown versus any Surged Targets. Fortune's End is particularly effective at shutting down Dark Seer's lane completely as it is one of the few level 1 dispels, that's AOE on top of that and Ion Shell is DS's main laning tool."
+      },
+      {
+        "name": "Ursa",
+        "reason": "Most of Ursa's abilities are active appart from Fury Swipes, which is his main damage steroid that Wall of Replica and Normal Punch (Aghanim's Scepter Upgrade) Illusions do not inherit. Despite being a melee hero Ursa can focus down any Ion Shelled creeps in lane with Overpower and Fury Swipes to mitigate getting harassed and DS generally finds himself struggling greatly when facing Ursa in lane."
+      }
+    ]
+  },
+  {
+    "name": "Clinkz",
+    "slug": "clinkz",
+    "url": "https://dotacoach.gg/en/heroes/counters/clinkz",
+    "patch": "7.41f",
+    "checked": "2026-09-24",
+    "pairs": [
+      {
+        "name": "Phantom Lancer",
+        "reason": "Clinkz struggles against Phantom Lancer because PL buys Manta and Diffusal Blade, making it hard to identify the real one. This often leaves Clinkz out of mana, allowing Phantom Lancer to kill him easily."
+      },
+      {
+        "name": "Naga Siren",
+        "reason": "Naga buys Manta and uses Ensnare to lock down Clinkz, making it difficult for him to catch the real Naga, leaving him vulnerable to being killed by naga or her allies."
+      },
+      {
+        "name": "Chaos Knight",
+        "reason": "Chaos Knight buys Manta, allowing him to quickly turn and burst Clinkz if he tries to initiate, making it risky for Clinkz to engage."
+      }
+    ]
+  },
+  {
+    "name": "Omniknight",
+    "slug": "omniknight",
+    "url": "https://dotacoach.gg/en/heroes/counters/omniknight",
+    "patch": "7.41f",
+    "checked": "2026-09-24",
+    "pairs": [
+      {
+        "name": "Shadow Demon",
+        "reason": "Shadow Demon completely counters Guardian Angel by purging it with Demonic Purge. His Disruption removes targets before Omniknight can save them. He breaks Omniknight’s utility and saves."
+      },
+      {
+        "name": "Primal Beast",
+        "reason": "Primal Beast punishes immobile supports like Omniknight with Onslaught and Trample. He can quickly close gaps and burst Omniknight before he casts spells. Omniknight’s abilities don’t prevent Primal’s magical damage or crowd control. He struggles to save allies from Pulverize."
+      },
+      {
+        "name": "Ancient Apparition",
+        "reason": "Ancient Apparition counters Omniknight’s healing and sustain with Ice Blast. When Ice Blast is active, Purification and Guardian Angel become useless. AA’s long-range poke prevents Omniknight from positioning safely. He denies the core aspect of Omniknight’s defensive play."
+      }
+    ]
+  },
+  {
+    "name": "Enchantress",
+    "slug": "enchantress",
+    "url": "https://dotacoach.gg/en/heroes/counters/enchantress",
+    "patch": "7.41f",
+    "checked": "2026-09-24",
+    "pairs": [
+      {
+        "name": "Marci",
+        "reason": "Enchantress is bad against Marci because Marci can quickly close the gap and burst her down with high physical damage through unleash, ignoring Untouchable through Sidekick’s bonus damage and her rapid mobility. Enchantress struggles to kite Marci once she's on top of her."
+      },
+      {
+        "name": "Chen",
+        "reason": "Against Chen, Enchantress can get outpaced in pushing and map control. Chen’s large creep army outscales Enchantress' Enchant, and his team-healing can nullify her chip damage from Impetus during mid to late-game pushes. Penitence also removes untouchable since it buff chen allies attack speed.Chen can also persuade enchantress creeps"
+      },
+      {
+        "name": "Ursa",
+        "reason": "Ursa counters Enchantress due to his Fury Swipes stacking damage, which bypasses Untouchable’s attack speed slow. Once Ursa gets on top of her, she can’t sustain through the damage, and her mobility isn’t enough to escape his chase potential."
+      }
+    ]
+  },
+  {
+    "name": "Huskar",
+    "slug": "huskar",
+    "url": "https://dotacoach.gg/en/heroes/counters/huskar",
+    "patch": "7.41f",
+    "checked": "2026-09-24",
+    "pairs": [
+      {
+        "name": "Ancient Apparition",
+        "reason": "Ice Blast is one of, if not the best spell against Huskar as he is the only hero in DOTA that does not have a Mana pool and utilizes HP to cast his spells and items. It prevents his Berserker's Bloodhealing and the lack of mobility in Huskar's kit makes it difficult for him to disengage easily and wait out the duration safely. Even if he just gets clipped by Ice Blast's debuff he usually dies to Armlet as he generally runs around at already low HP."
+      },
+      {
+        "name": "Necrophos",
+        "reason": "Huskar loves playing on low HP to get maximum benefit from his Berserker's Blood, making him a perfect target for Reaper's Scythe. Ghost Shroud prevents Huskar from atacking Necro, and level 20 talent essentially negates Huskar's level 20 talent for extra HP regen."
+      },
+      {
+        "name": "Bloodseeker",
+        "reason": "Huskar loves playing on low HP to get maximum benefit from his Berserker's Blood, making him constantly visible to Bloodseeker due to Thirst. This usually prevents him from sneaking a solo Rosh or to safely flash farm as fast as possible with as little HP as possible. Rupture does damage during Life Break."
+      }
+    ]
+  },
+  {
+    "name": "Night Stalker",
+    "slug": "night-stalker",
+    "url": "https://dotacoach.gg/en/heroes/counters/night-stalker",
+    "patch": "7.41f",
+    "checked": "2026-09-24",
+    "pairs": [
+      {
+        "name": "Naga Siren",
+        "reason": "Nightstalker's lack of AOE damage makes it difficult for him to deal with Mirror Image Illusions - this allows Naga to manfight him and to keep the waves pushed, giving her and her team the upper hand. Both Ensnare and Song of the Siren can be used to lockdown or kite Nightstalker during Dark Ascension."
+      },
+      {
+        "name": "Arc Warden",
+        "reason": "NS loves isolating a single target and Tempest Double allows Arc to have reliable backup to fight back. Flux and Spark Wraith slow, which greatly help with kiting NS while Magnetic Field provides evasion for Arc and his team. Arc Warden’s strong split-pushing forces Night Stalker to spread thin as he is slow at clearing waves, and Spark Wraith provides vision, diminishing Night Stalker’s ability to fly and hide over cliffs and terrain during Dark Ascension."
+      },
+      {
+        "name": "Bloodseeker",
+        "reason": "Rupture limits NS's mobility from Hunter in the Night as he is forced to pay in blood to make use of his enhanced movement speed as well as flying over terrain during Dark Ascension. Thirst and Blood Rite can provide vision on NS as he tries to juke and hide over trees and cliffs in order to disengeage a fight when he gets low on health."
+      }
+    ]
+  },
+  {
+    "name": "Broodmother",
+    "slug": "broodmother",
+    "url": "https://dotacoach.gg/en/heroes/counters/broodmother",
+    "patch": "7.41f",
+    "checked": "2026-09-24",
+    "pairs": [
+      {
+        "name": "Alchemist",
+        "reason": "Greevil's Greed makes Broodmother’s spiderlings far more valuable to Alchemist making it important that he does farm them as opposed to other heroes where the spider's bounties are negligible. Acid Spray will be potentially avoidable but it is still hard trying to kill him knowing he can use it. Alchemist naturally will be buying Radiance which will further be a problem for your spiderlings."
+      },
+      {
+        "name": "Axe",
+        "reason": "Berserker's Call forces Broodmother and her spiderlings to attack, allowing for large amounts of pure damage to be done through Counter Helix."
+      },
+      {
+        "name": "Earthshaker",
+        "reason": "Aftershock in combination with Enchant Totem prevents Broodmother from continuing to attack Earthshaker without being repeatedly stunned. Echo Slam is greatly amplified by Spiderlings, often instantly killing Broodmother, her swarm, and anyone else unfortunate enough to be nearby."
+      }
+    ]
+  },
+  {
+    "name": "Bounty Hunter",
+    "slug": "bounty-hunter",
+    "url": "https://dotacoach.gg/en/heroes/counters/bounty-hunter",
+    "patch": "7.41f",
+    "checked": "2026-09-24",
+    "pairs": [
+      {
+        "name": "Abaddon",
+        "reason": "Aphotic Shield is a low cooldown ability that can dispel Track and almost matches Tracks's cooldown, making it significantly more difficult for BH to play to his core strengths. Borrowed Time can be activated during Shadow Walk's stun to dispel it and can further dispel Track by itself."
+      },
+      {
+        "name": "Oracle",
+        "reason": "Fortune's End is a low cooldown ability that can dispel Track and almost matches Tracks's cooldown, making it significantly more difficult for BH to play to his core strengths. Additionally, Fortune's End can reveal BH during Shadow Walk . Fate's Edict prevents BH from attacking, hindering his ability to apply Jinada. False Promise adds another layer of protection with a save and an extra dispel for any Tracked targets."
+      },
+      {
+        "name": "Legion Commander",
+        "reason": "Press the Attack is a low cooldown ability that can dispel Track, crippling's BH vision advantage. Duel is effective at locking BH down and killing him as he has an above average BAT increasing the frequency of Moment of Courage procs."
+      }
+    ]
+  },
+  {
+    "name": "Weaver",
+    "slug": "weaver",
+    "url": "https://dotacoach.gg/en/heroes/counters/weaver",
+    "patch": "7.41f",
+    "checked": "2026-09-24",
+    "pairs": [
+      {
+        "name": "Faceless Void",
+        "reason": "Chronosphere completely shuts Weaver down, catching him before he can Time Lapse. Void’s time-lock bashes are hard to dodge during fights. Weaver cannot fight into Void once BKB and items are up. His lack of hard disable makes Void scale freely."
+      },
+      {
+        "name": "Phantom Lancer",
+        "reason": "Weaver can’t handle Phantom Lancer’s illusions without AoE damage. He gets overwhelmed by Diffusal Blade and mana burn. Time Lapse often targets the wrong illusion, making survival unreliable. PL dominates long fights where Weaver loses control."
+      },
+      {
+        "name": "Morphling",
+        "reason": "Morphling outscales Weaver and can morph into him for mobility. Weaver has no way to burst Morphling before he shifts to strength. Morphling’s sustain and magic burst punish Weaver's low HP. In late game, Morphling wins almost every duel."
+      }
+    ]
+  },
+  {
+    "name": "Jakiro",
+    "slug": "jakiro",
+    "url": "https://dotacoach.gg/en/heroes/counters/jakiro",
+    "patch": "7.41f",
+    "checked": "2026-09-24",
+    "pairs": [
+      {
+        "name": "Anti-Mage",
+        "reason": "Blink allows Anti-Mage to both, escape from Jakiro and to hunt down Jakiro, who has no way to escape without items. Counterspell protects Anti-Mage against Jakiro's mostly-magical damage. Both Mana Void and Mana Burn is very hazardous for Jakiro because of his high mana."
+      },
+      {
+        "name": "Clockwerk",
+        "reason": "Battery Assault prevents Jakiro from casting spells as all his spells have very long cast times. Jakiro is also an easy target for Clockwerk's Hookshot + Power Cogs combo, as he has little mobility and no escape without items. Alternatively, if the enemy Clockwerk traps one of his own allies or Jakiro's allies in the cogs, it gives Jakiro an ideal setup to punish Clockwerk and his ally or to save Jakiro's ally."
+      },
+      {
+        "name": "Rubick",
+        "reason": "Fade Bolt can hinder Jakiro's early pushing power by clearing creep waves. All of Jakiro's spells are great for Rubick to Spell Steal. Ice Path is a great spell for Rubick so steal, since Rubick has no cast time on stolen abilities, making Rubick's version of Ice Path much more reliable than Jakiro's. Macropyre is a great way for Rubick to deal immense amount of damage."
+      }
+    ]
+  },
+  {
+    "name": "Batrider",
+    "slug": "batrider",
+    "url": "https://dotacoach.gg/en/heroes/counters/batrider",
+    "patch": "7.41f",
+    "checked": "2026-09-24",
+    "pairs": [
+      {
+        "name": "Pudge",
+        "reason": "Pudge has various ways of saving his teammates from Batrider's spells. He can Meat Hook his allies away from Firefly or Batrider himself during Flaming Lasso to drag his ally back to safety. He can also pick up an Aghanim's Shard and use Dismember on an ally to cancel the Flaming Lasso altogether or prevent Flamebreak's burn duration."
+      },
+      {
+        "name": "Abaddon",
+        "reason": "Aphotic Shield is a low cooldown Strong Dispel, which can dispel both Flaming Lasso as well as remove Sticky Napalm Stacks consistently. Borrowed Time can be used DURING Flaming Lasso to dispel it."
+      },
+      {
+        "name": "Slark",
+        "reason": "Dark Pact is a low cooldown Strong Dispel, which can dispel Flaming Lasso, Flamebreak's DOT as well as remove Sticky Napalm Stacks consistently. Pounce provides a reliable lockdown for Batrider to mitigate his mobility and Shadow Dance and Depth Shroud prevent Flaming Lasso from being cast on anyone under their effects."
+      }
+    ]
+  },
+  {
+    "name": "Chen",
+    "slug": "chen",
+    "url": "https://dotacoach.gg/en/heroes/counters/chen",
+    "patch": "7.41f",
+    "checked": "2026-09-24",
+    "pairs": [
+      {
+        "name": "Alchemist",
+        "reason": "Chen's core mechanic is having an army of creeps to aid him in battle - Alchemist's core mechanic is killing creeps as they yield extra gold. This leaves Chen in an awkward spot as every engagement with Alch could just spiral his netwroth out of control. Alchemist's strong early game allows him to deal with Chen's early game pressure better than most heroes as he can drop an Acid Spray in front of a tower to hinder Chen's push."
+      },
+      {
+        "name": "Earthshaker",
+        "reason": "Earthshaker is strong against Chen. His Echo Slam deals massive damage based on the number of enemy units, making Chen’s controlled creeps a liability in teamfights. Fissure and Enchant Totem help control Chen and isolate his heroes or creeps. Earthshaker can punish Chen’s grouped pushes by blinking in and wiping out both creeps and heroes. Overall, Chen’s strength in numbers plays directly into Earthshaker’s AoE burst, making Earthshaker a solid counter."
+      },
+      {
+        "name": "Phantom Lancer",
+        "reason": "His illusions make it difficult for Chen to control or kill him quickly. Phantom Lancer’s high mobility and confusing presence force Chen to waste creeps and spells.Chen’s single-target abilities struggle to keep up with Phantom Lancer’s illusion spam and escape potential."
+      }
+    ]
+  },
+  {
+    "name": "Spectre",
+    "slug": "spectre",
+    "url": "https://dotacoach.gg/en/heroes/counters/spectre",
+    "patch": "7.41f",
+    "checked": "2026-09-24",
+    "pairs": [
+      {
+        "name": "Abaddon",
+        "reason": "Abaddon provides healing and sustain and barriers, which do wonders versus Spectre as she struggles to output significant damage proactively and lacks burst. Aphotic Shield dispels Spectral Dagger and his Aghanim's Scepter further amplifies his impact as it makes him heal in an AOE."
+      },
+      {
+        "name": "Underlord",
+        "reason": "Underlord is able to abuse Spectre when she's at her weakest - in the laning stage. He can constanly harass and pressure her in addition to reducing her rightclick damage in order to deny her creeps. His global ult helps keep up with Spectre's global presence."
+      },
+      {
+        "name": "Undying",
+        "reason": "Undying is able to abuse Spectre when she's at her weakest - in the laning stage. He can constantly harass and pressure her with Decay and Rightclicks in order to disrupt her ability to secure sufficient resources in the lane, offsetting her entire game."
+      }
+    ]
+  },
+  {
+    "name": "Ancient Apparition",
+    "slug": "ancient-apparition",
+    "url": "https://dotacoach.gg/en/heroes/counters/ancient-apparition",
+    "patch": "7.41f",
+    "checked": "2026-09-24",
+    "pairs": [
+      {
+        "name": "Pudge",
+        "reason": "Pudge Support can pickup an early Aghanim's Shard in order to save his allies from Frost Blast - Dismembered allies do not heal but also do not have their health reduced in any way allowing them to wait out the Frost Blast debuff duration in safety. Meat Hook is effective at pulling teammates away from Cold Feet's stun radius."
+      },
+      {
+        "name": "Storm Spirit",
+        "reason": "Storm's mobility allows him to easily get on top of AA and has enough damage to kill him reliably. Ball of Lightning allows him to easily dodge Ice Blast and get away from Cold Feet in order to dispel it. Ball of Lihgtning can also disjoint any Chilling Touch hits and makes retreating back to safety easy for Storm."
+      },
+      {
+        "name": "Lycan",
+        "reason": "Lycan's mobility allows him to easily get on top of AA and has enough damage to kill him reliably. Shapeshift essentially provides him with Haste making it difficult for AA to connect his Ice Blast and easy for Lycan to leave Cold Feet's stun radius. Summon Wolves on their own are able to apply enough pressure for AA and force him to kite them."
+      }
+    ]
+  },
+  {
+    "name": "Doom",
+    "slug": "doom",
+    "url": "https://dotacoach.gg/en/heroes/counters/doom",
+    "patch": "7.41f",
+    "checked": "2026-09-24",
+    "pairs": [
+      {
+        "name": "Arc Warden",
+        "reason": "Tempest Double allows Arc to fight even when Doomed, diminishing Doom's impact. His Magnetic Field provides evasion for him and his team making Infernal Blade clunky to use due to Doom's increased attack range. Arc's split pushing and kiting potential make it hard for Doom to control him, effectively countering Doom's single-target, ultimate-dependant playstyle."
+      },
+      {
+        "name": "Meepo",
+        "reason": "Divided we Stand allows Meepo to keep most of his impact even when Doomed. Most importantly, Megameepo (Aghanim's Scepeter Upgrade) allows Meepo Prime to save any of his Meepo's from Doom and completely prevent the Doomed Meepo from receiving any damage for its duration from any source other than Doom. This greatly complicates Doom's gameplay as post Aghanim's Scepeter he is forced to Doom Meepo Prime, who can just stay back and Poof himself onto the Doomed Meepo to save him."
+      },
+      {
+        "name": "Medusa",
+        "reason": "Mana Shield does not take into account any Armor or Magic Resistance, making it the perfect counter to Doom's Pure Damage. Cold Blooded (Aghanim's Shard Upgrade) when combined with Aghanim's Scepeter allows Dusa to stun Doom upon casting Doom and naturally create distance. Doom lacks Mana Burn and the Attack Speed to justify a Diffusal/Disperser and struggles greatly to get trough Dusa's Manapool."
+      }
+    ]
+  },
+  {
+    "name": "Ursa",
+    "slug": "ursa",
+    "url": "https://dotacoach.gg/en/heroes/counters/ursa",
+    "patch": "7.41f",
+    "checked": "2026-09-24",
+    "pairs": [
+      {
+        "name": "Phantom Lancer",
+        "reason": "Ursa has no sustained AoE to deal with illusions, it becomes worse since Phantom Lancer can create more illusions in a matter of seconds. Diffusal Blade can be used to drain Ursa mana. This is a standard item for Phantom Lancer in every match. Doppelganger applies basic dispel on Phantom Lancer, which will remove the slow from Earthshock. It also resets fights with more illusions, making hard for Ursa to hit the real Phantom Lancer. Manta Style creates two more illusions and also applies a basic dispel, further complicating the problem for Ursa to deal with."
+      },
+      {
+        "name": "Slark",
+        "reason": "Enrage cannot restore attributes stolen by Essence Shift and will reduce his physical damage output. Even if Ursa initiates with Earthshock, Slark can Pounce away or use Dark Pact after Ursa's initiation to avoid Fury Swipes' damage until Earthshock's slow is gone. Shadow Dance provides a save against the initiation of Ursa."
+      },
+      {
+        "name": "Chaos Knight",
+        "reason": "Ursa has no way to clear illusions quickly, making him vulnerable to Chaos Bolt and Phantasm combo. Reality Rift can quickly relocate or reinitiate on Ursa once the duration of Enrage is over. Phantasm can be used to dispel Earthshock's slow. Manta Style is another item that counter Ursa greatly. Ursa has low mobility, once jumped on by Reality Rift, Ursa struggles to escape. Doom"
+      }
+    ]
+  },
+  {
+    "name": "Spirit Breaker",
+    "slug": "spirit-breaker",
+    "url": "https://dotacoach.gg/en/heroes/counters/spirit-breaker",
+    "patch": "7.41f",
+    "checked": "2026-09-24",
+    "pairs": [
+      {
+        "name": "Clockwerk",
+        "reason": "Spirit Breaker can never connect the Charge of Darkness on Clockwerk as long as he has Power Cogs off cooldown, as he can easily put them down before Spirit Breaker reaches him to push him away. Clockwerk's Battery Assault, Power Cogs, and Hookshot lockdown all stop Spirit Breaker from Charging away from him as well. The mana burn from Power Cogs also massively affects Spirit Breaker because of his low mana pool, and can render him unable to use his entire spell combo."
+      },
+      {
+        "name": "Dark Willow",
+        "reason": "Dark Willow's Bramble Maze massively counters Spirit Breaker's Charge of Darkness as it stops the Charge mid way if any of the Brambles fall in the Charge path. This makes it extremely difficult for Spirit Breaker to Charge in and out of fights as long as Dark Willow puts down her Bramble Maze. Dark Willow can also pop Shadow Realm before Spirit Breaker's Charge connects on her to stop him from following up with Nether Strike or his Greater Bash right clicks. Cursed Crown and Terrorize also let Dark Willow interrupt Charge of Darkness."
+      },
+      {
+        "name": "Ember Spirit",
+        "reason": "Ember Spirit has an easy time dodging the Charge of Darkness collision by timing his Sleight of Fist on a cluster of units when Charge is about to connect on him. If Ember Spirit doesn't have units for Sleight of Fist around him, he can still use Sleight of Fist into Searing Chains on Spirit Breaker from range to stop the Charge mid way to stop him from getting in and out of fights. Flame Guard also absorbs damage from Spirit Breaker's spells and Greater Bash procs while jumping to Fire Remnants keeps Ember Spirit safe from ever dying."
+      }
+    ]
+  },
+  {
+    "name": "Gyrocopter",
+    "slug": "gyrocopter",
+    "url": "https://dotacoach.gg/en/heroes/counters/gyrocopter",
+    "patch": "7.41f",
+    "checked": "2026-09-24",
+    "pairs": [
+      {
+        "name": "Arc Warden",
+        "reason": "Arc kites Gyro with Spark Wraiths and constant slow. His Tempest Double safely harasses from range, while Gyro can't reach or burst him before being chipped down."
+      },
+      {
+        "name": "Lifestealer",
+        "reason": "Lifestealer shrugs off Gyro’s magic damage with Rage. He can also infest and burst Gyro in fights, taking advantage of Gyro’s low armor and lack of hard disables."
+      },
+      {
+        "name": "Viper",
+        "reason": "Viper’s Nethertoxin shuts down Flak Cannon by disabling passives. His poison and Break effects reduce Gyro’s ability to sustain or kite."
+      }
+    ]
+  },
+  {
+    "name": "Alchemist",
+    "slug": "alchemist",
+    "url": "https://dotacoach.gg/en/heroes/counters/alchemist",
+    "patch": "7.41f",
+    "checked": "2026-09-24",
+    "pairs": [
+      {
+        "name": "Dragon Knight",
+        "reason": "DK's Frost Dragon facet reduces Chemical Rage's healing substantially, which is Alch's main defensive tool. Additionally, he can reduce his overall damage output greatly with Breather Fire and Frost Dragon and provides reliable lockdown with Dragon Tail. His strong early game allows him to match Alch's strong early game better than most heroes."
+      },
+      {
+        "name": "Pudge",
+        "reason": "Aghanim's Scepter and Shiva's Guard are staple items for Pudge and reduce Chemical Rage's healing, which is Alch's main defensive tool. Pudge is able to provide a strong permament slow on Alch preventing him from both attacking and retreating and has a reliable lockdown with Dismember."
+      },
+      {
+        "name": "Ancient Apparition",
+        "reason": "AA's Ice Blast negates Chemical Rage's healing completely, which is Alch's main defensive tool. This usually forces Alch to flee from the fight entirely and wait it out. Additionally, his facet Bone Chill reduces strenght, which further impacts his overall potency."
+      }
+    ]
+  },
+  {
+    "name": "Invoker",
+    "slug": "invoker",
+    "url": "https://dotacoach.gg/en/heroes/counters/invoker",
+    "patch": "7.41f",
+    "checked": "2026-09-24",
+    "pairs": [
+      {
+        "name": "Anti-Mage",
+        "reason": "Anti Mage can easily close the gap on Invoker with Blink and burst him down by burning his mana and finishing him off with Mana Void. The mana burn also means Invoker may not have enough mana to use key defensive spells. Anti Mage can also Blink away from Invoker's spell combo and reflect Cold Snap or Rod of Atos easily."
+      },
+      {
+        "name": "Broodmother",
+        "reason": "Broodmother is a very fast hero and is hard to keep in place to burst down with Invoker's spell combo. Invoker is also a slow hero without active Wex orbs and high levels in Ghost Walk, which makes him vulnerable to get run down by Spiderlings under the Orchid silence, which is a common purchase for Broodmother. The Necrotic Webs facet also reduces the HP regen from active Quas orbs."
+      },
+      {
+        "name": "Centaur Warrunner",
+        "reason": "Centaur's Stampede can easily help his entire time close the gap on a slow and squishy Invoker and burst him down before he can react with his spells. Centaur is also a very high HP hero, and with Blade Mail on top of Retaliate, Invoker can easily die if he throws his spell combo on Centaur."
+      }
+    ]
+  },
+  {
+    "name": "Silencer",
+    "slug": "silencer",
+    "url": "https://dotacoach.gg/en/heroes/counters/silencer",
+    "patch": "7.41f",
+    "checked": "2026-09-24",
+    "pairs": [
+      {
+        "name": "Phantom Lancer",
+        "reason": "Silencer has no AoE or illusions control, so he gets overwhelmed by PL’s duplicates. PL can easily dodge Arcane Curse and nullify Silencer’s single-target impact. Global Silence doesn’t stop PL’s scaling or survivability."
+      },
+      {
+        "name": "Tidehunter",
+        "reason": "Tidehunter is naturally tanky and can purge Global Silence with Kraken Shell. He shrugs off Silencer’s harass and dominates the teamfight post-silence. Tide doesn't rely on constant spell casting, weakening Silencer’s kit."
+      },
+      {
+        "name": "Abaddon",
+        "reason": "Abaddon dispels Global Silence with Aphotic Shield and his ultimate, Borrowed Time, triggers despite silence. He removes Arcane Curse from himself or allies easily. Silencer has no way to stop Abaddon’s sustain-based playstyle."
+      }
+    ]
+  },
+  {
+    "name": "Outworld Destroyer",
+    "slug": "outworld-devourer",
+    "url": "https://dotacoach.gg/en/heroes/counters/outworld-devourer",
+    "patch": "7.41f",
+    "checked": "2026-09-24",
+    "pairs": [
+      {
+        "name": "Templar Assassin",
+        "reason": "Refraction blocks most of the damage dealt with Arcane Orb and Sanity's Eclipse if used correctly, and is difficult for Outworld Destroyer to deal with. If Astral Imprisonment is on cooldown, then an Outworld Destroyer slowed by Psionic Trap is an easy kill for Templar Assassin, especially during the laning stage."
+      },
+      {
+        "name": "Sniper",
+        "reason": "As Outworld Destroyer has short cast ranges, a short attack range, and no gap-closing abilities, Sniper can kite and harass Outworld Destroyer in lane with his long range and zone him out in fights. The continuous area damage from Shrapnel also prevents Astral-Blink escapes. However, in the late game, Outworld Destroyer's massive damage can overwhelm Sniper once he obtains Blink Dagger, Force Staff etc. to close the gap."
+      },
+      {
+        "name": "Nyx Assassin",
+        "reason": "Outworld Destroyer's high intelligence makes him a good target for Mind Flare. If timed correctly, Spiked Carapace will return the full damage from Sanity's Eclipse back to Outworld Destroyer. Even a reflected Arcane Orb can deal significant damage and make him vulnerable to a follow-up from Nyx Assassin. Spiked Carapace is also the perfect tool against Astral Imprisonment: if used on Nyx, he can reflect the damage back as he comes out of the prison by casting the ability while imprisoned."
+      }
+    ]
+  },
+  {
+    "name": "Lycan",
+    "slug": "lycan",
+    "url": "https://dotacoach.gg/en/heroes/counters/lycan",
+    "patch": "7.41f",
+    "checked": "2026-09-24",
+    "pairs": [
+      {
+        "name": "Bloodseeker",
+        "reason": "Bloodseeker's Rupture is consider a great counter since using it prevents you from running around with your Ultimate."
+      },
+      {
+        "name": "Bristleback",
+        "reason": "Quill Spray can be used to kill Lycan's summons as well as Bristleback allows him to stay alive against Lycan while dishing out counter attacks."
+      },
+      {
+        "name": "Tidehunter",
+        "reason": "Kraken Shell grants him massive physical attack protection and Anchor Smash will wipe the area, clearing Lycan's wolves."
+      }
+    ]
+  },
+  {
+    "name": "Brewmaster",
+    "slug": "brewmaster",
+    "url": "https://dotacoach.gg/en/heroes/counters/brewmaster",
+    "patch": "7.41f",
+    "checked": "2026-09-24",
+    "pairs": [
+      {
+        "name": "Visage",
+        "reason": "Visage can easily outfight Brewmaster by leveraging his powerful familiars. The familiars add consistent damage and lockdown, making it difficult for Brewmaster to engage safely. Their burst and control can overwhelm Brewmaster before he fully commits to fights. Visage’s ability to zone and pressure with familiars gives him an advantage in sustained engagements."
+      },
+      {
+        "name": "Lycan",
+        "reason": "Lycan can easily turn on Brewmaster using Shape Shift for increased movement speed and damage. He can quickly chase down and pick off Brewlings due to their low durability and slower movement. Lycan’s high mobility and burst make it hard for Brewmaster to maintain control in fights. This allows Lycan to exploit Brewmaster’s weaknesses and dominate engagements"
+      },
+      {
+        "name": "Primal Beast",
+        "reason": "Primal Beast can get on top of Brewmaster using Onslaught of the Beast and Pulverize to initiate aggressively. He can use Trample to quickly kill Brewmaster’s Brewlings, removing Brewmaster’s key control tools. Primal Beast’s lockdown and burst damage make him a strong counter to Brewmaster in fights"
+      }
+    ]
+  },
+  {
+    "name": "Shadow Demon",
+    "slug": "shadow-demon",
+    "url": "https://dotacoach.gg/en/heroes/counters/shadow-demon",
+    "patch": "7.41f",
+    "checked": "2026-09-24",
+    "pairs": [
+      {
+        "name": "Riki",
+        "reason": "A Disruption save for a teammate of SD can easily turn into set up for an enemy Riki as he can preemptively place Smoke Screen and Tricks of the Trade on top of it. Tricks of the Trade can be timed to avoid Demonic Purge's or Shadow Poison's damage."
+      },
+      {
+        "name": "Leshrac",
+        "reason": "A Disruption save for a teammate of SD can easily turn into set up for an enemy Leshrac as he can preemptively cast Split Earth to time its duration. Leshrac doesn't really have buffs or passives for Demonic Purge to Dispel or Break (including his level 20 damage reduction talent) and Disruption doesn't stop him from doing damage with Diabolic Edict or Pulse Nova."
+      },
+      {
+        "name": "Meepo",
+        "reason": "A Disruption save for a teammate of SD can easily turn into set up for an enemy Meepo as he can preemptively cast Earthbind or Poof to time its duration for a chain root or massive magic damage burst. Dig can be timed to avoid Demonic Purge's or Shadow Poison's damage and effects."
+      }
+    ]
+  },
+  {
+    "name": "Lone Druid",
+    "slug": "lone-druid",
+    "url": "https://dotacoach.gg/en/heroes/counters/lone-druid",
+    "patch": "7.41f",
+    "checked": "2026-09-24",
+    "pairs": [
+      {
+        "name": "Kunkka",
+        "reason": "Ghost Ship mitigates Lone Druid’s burst damage, and X Mark locks down the Druid or the Bear. The cleave from Tidebringer clears the Bear and Druid if they clump, making Kunkka a consistent teamfight counter."
+      },
+      {
+        "name": "Pangolier",
+        "reason": "Pango’s Rolling Thunder stuns both the Druid and Bear repeatedly, stopping them from attacking. Shield Crash reduces incoming damage, and Swashbuckle bypasses the Bear’s root. His control overwhelms Lone Druid in fights."
+      },
+      {
+        "name": "Lich",
+        "reason": "Chain Frost punishes Lone Druid’s tendency to group with his Bear. Frost Shield also reduces Bear damage and slows push tempo. Lich is great at punishing melee-centric heroes with AoE."
+      }
+    ]
+  },
+  {
+    "name": "Chaos Knight",
+    "slug": "chaos-knight",
+    "url": "https://dotacoach.gg/en/heroes/counters/chaos-knight",
+    "patch": "7.41f",
+    "checked": "2026-09-24",
+    "pairs": [
+      {
+        "name": "Shadow Demon",
+        "reason": "SD can use Disruption on both CK and his Phantasm Illusions to create Illusions of his own that inherit Chaos Strike, while CK's own innate Reins of Chaos can be triggered by Disruption to create additional Illusions for SD. Disruption can also be used as a save to disrupt CK's Chaos Bolt/Reality Rift combo and prevent him from bursting a single target down."
+      },
+      {
+        "name": "Dark Seer",
+        "reason": "Wall of Replica and Normal Punch (Aghanim's Scepter Upgrade) can create Illusions of CK that inherit Chaos Strike. CK's own innate Reins of Chaos can trigger both on Wall of Replica and Normal Punch, creating additional Illusions. Normal Punch can additionally create Illusions from ANY CK Illusions and not necessarily CK himself."
+      },
+      {
+        "name": "Tidehunter",
+        "reason": "Blubber can dispel both Chaos Strike and Reality Rift, allowing Tide to counter initiate and stun CK and all of his Illusions with Ravage. Anchor Smash can mitigate most of CK's and his Illusions' damage as most of his total damage output comes from attacking. Dead in the Water (Aghanim's Shard Upgrade) prevents CK from using Reality Rift and his Illusions do reduced damage to it. Kraken Shell provides further damage mitigation against CK's attacks."
+      }
+    ]
+  },
+  {
+    "name": "Meepo",
+    "slug": "meepo",
+    "url": "https://dotacoach.gg/en/heroes/counters/meepo",
+    "patch": "7.41f",
+    "checked": "2026-09-24",
+    "pairs": [
+      {
+        "name": "Underlord",
+        "reason": "All of Pitlords abilities are AOE, which allow him to affect most if not all Meepos. Atrophy Aura reduces BASE attack damage and Meepo generally builds heavy stats items to empower his clones. Pit of Malice's root prevents Meepo from using Poof or Dig (Meepo's Aghanim's Shard) and does NOT get dispelled by Megameepo ( Meepo's Aghanim's Scepter). High stats means high HP and Armor, which Firestorm cares little for due to it's Magic and % Max HP damage."
+      },
+      {
+        "name": "Beastmaster",
+        "reason": "Divided We Stand gives Drums of Slom multiple targets to affect and when combined with Crimson Guard usually results in Meepo struggling to output enough damage to kill Beastmaster. Wild Axes deal scaling Magic Damage on a low cooldown, which provides considarable AOE damage to help damage all of Meepos clones and Primal Roar is vital for isolating a single Meepo and focusing it down.."
+      },
+      {
+        "name": "Bristleback",
+        "reason": "Earthbind does not prevent Bristleback from turning around, allowing him to turn his Bristleback towards Meepo during it. Divided we Stand provides extra HERO targets for Bristleback to get additional Spell Lifesteal for full value with Quill Spray and Bristleback procs."
+      }
+    ]
+  },
+  {
+    "name": "Treant Protector",
+    "slug": "treant-protector",
+    "url": "https://dotacoach.gg/en/heroes/counters/treant-protector",
+    "patch": "7.41f",
+    "checked": "2026-09-24",
+    "pairs": [
+      {
+        "name": "Timbersaw",
+        "reason": "Timbersaw's set of skills completely counters Treant as it destroys trees and can easily catch him in them."
+      },
+      {
+        "name": "Slark",
+        "reason": "Slark's Dark Pact can easily dispel Overgrowth and Leech Seed naturally and run to safety or run in knowing he is safe."
+      },
+      {
+        "name": "Tidehunter",
+        "reason": "Tidehunters Kraken Shell removes all your debuffs at a certain threshold which makes Treant less useful in the mid to late game."
+      }
+    ]
+  },
+  {
+    "name": "Ogre Magi",
+    "slug": "ogre-magi",
+    "url": "https://dotacoach.gg/en/heroes/counters/ogre-magi",
+    "patch": "7.41f",
+    "checked": "2026-09-24",
+    "pairs": [
+      {
+        "name": "Phantom Lancer",
+        "reason": "Phantom Lancer overwhelms Ogre Magi with illusions that Ignite cannot clear quickly. Ogre Magi lacks strong Area of effect damage and becomes mana-drained in long fights. Phantom Lancer dodges stuns and resets with Doppelganger. Ogre Magi’s single-target spells are inefficient against illusion heroes."
+      },
+      {
+        "name": "Anti-Mage",
+        "reason": "Anti-Mage reflects Ogre Magi’s high mana pool back against him with Mana Void. He can Blink out of Ignite and Fireblast range. Ogre Magi is unable to lock Anti-Mage down long enough without teammates. Bloodlust gives little value if Anti-Mage controls the backline."
+      },
+      {
+        "name": "Enigma",
+        "reason": "Ogre Magi lacks the range to interrupt Enigma’s Black Hole reliably. Ignite is not enough to force Enigma out of position. His slow mobility makes him an easy target during teamfights. Enigma can outscale Ogre Magi with better control and Area of effect presence."
+      }
+    ]
+  },
+  {
+    "name": "Undying",
+    "slug": "undying",
+    "url": "https://dotacoach.gg/en/heroes/counters/undying",
+    "patch": "7.41f",
+    "checked": "2026-09-24",
+    "pairs": [
+      {
+        "name": "Ursa",
+        "reason": "Ursas Overpower is a great counter for killing the tombstone. Fury Swipes also counters the tanky profile Undying has."
+      },
+      {
+        "name": "Lina",
+        "reason": "Lina's attack range and Fiery Soul are an incredible counter to Tombstone."
+      },
+      {
+        "name": "Snapfire",
+        "reason": "Lil' Shredder destroys Tombstone quickly from a safe range. Her high magic burst punishes Undying's low mobility and poor scaling. She also zones Undying out of teamfights and punishes his early grouping."
+      }
+    ]
+  },
+  {
+    "name": "Rubick",
+    "slug": "rubick",
+    "url": "https://dotacoach.gg/en/heroes/counters/rubick",
+    "patch": "7.41f",
+    "checked": "2026-09-24",
+    "pairs": [
+      {
+        "name": "Anti-Mage",
+        "reason": "Fade Bolt does little damage to Anti-Mage due to Counterspell's magic resistance. Most of Rubick's spells are single targets and can be reflected by Counterspell. The only spell that provides some utility for Rubick is Blink. Blink does little on its own to counter Anti-Mage when coming from behind except allowing Rubick to escape. Rubick can easily run out of mana to cast the spell due to Mana Break, if not dying to Anti-Mage's physical damage already."
+      },
+      {
+        "name": "Night Stalker",
+        "reason": "Crippling Fear silences nearby heroes and cannot be dispelled, which hinders Rubick's way to retaliate when being jumped on. With Hunter in the Night and Dark Ascension, Night Stalker can find Rubick easily in teamfights. The two spells grants more than enough damage to hunt Rubick down without defensive items."
+      },
+      {
+        "name": "Slark",
+        "reason": "Pounce and Dark Pact together with some attacks can take Rubick down quickly. Rubick's spells are ineffective due to the strong dispel effect of Dark Pact. Even though Shadow Dance is a great spell to steal, Slark's untargetable nature and his low cooldown spells prevents Rubick from stealing. Also Slark can freely use other abilities for the duration of Shadow Dance."
+      }
+    ]
+  },
+  {
+    "name": "Disruptor",
+    "slug": "disruptor",
+    "url": "https://dotacoach.gg/en/heroes/counters/disruptor",
+    "patch": "7.41f",
+    "checked": "2026-09-24",
+    "pairs": [
+      {
+        "name": "Sniper",
+        "reason": "Sniper’s long attack range and stationary fighting style make him difficult for Disruptor to deal with directly. Disruptor’s spells have limited reach, and without proper vision or initiation, it’s hard to catch Sniper before he deals significant damage."
+      },
+      {
+        "name": "Drow Ranger",
+        "reason": "Drow Ranger’s long-range damage and high mobility with Gust and Multishot make her a tough target for Disruptor. Without reliable gap closers or vision, it can be difficult to pin her down with your spells before she deals heavy damage."
+      },
+      {
+        "name": "Clinkz",
+        "reason": "Clinkz’s high burst damage and invisibility allow him to ambush and instantly kill Disruptor if caught out of position. Without detection or strong team coordination, it’s challenging to lock him down before he eliminates you."
+      }
+    ]
+  },
+  {
+    "name": "Nyx Assassin",
+    "slug": "nyx-assassin",
+    "url": "https://dotacoach.gg/en/heroes/counters/nyx-assassin",
+    "patch": "7.41f",
+    "checked": "2026-09-24",
+    "pairs": [
+      {
+        "name": "Meepo",
+        "reason": "Nyx is ineffective against multiple Meepo clones due to poor AoE. Meepo punishes Nyx’s low durability when caught. Mana Burn and Vendetta lose value against multiple targets. Nyx struggles to disable all clones in a fight."
+      },
+      {
+        "name": "Grimstroke",
+        "reason": "Grimstroke’s Ink Swell makes it dangerous for Nyx to initiate. Soulbind prevents Nyx from using Vendetta escape. Nyx cannot easily reflect or disable Grimstroke’s spells. Grim punishes Nyx in teamfights and offers better lockdown."
+      },
+      {
+        "name": "Beastmaster",
+        "reason": "Beastmaster controls the map well, reducing Nyx’s ganking potential. Nyx can’t solo-kill Beastmaster easily due to aura and summon tanking. His physical damage overwhelms Nyx in fights."
+      }
+    ]
+  },
+  {
+    "name": "Naga Siren",
+    "slug": "naga-siren",
+    "url": "https://dotacoach.gg/en/heroes/counters/naga-siren",
+    "patch": "7.41f",
+    "checked": "2026-09-24",
+    "pairs": [
+      {
+        "name": "Techies",
+        "reason": "Techies' immense AOE capabilities do wonders against Mirror Image, as Techies can clear them with Sticky Bomb, Blast Off! and Proximity Mines - hindering one of Naga's core gameplay advantages of splitpushing with Illusions. Reactive Tazer can disarm Naga and all of her Illusions."
+      },
+      {
+        "name": "Underlord",
+        "reason": "Atrophy Aura reduces BASE attack damage and Naga being an Illusion hero greatly benefits from stacking Agility and increasing her base damage and Attack Speed to empowers her Illusions. Agility stacking means high armor so both Firestorm and Pit of Malice are great at providing reliable Magic damage and Crowd Control for Mirror Image due to their AOE properties."
+      },
+      {
+        "name": "Leshrac",
+        "reason": "Leshrac's abundance of AOE damage can easily clear Naga's Mirror Image Illusions troughout the entirety of the game, which is her core farming and fighting tool. Being an Illusion, melee hero she struggles to stay on Leshrac to damage him as she prefers Heart over Satanic for sustain."
+      }
+    ]
+  },
+  {
+    "name": "Keeper of the Light",
+    "slug": "keeper-of-the-light",
+    "url": "https://dotacoach.gg/en/heroes/counters/keeper-of-the-light",
+    "patch": "7.41f",
+    "checked": "2026-09-24",
+    "pairs": [
+      {
+        "name": "Nyx Assassin",
+        "reason": "Nyx thrives against KotL’s high manapool and low HP. Mana Burn deals huge damage due to KotL’s intelligence scaling. He easily catches KotL while he channels Illuminate or Recall with Vendetta and Carapace."
+      },
+      {
+        "name": "Slardar",
+        "reason": "Slardar’s high mobility and Corrosive Haze quickly delete squishy backliners like KotL. He can blink-stun KotL before he reacts with Will-o-Wisp or Blinding Light. KotL has no hard disable to stop Slardar’s initiation."
+      },
+      {
+        "name": "Weaver",
+        "reason": "Weaver ignores Will-o-Wisp with Shukuchi and Time Lapse. He can chase and kill KotL with Geminate Attack while remaining hard to catch. KotL's low armor and HP are vulnerable to Weaver’s sustained poke."
+      }
+    ]
+  },
+  {
+    "name": "Io",
+    "slug": "io",
+    "url": "https://dotacoach.gg/en/heroes/counters/io",
+    "patch": "7.41f",
+    "checked": "2026-09-24",
+    "pairs": [
+      {
+        "name": "Ancient Apparition",
+        "reason": "Io's entire kit is tailored towards healing, with his Tether, Overcharge and even Relocate that can be used to go back to the fountain for regen - Ice Blast shuts all of that down entirely. Since Io tends to stay close to his Tethered ally it makes it easy for Ice Blast to connect with multiple targets."
+      },
+      {
+        "name": "Underlord",
+        "reason": "Underlord punishes clumped heroes with Pit of Malice and Firestorm, making Io’s tether risky. Io’s low HP pool gets shredded by magic AoE damage. Fiend’s Gate negates Io’s Relocate advantage for map control. Underlord’s teamfight presence counters Io’s healing tempo."
+      },
+      {
+        "name": "Troll Warlord",
+        "reason": "Troll Warlord ignores Io’s saves due to Battle Trance and high attack speed. Io struggles to kite or disable him, and Overcharge isn’t enough to reduce his damage output. Troll excels in sustained fights where Io usually thrives. Relocate offers limited counterplay once Troll locks on."
+      }
+    ]
+  },
+  {
+    "name": "Visage",
+    "slug": "visage",
+    "url": "https://dotacoach.gg/en/heroes/counters/visage",
+    "patch": "7.41f",
+    "checked": "2026-09-24",
+    "pairs": [
+      {
+        "name": "Winter Wyvern",
+        "reason": "Since the Familiars are always around Visage, catching him in a Winters Curse and potentially kill him."
+      },
+      {
+        "name": "Luna",
+        "reason": "Moon Glaives is very effective against Visage because not only it can easily destroy Visage's Familiars, but can also remove one instance of Gravekeeper's Cloak upon each hit to Visage, leaving him susceptible to damage. Once Visage's Familiars are picked off and all instances of Gravekeeper's Cloak are removed, Luna will be able to easily kill Visage with Eclipse."
+      },
+      {
+        "name": "Tidehunter",
+        "reason": "Visage's Familiars cannot penetrate Kraken Shell and will do almost no damage to Tidehunter. Anchor Smash's bonus damage has the potential to kill Familiars or reduce their damage."
+      }
+    ]
+  },
+  {
+    "name": "Slark",
+    "slug": "slark",
+    "url": "https://dotacoach.gg/en/heroes/counters/slark",
+    "patch": "7.41f",
+    "checked": "2026-09-24",
+    "pairs": [
+      {
+        "name": "Necrophos",
+        "reason": "Death Pulse, Hearthstopper Aura and Death Seeker (Aghanim's Shard Upgrade) can affect Slark during Shadow Dance and Depth Shroud (Aghanim's Shard Upgrade), which are his main defensive tools. Dark Pact does not dispel Reaper's Scythe and Ghost Shroud prevents Slark from attacking Necro and gaining Essence Shift stacks."
+      },
+      {
+        "name": "Bloodseeker",
+        "reason": "Rupture damages Slark during Pounce and makes it more difficult for him to play in and out of fights as eventually Thirst will reveal him and prevent him from healing with Barracuda. Blood Rite and Blood Mist (Aghanim's Scepter upg) can damage Slark during Shadow Dance and Depth Shroud due to it's AOE property."
+      },
+      {
+        "name": "Earthshaker",
+        "reason": "Despite Dark Pact being able to dispell both Aftershock and Fissure's stuns the sheer amount of constant AOE control that Earthshaker provides simply overwhelms Slark as they are able to affect him during Shadow Dance and Depth Shroud."
+      }
+    ]
+  },
+  {
+    "name": "Medusa",
+    "slug": "medusa",
+    "url": "https://dotacoach.gg/en/heroes/counters/medusa",
+    "patch": "7.41f",
+    "checked": "2026-09-24",
+    "pairs": [
+      {
+        "name": "Alchemist",
+        "reason": "Simply put by the time Medusa is ready to fight Alchemist is ready to end the game. Her inability to pressure early or scale quickly when paired against Alch's farming potential often result's in games where she has half an inventory versus a maxed out Alch. Chemical Rage and Berserk Potion dispel Gorgon's Grasp."
+      },
+      {
+        "name": "Anti-Mage",
+        "reason": "Mana Break is amazing at shredding trough Medusa's mana pool and turning her core defensive mechanic Mana Shield against her with a huge Mana Void follow up . Manta is a staple item for AM that provides him with dispel for Gorgon's Grasp root and Counter Spell can block/reflect Mystic Snake."
+      },
+      {
+        "name": "Dark Seer",
+        "reason": "Wall of Replica and Normal Punch (Aghanim's Scepter Upgrade) can create multiple Illusions of Medusa to do devastating amounts of damage to her own team as she tends to build heavy stat items to improve her own Manta Illusions' damage and durability. The Illusions DS creates inherit both Mana Shield and Split Shot if it was active at the moment of creating the Illusion. Surge is amazing at disengaging from Stone Gaze or closing the gap on Dusa."
+      }
+    ]
+  },
+  {
+    "name": "Troll Warlord",
+    "slug": "troll-warlord",
+    "url": "https://dotacoach.gg/en/heroes/counters/troll-warlord",
+    "patch": "7.41f",
+    "checked": "2026-09-24",
+    "pairs": [
+      {
+        "name": "Razor",
+        "reason": "Static Link can drain most or all of Troll Warlord's damage, making him useless in a teamfight or unable to last hit in lane. This is especially effective during Battle Trance, because Troll has no option to cancel the link. Storm Surge allows Razor to chase after or run away from Troll Warlord while doing damage with Eye of the Storm."
+      },
+      {
+        "name": "Sniper",
+        "reason": "Shrapnel and Headshot allows Sniper to kite Troll Warlord effectively. Having natural big attack range together with increased attack range from Hurricane Pike allow Sniper to sit and fire at Troll Warlord from a safe distance."
+      },
+      {
+        "name": "Winter Wyvern",
+        "reason": "Cold Embrace can protect Troll Warlord's target, especially during Battle Trance. Winter's Curse can turn Troll Warlord's high physical damage and attack speed against his allies."
+      }
+    ]
+  },
+  {
+    "name": "Centaur Warrunner",
+    "slug": "centaur-warrunner",
+    "url": "https://dotacoach.gg/en/heroes/counters/centaur-warrunner",
+    "patch": "7.41f",
+    "checked": "2026-09-24",
+    "pairs": [
+      {
+        "name": "Lifestealer",
+        "reason": "Rage/Unfettered can be used to soak/dispel Hoof Stomp and Double Edge. Aghanim Scepter allows LS to Infest any retreating with Stampede targets and stay on top of them. His abudance of sustain trough Feast, which scales with Rawhide and Open Wounds can easily result in a situation where LS completely outheals Centaur's Retaliate and total damage output."
+      },
+      {
+        "name": "Wraith King",
+        "reason": "Reincarnation makes it difficult to all in WK with Stampede as he'd have an extra life to spare. Wraithfire Blast can lock down any retreating with Stampede targets so WK can stay on top of them. His abudance of sustain trough Vampiric Spirit can easily result in a situation where WK completely outheals Centaur's Retaliate and total damage output."
+      },
+      {
+        "name": "Juggernaut",
+        "reason": "Blade Fury can be used to greatly mitigate the damage and Crowd Control of Hoof Stomp and Double Edge. Omnislash and Swiftslash (Aghanim's Scepter upgrade) allows Juggernaut to stay on top of any retreating with Stampede targets. His abudance of sustain trough Healing Ward and his Blade Dance Lifesteal talent can easily result in a situation where Juggernaut completely outheals Centaur's Retaliate and total damage output."
+      }
+    ]
+  },
+  {
+    "name": "Magnus",
+    "slug": "magnus",
+    "url": "https://dotacoach.gg/en/heroes/counters/magnus",
+    "patch": "7.41f",
+    "checked": "2026-09-24",
+    "pairs": [
+      {
+        "name": "Ember Spirit",
+        "reason": "Ember Spirit avoids Reverse Polarity with Sleight of Fist and Remnant mobility. Magnus struggles to lock him down consistently without help. Ember also clears waves and keeps pressure across the map, outpacing Magnus. Empower becomes less effective if Ember controls tempo."
+      },
+      {
+        "name": "Puck",
+        "reason": "Puck dodges Reverse polarity with Phase Shift and cancels Blink Dagger with constant poke. Magnus’s combo is unreliable against Puck’s elusive nature. Dream Coil counters Magnus’s mobility by punishing Skewer plays. Puck dominates long fights where Magnus can’t connect clean spells."
+      },
+      {
+        "name": "Faceless Void",
+        "reason": "Faceless Void’s Chronosphere counters Magnus’s teamfight initiation. Magnus cannot use Reverse polarity or Skewer while frozen in Chrono. Void also avoids Skewer with Time Walk. Empowered carries can’t deal damage if stuck in Chronosphere."
+      }
+    ]
+  },
+  {
+    "name": "Timbersaw",
+    "slug": "timbersaw",
+    "url": "https://dotacoach.gg/en/heroes/counters/timbersaw",
+    "patch": "7.41f",
+    "checked": "2026-09-24",
+    "pairs": [
+      {
+        "name": "Batrider",
+        "reason": "Batrider sticks Napalm stacks and forces Timbersaw to waste mobility early. Lasso pulls him out of Timber Chain path and into danger. Timbersaw can’t cleanse the debuff and melts under Firefly. Batrider snowballs easily if he wins the lane."
+      },
+      {
+        "name": "Bloodseeker",
+        "reason": "Rupture prevents Timbersaw from using Timber Chain, his main escape. Bloodseeker capitalizes on Timbersaw’s frequent movement with huge burst. Thirst keeps him visioned and makes juking impossible. In most cases, Bloodseeker forces Timbersaw to play passively."
+      },
+      {
+        "name": "Faceless Void",
+        "reason": "Chronosphere traps Timbersaw before he can react with Timber Chain. Timbersaw cannot save allies or himself inside the sphere. Faceless Void's physical burst bypasses his reactive armor. He’s especially vulnerable if caught without mana or Chain cooldown."
+      }
+    ]
+  },
+  {
+    "name": "Bristleback",
+    "slug": "bristleback",
+    "url": "https://dotacoach.gg/en/heroes/counters/bristleback",
+    "patch": "7.41f",
+    "checked": "2026-09-24",
+    "pairs": [
+      {
+        "name": "Viper",
+        "reason": "Viper Strike is a reliable low cooldown ability that Breaks the Damage Reduction and Quill Spray procs of Bristleback as well as the further acquiring of stacks from Warpath for it's duration - this completely cripples Bristleback and creates a window of opportunity to outright kill him."
+      },
+      {
+        "name": "Ancient Apparition",
+        "reason": "Ice Blast prevents Bristleback from healing with Bloodstone or any other sources of sustain, making it difficult for him to play fights in a manner which he wants to - by trading his HP in order to get Bristleback procs and do damage in order to heal back up and keep repeating the cycle."
+      },
+      {
+        "name": "Legion Commander",
+        "reason": "Duel forces Bristleback to face LC, preventing him from taking advantage of his Bristleback Damage Reduction and Quill Spray procs for it's duration providing LC's team with a window of opportunity to outright kill him even without Break or Healing reduction."
+      }
+    ]
+  },
+  {
+    "name": "Tusk",
+    "slug": "tusk",
+    "url": "https://dotacoach.gg/en/heroes/counters/tusk",
+    "patch": "7.41f",
+    "checked": "2026-09-24",
+    "pairs": [
+      {
+        "name": "Queen of Pain",
+        "reason": "Blink allows Queen of Pain to escape from an incoming Snowball and Ice Shards."
+      },
+      {
+        "name": "Earthshaker",
+        "reason": "Echo Slam is good against Snowball since it bunches everyone up. This can set up some prime opportunities for Blink Echo Slams."
+      },
+      {
+        "name": "Anti-Mage",
+        "reason": "Mana Break is very effective against Tusk, as he has a very low mana pool. Blink allows Anti-Mage to escape from an incoming Snowball."
+      }
+    ]
+  },
+  {
+    "name": "Skywrath Mage",
+    "slug": "skywrath-mage",
+    "url": "https://dotacoach.gg/en/heroes/counters/skywrath-mage",
+    "patch": "7.41f",
+    "checked": "2026-09-24",
+    "pairs": [
+      {
+        "name": "Visage",
+        "reason": "Familiars interrupt Skywrath’s positioning and can cancel channeling supports nearby. Visage’s cloak resists burst, and Skywrath has no way to clear summons effectively. He gets punished hard in extended fights."
+      },
+      {
+        "name": "Chen",
+        "reason": "Chen’s creeps tank Mystic Flare and break combo setups. He provides sustain and healing that negates Skywrath’s quick burst style. Skywrath can’t pick off targets easily through Hand of God and creeps."
+      },
+      {
+        "name": "Lycan",
+        "reason": "Lycan’s high movement speed and summons overwhelm Skywrath. He runs Skywrath down with ease, and Skywrath’s spells don’t stop Lycan’s push. Once Lycan builds BKB, Skywrath is a non-threat."
+      }
+    ]
+  },
+  {
+    "name": "Abaddon",
+    "slug": "abaddon",
+    "url": "https://dotacoach.gg/en/heroes/counters/abaddon",
+    "patch": "7.41f",
+    "checked": "2026-09-24",
+    "pairs": [
+      {
+        "name": "Ancient Apparition",
+        "reason": "Ancient Apparition's Ice Blast completely nullifies Mist Coil and Borrowed Time as Abaddon cannot heal himself or his allies who are affected by the spell."
+      },
+      {
+        "name": "Axe",
+        "reason": "Axe's Culling Blade can kill Abaddon during Borrowed Time if his HP falls below the threshold of the spell. Aphotic Shield also doesn't dispel Berserker's Call. However, it does help absorb some of the damage dealt by Axe and his team."
+      },
+      {
+        "name": "Brewmaster",
+        "reason": "Brewmaster's Storm Brewling can Tornado Abaddon during Borrowed Time to keep him in place and waste his ultimate duration. The Storm Brewling can also dispel Abaddon's Aphotic Shield and take it off instantly."
+      }
+    ]
+  },
+  {
+    "name": "Elder Titan",
+    "slug": "elder-titan",
+    "url": "https://dotacoach.gg/en/heroes/counters/elder-titan",
+    "patch": "7.41f",
+    "checked": "2026-09-24",
+    "pairs": [
+      {
+        "name": "Puck",
+        "reason": "Puck is very elusive and difficult to control with Echo Stomp. Landing Earth Splitter is nearly impossible unless Puck is already disabled before the cast"
+      },
+      {
+        "name": "Vengeful Spirit",
+        "reason": "Vengeful Spirit can save allies caught in Echo Stomp and Earth Splitter with Nether Swap. Magic Missile provides strong early control on Elder Titan, preventing him from chasing with Astral Spirit’s buff. Additionally, she can cancel the channel of Echo Stomp, making her a solid counter to Elder Titan."
+      },
+      {
+        "name": "Ursa",
+        "reason": "Ursa can trade effectively with Elder Titan early in lane due to Fury Swipes, and has the potential to chase and kill him. Enrage grants significant status resistance and damage reduction, enabling Ursa to either escape Echo Stomp and Earth Splitter combos or mitigate much of their damage"
+      }
+    ]
+  },
+  {
+    "name": "Legion Commander",
+    "slug": "legion-commander",
+    "url": "https://dotacoach.gg/en/heroes/counters/legion-commander",
+    "patch": "7.41f",
+    "checked": "2026-09-24",
+    "pairs": [
+      {
+        "name": "Dazzle",
+        "reason": "Shallow Grave prevents Legion Commander from killing her opponents in Duels. Shadow Wave will heal an ally caught in a Duel, as well as dealing damage to Legion Commander."
+      },
+      {
+        "name": "Outworld Devourer",
+        "reason": "Astral Imprisonment prevents Legion Commander from killing her opponents in Duels."
+      },
+      {
+        "name": "Pugna",
+        "reason": "Decrepify on either hero stops Legion Commander from completing a Duel, and dissuades her from initiating Duels on ethereal allies. Life Drain can help Pugna's teammates win a fight, either by killing Legion Commander or replenishing her target's health."
+      }
+    ]
+  },
+  {
+    "name": "Techies",
+    "slug": "techies",
+    "url": "https://dotacoach.gg/en/heroes/counters/techies",
+    "patch": "7.41f",
+    "checked": "2026-09-24",
+    "pairs": [
+      {
+        "name": "Abaddon",
+        "reason": "Abaddon's Aphotic Shield protects him and his allies by absorbing most of Techies' burst damage through his spell combo to prevent him from getting kills. Abaddon can also pop Borrowed Time, even during the Blast Off! stun, and run into Proximity Mines to not only waste them, but also heal himself back to full. The Aphotic Shield dispel also takes off the Reactive Tazer disarm, letting Abaddon destroy Proximity Mines and run at Techies with his right clicks."
+      },
+      {
+        "name": "Anti-Mage",
+        "reason": "Anti Mage's high magic resistance through Counterspell lets him tank and survive Techies' spell combo, and possibly Blink away before all his Proximity Mines explode to avoid getting bursted. Anti Mage can also Blink on Techies and burn his mana through Mana Break on right clicks, making him completely useless. Once Anti Mage buys Manta Style, he can dispel the Reactive Tazer disarm and easily burst down Techies with Mana Void after jumping him with Blink."
+      },
+      {
+        "name": "Ember Spirit",
+        "reason": "Ember Spirit can easily dodge Techies' Blast Off! and Sticky Bomb by timing his Sleight of Fist on a bunch of units. Ember Spirit can also throw Fire Remnants and jump to them during Sleight of Fist to avoid exploding Proximity Mines around him. Flame Guard also provides a magic damage barrier to absorb a lot of Techies' damage from his spells. Ember Spirit can also deal damage from range with his Sleight of Fist into Searing Chains combo to avoid running into Proximity Mines."
+      }
+    ]
+  },
+  {
+    "name": "Ember Spirit",
+    "slug": "ember-spirit",
+    "url": "https://dotacoach.gg/en/heroes/counters/ember-spirit",
+    "patch": "7.41f",
+    "checked": "2026-09-24",
+    "pairs": [
+      {
+        "name": "Oracle",
+        "reason": "Fortune's End can dispel Flame Guard and Searing Chains, while being able to connect with Ember DURING Sleight of Fist and Activate Remnant, rooting him for the remainder of the duration as soon as he reaches his final destination. Purifying Flames is a low cooldown, high damage nuke that can make quick work of Flame Guard. Fate's Edict both mitigates the entirety of Ember's Magic Damage, as well as prevent him from attacking even during Sleight of Fist."
+      },
+      {
+        "name": "Night Stalker",
+        "reason": "Crippling Fear makes it a nightmare for Ember to juke around with Fire Remnants and Sleights of Fist as Nightstalker can camp either his Sleight of Fist or Fire Remnant locations with Crippling Fear pre-activated. Dark Ascension providing flying movement and unobstructed vision further complicates Ember's core gameplay as he struggles to hide out of sight or behind impassable terrain."
+      },
+      {
+        "name": "Huskar",
+        "reason": "Huskar DESTROYS Ember in lane and completely shuts down his early game as he deals too much damage and has too much sustain for Ember to deal with. Ember's best bet is to try and get as much resources as possible from the lane and leave as the matchup only gets worse for him troughout the entirety of the laning stage."
+      }
+    ]
+  },
+  {
+    "name": "Earth Spirit",
+    "slug": "earth-spirit",
+    "url": "https://dotacoach.gg/en/heroes/counters/earth-spirit",
+    "patch": "7.41f",
+    "checked": "2026-09-24",
+    "pairs": [
+      {
+        "name": "Bane",
+        "reason": "Earth Spirit struggles versus Bane because Bane’s Fiend’s Grip can disable him for a long duration, preventing Earth Spirit from using his spells or escaping. Bane’s strong single-target lockdown and nightmare control limit Earth Spirit’s ability to initiate or counterinitiate effectively. This makes it dangerous for Earth Spirit to enter fights without backup."
+      },
+      {
+        "name": "Lycan",
+        "reason": "Against Lycan, Earth Spirit finds it difficult to deal with Lycan’s strong pushing power and summoned units, which can overwhelm his abilities. Lycan’s high physical damage and mobility let him chase Earth Spirit down, making it risky for Earth to engage. Additionally, Lycan’s ultimate boosts his survivability and damage, reducing Earth Spirit’s impact in fights."
+      },
+      {
+        "name": "Dazzle",
+        "reason": "Earth Spirit struggles against Dazzle because Dazzle’s Shallow Grave can save allies from his burst damage and stuns, making it harder for Earth Spirit to secure kills. Dazzle’s strong healing and armor reduction also help his team survive Earth Spirit’s damage and control, prolonging fights."
+      }
+    ]
+  },
+  {
+    "name": "Underlord",
+    "slug": "underlord",
+    "url": "https://dotacoach.gg/en/heroes/counters/underlord",
+    "patch": "7.41f",
+    "checked": "2026-09-24",
+    "pairs": [
+      {
+        "name": "Rubick",
+        "reason": "Spell Steal turns all of Underlord's spells against his own team and even further empowers their already amazing values. The % Max HP damage from Firestorm scales with Arcane Supremacy's Spell Amlification resulting in devastating damage troughout the entirety of the game."
+      },
+      {
+        "name": "Ursa",
+        "reason": "Ursa is both a hard lane and game matchup for Underlord as Fury Swipes' stacking damage does not get mitigated by Atrophy Aura. Enrage dispels both Pit of Malice and Firestorm and Earthshock can still be used during Pit of Malice, given it does not make Ursa leap forward."
+      },
+      {
+        "name": "Lifestealer",
+        "reason": "Lifestealer has multiple ways of dispelling both Pit of Malice and Firestorm trough Rage/Unfettered and Infest. Infest can be used during Pit of Malice's root and Rage negates Atrophy Aura's damage reduction for it's duration. Being a tank shredder Lifestealer naturally matches up well versus Underlord as he has ample sustain trough Open Wounds, Infest and Feast."
+      }
+    ]
+  },
+  {
+    "name": "Terrorblade",
+    "slug": "terrorblade",
+    "url": "https://dotacoach.gg/en/heroes/counters/terrorblade",
+    "patch": "7.41f",
+    "checked": "2026-09-24",
+    "pairs": [
+      {
+        "name": "Dark Seer",
+        "reason": "Wall of Replica and Normal Punch (Aghanim's Scepter Upgrade) can create multiple Illusions of TB to do devastating amounts of damage to his own team as he tends to build heavy stat items to improve his own Mirror Image Illusions' damage and durability. The Illusions DS creates inherit Metamorphosis if it was active at the moment of creating the Illusion. In lane, TB struggles versus Ion Shell as he is a low HP but high Armor melee hero, that lacks wave clear. Surge is amazing at both disengaging and closing the gap on TB as Conjure Image's slow does not work during it."
+      },
+      {
+        "name": "Axe",
+        "reason": "Axe is the hardest counter to TB. He clears illusions with Battle Hunger and Counter Helix, locks TB with Berserker’s Call, and bursts him down before Sunder with Culling Blade. His toolkit punishes illusion-based heroes hard."
+      },
+      {
+        "name": "Phantom Lancer",
+        "reason": "PL overwhelms TB with illusions. TB can't tell the real PL apart, and Reflection isn’t useful against illusions. PL also has natural Diffusal Blade to burn TB’s mana, making Sunder risky or impossible to use."
+      }
+    ]
+  },
+  {
+    "name": "Phoenix",
+    "slug": "phoenix",
+    "url": "https://dotacoach.gg/en/heroes/counters/phoenix",
+    "patch": "7.41f",
+    "checked": "2026-09-24",
+    "pairs": [
+      {
+        "name": "Alchemist",
+        "reason": "Alch has the lowest Basic Attack Speed in the game by far during Chemical Rage, which allows him to dispatch of Phoenix's Supernova quickly. Phoenix uses Fire Spirits and Icarus Dive to reduce his opponents' Attack and Movement Speed in order to protect the egg, however Alch has not 1 but 2 dispels for it in Chemical Rage and Berserk Potion."
+      },
+      {
+        "name": "Bloodseeker",
+        "reason": "Phoenix is heavily punished by Rupture when trying to use Icarus Dive. Bloodseeker’s speed allows him to kill Supernova quickly. He thrives in chaos, countering Phoenix’s slow and controlled fight style. Blood Rite zones Phoenix out of teamfights and ruins Dive escape paths."
+      },
+      {
+        "name": "Lina",
+        "reason": "Lina’s long-range burst deletes Phoenix before he can get Supernova off. Phoenix’s low armor makes him vulnerable to right-clicks. She can stay outside of Fire Spirits range and still threaten kills. Lina outscales Phoenix in both damage and utility in late-game."
+      }
+    ]
+  },
+  {
+    "name": "Oracle",
+    "slug": "oracle",
+    "url": "https://dotacoach.gg/en/heroes/counters/oracle",
+    "patch": "7.41f",
+    "checked": "2026-09-24",
+    "pairs": [
+      {
+        "name": "Shadow Demon",
+        "reason": "Demonic Purge dispels Fate's Edict Magic Resistance and Purifying Flame's heal buff, while Demonic Cleanse (Aghanim's Shard Upgade) dispels both Fortune's End's root and Fate's Edict Disarm. Shadow Poison cannot be dispelled by Fortune's End. Disruption can prevent Fortune's End from connecting to it's target and dispelling and vital buffs or debuffs from it."
+      },
+      {
+        "name": "Lone Druid",
+        "reason": "LD can pick up an Aghanim's Shard and when combined with his level 15 talent for Savage Roar can have a low cooldown dispel for both Fate's Edict's disarm and Fortune's End's root for both LD and the Spirit Bear, that almost matches Fate's Edict cooldown. This makes it hard for Oracle to stop LD and Spirit Bear to run rampart."
+      },
+      {
+        "name": "Undying",
+        "reason": "Decay partially works trough both False Promise and Fate's Edict's Magic Resistance as it keeps reducing Strength and the target's current HP. The only thing that Fortune's End can dispel are Flesh Golem's Plague and Tombstone's Deathlust Slow, which can be easily re-applied. Oracle does not contribute in any meaningful way towards Tombstone's destruction."
+      }
+    ]
+  },
+  {
+    "name": "Winter Wyvern",
+    "slug": "winter-wyvern",
+    "url": "https://dotacoach.gg/en/heroes/counters/winter-wyvern",
+    "patch": "7.41f",
+    "checked": "2026-09-24",
+    "pairs": [
+      {
+        "name": "Tinker",
+        "reason": "Tinker's Defense Matrix gives him Status Resistance and to all his teammates, which will have your Winters Curse effectiveness lowered. It is also exceptionally hard for you to catch Tinker."
+      },
+      {
+        "name": "Bounty Hunter",
+        "reason": "Bounty Hunters playstyle usually relies on lurking and scouting. This will cost you a lot of gold in buying detection and as well as being tracked will reveal your position."
+      },
+      {
+        "name": "Pugna",
+        "reason": "Pugna's Nether Ward punishes Winter Wyvern for casting spells by dealing damage, making her abilities costly to use. Additionally, Decrepify can save the target of Winter's Curse by making them immune to physical damage"
+      }
+    ]
+  },
+  {
+    "name": "Arc Warden",
+    "slug": "arc-warden",
+    "url": "https://dotacoach.gg/en/heroes/counters/arc-warden",
+    "patch": "7.41f",
+    "checked": "2026-09-24",
+    "pairs": [
+      {
+        "name": "Meepo",
+        "reason": "Meepo packs a lot of raw HP and damage between him and all his clones making it dificult for Arc to do enough damage to outright kill him. Earthbind can chain root Arc into death preventing him from creating distance and Poof can be used to both burst Arc down and get on top of him. Flux's additional effects rarely apply to Meepo as he always has friendly units around him. Dig and Megameepo are both strong tools that buy time for Meepo to avoid damage and close the gap on Arc."
+      },
+      {
+        "name": "Phantom Lancer",
+        "reason": "Doppelganger is a low cooldown dispel that can remove Flux. Additionally, PL is able to create an abundance of Illusions with Spirit Lance, Doppelganger and his Juxtapose to soak up any Spark Wraiths without them ever getting to damage any actual heroes. Phantom Rush allows him to reliably get on top of Arc due to it's high range and low cooldown."
+      },
+      {
+        "name": "Broodmother",
+        "reason": "Spawn Spiderlings create a lot of summons for Brood, which can soak Spark Wraiths for her and mitigate the effects of Flux significantly. Spin Web provides her with unobstructed movement making it easy for her to get on top of Arc and use Insatiable Hunger to deal enough damage and sustain herself in order to kill both Arc and his Tempest Double."
+      }
+    ]
+  },
+  {
+    "name": "Monkey King",
+    "slug": "monkey-king",
+    "url": "https://dotacoach.gg/en/heroes/counters/monkey-king",
+    "patch": "7.41f",
+    "checked": "2026-09-24",
+    "pairs": [
+      {
+        "name": "Batrider",
+        "reason": "Batrider's Firefly lets him break trees and stun Monkey King if he is perched on top of a broken tree with Tree Dance. Batrider can also follow and chase down Monkey King during Firefly when he tries to use the trees to get away. Batrider's Flaming Lasso and the displacement from Flamebreak also lets him bring Monkey King outside the Wukong's Command ring, which stops his ultimate."
+      },
+      {
+        "name": "Beastmaster",
+        "reason": "Beastmaster's Wild Axes lets him cut down trees to stun Monkey King if he is perched on top of a broken tree with Tree Dance. Monkey King also struggles to run down Beastmaster because of the Hawk root and Boar movement speed slow on attacks. Later in the game, Beastmaster can also burst down Monkey King every time during his long duration lockdown with Primal Roar."
+      },
+      {
+        "name": "Bounty Hunter",
+        "reason": "Bounty Hunter's Track lets him maintain vision of Monkey King when he is perched on top of trees with Tree Dance, effectively countering his ability to stay hidden in tree lines. A casual Quelling Blade can also cut down Monkey King's tree from the Shadow Walk invisibility and stun him if he is not careful."
+      }
+    ]
+  },
+  {
+    "name": "Dark Willow",
+    "slug": "dark-willow",
+    "url": "https://dotacoach.gg/en/heroes/counters/dark-willow",
+    "patch": "7.41f",
+    "checked": "2026-09-24",
+    "pairs": [
+      {
+        "name": "Juggernaut",
+        "reason": "Blade Fury makes him magic immune, allowing him to avoid Willow’s disables and burst damage. His Healing Ward provides sustain for himself and allies during fights, countering Willow’s poke. Juggernaut’s Omnislash can quickly burst Willow down if she gets caught out"
+      },
+      {
+        "name": "Axe",
+        "reason": "Berserker’s Call forces Willow to attack him, disrupting her spellcasting. His Counter Helix punishes Willow’s close-range attacks and summons. Axe’s high durability and tankiness allow him to survive Willow’s burst damage. With Culling Blade, he can finish Willow off quickly if she gets low."
+      },
+      {
+        "name": "Legion Commander",
+        "reason": "Duel locks Willow in place preventing her from escaping or casting spells freely.Legion’s high burst damage can quickly take down Willow during the duel.Willow’s disables are less effective when caught in Duel limiting her teamfight impact.Legion’s Press the Attack can also remove Dark Willow Brambles or Cursed Crown."
+      }
+    ]
+  },
+  {
+    "name": "Pangolier",
+    "slug": "pangolier",
+    "url": "https://dotacoach.gg/en/heroes/counters/pangolier",
+    "patch": "7.41f",
+    "checked": "2026-09-24",
+    "pairs": [
+      {
+        "name": "Beastmaster",
+        "reason": "Beastmaster's Primal Roar pierces debuff immunity, and lets him control Pangolier during Rolling Thunder for a lengthy duration to waste most of his ultimate. Outside of Rolling Thunder, Beastmaster can easily jump and stun Pangolier with Primal Roar and burst him down with his physical damage."
+      },
+      {
+        "name": "Bloodseeker",
+        "reason": "Bloodseeker's Rupture heavily counters Pangolier's Rolling Thunder as the movement while rolling does massive damage when affected by the ultimate. This makes Pangolier immediately stop Rolling Thunder or die while rolling. The Blood Rite silence also prevents Pangolier from using his other spells to fight back, letting Bloodseeker easily fight him and burst him down."
+      },
+      {
+        "name": "Centaur Warrunner",
+        "reason": "Centaur Warrunner's Retaliate reflects a ton of Pangolier's massive damage back to him, while his high HP pool keeps him from getting bursted by Pangolier's spells. Once Centaur gets Blade Mail, Swashbuckle threatens Pangolier even more with the reflected damage. Centaur's Stampede also boost the movement speed of his entire team to avoid the Rolling Thunder collision and disengage during Pangolier's ultimate."
+      }
+    ]
+  },
+  {
+    "name": "Grimstroke",
+    "slug": "grimstroke",
+    "url": "https://dotacoach.gg/en/heroes/counters/grimstroke",
+    "patch": "7.41f",
+    "checked": "2026-09-24",
+    "pairs": [
+      {
+        "name": "Anti-Mage",
+        "reason": "Anti-Mage easily dispels Grimstroke’s Inkswell with Manta Style and avoids his combo with Blink. Grimstroke's high mana pool makes him vulnerable to Mana Void."
+      },
+      {
+        "name": "Naga Siren",
+        "reason": "Naga’s illusions confuse targeting for Inkswell and Soulbind. Her Song resets fights completely, making Grimstroke’s long cooldowns unreliable."
+      },
+      {
+        "name": "Clinkz",
+        "reason": "Clinkz picks off Grimstroke before he can cast spells. His mobility and invisibility make it hard for Grim to land skillshots or defend himself."
+      }
+    ]
+  },
+  {
+    "name": "Hoodwink",
+    "slug": "hoodwink",
+    "url": "https://dotacoach.gg/en/heroes/counters/hoodwink",
+    "patch": "7.41f",
+    "checked": "2026-09-24",
+    "pairs": [
+      {
+        "name": "Mars",
+        "reason": "Mars's arena can break all the trees where Hoodwink is using to push out lanes or stay behind his teammates."
+      },
+      {
+        "name": "Spirit Breaker",
+        "reason": "Spirit Breaker's charge can provide vision from a distance while Hoodwink is using the trees to hide."
+      },
+      {
+        "name": "Centaur Warrunner",
+        "reason": "Hoodwink struggles against Centaur because he is tanky and hard to burst. He can return a lot of damage with Retaliate when she trades. Stampede also allows him and his team to disengage or catch her easily."
+      }
+    ]
+  },
+  {
+    "name": "Void Spirit",
+    "slug": "void-spirit",
+    "url": "https://dotacoach.gg/en/heroes/counters/void-spirit",
+    "patch": "7.41f",
+    "checked": "2026-09-24",
+    "pairs": [
+      {
+        "name": "Meepo",
+        "reason": "Meepo overwhelms Void Spirit with clones and disables before he escapes. Void Spirit’s spells aren’t enough to burst down all Meepos. He gets rooted and nuked before using his mobility. Meepo snowballs harder and punishes every small mistake."
+      },
+      {
+        "name": "Lone Druid",
+        "reason": "Void Spirit cannot quickly kill Lone Druid or his bear, wasting his combo. The bear roots Void Spirit and punishes his limited HP pool. LD also wins lane by tanking through early nukes. Once the bear gets Desolator or Bash, Void Spirit can’t escape easily."
+      },
+      {
+        "name": "Chen",
+        "reason": "Chen’s summons tank Void Spirit’s burst and make pickoffs harder. Divine Favor and Hand of God keep allies alive after being engaged on. Chen’s early push punishes Void Spirit’s slow wave clear. Void Spirit has trouble fighting multiple creeps and heals"
+      }
+    ]
+  },
+  {
+    "name": "Snapfire",
+    "slug": "snapfire",
+    "url": "https://dotacoach.gg/en/heroes/counters/snapfire",
+    "patch": "7.41f",
+    "checked": "2026-09-24",
+    "pairs": [
+      {
+        "name": "Brewmaster",
+        "reason": "Brewmaster’s split units dodge Mortimer Kisses and disable Snapfire. Cyclone removes her from fights before she casts spells. His mobility lets him dodge Scatterblast and Cookie stuns. Snapfire gets little value against his spread-out playstyle."
+      },
+      {
+        "name": "Faceless Void",
+        "reason": "Faceless Void punishes Snapfire with Chronosphere before she can react. She relies on positioning and is vulnerable to instant initiation. Her damage becomes irrelevant if caught in Chrono. Snapfire struggles to fight into his lockdown and scaling."
+      },
+      {
+        "name": "Bounty Hunter",
+        "reason": "Bounty Hunter snipes Snapfire in the backlines with Track and burst. He snowballs off gold from repeated kills on her. Snapfire has no escape if caught out of position. Track removes her fog safety and limits her aggressive posturing."
+      }
+    ]
+  },
+  {
+    "name": "Mars",
+    "slug": "mars",
+    "url": "https://dotacoach.gg/en/heroes/counters/mars",
+    "patch": "7.41f",
+    "checked": "2026-09-24",
+    "pairs": [
+      {
+        "name": "Lifestealer",
+        "reason": "Lifestealer can use Rage to escape Arena of Blood and avoid Spear of Mars’ stun, making him difficult to control. Additionally, he thrives against heroes with large health pools, which can reduce Mars’ relative tankiness and make him more vulnerable."
+      },
+      {
+        "name": "Juggernaut",
+        "reason": "Blade Fury lets Juggernaut escape Arena of Blood and dodge Spear of Mars’ stun. It’s also a strong tool for chasing and killing Mars early, since he is more susceptible to magical damage."
+      },
+      {
+        "name": "Puck",
+        "reason": "Puck is highly elusive and difficult to control. Without items like Hex or Eul’s Scepter, landing a Spear of Mars and killing her can be very challenging."
+      }
+    ]
+  },
+  {
+    "name": "Ringmaster",
+    "slug": "ringmaster",
+    "url": "https://dotacoach.gg/en/heroes/counters/ringmaster",
+    "patch": "7.41f",
+    "checked": "2026-09-24",
+    "pairs": [
+      {
+        "name": "Oracle",
+        "reason": "Oracle's Forutne's End is a low cooldown AOE dispel that can remove Escape Act without even having to target the enemy but instead an ally."
+      },
+      {
+        "name": "Shadow Demon",
+        "reason": "Demonic Purge prevents Ringmaster from saving his allies with Escape Act."
+      },
+      {
+        "name": "Invoker",
+        "reason": "Invoker can use Tornado to dispel Escape Act."
+      }
+    ]
+  },
+  {
+    "name": "Dawnbreaker",
+    "slug": "dawnbreaker",
+    "url": "https://dotacoach.gg/en/heroes/counters/dawnbreaker",
+    "patch": "7.41f",
+    "checked": "2026-09-24",
+    "pairs": [
+      {
+        "name": "Viper",
+        "reason": "Viper is going to be able to Break your passive ability and slow your attack speed which is going to significantly reduce your effectiveness and damage output."
+      },
+      {
+        "name": "Nyx Assassin",
+        "reason": "Spiked Carapace can stop Dawnbreaker's Solar Guardian which will eliminate her global presence and limits her movement around the map."
+      },
+      {
+        "name": "Drow Ranger",
+        "reason": "Gust can shut down most of Dawnbreaker's abilities, rendering her useless. Laning is also hard against this ranged carry hero."
+      }
+    ]
+  },
+  {
+    "name": "Marci",
+    "slug": "marci",
+    "url": "https://dotacoach.gg/en/heroes/counters/marci",
+    "patch": "7.41f",
+    "checked": "2026-09-24",
+    "pairs": [
+      {
+        "name": "Ancient Apparition",
+        "reason": "The Ice Blast from Ancient Apparition nullifies the lifesteal from either Sidekick or Bodyguard and makes it difficult for Marci to commit to fights with Unleash."
+      },
+      {
+        "name": "Axe",
+        "reason": "The armor gain during Bersekers Call combined with the Blade Mail active makes it difficult for Marci to commit on Axe with Unleash as the Counter Helix procs and return damage will likely kill Marci instead."
+      },
+      {
+        "name": "Bloodseeker",
+        "reason": "Rupture does massive damage to Marci if she uses Rebound during it, effectively halting her mobility. A follow up Blood Rite and right click committal makes Marci easy pickings for Bloodseeker."
+      }
+    ]
+  },
+  {
+    "name": "Primal Beast",
+    "slug": "primal-beast",
+    "url": "https://dotacoach.gg/en/heroes/counters/primal-beast",
+    "patch": "7.41f",
+    "checked": "2026-09-24",
+    "pairs": [
+      {
+        "name": "Anti-Mage",
+        "reason": "Anti-Mage blinks out of Onslaught and avoids Trample entirely. Mana Break weakens Primal Beast’s ability to spam spells. Pulverize is hard to land reliably due to Anti-Mage’s mobility. In late game, Anti-Mage outscales and deletes Primal Beast effortlessly."
+      },
+      {
+        "name": "Undying",
+        "reason": "Undying out-sustains Primal Beast in early fights with Decay spam. Tombstone forces Primal Beast to reposition instead of diving. Undying’s tanky build slows down Primal Beast’s snowball potential. Teamfighting against Undying becomes difficult without backup."
+      },
+      {
+        "name": "Doom",
+        "reason": "Doom completely disables Primal Beast’s entire kit during fights. Once Doomed, Primal Beast cannot Trample, Pulverize, or escape. Doom’s tanky presence also survives Primal Beast’s burst. One well-timed ultimate can shut down Primal Beast’s game plan."
+      }
+    ]
+  },
+  {
+    "name": "Muerta",
+    "slug": "muerta",
+    "url": "https://dotacoach.gg/en/heroes/counters/muerta",
+    "patch": "7.41f",
+    "checked": "2026-09-24",
+    "pairs": [
+      {
+        "name": "Spectre",
+        "reason": "Spectre punishes backline, squishy heroes like Muerta with Haunt and Dispersion. She ignores Dead Shot zoning and thrives in chaos. Her tankiness outlasts Muerta’s damage window. Once she reaches her items, Muerta cannot duel her effectively."
+      },
+      {
+        "name": "Wraith King",
+        "reason": "Wraith King revives with Reincarnation, which wastes Muerta’s burst window during Pierce the Veil. His sustain and crit-based damage out-trade her in late fights. He can close the gap and slow her before she escapes. Her lack of stuns gives him room to dominate."
+      },
+      {
+        "name": "Chen",
+        "reason": "Chen’s army of creeps absorbs Muerta’s abilities and reduces her effectiveness. His healing and sustain offset her poke and burst. Divine Favor and Hand of God counteract her execution power. Muerta cannot keep up in push scenarios against his units."
+      }
+    ]
+  },
+  {
+    "name": "Kez",
+    "slug": "kez",
+    "url": "https://dotacoach.gg/en/heroes/counters/kez",
+    "patch": "7.41f",
+    "checked": "2026-09-24",
+    "pairs": [
+      {
+        "name": "Axe",
+        "reason": "Axe's high armor gain with Berserker's Call usage lets him negate much of Kez's dominant physical damage at all stages of the game. Axe is also a natural Blade Mail carrier, which is a massive counter to Kez's high burst damage and the return damage threatens his life every time he uses his spell combo."
+      },
+      {
+        "name": "Bloodseeker",
+        "reason": "Bloodseeker's Rupture massively counters Kez's mobility as he cannot dispel it with Raptor Dance and takes massive damage if he tries to Grapple away. Once Kez becomes static because of Rupture, he is easy to take down with a follow up Bloodrite silence and right clicks."
+      },
+      {
+        "name": "Doom",
+        "reason": "Doom's ultimate Doom prevents Kez from lifestealing back his HP through his spells while also countering his mobility as he is effectively silenced. Once his mobility is taken away, Doom has an easy time of running down a squishy Kez during Scorched Earth."
+      }
+    ]
+  },
+  {
+    "name": "Largo",
+    "slug": "largo",
+    "url": "https://dotacoach.gg/en/heroes/counters/largo",
+    "patch": "7.41e (items)",
+    "checked": "2026-09-24",
+    "pairs": [],
+    "status": "No gameplay explanations; manual mechanism analysis is labeled in data.js"
+  }
+]

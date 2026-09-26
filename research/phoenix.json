@@ -1,0 +1,21 @@
+{
+  "name": "Phoenix",
+  "slug": "phoenix",
+  "url": "https://dotacoach.gg/en/heroes/counters/phoenix",
+  "patch": "7.41f",
+  "checked": "2026-09-24",
+  "pairs": [
+    {
+      "name": "Alchemist",
+      "reason": "Alch has the lowest Basic Attack Speed in the game by far during Chemical Rage, which allows him to dispatch of Phoenix's Supernova quickly. Phoenix uses Fire Spirits and Icarus Dive to reduce his opponents' Attack and Movement Speed in order to protect the egg, however Alch has not 1 but 2 dispels for it in Chemical Rage and Berserk Potion."
+    },
+    {
+      "name": "Bloodseeker",
+      "reason": "Phoenix is heavily punished by Rupture when trying to use Icarus Dive. Bloodseeker’s speed allows him to kill Supernova quickly. He thrives in chaos, countering Phoenix’s slow and controlled fight style. Blood Rite zones Phoenix out of teamfights and ruins Dive escape paths."
+    },
+    {
+      "name": "Lina",
+      "reason": "Lina’s long-range burst deletes Phoenix before he can get Supernova off. Phoenix’s low armor makes him vulnerable to right-clicks. She can stay outside of Fire Spirits range and still threaten kills. Lina outscales Phoenix in both damage and utility in late-game."
+    }
+  ]
+}

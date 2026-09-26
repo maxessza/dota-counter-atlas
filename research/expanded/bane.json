@@ -1,0 +1,37 @@
+{
+  "name": "Bane",
+  "slug": "bane",
+  "url": "https://dotacoach.gg/en/heroes/counters/bane",
+  "patch": "7.41f",
+  "checked": "2026-09-24",
+  "pairs": [
+    {
+      "name": "Pudge",
+      "reason": "Pudge has various ways of saving his teammates from Bane's spells. He can Meat Hook stationary allies under the effects of Nightmare and Fiend's Grip as well as pick up an Aghanim's Shard to Dismember them and cancel their effects altogether."
+    },
+    {
+      "name": "Naga Siren",
+      "reason": "Bane's lack of AOE damage makes it difficult for him to deal with Mirror Image Illusions - this allows Naga to keep the waves pushed, giving her and her team the upper hand. Song of the Siren can interrupt Fiend's Grip even when upgraded by Aghanim's Scepter and more importantly even if it connects with the real Naga then Mirror Image Illusions can be sent to dispatch of the channeling Bane."
+    },
+    {
+      "name": "Silencer",
+      "reason": "Global Silence interrupts Fiend's Grip from anywhere on the map, even if upgraded with Aghanim's Scepter. BKB and any debuff immunity effects do not prevent this as it pierces debuff immunity making it almost impossible for Bane to get of a full duration Fiend's Grip on any of Silencer's teammates."
+    },
+    {
+      "name": "Abaddon",
+      "reason": "Aphotic Shield is a low cooldown Strong Dispel, which can dispel Enfeeble, Nightmare and even Fiend's Grip. Additionally, Borrowed time can be used DURING Fiend's Grip to remove it even if upgraded with Aghanim's Scepter."
+    },
+    {
+      "name": "Slark",
+      "reason": "Dark Pact is a low cooldown Strong Dispel, which can dispel Enfeeble, Nightmare and even Fiend's Grip. Additionally, his Aghanim's Shard Depth Shroud can be used on any of his teammates during Nightmare or Fiend's Grip to provide sustain and protect them from any single target damage."
+    },
+    {
+      "name": "Visage",
+      "reason": "Familiars are able to use Stone Form and interrupt Fiend's Grip even if Visage is affected by it. Additionally, Familiar can issue an attack command on any Nightmared targets in order relocate the sleep onto them and free the initial target."
+    },
+    {
+      "name": "Tidehunter",
+      "reason": "Blubber allows Tidehunter to dispel Enfeeble, Nightmare and even Fiend's Grip upgraded by Aghanim's Scepter with 0 cooldown, given he is taking enough damage. Fiend's Grip damage is Pure and by itself does enough damage to not be able to get more than a couple of seconds of it's duration off in the best case scenario."
+    }
+  ]
+}

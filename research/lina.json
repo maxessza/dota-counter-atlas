@@ -1,0 +1,21 @@
+{
+  "name": "Lina",
+  "slug": "lina",
+  "url": "https://dotacoach.gg/en/heroes/counters/lina",
+  "patch": "7.41f",
+  "checked": "2026-09-24",
+  "pairs": [
+    {
+      "name": "Abaddon",
+      "reason": "Lina can never combo and kill Abaddon with all her spells as long as Borrowed Time is off cooldown. Aphotic Shield and Mist Coil also protect his allies from dying to Lina's spells. Once Abaddon gets Blink Dagger, he can jump Lina and run her down with the movement speed slow through Curse of Avernus, and forces Lina to play defensively."
+    },
+    {
+      "name": "Anti-Mage",
+      "reason": "Lina struggles to fend off Anti Mage, who can easily Blink next to her and burst her down with Mana Void after draining her mana through his right clicks empowered with Mana Break. Anti Mage also has the potential to block and reflect Lina's Laguna Blade damage back to her with Counterspell. Counterspell also provides magic resistance to reduce a lot of Lina's burst damage from her spell combo."
+    },
+    {
+      "name": "Centaur Warrunner",
+      "reason": "Centaur Warrunner's high HP from his Innate, strength gain, and item purchases prevents Lina from bursting him down with her spell combo. Once Centaur gets Blade Mail, he can reflect a lot of Lina's burst damage back to her in combination with Retaliate and threaten her life every time. Stampede also lets Centaur's entire team close the gap on a squishy Lina and burst her down."
+    }
+  ]
+}

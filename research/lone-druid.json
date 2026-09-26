@@ -1,0 +1,21 @@
+{
+  "name": "Lone Druid",
+  "slug": "lone-druid",
+  "url": "https://dotacoach.gg/en/heroes/counters/lone-druid",
+  "patch": "7.41f",
+  "checked": "2026-09-24",
+  "pairs": [
+    {
+      "name": "Kunkka",
+      "reason": "Ghost Ship mitigates Lone Druid’s burst damage, and X Mark locks down the Druid or the Bear. The cleave from Tidebringer clears the Bear and Druid if they clump, making Kunkka a consistent teamfight counter."
+    },
+    {
+      "name": "Pangolier",
+      "reason": "Pango’s Rolling Thunder stuns both the Druid and Bear repeatedly, stopping them from attacking. Shield Crash reduces incoming damage, and Swashbuckle bypasses the Bear’s root. His control overwhelms Lone Druid in fights."
+    },
+    {
+      "name": "Lich",
+      "reason": "Chain Frost punishes Lone Druid’s tendency to group with his Bear. Frost Shield also reduces Bear damage and slows push tempo. Lich is great at punishing melee-centric heroes with AoE."
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "name": "Zeus",
+  "slug": "zeus",
+  "url": "https://dotacoach.gg/en/heroes/counters/zeus",
+  "patch": "7.41f",
+  "checked": "2026-09-24",
+  "pairs": [
+    {
+      "name": "Storm Spirit",
+      "reason": "Storm counters Zeus by using Ball Lightning to quickly close the gap and dodge Zeus’s spells. His mobility and Electric Vortex allow him to lock Zeus down, preventing him from casting spells and bursting him down before Zeus can react."
+    },
+    {
+      "name": "Meepo",
+      "reason": "Meepo can chain Net to lock down Zeus and quickly burst him down with multiple clones, making it hard for Zeus to escape or cast spells effectively."
+    },
+    {
+      "name": "Broodmother",
+      "reason": "Broodmother’s webs let her sustain against Zeus’s nukes by providing regeneration and damage reduction. Her mobility in the webs also allows her to chase down Zeus easily, making it hard for him to escape."
+    },
+    {
+      "name": "Anti-Mage",
+      "reason": "Anti-Mage’s built-in magic resistance reduces Zeus’s damage, making it harder for him to burst AM down. Additionally, Anti-Mage can reflect Zeus’s spells with Counterspell and quickly kill him using Mana Void when Zeus’s mana is low."
+    },
+    {
+      "name": "Void Spirit",
+      "reason": "Void Spirit can quickly close the gap on Zeus and burst him down. His Resonant Pulse allows him to block incoming magic damage, reducing Zeus’s burst effectiveness and giving him an edge in fights."
+    },
+    {
+      "name": "Tusk",
+      "reason": "Tusk can easily gank Zeus in the early game, punishing his low mobility. In the late game, Tusk’s Snowball can save allies by blocking damage, reducing the effectiveness of Zeus’s spells in team fights."
+    },
+    {
+      "name": "Ember Spirit",
+      "reason": "Ember Spirit can use Sleight of Fist to dodge Zeus’s spells, while Flame Guard blocks magical damage, allowing him to tank Zeus’s burst and effectively take him down."
+    },
+    {
+      "name": "Io",
+      "reason": "Io provides constant healing and sustain to allies, making it difficult for Zeus to secure kills. With items like Mekansm and Glimmer Cape, Io can keep teammates alive through Zeus’s burst damage."
+    },
+    {
+      "name": "Brewmaster",
+      "reason": "Brewmaster is naturally tanky, and when low on health, he can use Primal Split to avoid damage and negate Zeus’s spells by splitting into his elemental clones, making it harder for Zeus to finish him off."
+    }
+  ]
+}

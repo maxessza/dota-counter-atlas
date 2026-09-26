@@ -1,0 +1,21 @@
+{
+  "name": "Muerta",
+  "slug": "muerta",
+  "url": "https://dotacoach.gg/en/heroes/counters/muerta",
+  "patch": "7.41f",
+  "checked": "2026-09-24",
+  "pairs": [
+    {
+      "name": "Spectre",
+      "reason": "Spectre punishes backline, squishy heroes like Muerta with Haunt and Dispersion. She ignores Dead Shot zoning and thrives in chaos. Her tankiness outlasts Muerta’s damage window. Once she reaches her items, Muerta cannot duel her effectively."
+    },
+    {
+      "name": "Wraith King",
+      "reason": "Wraith King revives with Reincarnation, which wastes Muerta’s burst window during Pierce the Veil. His sustain and crit-based damage out-trade her in late fights. He can close the gap and slow her before she escapes. Her lack of stuns gives him room to dominate."
+    },
+    {
+      "name": "Chen",
+      "reason": "Chen’s army of creeps absorbs Muerta’s abilities and reduces her effectiveness. His healing and sustain offset her poke and burst. Divine Favor and Hand of God counteract her execution power. Muerta cannot keep up in push scenarios against his units."
+    }
+  ]
+}

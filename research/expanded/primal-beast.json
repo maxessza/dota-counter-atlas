@@ -1,0 +1,49 @@
+{
+  "name": "Primal Beast",
+  "slug": "primal-beast",
+  "url": "https://dotacoach.gg/en/heroes/counters/primal-beast",
+  "patch": "7.41f",
+  "checked": "2026-09-24",
+  "pairs": [
+    {
+      "name": "Anti-Mage",
+      "reason": "Anti-Mage blinks out of Onslaught and avoids Trample entirely. Mana Break weakens Primal Beast’s ability to spam spells. Pulverize is hard to land reliably due to Anti-Mage’s mobility. In late game, Anti-Mage outscales and deletes Primal Beast effortlessly."
+    },
+    {
+      "name": "Undying",
+      "reason": "Undying out-sustains Primal Beast in early fights with Decay spam. Tombstone forces Primal Beast to reposition instead of diving. Undying’s tanky build slows down Primal Beast’s snowball potential. Teamfighting against Undying becomes difficult without backup."
+    },
+    {
+      "name": "Doom",
+      "reason": "Doom completely disables Primal Beast’s entire kit during fights. Once Doomed, Primal Beast cannot Trample, Pulverize, or escape. Doom’s tanky presence also survives Primal Beast’s burst. One well-timed ultimate can shut down Primal Beast’s game plan."
+    },
+    {
+      "name": "Death Prophet",
+      "reason": "Spirit Siphon heals through Trample and punishes Primal Beast’s aggression. Exorcism zones him out of objectives where he excels. Death Prophet outlasts him in every extended brawl. Primal Beast cannot break her scaling without assistance."
+    },
+    {
+      "name": "Outworld Devourer",
+      "reason": "Outworld Destroyer banishes Primal Beast during Onslaught, wasting his initiation. Arcane Orb deals massive damage to his large mana pool. Pulverize is easy to interrupt with Astral Imprisonment. Outworld Destroyer wins mid lane and teamfights with ease."
+    },
+    {
+      "name": "Huskar",
+      "reason": "Huskar shrugs off Primal Beast’s initial damage and punishes dives. Once his Burning Spear stacks build up, Primal Beast cannot fight back. Primal Beast’s long cast animations make him an easy target. Huskar dominates small-scale skirmishes."
+    },
+    {
+      "name": "Treant Protector",
+      "reason": "Leech Seed slows and drains Primal Beast during his dive attempts. Living Armor slows down any attempts to snowball through towers. Treant Protector can lock Primal Beast in place with Overgrowth. He delays tempo and denies early objectives."
+    },
+    {
+      "name": "Grimstroke",
+      "reason": "Grimstroke’s Ink Swell ruins Onslaught paths and punishes dive attempts. Soulbind disables Pulverize mid-cast and traps him with another target. Grimstroke’s long-range nukes chip away before Primal Beast can engage. Primal Beast struggles to find clean openings."
+    },
+    {
+      "name": "Zeus",
+      "reason": "Zeus can poke from a distance while avoiding close contact. Primal Beast cannot punish Zeus’s low health if he ever gets close. Lightning Bolt cancels Blink Dagger and chips away at him constantly. Zeus snowballs while Primal Beast is forced to disengage."
+    },
+    {
+      "name": "Io",
+      "reason": "Io sustains teammates through Primal Beast’s early combos. Relocate saves squishy cores from Pulverize. Overcharge buffs allies to out-damage Trample and Onslaught. Io hard counters Primal Beast’s burst timing and momentum."
+    }
+  ]
+}

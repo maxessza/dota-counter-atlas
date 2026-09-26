@@ -1,0 +1,57 @@
+{
+  "name": "Slardar",
+  "slug": "slardar",
+  "url": "https://dotacoach.gg/en/heroes/counters/slardar",
+  "patch": "7.41f",
+  "checked": "2026-09-24",
+  "pairs": [
+    {
+      "name": "Abaddon",
+      "reason": "Abaddon can cast Aphotic Shield on any of his allies to immediately dispel Corrosive Haze and/or the stun and the slow components of Slithereen Crush. All of Slardar's debuffs are also removed if Abaddon's Borrowed Time triggers."
+    },
+    {
+      "name": "Phantom Lancer",
+      "reason": "Phantom Lancer's Doppelganger has a low cooldown and applies a basic dispel on PL, making it hard to keep Corrosive Haze on him. Phantom Lancer usually purchases Manta Style which provides another basic dispel to remove Corrosive Haze with. Besides Slithereen Crush, Slardar does not have another way to deal with illusions and has a low mana pool, which allows Phantom Lancer with Diffusal Blade to quickly build up illusions while draining Slardar's mana."
+    },
+    {
+      "name": "Slark",
+      "reason": "Dark Pact purges off Corrosive Haze quickly and can pre-cast it to remove the Slithereen Crush stun duration, which removes Slardar's key tool for chasing and bursting. Shadow Dance makes Slark untargetable, so even if he’s low, Slardar can’t finish him off during that duration."
+    },
+    {
+      "name": "Chaos Knight",
+      "reason": "Chaos Knight overwhelms Slardar with multiple illusions, making it hard for him to focus the real hero even with Corrosive Haze. Slardar’s single-target focus struggles against CK’s chaos and burst. CK also has high physical damage that melts Slardar before he can sustain in fights. Slardar’s armor reduction has little value when CK overwhelms him with illusion-based damage. Manta style and phantasm dispel corrosive haze."
+    },
+    {
+      "name": "Terrorblade",
+      "reason": "Terrorblade is another illusion-based hero who shrugs off Slardar’s armor reduction thanks to high armor and multiple units. Once he gets Manta and Satanic, he easily outlasts Slardar in fights. Slardar has no way to clear illusions efficiently, which weakens his impact in late game. Terrorblade also punishes Slardar’s aggression with strong counter-initiation."
+    },
+    {
+      "name": "Dragon Knight",
+      "reason": "Dragon Knight has incredibly high base armor and tankiness, which makes Corrosive Haze less effective. Slardar can’t burst him down fast enough before DK’s natural tanking and healing kick in. Dragon Knight can also outlast fights and push objectives, something Slardar doesn't handle well. In lane, DK sustains easily through any physical harassment Slardar attempts."
+    },
+    {
+      "name": "Troll Warlord",
+      "reason": "Troll Warlord excels in prolonged fights, which is dangerous for Slardar, who depends on quick kills. Troll’s attack speed and lifesteal allow him to beat Slardar head-on after the initial stun. Once Troll ults, he becomes unkillable for Slardar, who lacks disarms or hard disables. Slardar’s armor reduction doesn't stop Troll from scaling through raw stats."
+    },
+    {
+      "name": "Naga Siren",
+      "reason": "Naga Siren overwhelms Slardar with illusions that waste his bash and spread damage. Her Song of the Siren also resets fights, making Slardar’s aggressive dives less impactful. Slardar struggles to lock her down once she builds Manta or Heart. Illusions also soak up Slardar’s physical damage, rendering him inefficient."
+    },
+    {
+      "name": "Drow Ranger",
+      "reason": "Drow Ranger punishes melee heroes like Slardar with high ranged damage and slow. If Slardar fails to jump her instantly, she can kite and kill him easily with her Gust silence and damage burst. Slardar also doesn’t scale as well into late game compared to her."
+    },
+    {
+      "name": "Muerta",
+      "reason": "Muerta becomes untargetable by physical damage during Pierce the Veil, making Slardar's entire skillset useless. Slardar can’t bash or hit her during this phase, and Muerta can burst him with magical damage. Even before her ult, she kites Slardar easily with her range and movement tools. He gets no value out of his armor reduction against her."
+    },
+    {
+      "name": "Luna",
+      "reason": "Luna outputs heavy magical and physical damage and scales better in teamfights. Her Lucent Beam and Eclipse burst Slardar down before he can even react. Slardar’s melee nature makes him vulnerable to her glaive bounces and AoE. Once farmed, Luna destroys him in both 1v1 and team scenarios."
+    },
+    {
+      "name": "Tidehunter",
+      "reason": "Tidehunter naturally counters physical burst with Kraken Shell and extremely high durability. Slardar can’t reduce enough armor to kill him before Ravage turns the fight. Tide’s teamfight presence is more impactful, while Slardar offers mostly pickoff. In lane, Tide’s tankiness and spam make it hard for Slardar to apply pressure. Kraken shell when triggered also dispels corrosive haze"
+    }
+  ]
+}

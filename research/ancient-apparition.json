@@ -1,0 +1,21 @@
+{
+  "name": "Ancient Apparition",
+  "slug": "ancient-apparition",
+  "url": "https://dotacoach.gg/en/heroes/counters/ancient-apparition",
+  "patch": "7.41f",
+  "checked": "2026-09-24",
+  "pairs": [
+    {
+      "name": "Pudge",
+      "reason": "Pudge Support can pickup an early Aghanim's Shard in order to save his allies from Frost Blast - Dismembered allies do not heal but also do not have their health reduced in any way allowing them to wait out the Frost Blast debuff duration in safety. Meat Hook is effective at pulling teammates away from Cold Feet's stun radius."
+    },
+    {
+      "name": "Storm Spirit",
+      "reason": "Storm's mobility allows him to easily get on top of AA and has enough damage to kill him reliably. Ball of Lightning allows him to easily dodge Ice Blast and get away from Cold Feet in order to dispel it. Ball of Lihgtning can also disjoint any Chilling Touch hits and makes retreating back to safety easy for Storm."
+    },
+    {
+      "name": "Lycan",
+      "reason": "Lycan's mobility allows him to easily get on top of AA and has enough damage to kill him reliably. Shapeshift essentially provides him with Haste making it difficult for AA to connect his Ice Blast and easy for Lycan to leave Cold Feet's stun radius. Summon Wolves on their own are able to apply enough pressure for AA and force him to kite them."
+    }
+  ]
+}

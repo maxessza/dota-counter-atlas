@@ -1,0 +1,21 @@
+{
+  "name": "Shadow Fiend",
+  "slug": "shadow-fiend",
+  "url": "https://dotacoach.gg/en/heroes/counters/shadow-fiend",
+  "patch": "7.41f",
+  "checked": "2026-09-24",
+  "pairs": [
+    {
+      "name": "Chen",
+      "reason": "Chen’s creeps pressure Shadow Fiend in lane, and his team-wide sustain punishes burst-based heroes like SF. Shadow Fiend has a hard time dealing with spread-out fights and split-push."
+    },
+    {
+      "name": "Troll Warlord",
+      "reason": "Troll is a hard counter in manfights. Shadow Fiend relies on burst and kiting, but Troll wins long engagements and can disarm Shadow Fiend with Whirling Axes and lock him down with bash."
+    },
+    {
+      "name": "Zeus",
+      "reason": "Zeus outranges and out-pokes Shadow Fiend. He doesn’t care about armor or BKB early, and constantly chips SF down. Zeus can cancel Blink Dagger from fog with his global ult."
+    }
+  ]
+}

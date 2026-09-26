@@ -1,0 +1,21 @@
+{
+  "name": "Skywrath Mage",
+  "slug": "skywrath-mage",
+  "url": "https://dotacoach.gg/en/heroes/counters/skywrath-mage",
+  "patch": "7.41f",
+  "checked": "2026-09-24",
+  "pairs": [
+    {
+      "name": "Visage",
+      "reason": "Familiars interrupt Skywrath’s positioning and can cancel channeling supports nearby. Visage’s cloak resists burst, and Skywrath has no way to clear summons effectively. He gets punished hard in extended fights."
+    },
+    {
+      "name": "Chen",
+      "reason": "Chen’s creeps tank Mystic Flare and break combo setups. He provides sustain and healing that negates Skywrath’s quick burst style. Skywrath can’t pick off targets easily through Hand of God and creeps."
+    },
+    {
+      "name": "Lycan",
+      "reason": "Lycan’s high movement speed and summons overwhelm Skywrath. He runs Skywrath down with ease, and Skywrath’s spells don’t stop Lycan’s push. Once Lycan builds BKB, Skywrath is a non-threat."
+    }
+  ]
+}

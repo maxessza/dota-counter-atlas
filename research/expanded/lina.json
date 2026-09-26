@@ -1,0 +1,85 @@
+{
+  "name": "Lina",
+  "slug": "lina",
+  "url": "https://dotacoach.gg/en/heroes/counters/lina",
+  "patch": "7.41f",
+  "checked": "2026-09-24",
+  "pairs": [
+    {
+      "name": "Abaddon",
+      "reason": "Lina can never combo and kill Abaddon with all her spells as long as Borrowed Time is off cooldown. Aphotic Shield and Mist Coil also protect his allies from dying to Lina's spells. Once Abaddon gets Blink Dagger, he can jump Lina and run her down with the movement speed slow through Curse of Avernus, and forces Lina to play defensively."
+    },
+    {
+      "name": "Anti-Mage",
+      "reason": "Lina struggles to fend off Anti Mage, who can easily Blink next to her and burst her down with Mana Void after draining her mana through his right clicks empowered with Mana Break. Anti Mage also has the potential to block and reflect Lina's Laguna Blade damage back to her with Counterspell. Counterspell also provides magic resistance to reduce a lot of Lina's burst damage from her spell combo."
+    },
+    {
+      "name": "Centaur Warrunner",
+      "reason": "Centaur Warrunner's high HP from his Innate, strength gain, and item purchases prevents Lina from bursting him down with her spell combo. Once Centaur gets Blade Mail, he can reflect a lot of Lina's burst damage back to her in combination with Retaliate and threaten her life every time. Stampede also lets Centaur's entire team close the gap on a squishy Lina and burst her down."
+    },
+    {
+      "name": "Doom",
+      "reason": "Doom completely shuts down Lina with his ultimate as she cannot throw any spells in its duration to fight back or fend off Doom with the Light Strike Array stun. Doom can easily run down a slow and squishy Lina during Scorched Earth and finish her off every time while his ultimate is active."
+    },
+    {
+      "name": "Ember Spirit",
+      "reason": "Ember Spirit's Sleight of Fist lets him dodge Lina's Light Strike Array and Dragon Slave when timed correctly. With the Orb of Corrosion purchase in the laning stage, Ember Spirit can also harass and threaten Lina's life with the Sleight of Fist and Searing Chains combo. The Flame Guard barrier also lets Ember Spirit absorb a lot of Lina's burst damage from her spells, while he can also close the gap or get away with Fire Remnant."
+    },
+    {
+      "name": "Faceless Void",
+      "reason": "Faceless Void's Time Walk lets him reverse the damage taken from Lina's entire spell combo if he doesn't get bursted down from full to zero. Faceless Void's Chronosphere also locks down a squishy Lina and makes for easy kills throughout the game. Time Dilation also prevents Lina from using her low cooldown spells multiple times in fights."
+    },
+    {
+      "name": "Huskar",
+      "reason": "Huskar's Berserker's Blood passive keeps him healthy and provides magic resistance during the laning stage and prevents Lina from building a massive advantage with her long range harass from spells and right clicks. Huskar can also return the aggression on a squishy Lina with the gap close through Life Break, followed up with the Inner Fire silence and Burning Spears."
+    },
+    {
+      "name": "Invoker",
+      "reason": "Lina relies on slowly poking and wearing down opposing mid laners with her long range spells and right clicks, which is countered by Invoker with the inbuilt HP regen provided by Quas. Lina also relies heavily on mana for her lane domination, which is heavily countered by the mana burn from EMP. Lina is also a squishy hero and is easily killed by Invoker's spell combo."
+    },
+    {
+      "name": "Kez",
+      "reason": "Kez's high mobility lets him find easy kills on a squishy Lina who finds it incredibly difficult to fend him off with Light Strike Array because of the Talon Toss silence as well as Kez's high mobility. Kez's ultimate Raptor Dance also gives him magic damage immunity to nullify Lina's damage spells."
+    },
+    {
+      "name": "Lifestealer",
+      "reason": "Lifestealer's Rage provides him debuff immunity and magic resistance to avoid the Light Strike Array stun as well as reduce the damage taken from Lina's spell combo. Lifestealer's Infest bomb and Open Wounds slow also lets him stay on top of a squishy Lina and poke her down with his right clicks."
+    },
+    {
+      "name": "Night Stalker",
+      "reason": "Night Stalker's Crippling Fear silence under the Void movement speed slow prevents Lina from running away from him or fending him off with the Light Strike Array stun. Dark Ascension's massive vision and flying movement also helps Night Stalker find and get close to Lina every time, which is further enabled with the Blink Dagger purchase."
+    },
+    {
+      "name": "Nyx Assassin",
+      "reason": "Nyx Assassin always has kill threat on a squishy Lina with Vendetta and follow up spell combo alongside Dagon. Lina's high mana pool works against her as it lets Nyx Assassin do even more damage to her with Mind Flare. Nyx Assassin can also use Lina's AoE damage spells to stun her with Spiked Carapace, particularly when she farms creep waves."
+    },
+    {
+      "name": "Oracle",
+      "reason": "Oracle's Fate's Edict prevents all of Lina's burst damage from her spells and can waste her entire combo when timed correctly. False Promise also dispels the Light Strike Array stun and works well to prevent Lina from bursting anyone down with her spells and right clicks."
+    },
+    {
+      "name": "Puck",
+      "reason": "Puck's high attack range and damage nukes gives her an even footing against Lina in the laning stage. Puck's Phase Shift also lets her dodge Lina's Light Strike Array and Dragon Slave when timed correctly. Illusory Orb and Waning Rift also let Puck close the gap on a squishy Lina to keep her leashed under Dream Coil and burst her down while she is silenced."
+    },
+    {
+      "name": "Silencer",
+      "reason": "Silener's silence through Global Silence and Last Word can completely disrupt Lina's spell combo throughout the game and render her useless in teamfights. Arcane Curse also lets Silencer do a lot of slow and damage to Lina if she casts her spell combo while affected by the spell."
+    },
+    {
+      "name": "Slark",
+      "reason": "Slark can easily time Dark Pact to dispel the Light Strike Array stun because of its cast time, which helps him use Shadow Dance before Lina can target him with Laguna Blade and right clicks. Slark's Pounce also lets him close the gap on a squishy Lina and keep her leashed to bring her down with his right clicks, or steal a ton of Essence Shift stacks at the very least."
+    },
+    {
+      "name": "Spectre",
+      "reason": "Spectre's Shadow Step lets her instantly get on top of a squishy Lina and makes for easy pickoffs on her when accompanied by another hero. The matchup progresses further in Spectre's favor as the game goes on when she builds up her HP pool to prevent dying to Lina's spell combo as well as return a ton of damage through Dispersion."
+    },
+    {
+      "name": "Storm Spirit",
+      "reason": "Storm Spirit's high attack range and Static Remnant gives him an even footing to contest creeps as well as harass Lina with the Static Slide facet. Past the laning stage, Storm Spirit's Ball Lightning gives him mobility to close the gap on a squishy Lina to burst her down as well as dodge the Light Strike Array stun."
+    },
+    {
+      "name": "Viper",
+      "reason": "Viper's high attack range on top of Poison Attack stacks and Corrosive Skin let him threaten Lina's life in the laning stage and prevents her from building a massive advantage the way she does in most matchups. Once Viper reaches level 6, Viper Strike also adds to the kill threat on Lina. Corrosive Skin also provides magic resistance to reduce a lot of Lina's damage through her spells."
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "name": "Enchantress",
+  "slug": "enchantress",
+  "url": "https://dotacoach.gg/en/heroes/counters/enchantress",
+  "patch": "7.41f",
+  "checked": "2026-09-24",
+  "pairs": [
+    {
+      "name": "Marci",
+      "reason": "Enchantress is bad against Marci because Marci can quickly close the gap and burst her down with high physical damage through unleash, ignoring Untouchable through Sidekick’s bonus damage and her rapid mobility. Enchantress struggles to kite Marci once she's on top of her."
+    },
+    {
+      "name": "Chen",
+      "reason": "Against Chen, Enchantress can get outpaced in pushing and map control. Chen’s large creep army outscales Enchantress' Enchant, and his team-healing can nullify her chip damage from Impetus during mid to late-game pushes. Penitence also removes untouchable since it buff chen allies attack speed.Chen can also persuade enchantress creeps"
+    },
+    {
+      "name": "Ursa",
+      "reason": "Ursa counters Enchantress due to his Fury Swipes stacking damage, which bypasses Untouchable’s attack speed slow. Once Ursa gets on top of her, she can’t sustain through the damage, and her mobility isn’t enough to escape his chase potential."
+    },
+    {
+      "name": "Phantom Assassin",
+      "reason": "Phantom Assassin is a major threat to Enchantress because she can instantly burst her down with high crit damage. Enchantress’ lack of hard disables or strong armor makes her vulnerable to PA’s quick kills, especially if PA has desolater."
+    },
+    {
+      "name": "Underlord",
+      "reason": "Underlord is strong against Enchantress because his high AoE damage and sustain can deal with her creeps and chip damage. His Pit of Malice roots her in place, making it hard for her to kite, and his aura reduces her right-click damage significantly."
+    },
+    {
+      "name": "Pudge",
+      "reason": "Pudge is a bad matchup for Enchantress because a single well-placed Hook can isolate and burst her. His Rot deals consistent magic damage that bypasses Untouchable, and once he grabs her with Dismember, she has little way to escape."
+    },
+    {
+      "name": "Crystal Maiden",
+      "reason": "Crystal Maiden counters Enchantress in lane with high magic damage and disables. Enchantress can’t kite if she’s rooted by Frostbite, and her naturally low magic resistance makes her vulnerable to Crystal Maiden’s full spell combo, especially in early fights. Crystal Maiden can also kill enchantress creeps with frostbite"
+    },
+    {
+      "name": "Morphling",
+      "reason": "Morphling can survive Enchantress’ harass with Attribute Shift and can later outscale her with high burst damage. Enchantress lacks instant disable to prevent Morphling from switching to full agility or escaping, making it hard to finish him off."
+    },
+    {
+      "name": "Earth Spirit",
+      "reason": "Earth Spirit is dangerous for Enchantress due to his silences and stuns, which interrupt her healing and movement. His burst damage combo comes fast, and if he catches her off guard, she can die before she gets a chance to kite or sustain."
+    },
+    {
+      "name": "Sand King",
+      "reason": "Sand King is effective against Enchantress because of his magic burst through Caustic Finale and Epicenter. Enchantress’ healing isn’t fast enough to offset Sand King’s AoE damage, and her lack of mobility makes it easy for him to catch her with Burrowstrike."
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "name": "Bristleback",
+  "slug": "bristleback",
+  "url": "https://dotacoach.gg/en/heroes/counters/bristleback",
+  "patch": "7.41f",
+  "checked": "2026-09-24",
+  "pairs": [
+    {
+      "name": "Viper",
+      "reason": "Viper Strike is a reliable low cooldown ability that Breaks the Damage Reduction and Quill Spray procs of Bristleback as well as the further acquiring of stacks from Warpath for it's duration - this completely cripples Bristleback and creates a window of opportunity to outright kill him."
+    },
+    {
+      "name": "Ancient Apparition",
+      "reason": "Ice Blast prevents Bristleback from healing with Bloodstone or any other sources of sustain, making it difficult for him to play fights in a manner which he wants to - by trading his HP in order to get Bristleback procs and do damage in order to heal back up and keep repeating the cycle."
+    },
+    {
+      "name": "Legion Commander",
+      "reason": "Duel forces Bristleback to face LC, preventing him from taking advantage of his Bristleback Damage Reduction and Quill Spray procs for it's duration providing LC's team with a window of opportunity to outright kill him even without Break or Healing reduction."
+    },
+    {
+      "name": "Axe",
+      "reason": "Berserker's Call forces Bristleback to face Axe, preventing him from taking advantage of his Bristleback Damage Reduction and Quill Spray procs for it's duration providing Axe's team with a window of opportunity to outright kill him even without Break or Healing reduction."
+    },
+    {
+      "name": "Primal Beast",
+      "reason": "Uproar when upgraded by Aghanim's Scepter provides a consistent Break for Bristleback's Damage Reduction and Quill Spray procs as well as any further acquiring of stacks from Warpath for it's duration - this completely cripples Bristleback and creates a window of opportunity to outright kill him."
+    },
+    {
+      "name": "Phantom Assassin",
+      "reason": "Phantom Assassin can buy shard and break Bristlebacks Passive abilities and kill him."
+    },
+    {
+      "name": "Slark",
+      "reason": "Slark can effectively kite and fight Bristleback, gaining Essence Shift stacks over time. He can purchase items like Diffusal Blade to drain mana and slow Bristleback, and Silver Edge to break his passive Bristleback, making him much easier to kill. Slark’s mobility and scaling damage allow him to outlast Bristleback in extended fights. This makes Slark a strong counter, especially in the mid to late game."
+    },
+    {
+      "name": "Hoodwink",
+      "reason": "Hoodwink can counter Bristleback effectively with her Sharpshooter, which applies a break and heavy slow, disabling his Bristleback passive. Bushwhack allows her to lock him down near trees, setting up high-damage combos. She can also use Scurry to escape into the trees, avoiding Bristleback’s quill spray and staying safe during chases. Her mobility and break mechanic make her a strong ranged threat against Bristleback."
+    },
+    {
+      "name": "Venomancer",
+      "reason": "Bristleback relies on movement to close the gap on enemies, using Viscous Nasal Goo to slow targets, but he lacks a reliable stun. Venomancer can easily kite Bristleback with Venomous Gale and Poison Sting, applying constant slows and damage over time. His Poison Nova prevents Bristleback from regenerating health effectively during fights"
+    },
+    {
+      "name": "Tinker",
+      "reason": "Tinker can spam March of the Machines to safely deal damage When using the Facet: Repair Bots, March of the Machines also heals allies in its path, helping sustain the team during prolonged fights. Tinker’s ability to refresh spells with Rearm and reposition using Blink Dagger makes it difficult for Bristleback to reach or outlast him. With consistent damage and team utility, Tinker becomes a strong counter to Bristleback in both lane and teamfights."
+    }
+  ]
+}

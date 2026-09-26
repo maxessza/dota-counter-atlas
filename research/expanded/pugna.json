@@ -1,0 +1,49 @@
+{
+  "name": "Pugna",
+  "slug": "pugna",
+  "url": "https://dotacoach.gg/en/heroes/counters/pugna",
+  "patch": "7.41f",
+  "checked": "2026-09-24",
+  "pairs": [
+    {
+      "name": "Primal Beast",
+      "reason": "Primal Beast punishes Pugna’s squishy nature with high physical burst. Pugna struggles to cast when caught by Onslaught and Trample. Nether Ward has little impact on Primal’s low mana use spells. Pugna can’t disengage or defend himself once locked down."
+    },
+    {
+      "name": "Chen",
+      "reason": "Chen overwhelms Pugna’s push tempo with stronger creeps and global healing. Pugna’s spells are inefficient against Chen’s army. Divine Favor and Hand of God outheal Life Drain. Pugna’s early push is easily stalled by creeps and sustain."
+    },
+    {
+      "name": "Huskar",
+      "reason": "Huskar jumps onto Pugna and punishes his low armor and HP. Life Break into Burning Spears bypasses Pugna’s healing attempts. Decrepify helps slightly, but Huskar’s magic resistance scales fast. Huskar snowballs through fights where Pugna is forced to play passively."
+    },
+    {
+      "name": "Marci",
+      "reason": "Marci closes the gap quickly and disables Pugna before he can escape. Her burst punishes Pugna’s long cast times and low defense. Decrepify doesn’t stop physical damage if Marci builds nullifier. Pugna can’t keep up with Marci’s skirmish pace."
+    },
+    {
+      "name": "Anti-Mage",
+      "reason": "Anti-Mage with right clicks (Mana Break) can finishes him with Mana Void easily. Decrepify cannot stop Anti-Mage from blinking around fights. Pugna’s reliance on spellcasting becomes a liability. He can’t kite Anti-Mage effectively and is a prime target."
+    },
+    {
+      "name": "Pudge",
+      "reason": "Pudge easily hooks Pugna out of position and punishes him before he can react. Decrepify delays death but doesn’t stop Pudge’s high HP tanking. Pugna’s low strength scaling makes him easy pickings for Pudge. Nether Ward rarely threatens Pudge’s simple combo."
+    },
+    {
+      "name": "Riki",
+      "reason": "Riki silences Pugna and kills him quickly with backstab damage. Smoke Screen shuts down casting and ruins Pugna’s teamfight impact. He can’t position well against invisibility and blink strikes. Pugna has no natural way to deal with Riki’s stealth."
+    },
+    {
+      "name": "Nyx Assassin",
+      "reason": "Nyx Assassin hard counters Pugna with Mana Burn and Carapace reflecting Nether Blast. Pugna constantly triggers Carapace and stuns himself. Nyx scouts and bursts Pugna in fog before he can respond. Pugna’s heavy spell reliance becomes a huge risk."
+    },
+    {
+      "name": "Shadow Fiend",
+      "reason": "Shadow Fiend out-ranges and outbursts Pugna in lane and teamfights. Decrepify can help mitigate right-clicks but SF can go magic or physical. Pugna can’t survive the combo if caught with Requiem. Nether Ward has limited effect on SF’s burst timing."
+    },
+    {
+      "name": "Kez",
+      "reason": "Kez disables Pugna with fast rotation and punishes his static laning. He breaks positioning and forces Pugna into panic Decrepify or retreat. His burst combo happens before Pugna can react. Kez nullifies squishy spellcasters with fast map pressure."
+    }
+  ]
+}

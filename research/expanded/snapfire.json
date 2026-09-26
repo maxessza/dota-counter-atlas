@@ -1,0 +1,49 @@
+{
+  "name": "Snapfire",
+  "slug": "snapfire",
+  "url": "https://dotacoach.gg/en/heroes/counters/snapfire",
+  "patch": "7.41f",
+  "checked": "2026-09-24",
+  "pairs": [
+    {
+      "name": "Brewmaster",
+      "reason": "Brewmaster’s split units dodge Mortimer Kisses and disable Snapfire. Cyclone removes her from fights before she casts spells. His mobility lets him dodge Scatterblast and Cookie stuns. Snapfire gets little value against his spread-out playstyle."
+    },
+    {
+      "name": "Faceless Void",
+      "reason": "Faceless Void punishes Snapfire with Chronosphere before she can react. She relies on positioning and is vulnerable to instant initiation. Her damage becomes irrelevant if caught in Chrono. Snapfire struggles to fight into his lockdown and scaling."
+    },
+    {
+      "name": "Bounty Hunter",
+      "reason": "Bounty Hunter snipes Snapfire in the backlines with Track and burst. He snowballs off gold from repeated kills on her. Snapfire has no escape if caught out of position. Track removes her fog safety and limits her aggressive posturing."
+    },
+    {
+      "name": "Void Spirit",
+      "reason": "Void Spirit avoids her spells with Dissimilate and Astral Step. He closes gaps quickly and silences Snapfire before she casts anything. She can’t react fast enough to his mobility. Snapfire is punished hard for overextending or mispositioning."
+    },
+    {
+      "name": "Broodmother",
+      "reason": "Broodmother avoids Snapfire’s AoE with Spiderlings and overwhelms her. Snapfire’s spells have long cooldowns and can’t clear full waves of spiders fast enough. Brood dominates the map and Snapfire can’t keep up in tempo. Her low mobility is a liability."
+    },
+    {
+      "name": "Lycan",
+      "reason": "Lycan runs down Snapfire with his wolves and Shapeshift. Her defensive tools can’t stop his full commitment. She lacks mobility to reposition safely when chased. Lycan punishes her weak early defense and takes towers faster than she can respond."
+    },
+    {
+      "name": "Sven",
+      "reason": "Sven blinks and kills Snapfire before she can cast spells. BKB nullifies all her damage output. Snapfire gets overwhelmed by his physical burst. Her long-range poke doesn’t stop Sven from deleting her in seconds."
+    },
+    {
+      "name": "Storm Spirit",
+      "reason": "Storm jumps onto Snapfire before she can contribute to fights. Her long cast animations make her vulnerable to Orchid and vortex. She gets burst quickly and lacks disables to stop him. Storm wins every engagement unless Snapfire gets perfect follow-up."
+    },
+    {
+      "name": "Spirit Breaker",
+      "reason": "Spirit Breaker’s Charge disables Snapfire mid-cast and punishes her squishy nature. Her spells can’t interrupt his initiation. He breaks her backline role and forces awkward fights. Snapfire becomes an easy target if caught out."
+    },
+    {
+      "name": "Puck",
+      "reason": "Puck avoids all Snapfire’s damage with Phase Shift and mobility. Dream Coil locks her in place, preventing safe Mortimer Kisses. She can’t catch or kill him due to his elusiveness. Snapfire loses value in fights where spells don’t connect."
+    }
+  ]
+}

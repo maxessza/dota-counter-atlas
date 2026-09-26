@@ -1,0 +1,45 @@
+{
+  "name": "Storm Spirit",
+  "slug": "storm-spirit",
+  "url": "https://dotacoach.gg/en/heroes/counters/storm-spirit",
+  "patch": "7.41f",
+  "checked": "2026-09-24",
+  "pairs": [
+    {
+      "name": "Anti-Mage",
+      "reason": "Mana Break can quickly burn Storm Spirit's mana, preventing him from escaping. Blink allows Anti-Mage to catch up to Storm Spirit when he tries to use his Ball Lightning to escape. Mana Void deals massive damage to Storm Spirit as well as his teammates, as Storm Spirit depletes his mana pool by using Ball Lightning. Counterspell's passive magic resistance reduces much of Storm Spirit's magical damage dealt to Anti-Mage, and the active aspect may even make Storm Spirit disable himself"
+    },
+    {
+      "name": "Doom",
+      "reason": "Doom prevents Storm Spirit from using all of his abilities and items, rendering Storm Spirit useless in a fight."
+    },
+    {
+      "name": "Ember Spirit",
+      "reason": "Flame Guard absorbs up to 500 magical damage (700 with Level 10 talents), which helps Ember Spirit survive against Storm Spirit's high magical damage. Searing Chains can root enemies up to 3 seconds, making Storm Spirit unable to escape with Ball Lightning. Fire Remnant deals high magical damage when casting multiple instances at once, granting Ember Spirit the damage to burst Storm Spirit down in the early to mid game."
+    },
+    {
+      "name": "Silencer",
+      "reason": "Silencer can permanently silence Storm Spirit once he jumps in, especially if Storm doesn’t have a BKB. Global Silence shuts down Storm’s mobility and spell usage, making him an easy target for follow-up disables and burst. Without BKB, Storm is extremely vulnerable to Silencer’s kit."
+    },
+    {
+      "name": "Meepo",
+      "reason": "Meepo can lock down Storm Spirit using his Earthbind (net) and burst him quickly with Poof combos. If Meepo catches Storm without backup, he can prevent Storm’s escape and secure a kill before Storm can react."
+    },
+    {
+      "name": "Puck",
+      "reason": "Storm Spirit cannot escape Puck’s Coil, and Puck’s Silence completely disables him, preventing any spell usage or escape. This makes Storm extremely vulnerable during fights if caught by Puck’s setup, especially without BKB"
+    },
+    {
+      "name": "Night Stalker",
+      "reason": "Night Stalker’s superior night vision and silence make it difficult for Storm Spirit to safely commit to teamfights. The silence prevents Storm from using his spells or escaping, while Night Stalker’s vision control limits Storm’s ability to roam and initiate."
+    },
+    {
+      "name": "Bane",
+      "reason": "Bane can lock down Storm Spirit with Fiend’s Grip and Nightmare, disabling his mobility and burst potential."
+    },
+    {
+      "name": "Tidehunter",
+      "reason": "Storm Spirit cannot use Ball Lightning if Tide hunter casts Dead in the Water on him."
+    }
+  ]
+}

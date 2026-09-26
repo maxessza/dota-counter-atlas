@@ -1,0 +1,49 @@
+{
+  "name": "Outworld Destroyer",
+  "slug": "outworld-devourer",
+  "url": "https://dotacoach.gg/en/heroes/counters/outworld-devourer",
+  "patch": "7.41f",
+  "checked": "2026-09-24",
+  "pairs": [
+    {
+      "name": "Templar Assassin",
+      "reason": "Refraction blocks most of the damage dealt with Arcane Orb and Sanity's Eclipse if used correctly, and is difficult for Outworld Destroyer to deal with. If Astral Imprisonment is on cooldown, then an Outworld Destroyer slowed by Psionic Trap is an easy kill for Templar Assassin, especially during the laning stage."
+    },
+    {
+      "name": "Sniper",
+      "reason": "As Outworld Destroyer has short cast ranges, a short attack range, and no gap-closing abilities, Sniper can kite and harass Outworld Destroyer in lane with his long range and zone him out in fights. The continuous area damage from Shrapnel also prevents Astral-Blink escapes. However, in the late game, Outworld Destroyer's massive damage can overwhelm Sniper once he obtains Blink Dagger, Force Staff etc. to close the gap."
+    },
+    {
+      "name": "Nyx Assassin",
+      "reason": "Outworld Destroyer's high intelligence makes him a good target for Mind Flare. If timed correctly, Spiked Carapace will return the full damage from Sanity's Eclipse back to Outworld Destroyer. Even a reflected Arcane Orb can deal significant damage and make him vulnerable to a follow-up from Nyx Assassin. Spiked Carapace is also the perfect tool against Astral Imprisonment: if used on Nyx, he can reflect the damage back as he comes out of the prison by casting the ability while imprisoned."
+    },
+    {
+      "name": "Arc Warden",
+      "reason": "Arc Warden’s clone creates map pressure Outworld Devourer can’t match, and his magic damage bypasses Astral Imprisonment. Spark Wraiths and Magnetic Field make Outworld Devourer miss attacks and waste time, while Tempest Double can bait Sanity’s Eclipse. Outworld Devourer has poor wave clear, making it hard to respond to constant split pushing."
+    },
+    {
+      "name": "Broodmother",
+      "reason": "Broodmother’s Spiderlings overwhelm Outworld Devourer in lane, and Astral Imprisonment is ineffective against swarm units. She takes over the map and forces Outworld Devourer to fight on her terms. Broodmother snowballs faster than Outworld Devourer can scale and dodges teamfights where he shines."
+    },
+    {
+      "name": "Lone Druid",
+      "reason": "The Spirit Bear soaks Astral Imprisonment or Sanity’s Eclipse, minimizing Outworld Devourer's damage impact. Lone Druid pushes lanes quickly and pressures towers before Outworld Devourer comes online. Outworld Devourer lacks the control or burst to stop the bear from shredding him in fights."
+    },
+    {
+      "name": "Visage",
+      "reason": "Familiars are immune to Astral Imprisonment and take very little magic damage, neutering Outworld Devourer’s core strength. Visage snowballs with push and team presence Outworld Devourer can’t match. His Gravekeeper’s Cloak makes him resistant to burst, and Outworld Devourer struggles to break it fast."
+    },
+    {
+      "name": "Wraith King",
+      "reason": "Outworld Devourer is ineffective against Reincarnation he blows cooldowns just to get through the first life. Sanity’s Eclipse has reduced value due to Wraith King’s high HP and low mana cost skills. In fights, Outworld Devourer wastes time dealing with skeleton summons and tanky targets."
+    },
+    {
+      "name": "Beastmaster",
+      "reason": "Once Brewmaster splits, Outworld Devourer's abilities are nearly useless Astral Imprisonment can’t stop multiple Brewlings. Cyclone completely removes Outworld Devourer from fights, and he can’t deal with the micro. Brewmaster’s utility and disruption counter Outworld Devourer’s need for stationary, uninterrupted casting."
+    },
+    {
+      "name": "Silencer",
+      "reason": "Silencer’s Global Silence prevents Outworld Devourer from casting Astral Imprisonment defensively, completely ruining his utility. Arcane Curse punishes Outworld Devourer's spell-dependent nature. In lane and fights, Silencer shuts down Outworld Devourer's impact before he can react."
+    }
+  ]
+}

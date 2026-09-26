@@ -1,0 +1,21 @@
+{
+  "name": "Luna",
+  "slug": "luna",
+  "url": "https://dotacoach.gg/en/heroes/counters/luna",
+  "patch": "7.41f",
+  "checked": "2026-09-24",
+  "pairs": [
+    {
+      "name": "Dark Seer",
+      "reason": "Wall of Replica and Normal Punch (Aghanim's Scepter Upgrade) can create multiple Illusions of Luna to do devastating amounts of damage to her own team as she tends to build heavy stat items to improve her own Manta Illusions' damage and durability. The Illusions DS creates inherit both Moon Glaives and Lunar Blessing. Surge is amazing at disengaging from Eclipse or closing the gap on Luna."
+    },
+    {
+      "name": "Juggernaut",
+      "reason": "Both Blade Fury and Omnislash are direct counters to Eclipse, offering Juggernaut spell immunity and invulnerabilty. Therefore, Luna will need assistance in taking down Juggernaut as going solo will not be successful. Because of her low range, Luna cannot easily destroy Healing Ward."
+    },
+    {
+      "name": "Shadow Demon",
+      "reason": "Demonic Purge takes off Luna's superior mobility, removing the need for chasing her and allowing your team to reposition in team fights or escape when at low HP. If Shadow Demon has Aghanim's Scepter it will also take away glaive bounces and extra damage from Luna's passive. And Luna's commonly items Manta Style and Black King Bar does not work dispell to Demonic Purge Luna's illusions created by Disruption are very valuable with their Moon Glaives. These will effectively counter her pushing attempts and are painfully effective in team fights. Disruption can be used to save an ally from Eclipse. For the same reasons, Shadow Demon makes a very powerful ally for Luna when they are in the same team."
+    }
+  ]
+}

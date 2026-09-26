@@ -1,0 +1,21 @@
+{
+  "name": "Tinker",
+  "slug": "tinker",
+  "url": "https://dotacoach.gg/en/heroes/counters/tinker",
+  "patch": "7.41f",
+  "checked": "2026-09-24",
+  "pairs": [
+    {
+      "name": "Anti-Mage",
+      "reason": "Anti Mage has an easy time jumping on a squishy and immobile Tinker with Blink and burn his mana with his Mana Break right clicks, which lets him follow up with Mana Void to burst him down because of his high mana pool. Anti Mage can also block and reflect Laser with Counterspell to avoid getting blinded. Defense Matrix also does Tinker little help against Anti Mage's right clicks into Mana Void burst. The Mana Void mini stun also stops the Rearm and Keen Conveyance channel."
+    },
+    {
+      "name": "Batrider",
+      "reason": "Batrider has an easy time running down a squishy and immobile Tinker during Firefly while he is slowed by Sticky Napalm in the laning stage. Defense Matrix and the Laser blind does Tinker little help getting run down in this manner. Later in the game, Batrider's Blink Dagger into Flaming Lasso lets him drag Tinker to his team and burst him down without letting him teleport away with Keen Conveyance. Flamebreak also lets Batrider push Tinker closer to him and find him in tree lines."
+    },
+    {
+      "name": "Clockwerk",
+      "reason": "Clockwerk's Rocket Flare gives him vision to find Tinker hiding in tree lines, which lets him follow up with his long range Hookshot to lock down Tinker and interrupt his Rearm and Keen Conveyance teleport. Battery Assault also prevents Tinker from Rearming or teleporting, while Defense Matrix does little against the mini stun inside Power Cogs. Clockwerk can also kick one of his Power Cogs from range to stop Tinker's channeling spells."
+    }
+  ]
+}

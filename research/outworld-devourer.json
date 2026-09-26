@@ -1,0 +1,21 @@
+{
+  "name": "Outworld Destroyer",
+  "slug": "outworld-devourer",
+  "url": "https://dotacoach.gg/en/heroes/counters/outworld-devourer",
+  "patch": "7.41f",
+  "checked": "2026-09-24",
+  "pairs": [
+    {
+      "name": "Templar Assassin",
+      "reason": "Refraction blocks most of the damage dealt with Arcane Orb and Sanity's Eclipse if used correctly, and is difficult for Outworld Destroyer to deal with. If Astral Imprisonment is on cooldown, then an Outworld Destroyer slowed by Psionic Trap is an easy kill for Templar Assassin, especially during the laning stage."
+    },
+    {
+      "name": "Sniper",
+      "reason": "As Outworld Destroyer has short cast ranges, a short attack range, and no gap-closing abilities, Sniper can kite and harass Outworld Destroyer in lane with his long range and zone him out in fights. The continuous area damage from Shrapnel also prevents Astral-Blink escapes. However, in the late game, Outworld Destroyer's massive damage can overwhelm Sniper once he obtains Blink Dagger, Force Staff etc. to close the gap."
+    },
+    {
+      "name": "Nyx Assassin",
+      "reason": "Outworld Destroyer's high intelligence makes him a good target for Mind Flare. If timed correctly, Spiked Carapace will return the full damage from Sanity's Eclipse back to Outworld Destroyer. Even a reflected Arcane Orb can deal significant damage and make him vulnerable to a follow-up from Nyx Assassin. Spiked Carapace is also the perfect tool against Astral Imprisonment: if used on Nyx, he can reflect the damage back as he comes out of the prison by casting the ability while imprisoned."
+    }
+  ]
+}

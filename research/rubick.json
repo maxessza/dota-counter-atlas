@@ -1,0 +1,21 @@
+{
+  "name": "Rubick",
+  "slug": "rubick",
+  "url": "https://dotacoach.gg/en/heroes/counters/rubick",
+  "patch": "7.41f",
+  "checked": "2026-09-24",
+  "pairs": [
+    {
+      "name": "Anti-Mage",
+      "reason": "Fade Bolt does little damage to Anti-Mage due to Counterspell's magic resistance. Most of Rubick's spells are single targets and can be reflected by Counterspell. The only spell that provides some utility for Rubick is Blink. Blink does little on its own to counter Anti-Mage when coming from behind except allowing Rubick to escape. Rubick can easily run out of mana to cast the spell due to Mana Break, if not dying to Anti-Mage's physical damage already."
+    },
+    {
+      "name": "Night Stalker",
+      "reason": "Crippling Fear silences nearby heroes and cannot be dispelled, which hinders Rubick's way to retaliate when being jumped on. With Hunter in the Night and Dark Ascension, Night Stalker can find Rubick easily in teamfights. The two spells grants more than enough damage to hunt Rubick down without defensive items."
+    },
+    {
+      "name": "Slark",
+      "reason": "Pounce and Dark Pact together with some attacks can take Rubick down quickly. Rubick's spells are ineffective due to the strong dispel effect of Dark Pact. Even though Shadow Dance is a great spell to steal, Slark's untargetable nature and his low cooldown spells prevents Rubick from stealing. Also Slark can freely use other abilities for the duration of Shadow Dance."
+    }
+  ]
+}

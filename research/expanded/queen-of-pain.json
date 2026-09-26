@@ -1,0 +1,89 @@
+{
+  "name": "Queen of Pain",
+  "slug": "queen-of-pain",
+  "url": "https://dotacoach.gg/en/heroes/counters/queen-of-pain",
+  "patch": "7.41f",
+  "checked": "2026-09-24",
+  "pairs": [
+    {
+      "name": "Anti-Mage",
+      "reason": "Anti Mage's Blink together with Mana Break on right clicks lets him get on top of Queen of Pain and burn her mana. This makes Queen of Pain Blink defensively every time if she doesn't want to get bursted by Mana Void because of her high mana pool. Anti Mage can also easily block and reflect Shadow Strike with Counterspell, leaving only Scream of Pain and Sonic Wave as her real damage sources. Anti Mage's magic resistance through Counterspell also reduce a lot of Queen of Pain's spell damage."
+    },
+    {
+      "name": "Bloodseeker",
+      "reason": "Bloodseeker's Rupture keeps Queen of Pain in place and prevents her from using Blink to get away if she wants to avoid taking a ton of damage. This lets Bloodseeker follow up with the Blood Rite silence and damage on a squishy and immobile Queen of Pain and burst her down with his right clicks."
+    },
+    {
+      "name": "Centaur Warrunner",
+      "reason": "Centaur Warrunner's Return Retaliate returns a ton of Queen of Pain's burst damage back to her, threatening her life if she uses her spell combo on a tanky Centaur. Once Centaur gets Blade Mail, this reflection damage is even greater and practically prevents Queen of Pain from ever targeting him with her burst damage without the fear of dying herself. Stampede also enables Centaur's entire to close the gap on a squishy Queen of Pain."
+    },
+    {
+      "name": "Disruptor",
+      "reason": "Disruptor's Glimpse completely counters Queen of Pain's mobility through Blink, as long as he has vision of her after she has Blinked in or out of fights. Disruptor can gain vision with Thunder Strike beforehand, and prevents Queen of Pain from Blinking in its duration. The Static Storm silence inside Kinetic Field also lets Disruptor control a squishy Queen of Pain and set up a kill on her."
+    },
+    {
+      "name": "Doom",
+      "reason": "Doom's ultimate Doom silences Queen of Pain and completely shuts down her mobility through Blink. This lets Doom run down a squishy Queen of Pain during Scorched Earth every time when his ultimate is off cooldown. Doom's high HP pool also keeps him relatively safe from dying to Queen of Pain's high damage spells."
+    },
+    {
+      "name": "Earth Spirit",
+      "reason": "Earth Spirit's Rolling Boulder lets him get on top of a squishy Queen of Pain and stun her at the same time to follow up with his control and damage through the rest of his spells to set up kills on her. The low cooldown on Rolling Boulder also matches the cooldown of Blink to match Queen of Pain's mobility. Earth Spirit's high HP pool also keeps him relatively safe from dying to Queen of Pain's high damage spells."
+    },
+    {
+      "name": "Faceless Void",
+      "reason": "Faceless Void's Time Walk can completely reverse the damage taken from Queen of Pain's burst damage spell combo while closing the gap or getting away from her. Chronosphere also lets Faceless Void lock down a squishy Queen of Pain and burst her down with his right clicks. Time Dilation also massively counters Queen of Pain's low cooldown spells, and doesn't let her use them multiple times in fights. Blink's cooldown hurts Queen of Pain in particular as she cannot get out of fights if she Blinks in."
+    },
+    {
+      "name": "Grimstroke",
+      "reason": "Grimstroke's silence through Phantom's Embrace is a massive problem for Queen of Pain as she has to stand and right click it down every time to use her damage and mobility spells. This sets up a follow up Ink Swell stun to not let Queen of Pain Blink away and set up a kill on her. Soulbind is also prevents Queen of Pain from Blinking if she gets leashed to one of her allies."
+    },
+    {
+      "name": "Kunkka",
+      "reason": "Kunkka's Tidebringer lets him match Queen of Pain's Shadow Strike harass in lane to keep up with her and not get zoned out. Later in the game, Kunkka's X Marks the Spot into Ghostship and Torrent combo makes short work of a squishy Queen of Pain as her Blink is only wasted if she casts it before getting pulled back by Kunkka. Kunkka's high HP pool also keeps him relatively safe from dying to Queen of Pain's burst damage, and the Blade Mail purchase reflects a lot of her damage back to her to threaten her life."
+    },
+    {
+      "name": "Legion Commander",
+      "reason": "Legion Commander's Duel initiation after a Blink Dagger purchase lets her get on top of a squishy Queen of Pain and get easy Duel wins to accumulate damage throughout the game. This makes Queen of Pain play around her team and significantly reduces her farming speed and solo pickoff threat. Press the Attack also lets Legion Commander dispel Shadow Strike."
+    },
+    {
+      "name": "Lina",
+      "reason": "Lina's burst damage nukes and high attack range gives her a favorable matchup in lane against Queen of Pain. Lina has an easy time stunning Queen of Pain with Light Strike Array and right clicking her when she walks up to use Shadow Strike. Past the laning stage, Lina's burst damage with her spells makes short work of Queen of Pain when she Blinks into fights."
+    },
+    {
+      "name": "Meepo",
+      "reason": "Meepo's Earthbind roots Queen of Pain in place and prevents her from getting away through Blink to avoid the chain control from the rest of Meepo's clones. This lets Meepo follow up with Poof and right clicks from his clones to burst down a squishy Queen of Pain. The matchup gets even more difficult for Queen of Pain once Meepo gets Blink Dagger and Scythe of Vyse."
+    },
+    {
+      "name": "Night Stalker",
+      "reason": "Night Stalker's flying movement and massive vision during Dark Ascension lets him find and get on top of a squishy Queen of Pain and burst her down inside the Crippling Fear silence to prevent her from Blinking away. The matchup gets even more difficult for Queen of Pain once Night Stalker gets Blink Dagger. Night Stalker's high HP pool also keeps him relatively safe from dying to Queen of Pain's high damage spells."
+    },
+    {
+      "name": "Nyx Assassin",
+      "reason": "Nyx Assassin's Vendetta invisibility lets him find a squishy Queen of Pain and burst her down with the damage and control from his spell combo throughout the game. Nyx Assassin Spiked Carapace also works well against Queen of Pain's AoE damage spells to reflect her damage and control her. The matchup gets even more difficult for Queen of Pain once Nyx Assassin gets Dagon and more levels in Mind Flare as well as Vendetta."
+    },
+    {
+      "name": "Puck",
+      "reason": "Puck's Phase Shift lets her dodge Queen of Pain's Shadow Strike and Scream of Pain in lane to prevent her from gaining the upper hand with her poke damage. Later in the game, Puck's Dream Coil leashes Queen of Pain in a small area and prevents her from Blinking away until she breaks the link to stun herself and take damage. Puck's follow up control and damage through Illusory Orb and Waning Rift easily lets her burst down a squishy Queen of Pain."
+    },
+    {
+      "name": "Riki",
+      "reason": "Riki's Blink Strike into Smoke Screen lets him get on top of a squishy Queen of Pain and silence her to prevent her from Blinking Away and burst her down with his right clicks and Tricks of the Trade. The matchup gets even worse for Queen of Pain once Riki becomes invisible through Cloak and Dagger and purchases a Diffusal Blade, which lets him easily keep Queen of Pain inside the Smoke Screen AoE to burst her down."
+    },
+    {
+      "name": "Rubick",
+      "reason": "Queen of Pain has four active spells, which can all get stolen by Rubick with his Spell Steal. Stealing Blink from Queen of Pain gives Rubick massive mobility alongside his Blink Dagger purchase, while stealing Sonic Wave or Scream of Pain gives him a massive AoE damage nuke to dish out even more damage than her with his Arcane Supremacy buff."
+    },
+    {
+      "name": "Silencer",
+      "reason": "Silencer's Global Silence and Last Word can silence a squishy Queen of Pain and prevent her from Blinking away, setting up easy kills on her. Arcane Curse also hinders Queen of Pain from spamming her low cooldown spells as it does more damage and slow with more spells she uses while affected by Silencer's spell. The double silence on Global Silence from Silencer's Reverberating Silence also makes it difficult for Queen of Pain to dispel it with a Black King Bar or Eul's Scepter."
+    },
+    {
+      "name": "Skywrath Mage",
+      "reason": "Skywrath Mage's Ancient Seal silence prevents a squishy Queen of Pain from Blinking away and sets up easy kills on her with the burst damage from the rest of his spells. Queen of Pain is also susceptible to dying after Blinking close to Skywrath Mage as he can swiftly turn the fight on her with the burst damage from his spell combo. The magic damage barrier from the Shield of the Scion facet also helps absorbs a lot of the Scream of Pain and Shadow Strike damage."
+    },
+    {
+      "name": "Void Spirit",
+      "reason": "Void Spirit's Dissimilate lets him dodge Queen of Pain's Shadow Strike and Scream of Pain in lane to prevent her from gaining the upper hand with her poke damage. The damage barrier from the Sanctuary facet for Resonant Pulse also helps absorb a lot of Queen of Pain's spell damage. Later in the game, Void Spirit's mobility through Astral Step lets him get on top of a squishy Queen of Pain and follow up with his damage and control spells to burst her down easily."
+    }
+  ]
+}

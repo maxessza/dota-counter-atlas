@@ -1,0 +1,53 @@
+{
+  "name": "Phoenix",
+  "slug": "phoenix",
+  "url": "https://dotacoach.gg/en/heroes/counters/phoenix",
+  "patch": "7.41f",
+  "checked": "2026-09-24",
+  "pairs": [
+    {
+      "name": "Alchemist",
+      "reason": "Alch has the lowest Basic Attack Speed in the game by far during Chemical Rage, which allows him to dispatch of Phoenix's Supernova quickly. Phoenix uses Fire Spirits and Icarus Dive to reduce his opponents' Attack and Movement Speed in order to protect the egg, however Alch has not 1 but 2 dispels for it in Chemical Rage and Berserk Potion."
+    },
+    {
+      "name": "Bloodseeker",
+      "reason": "Phoenix is heavily punished by Rupture when trying to use Icarus Dive. Bloodseeker’s speed allows him to kill Supernova quickly. He thrives in chaos, countering Phoenix’s slow and controlled fight style. Blood Rite zones Phoenix out of teamfights and ruins Dive escape paths."
+    },
+    {
+      "name": "Lina",
+      "reason": "Lina’s long-range burst deletes Phoenix before he can get Supernova off. Phoenix’s low armor makes him vulnerable to right-clicks. She can stay outside of Fire Spirits range and still threaten kills. Lina outscales Phoenix in both damage and utility in late-game."
+    },
+    {
+      "name": "Skywrath Mage",
+      "reason": "Skywrath Mage silences Phoenix instantly, preventing all of his mobility and heals. His magical burst is too fast for Phoenix to respond with Supernova. Phoenix’s large body makes him an easy Mystic Flare target. Skywrath Mage zones Phoenix out of teamfights early and mid-game."
+    },
+    {
+      "name": "Oracle",
+      "reason": "Oracle’s False Promise completely nullifies Sun Ray’s damage over time. Phoenix cannot burn through Oracle’s saves fast enough. Fortune’s End and Purifying Flames disrupt Phoenix’s healing rhythm. Supernova is easily disengaged by Oracle’s defensive toolkit."
+    },
+    {
+      "name": "Shadow Demon",
+      "reason": "Shadow Demon purges Fire Spirits and cancels Phoenix’s debuff advantage. His Disruption saves allies from Supernova burn zone. Illusions from Disruption benefit from Phoenix’s Bloodlust if misused. Shadow Demon wins vision control and zone fights, where Phoenix normally excels."
+    },
+    {
+      "name": "Juggernaut",
+      "reason": "Juggernaut can Blade Fury during Supernova, freely attacking the egg. He is magic-immune during his spin, avoiding Fire Spirits and Sun Ray. Juggernaut can also Omnislash Phoenix during low mobility phases. He punishes Phoenix during healing and Dive animations."
+    },
+    {
+      "name": "Huskar",
+      "reason": "Huskar’s magic resistance from Berserker’s Blood makes him hard to damage with Fire Spirits. Life Break allows him to quickly close the gap onto Phoenix. Phoenix struggles to escape without being punished. Sun Ray cannot keep up with Huskar’s sustain and burst simultaneously."
+    },
+    {
+      "name": "Legion Commander",
+      "reason": "Phoenix is a prime Duel target, especially when casting Supernova. Legion Commander can easily burst Phoenix before he flies away. Fire Spirits cannot reduce Duel duration or stop her BKB engagements. Phoenix has no control to stop Duel attempts."
+    },
+    {
+      "name": "Visage",
+      "reason": "Visage and his Familiars can break Supernova eggs quickly due to their attack frequency. Phoenix’s spells are too slow to catch Visage off guard. Soul Assumption punishes Phoenix’s long cast times. Visage controls tempo better in midgame teamfights."
+    },
+    {
+      "name": "Lifestealer",
+      "reason": "Lifestealer’s Rage gives him magic immunity during Supernova attempts. He can solo the egg with fast attacks and BKB immunity. Phoenix cannot stop Lifestealer’s infest bombs or healing reduction. Phoenix becomes food if caught near Lifestealer without support."
+    }
+  ]
+}

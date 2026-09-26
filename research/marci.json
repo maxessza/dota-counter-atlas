@@ -1,0 +1,21 @@
+{
+  "name": "Marci",
+  "slug": "marci",
+  "url": "https://dotacoach.gg/en/heroes/counters/marci",
+  "patch": "7.41f",
+  "checked": "2026-09-24",
+  "pairs": [
+    {
+      "name": "Ancient Apparition",
+      "reason": "The Ice Blast from Ancient Apparition nullifies the lifesteal from either Sidekick or Bodyguard and makes it difficult for Marci to commit to fights with Unleash."
+    },
+    {
+      "name": "Axe",
+      "reason": "The armor gain during Bersekers Call combined with the Blade Mail active makes it difficult for Marci to commit on Axe with Unleash as the Counter Helix procs and return damage will likely kill Marci instead."
+    },
+    {
+      "name": "Bloodseeker",
+      "reason": "Rupture does massive damage to Marci if she uses Rebound during it, effectively halting her mobility. A follow up Blood Rite and right click committal makes Marci easy pickings for Bloodseeker."
+    }
+  ]
+}

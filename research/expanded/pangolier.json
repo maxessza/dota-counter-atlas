@@ -1,0 +1,53 @@
+{
+  "name": "Pangolier",
+  "slug": "pangolier",
+  "url": "https://dotacoach.gg/en/heroes/counters/pangolier",
+  "patch": "7.41f",
+  "checked": "2026-09-24",
+  "pairs": [
+    {
+      "name": "Beastmaster",
+      "reason": "Beastmaster's Primal Roar pierces debuff immunity, and lets him control Pangolier during Rolling Thunder for a lengthy duration to waste most of his ultimate. Outside of Rolling Thunder, Beastmaster can easily jump and stun Pangolier with Primal Roar and burst him down with his physical damage."
+    },
+    {
+      "name": "Bloodseeker",
+      "reason": "Bloodseeker's Rupture heavily counters Pangolier's Rolling Thunder as the movement while rolling does massive damage when affected by the ultimate. This makes Pangolier immediately stop Rolling Thunder or die while rolling. The Blood Rite silence also prevents Pangolier from using his other spells to fight back, letting Bloodseeker easily fight him and burst him down."
+    },
+    {
+      "name": "Centaur Warrunner",
+      "reason": "Centaur Warrunner's Retaliate reflects a ton of Pangolier's massive damage back to him, while his high HP pool keeps him from getting bursted by Pangolier's spells. Once Centaur gets Blade Mail, Swashbuckle threatens Pangolier even more with the reflected damage. Centaur's Stampede also boost the movement speed of his entire team to avoid the Rolling Thunder collision and disengage during Pangolier's ultimate."
+    },
+    {
+      "name": "Clockwerk",
+      "reason": "Clockwerk's long range Hook Shot lets him find Pangolier and keep him from channeling Rolling Thunder with Battery Assault as the constant mini stun never lets him complete the initial cast of his ultimate. While Pangolier is rolling during his ultimate, a well placed Power Cogs can trap Pangolier inside or push him away from the fight, making it extremely tricky for Pangolier to move around and do damage during Rolling Thunder."
+    },
+    {
+      "name": "Faceless Void",
+      "reason": "Faceless Void's Time Walk lets him reverse the damage taken from Pangolier's burst damage spells, as well as dodge the Rolling Thunder collision by jumping away from its path. Time Dilation also prevents Pangolier from using his low cooldown spells multiple times in fights. Faceless Void also easily bursts down Pangolier inside Chronosphere, or waste his ultimate if Pangolier is already rolling with his ultimate."
+    },
+    {
+      "name": "Grimstroke",
+      "reason": "Grimstroke's Soulbind can link Pangolier to one of his allies during Rolling Thunder, making him completely stagnant and roll in place, wasting his entire ultimate. The Soulbind leash also prevents Pangolier's mobility from Shield Crash and Swashbuckle. This makes it extremely tricky for Pangolier to enter fights and makes him stand away from his entire team."
+    },
+    {
+      "name": "Medusa",
+      "reason": "Medusa's Stone Gaze can turn Pangolier to stone during his ultimate if he rolls in her direction during his ultimate, wasting a majority of the Rolling Thunder duration. Medusa also doesn't get bursted down by Pangolier's high damage spells, and her physical damage lets her threaten, and even kill, Pangolier during Rolling Thunder."
+    },
+    {
+      "name": "Puck",
+      "reason": "Puck's Dream Coil leashes Pangolier in a small area and prevents him from casting any of his active spells, except for Shield Crash, to get away until he breaks the link. Puck's follow up damage and control through Illusory Orb and Waning Rift lets her silence and kill Pangolier without letting him do anything in fights. Puck can also easily dodge the Rolling Thunder collision with a well timed Phase Shift."
+    },
+    {
+      "name": "Slark",
+      "reason": "Slark's Pounce leashes Pangolier close to him and prevents him from casting any of his active spells, except for Shield Crash, to get away or fight back. The Shield Crash barrier only gives Slark a bigger HP pool to attack and build up Essence Shift stacks. Pangolier can never chain stun Slark during Rolling Thunder because of the Dark Pact dispel, and Pounce also lets Slark jump out of the collision path."
+    },
+    {
+      "name": "Tusk",
+      "reason": "A well placed Ice Shards from Tusk pushes away Pangolier during Rolling Thunder, and can even trap him in the small area to waste his entire ultimate. This makes it extremely tricky for Pangolier to do damage in fights with his ultimate. Tusk's control spells also interrupt Pangolier from casting Rolling Thunder, while Snowball can save an ally from the collision as well as match Pangolier's mobility from Shield Crash and Swashbuckle."
+    },
+    {
+      "name": "Winter Wyvern",
+      "reason": "The Winter's Curse from Winter Wyvern pierces debuff immunity, which lets him cast the ultimate on Pangolier during Rolling Thunder to waste his ultimate, depending on the number of enemy heroes caught in the AoE. A well timed Cold Embrace from Winter Wyvern also prevents the entire damage from Rolling Thunder and Swashbuckle while healing up whoever Pangolier is trying to burst down with his spells."
+    }
+  ]
+}

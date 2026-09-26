@@ -1,0 +1,49 @@
+{
+  "name": "Dazzle",
+  "slug": "dazzle",
+  "url": "https://dotacoach.gg/en/heroes/counters/dazzle",
+  "patch": "7.41f",
+  "checked": "2026-09-24",
+  "pairs": [
+    {
+      "name": "Axe",
+      "reason": "Axe's Culling Blade can kill a hero protected by Dazzle's Shallow Grave if the target's HP is below the Culling Blade threshold. Shallow Grave prevents a hero from dying by damage, but Culling Blade is an instant kill that bypasses death prevention effects like Grave. As long as the target's HP is low enough, Axe will execute them even under Grave."
+    },
+    {
+      "name": "Ancient Apparition",
+      "reason": "Ice Blast prevents all healing, disabling Shallow Grave's sustain and Shadow Wave’s healing. The debuff lingers, making it dangerous for low-HP targets even after retreating. If a hero under Shallow Grave drops below the Ice Blast kill threshold, they will die as soon as Grave ends."
+    },
+    {
+      "name": "Phantom Lancer",
+      "reason": "He can dispel Shadow Poison with Doppelganger. His illusions burn Dazzle’s mana quickly with defusal blade making him unable to cast spells or use Shallow Grave. Phantom Lancer can kite Dazzle and pressure him constantly rendering him useless in fights without mana."
+    },
+    {
+      "name": "Slardar",
+      "reason": "He can jump on Dazzle in teamfights and chain-stun him with Slithereen Crush and Bash of the Deep. Due to Dazzle’s squishy nature he is an easy pickoff. Taking him out first ensures he can’t use Shallow Grave or save his team during fights."
+    },
+    {
+      "name": "Weaver",
+      "reason": "He can kite Poison Touch during laning and in teamfights .Dazzle relies on Poison Touch to harass and without it he struggles. Weaver’s mobility and damage make it easy to pick off Dazzle who has low HP and armor. Even as a support Weaver can outscale Dazzle with levels from Hive Mind and have more mid-game impact."
+    },
+    {
+      "name": "Sand King",
+      "reason": "He can burst Dazzle or his allies quickly with his magic damage, making it hard for Dazzle to react or cast Shallow Grave in time.Dazzle’s heal is ineffective against Sand King’s high burst damage.During chaotic teamfights, it’s difficult for Dazzle to position properly and save teammates."
+    },
+    {
+      "name": "Tidehunter",
+      "reason": "His high durability makes him hard for Dazzle to harass or zone out in lane. Kraken Shell dispels Poison Touch reducing Dazzle’s laning impact. Ravage can instantly disable Dazzle in teamfights preventing him from using Shallow Grave or healing. Tide’s strong teamfight presence outclasses Dazzle’s support capabilities."
+    },
+    {
+      "name": "Slark",
+      "reason": "He can dispel Poison Touch and Weave using Dark Pact. Slark’s mobility allows him to kite and fight Dazzle and his allies easily. He can gain Essence Shift stacks from targets affected by Shallow Grave, giving him more agility during fights. Dazzle’s spells are less effective against Slark’s sustain."
+    },
+    {
+      "name": "Abaddon",
+      "reason": "He can dispel Poison Touch or Weave using Aphotic Shield. He also outheals and out-sustains Dazzle in fights. As a frontline healer and dispeller, Abaddon provides more utility and durability for his team. His Borrowed Time makes him hard to kill, reducing Dazzle’s impact."
+    },
+    {
+      "name": "Razor",
+      "reason": "His high movement speed and ability to stay on top of enemies make it hard to escape. If a target affected by Static Link is under Shallow Grave, Razor can still drain maximum damage and quickly turn fights in his favor. Razor’s constant pressure reduces Dazzle’s effectiveness in teamfights."
+    }
+  ]
+}

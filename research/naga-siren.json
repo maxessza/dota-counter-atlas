@@ -1,0 +1,21 @@
+{
+  "name": "Naga Siren",
+  "slug": "naga-siren",
+  "url": "https://dotacoach.gg/en/heroes/counters/naga-siren",
+  "patch": "7.41f",
+  "checked": "2026-09-24",
+  "pairs": [
+    {
+      "name": "Techies",
+      "reason": "Techies' immense AOE capabilities do wonders against Mirror Image, as Techies can clear them with Sticky Bomb, Blast Off! and Proximity Mines - hindering one of Naga's core gameplay advantages of splitpushing with Illusions. Reactive Tazer can disarm Naga and all of her Illusions."
+    },
+    {
+      "name": "Underlord",
+      "reason": "Atrophy Aura reduces BASE attack damage and Naga being an Illusion hero greatly benefits from stacking Agility and increasing her base damage and Attack Speed to empowers her Illusions. Agility stacking means high armor so both Firestorm and Pit of Malice are great at providing reliable Magic damage and Crowd Control for Mirror Image due to their AOE properties."
+    },
+    {
+      "name": "Leshrac",
+      "reason": "Leshrac's abundance of AOE damage can easily clear Naga's Mirror Image Illusions troughout the entirety of the game, which is her core farming and fighting tool. Being an Illusion, melee hero she struggles to stay on Leshrac to damage him as she prefers Heart over Satanic for sustain."
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "name": "Disruptor",
+  "slug": "disruptor",
+  "url": "https://dotacoach.gg/en/heroes/counters/disruptor",
+  "patch": "7.41f",
+  "checked": "2026-09-24",
+  "pairs": [
+    {
+      "name": "Sniper",
+      "reason": "Sniper’s long attack range and stationary fighting style make him difficult for Disruptor to deal with directly. Disruptor’s spells have limited reach, and without proper vision or initiation, it’s hard to catch Sniper before he deals significant damage."
+    },
+    {
+      "name": "Drow Ranger",
+      "reason": "Drow Ranger’s long-range damage and high mobility with Gust and Multishot make her a tough target for Disruptor. Without reliable gap closers or vision, it can be difficult to pin her down with your spells before she deals heavy damage."
+    },
+    {
+      "name": "Clinkz",
+      "reason": "Clinkz’s high burst damage and invisibility allow him to ambush and instantly kill Disruptor if caught out of position. Without detection or strong team coordination, it’s challenging to lock him down before he eliminates you."
+    }
+  ]
+}

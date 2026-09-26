@@ -1,0 +1,49 @@
+{
+  "name": "Broodmother",
+  "slug": "broodmother",
+  "url": "https://dotacoach.gg/en/heroes/counters/broodmother",
+  "patch": "7.41f",
+  "checked": "2026-09-24",
+  "pairs": [
+    {
+      "name": "Alchemist",
+      "reason": "Greevil's Greed makes Broodmother’s spiderlings far more valuable to Alchemist making it important that he does farm them as opposed to other heroes where the spider's bounties are negligible. Acid Spray will be potentially avoidable but it is still hard trying to kill him knowing he can use it. Alchemist naturally will be buying Radiance which will further be a problem for your spiderlings."
+    },
+    {
+      "name": "Axe",
+      "reason": "Berserker's Call forces Broodmother and her spiderlings to attack, allowing for large amounts of pure damage to be done through Counter Helix."
+    },
+    {
+      "name": "Earthshaker",
+      "reason": "Aftershock in combination with Enchant Totem prevents Broodmother from continuing to attack Earthshaker without being repeatedly stunned. Echo Slam is greatly amplified by Spiderlings, often instantly killing Broodmother, her swarm, and anyone else unfortunate enough to be nearby."
+    },
+    {
+      "name": "Naga Siren",
+      "reason": "Naga Siren can easily clear Broodmother’s spiderlings using her illusions and Riptide, denying Brood map control and gold. She can use Song of the Siren to reset or set up fights, giving her team time to focus Broodmother or reposition. Her illusions also make it difficult for Brood to isolate the real Naga, especially in the mid to late game."
+    },
+    {
+      "name": "Dark Seer",
+      "reason": "Dark Seer can use Ion Shell on one of Broodmother’s spiderlings to quickly clear out the rest, making it difficult for Brood to maintain her swarm. In chaotic teamfights, it's especially hard for Broodmother to micro her spiderlings away from Ion Shell damage. Vacuum helps control Broodmother’s movement and can group her with her spiders, amplifying AoE damage from allies."
+    },
+    {
+      "name": "Phantom Lancer",
+      "reason": "Phantom Lancer naturally counters Broodmother by overwhelming her with illusions, making it hard for her to focus the real PL. His illusions easily clean up spiderlings with Spirit Lance and basic attacks, denying Broodmother farm and map control. In extended fights, Broodmother struggles to isolate PL due to his constant repositioning and illusion spam."
+    },
+    {
+      "name": "Troll Warlord",
+      "reason": "Troll Warlord can easily deal with Broodmother’s spiderlings using Whirling Axes (Melee) and his fast attack speed, clearing them quickly for extra gold and experience. In direct fights, Battle Trance allows Troll to survive Brood’s burst and turn the fight around with sustained damage. His strong laning presence and ability to take early objectives also limit Broodmother’s space to farm and push. Overall, Troll’s durability, AoE clearing, and 1v1 potential make him a strong counter to Broodmother."
+    },
+    {
+      "name": "Lina",
+      "reason": "Lina can clear Broodmother’s spiderlings with ease using Dragon Slave and Light Strike Array, especially during the laning phase. Her long-range nukes keep Brood at bay, preventing her from snowballing or taking over the map. As the game progresses, Laguna Blade gives Lina the burst needed to finish off Broodmother before she can escape or heal."
+    },
+    {
+      "name": "Queen of Pain",
+      "reason": "Queen of Pain excels against Broodmother with her high mobility and burst magic damage. She can easily clear spiderlings using Scream of Pain, denying Broodmother farm and slowing her momentum. With Blink, QoP avoids Brood’s slows and terrain control, making it hard for Broodmother to lock her down. Sonic Wave allows QoP to burst Brood quickly in fights, especially before she builds tanky items."
+    },
+    {
+      "name": "Crystal Maiden",
+      "reason": "Broodmother has no stuns, making her vulnerable to Crystal Maiden’s disables like Frostbite, which can root her prevent escape. Crystal Maiden’s Crystal Nova slows Broodmother’s movement and attack speed, reducing her effectiveness in fights. Her Freezing Field ultimate deals heavy area damage, damaging both Broodmother and her spiderlings, which helps control Brood’s swarm during teamfights."
+    }
+  ]
+}

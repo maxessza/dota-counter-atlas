@@ -1,0 +1,49 @@
+{
+  "name": "Techies",
+  "slug": "techies",
+  "url": "https://dotacoach.gg/en/heroes/counters/techies",
+  "patch": "7.41f",
+  "checked": "2026-09-24",
+  "pairs": [
+    {
+      "name": "Abaddon",
+      "reason": "Abaddon's Aphotic Shield protects him and his allies by absorbing most of Techies' burst damage through his spell combo to prevent him from getting kills. Abaddon can also pop Borrowed Time, even during the Blast Off! stun, and run into Proximity Mines to not only waste them, but also heal himself back to full. The Aphotic Shield dispel also takes off the Reactive Tazer disarm, letting Abaddon destroy Proximity Mines and run at Techies with his right clicks."
+    },
+    {
+      "name": "Anti-Mage",
+      "reason": "Anti Mage's high magic resistance through Counterspell lets him tank and survive Techies' spell combo, and possibly Blink away before all his Proximity Mines explode to avoid getting bursted. Anti Mage can also Blink on Techies and burn his mana through Mana Break on right clicks, making him completely useless. Once Anti Mage buys Manta Style, he can dispel the Reactive Tazer disarm and easily burst down Techies with Mana Void after jumping him with Blink."
+    },
+    {
+      "name": "Ember Spirit",
+      "reason": "Ember Spirit can easily dodge Techies' Blast Off! and Sticky Bomb by timing his Sleight of Fist on a bunch of units. Ember Spirit can also throw Fire Remnants and jump to them during Sleight of Fist to avoid exploding Proximity Mines around him. Flame Guard also provides a magic damage barrier to absorb a lot of Techies' damage from his spells. Ember Spirit can also deal damage from range with his Sleight of Fist into Searing Chains combo to avoid running into Proximity Mines."
+    },
+    {
+      "name": "Juggernaut",
+      "reason": "Juggernaut's Blade Fury provides massive magic resistance during the spin to mitigate most of Techies' high damage from Sticky Bomb, Blast Off!, and Proximity Mines. The Blade Fury debuff immunity also avoids the Blast Off! stun, while the dispel takes off the Reactive Tazer disarm. Juggernaut can also Omnislash and Swiftslash Techies during his Blast Off! jump to turn the fight. Healing Ward is also great at healing up Juggernaut and his entire team to counteract Techies' heavy AoE damage."
+    },
+    {
+      "name": "Lifestealer",
+      "reason": "Lifestealer's Rage provides massive magic resistance during the spell to mitigate most of Techies' high damage from Sticky Bomb, Blast Off!, and Proximity Mines. The Rage debuff immunity also avoids the Blast Off! stun, while the dispel takes off the Reactive Tazer disarm. Rage is particularly effective at soaking multiple Proximity Mines while taking very little damage."
+    },
+    {
+      "name": "Mars",
+      "reason": "Mars can easily time either Spear of Mars or God's Rebuke to push Techies away during his Blast Off! jump to interrupt the spell while also putting it on cooldown. This prevents Techies from ever initiating properly and putting Proximity Mines around Mars while he has his spells available. A squishy Techies can also not jump outside Arena of Blood with Blast Off! and dies easily to Mars' spells and right clicks inside it."
+    },
+    {
+      "name": "Medusa",
+      "reason": "Mana Shield is simply too effective against the burst combo of Techies throughout the game. Mana Shield does not take Armor or Magic Resistance into account, thus ignoring the magic resistance reduction from Proximity Mines. Gorgon's Grasp also prevents Techies from using Blast Off! by rooting Techies in place and canceling the cast point of his spell."
+    },
+    {
+      "name": "Oracle",
+      "reason": "Fate's Edict allows Oracle and his allies to ignore most of Techies' kit altogether as it can mitigate all the damage of Sticky Bomb, Blast Off!, and Proximity Mines. Fortune's End can dispel Reactive Tazer both defensively and offensively, while False Promise is an all purpose fail safe that prevents Techies from bursting anyone on Oracle's team."
+    },
+    {
+      "name": "Phantom Lancer",
+      "reason": "Phantom Lancer can easily time Doppelganger to dodge Sticky Bomb and Blast Off! while summoning illusions around him to tank the follow up Proximity Mines and run away with the main hero. Throughout the game, Phantom Lancer has multiple illusions at his disposal to send out and tank any Proximity Mines placed by Techies in fights or around objectives. Once Phantom Lancer buys Diffusal Blade, he can burn Techies' mana with his illusions and make him completely useless."
+    },
+    {
+      "name": "Wraith King",
+      "reason": "Reincarnation makes it hard for Techies to all in combo and kill Wraith King as he would Reincarnate back to life, while Techies would be out of gas. The Bone Guard Skeletons can also soak multiple Proximity Mines in fights, or when they run down lanes or through the jungle."
+    }
+  ]
+}

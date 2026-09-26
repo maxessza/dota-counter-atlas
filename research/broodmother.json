@@ -1,0 +1,21 @@
+{
+  "name": "Broodmother",
+  "slug": "broodmother",
+  "url": "https://dotacoach.gg/en/heroes/counters/broodmother",
+  "patch": "7.41f",
+  "checked": "2026-09-24",
+  "pairs": [
+    {
+      "name": "Alchemist",
+      "reason": "Greevil's Greed makes Broodmother’s spiderlings far more valuable to Alchemist making it important that he does farm them as opposed to other heroes where the spider's bounties are negligible. Acid Spray will be potentially avoidable but it is still hard trying to kill him knowing he can use it. Alchemist naturally will be buying Radiance which will further be a problem for your spiderlings."
+    },
+    {
+      "name": "Axe",
+      "reason": "Berserker's Call forces Broodmother and her spiderlings to attack, allowing for large amounts of pure damage to be done through Counter Helix."
+    },
+    {
+      "name": "Earthshaker",
+      "reason": "Aftershock in combination with Enchant Totem prevents Broodmother from continuing to attack Earthshaker without being repeatedly stunned. Echo Slam is greatly amplified by Spiderlings, often instantly killing Broodmother, her swarm, and anyone else unfortunate enough to be nearby."
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "name": "Earthshaker",
+  "slug": "earthshaker",
+  "url": "https://dotacoach.gg/en/heroes/counters/earthshaker",
+  "patch": "7.41f",
+  "checked": "2026-09-24",
+  "pairs": [
+    {
+      "name": "Wraith King",
+      "reason": "Reincarnation serves as a natural deterent for Earthshaker to all in Wraith King with an Echo Slam as he would shortly come back to life, while Shaker would be left with not much in the tank. WK can select Spectral Blade as a facet instead of Bone Guard in order to reduce the number of Echo Slam targets."
+    },
+    {
+      "name": "Spectre",
+      "reason": "Disperion + BM is a huge deterent for Earthshaker to drop Echo Slam whenever he wants, as often times it would mean his own death. Spectral Dagger can be used to move through Fissure's wall to prevent being blocked. Spectre's ability to instantly get on top of Earthshaker with Shadow Step or Haunt ruins his initiation and doesn't allow him to comfortably wait for his opportune moment."
+    },
+    {
+      "name": "Night Stalker",
+      "reason": "Dark Ascension providing unobstructed vision and flight, while reducing Earthshaker's and his team's vision allows NS to spot Shaker and stick on him relentlessly with Crippling Fear, not allowing him to get of a clean initiation or any spells for that matter. Despite Fissure being able to stun NS he can still fly over it."
+    },
+    {
+      "name": "Tidehunter",
+      "reason": "Blubber allows Tidehunter to instantly dispel Aftershock's stun with Echo Slam's damage and to instantly counter initiate with Ravage. Dead in the Water (Aghanim's Shard upgrade) prevents Earthshaker from jumping with Enchant Totem when upgraded by Aghanim's Scepter."
+    },
+    {
+      "name": "Clockwerk",
+      "reason": "Battery Assault can stun Shaker so often that he would be unable to use Fissure due to it's long cast points. Rocket Flare can scout Shaker out and disrupt his Blink initiation, while Hookshot can be used to stick on him and further disrupt him with Power Cogs. Jetpack (Aghanim's Shard Upgrade) allows him to fly over Fissure."
+    },
+    {
+      "name": "Abaddon",
+      "reason": "Apothic Shield can dispel any of Shaker's stuns to save Abaddon's allies, while Borrowed Time makes Abaddon close to impossible to kill within a single burst."
+    }
+  ]
+}

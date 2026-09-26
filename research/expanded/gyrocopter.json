@@ -1,0 +1,45 @@
+{
+  "name": "Gyrocopter",
+  "slug": "gyrocopter",
+  "url": "https://dotacoach.gg/en/heroes/counters/gyrocopter",
+  "patch": "7.41f",
+  "checked": "2026-09-24",
+  "pairs": [
+    {
+      "name": "Arc Warden",
+      "reason": "Arc kites Gyro with Spark Wraiths and constant slow. His Tempest Double safely harasses from range, while Gyro can't reach or burst him before being chipped down."
+    },
+    {
+      "name": "Lifestealer",
+      "reason": "Lifestealer shrugs off Gyro’s magic damage with Rage. He can also infest and burst Gyro in fights, taking advantage of Gyro’s low armor and lack of hard disables."
+    },
+    {
+      "name": "Viper",
+      "reason": "Viper’s Nethertoxin shuts down Flak Cannon by disabling passives. His poison and Break effects reduce Gyro’s ability to sustain or kite."
+    },
+    {
+      "name": "Ancient Apparition",
+      "reason": "Ice Blast nullifies Gyro’s healing from Satanic and other regen sources. AA's long-range harass also punishes Gyro’s slow early movement."
+    },
+    {
+      "name": "Razor",
+      "reason": "Razor drains Gyro’s damage mid-fight with Static Link, making Flak Cannon almost useless. Razor also tanks through magical burst and out-sustains in lane."
+    },
+    {
+      "name": "Juggernaut",
+      "reason": "Juggernaut can Blade Fury through all of Gyro’s early-game magic. Omnislash cuts down Gyro, who has no strong escape or disable to stop it."
+    },
+    {
+      "name": "Keeper of the Light",
+      "reason": "Blinding Light causes Gyro’s Flak Cannon attacks to miss. KotL’s high mobility and magic burst disrupt Gyro’s teamfight contribution."
+    },
+    {
+      "name": "Venomancer",
+      "reason": "Venomancer kites Gyro with slows .Poison Nova combined with other spells from venomancer allies pressure and makes Gyro’s low HP pool a liability in prolonged fights."
+    },
+    {
+      "name": "Shadow Demon",
+      "reason": "Disruption saves Gyro’s targets from Rocket Barrage or Homing Missile. He can also create illusions that scale better than Gyro in some cases."
+    }
+  ]
+}

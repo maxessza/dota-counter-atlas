@@ -1,0 +1,49 @@
+{
+  "name": "Omniknight",
+  "slug": "omniknight",
+  "url": "https://dotacoach.gg/en/heroes/counters/omniknight",
+  "patch": "7.41f",
+  "checked": "2026-09-24",
+  "pairs": [
+    {
+      "name": "Shadow Demon",
+      "reason": "Shadow Demon completely counters Guardian Angel by purging it with Demonic Purge. His Disruption removes targets before Omniknight can save them. He breaks Omniknight’s utility and saves."
+    },
+    {
+      "name": "Primal Beast",
+      "reason": "Primal Beast punishes immobile supports like Omniknight with Onslaught and Trample. He can quickly close gaps and burst Omniknight before he casts spells. Omniknight’s abilities don’t prevent Primal’s magical damage or crowd control. He struggles to save allies from Pulverize."
+    },
+    {
+      "name": "Ancient Apparition",
+      "reason": "Ancient Apparition counters Omniknight’s healing and sustain with Ice Blast. When Ice Blast is active, Purification and Guardian Angel become useless. AA’s long-range poke prevents Omniknight from positioning safely. He denies the core aspect of Omniknight’s defensive play."
+    },
+    {
+      "name": "Doom",
+      "reason": "Doom silences Omniknight completely, disabling his healing and saving abilities. A Doomed Omniknight becomes useless in fights. Doom also breaks Guardian Angel .Omniknight has no way to deal with Doom’s direct suppression."
+    },
+    {
+      "name": "Medusa",
+      "reason": "Medusa shrugs off Guardian Angel due to her Split Shot with Aghanim’s Scepter as she can target other enemies. Medusa’s tankiness also makes Omniknight’s healing less impactful. She outscales his team’s sustain in long fights"
+    },
+    {
+      "name": "Enchantress",
+      "reason": "Enchantress punishes Omniknight’s lack of burst damage and slows him with Untouchable. Her pure damage ignores Guardian Angel entirely. Omniknight’s sustain is too slow to outpace her Impetus attacks. He also cannot stop her from kiting his teammates."
+    },
+    {
+      "name": "Winter Wyvern",
+      "reason": "Winter Wyvern’s Winter’s Curse turns Omniknight’s buffs against his team. Her Arctic Burn ignores his physical resistance. Wyvern also counters grouping strategies that Omniknight prefers. She can delay fights until Omniknight’s cooldowns are wasted."
+    },
+    {
+      "name": "Elder Titan",
+      "reason": "Elder Titan removes Omniknight’s defensive value with Natural Order, reducing armor and magic resistance. Omniknight can’t protect allies from Earth Splitter’s burst. He also struggles to maintain formation under Astral Spirit harassment. Elder Titan breaks down Omniknight’s durability."
+    },
+    {
+      "name": "Witch Doctor",
+      "reason": "Witch Doctor punishes extended fights with Death Ward, which Guardian Angel cannot fully negate. Maledict also amplifies burst damage over time. Omniknight’s healing is delayed and ineffective under this pressure. He lacks mobility to escape the Death Ward zone."
+    },
+    {
+      "name": "Outworld Devourer",
+      "reason": "Outworld Destroyer can Astral Imprison Omniknight or his allies to delay or prevent Guardian Angel. Sanity’s Eclipse bursts Omniknight’s low-intelligence frame easily. His pure damage and scaling overpower Omniknight’s heals. Omniknight contributes little once Astral resets fights."
+    }
+  ]
+}

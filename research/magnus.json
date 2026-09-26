@@ -1,0 +1,21 @@
+{
+  "name": "Magnus",
+  "slug": "magnus",
+  "url": "https://dotacoach.gg/en/heroes/counters/magnus",
+  "patch": "7.41f",
+  "checked": "2026-09-24",
+  "pairs": [
+    {
+      "name": "Ember Spirit",
+      "reason": "Ember Spirit avoids Reverse Polarity with Sleight of Fist and Remnant mobility. Magnus struggles to lock him down consistently without help. Ember also clears waves and keeps pressure across the map, outpacing Magnus. Empower becomes less effective if Ember controls tempo."
+    },
+    {
+      "name": "Puck",
+      "reason": "Puck dodges Reverse polarity with Phase Shift and cancels Blink Dagger with constant poke. Magnus’s combo is unreliable against Puck’s elusive nature. Dream Coil counters Magnus’s mobility by punishing Skewer plays. Puck dominates long fights where Magnus can’t connect clean spells."
+    },
+    {
+      "name": "Faceless Void",
+      "reason": "Faceless Void’s Chronosphere counters Magnus’s teamfight initiation. Magnus cannot use Reverse polarity or Skewer while frozen in Chrono. Void also avoids Skewer with Time Walk. Empowered carries can’t deal damage if stuck in Chronosphere."
+    }
+  ]
+}

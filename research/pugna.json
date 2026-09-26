@@ -1,0 +1,21 @@
+{
+  "name": "Pugna",
+  "slug": "pugna",
+  "url": "https://dotacoach.gg/en/heroes/counters/pugna",
+  "patch": "7.41f",
+  "checked": "2026-09-24",
+  "pairs": [
+    {
+      "name": "Primal Beast",
+      "reason": "Primal Beast punishes Pugna’s squishy nature with high physical burst. Pugna struggles to cast when caught by Onslaught and Trample. Nether Ward has little impact on Primal’s low mana use spells. Pugna can’t disengage or defend himself once locked down."
+    },
+    {
+      "name": "Chen",
+      "reason": "Chen overwhelms Pugna’s push tempo with stronger creeps and global healing. Pugna’s spells are inefficient against Chen’s army. Divine Favor and Hand of God outheal Life Drain. Pugna’s early push is easily stalled by creeps and sustain."
+    },
+    {
+      "name": "Huskar",
+      "reason": "Huskar jumps onto Pugna and punishes his low armor and HP. Life Break into Burning Spears bypasses Pugna’s healing attempts. Decrepify helps slightly, but Huskar’s magic resistance scales fast. Huskar snowballs through fights where Pugna is forced to play passively."
+    }
+  ]
+}

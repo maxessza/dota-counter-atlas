@@ -1,0 +1,77 @@
+{
+  "name": "Kez",
+  "slug": "kez",
+  "url": "https://dotacoach.gg/en/heroes/counters/kez",
+  "patch": "7.41f",
+  "checked": "2026-09-24",
+  "pairs": [
+    {
+      "name": "Axe",
+      "reason": "Axe's high armor gain with Berserker's Call usage lets him negate much of Kez's dominant physical damage at all stages of the game. Axe is also a natural Blade Mail carrier, which is a massive counter to Kez's high burst damage and the return damage threatens his life every time he uses his spell combo."
+    },
+    {
+      "name": "Bloodseeker",
+      "reason": "Bloodseeker's Rupture massively counters Kez's mobility as he cannot dispel it with Raptor Dance and takes massive damage if he tries to Grapple away. Once Kez becomes static because of Rupture, he is easy to take down with a follow up Bloodrite silence and right clicks."
+    },
+    {
+      "name": "Doom",
+      "reason": "Doom's ultimate Doom prevents Kez from lifestealing back his HP through his spells while also countering his mobility as he is effectively silenced. Once his mobility is taken away, Doom has an easy time of running down a squishy Kez during Scorched Earth."
+    },
+    {
+      "name": "Faceless Void",
+      "reason": "Faceless Void's Time Dilation causes a lot of damage over time and slows down Kez when he has used his spell combo and most of his spells are on cooldown. Time Dilation also prevents Switching Discipline more than once in fights because of the extended cooldown. Kez also has no counter to the Chronosphere lockdown and is easily killed every time by Faceless Void during the ultimate."
+    },
+    {
+      "name": "Legion Commander",
+      "reason": "Legion Commander Stonehall Plate facet gives her a damage barrier with Overwhelming Odds usage, which lets her absorb a lot of the damage from Kez's spell combo in the laning stage. Later in the game, once Legion Commander has Blade Mail and Blink Dagger, a squishy Kez makes for easy Duel wins while he cannot get away with his mobility spells."
+    },
+    {
+      "name": "Lion",
+      "reason": "Lion has a couple of lengthy lockdown spells to keep Kez in place and Drain his mana, without which Kez does little to no damage when just right clicking enemy heroes. Lion's Finger of Death also provides massive burst damage to take down a squishy Kez."
+    },
+    {
+      "name": "Mars",
+      "reason": "Mars' spells interrupt most of Kez's mobility spells and does not let him move as he wishes in teamfights. Once he reaches level 6, Mars can keep Kez in a restricted area inside Arena of Blood, which makes it easy to lock him down with Spear and finish off with damage spells and right clicks."
+    },
+    {
+      "name": "Necrophos",
+      "reason": "Necrophos' Ghost Shroud makes him invulnerable to Kez's dominant physical damage, which gives him the upper hand in fights throughout the game. Necrophos' instant heal from Death Pulse is also not reduced by Kazurai Katana, and his Reaper's Scythe makes short work of a squishy Kez along with his high damage spells."
+    },
+    {
+      "name": "Nyx Assassin",
+      "reason": "Nyx Assassin's high burst damage from his spell combo after level 6 lets him find and kill a squishy Kez every time throughout the game. The matchup becomes even more favorable for Nyx Assassin once he buys Dagon. On top of that, Nyx Assassin's Impale and Spiked Carapace, which he can also proc from Kez's AoE spells and damage over time, can keep him locked down for a lengthy duration."
+    },
+    {
+      "name": "Puck",
+      "reason": "Puck's ultimate Dream Coil leashes Kez in place and prevents him from using his mobility spells to jump between targets or escape. The Waning Rift silence is also a massive hinderance for Kez to move around or deal damage. Kez also has a hard time silencing Puck with Talon Toss as she can dodge it every time with Phase Shift."
+    },
+    {
+      "name": "Queen of Pain",
+      "reason": "Queen of Pain's insanely high burst damage from her spell combo is a nightmare to deal with for a squishy Kez, who dies to it every time. The pressure only ramps up as Queen of Pain gets a Dagon later in the game to magnify her burst potential. Queen of Pain's Blink also lets her kite and disengage when not silenced by Talon Toss."
+    },
+    {
+      "name": "Riki",
+      "reason": "Riki's Smoke Screen silences Kez in its AoE and prevents him from moving around or dealing damage with his spells, effectively nullifying him completely. Once Riki gets Diffusal Blade, it becomes easier to keep a squishy Kez inside Smoke Screen and burst him down while he cannot get away."
+    },
+    {
+      "name": "Silencer",
+      "reason": "Silencer's silence through Global Silence and Last Word are a nightmare to deal with for Kez, who relies on his spells for both mobility and damage. Arcane Curse also lets Silencer do a lot of slow and damage to Kez if he casts his spell combo while affected by the spell, but it is easily dispelled by Raptor Dance."
+    },
+    {
+      "name": "Spectre",
+      "reason": "Spectre can jump Kez anywhere on the map with Shadow Step and win the right click battle with the Desolate pure damage on her right clicks while Kez is slowed down by Spectral Dagger. Spectre is also a natural Blade Mail carrier, and together with Dispersion, returns a ton of damage to Kez from his spell combo and threatens his life every time."
+    },
+    {
+      "name": "Storm Spirit",
+      "reason": "Storm Spirit's high burst damage paired with the lockdown from Electric Vortex lets him jump a squishy Kez with Ball Lightning and kill him while he cannot use his mobility spells to get away. The constant jumps from Ball Lightning also makes it hard for Kez to target and silence Storm Spirit with Talon Toss."
+    },
+    {
+      "name": "Timbersaw",
+      "reason": "Timbersaw's armor gain from Reactive Armor stacks reduces a lot of the physical damage dealt by Kez with his spell combo and right clicks. Once Timbersaw gets Aghanim's Scepter, he becomes practically impossible for Kez to kill because of the massive damage barrier. Meanwhile, Timbersaw easily takes down a squishy Kez with the massive damage from his spell combo."
+    },
+    {
+      "name": "Ursa",
+      "reason": "Ursa is one of the few carries who can stand his ground and win the right click battle against Kez. The Enrage buff reduces most of the damage dealt by Kez's spell combo while Fury Swipes stacks and the Overpower charges easily burst down a squishy Kez if he tries to stand his ground and fight back."
+    }
+  ]
+}

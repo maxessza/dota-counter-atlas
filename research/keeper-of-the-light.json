@@ -1,0 +1,21 @@
+{
+  "name": "Keeper of the Light",
+  "slug": "keeper-of-the-light",
+  "url": "https://dotacoach.gg/en/heroes/counters/keeper-of-the-light",
+  "patch": "7.41f",
+  "checked": "2026-09-24",
+  "pairs": [
+    {
+      "name": "Nyx Assassin",
+      "reason": "Nyx thrives against KotL’s high manapool and low HP. Mana Burn deals huge damage due to KotL’s intelligence scaling. He easily catches KotL while he channels Illuminate or Recall with Vendetta and Carapace."
+    },
+    {
+      "name": "Slardar",
+      "reason": "Slardar’s high mobility and Corrosive Haze quickly delete squishy backliners like KotL. He can blink-stun KotL before he reacts with Will-o-Wisp or Blinding Light. KotL has no hard disable to stop Slardar’s initiation."
+    },
+    {
+      "name": "Weaver",
+      "reason": "Weaver ignores Will-o-Wisp with Shukuchi and Time Lapse. He can chase and kill KotL with Geminate Attack while remaining hard to catch. KotL's low armor and HP are vulnerable to Weaver’s sustained poke."
+    }
+  ]
+}

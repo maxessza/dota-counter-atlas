@@ -166,6 +166,13 @@
 .ward-map.is-placing .ward-marker{pointer-events:none;opacity:.55}
 .ward-position-tools .ward-add-start{border-color:#6a806e;color:#cce1cb}
 .ward-position-tools .ward-delete-selected{border-color:#925360;background:#35262b;color:#f0c3c8}
+.ward-position-tools .ward-export-button{border-color:#526f8a;color:#c6d9ee}
+.ward-export-panel{margin:0 0 14px;padding:11px 13px;background:#1b2426;border:1px solid #43545b;border-radius:6px}
+.ward-export-panel[hidden]{display:none}
+.ward-export-panel summary{color:#d6e2e7;font-size:12px;cursor:pointer}
+.ward-export-panel p{margin:8px 0;color:#aeb9b1;font-size:11px;line-height:1.6}
+.ward-export-panel textarea{display:block;width:100%;max-height:260px;margin:8px 0;padding:9px;resize:vertical;background:#12191b;border:1px solid #3b494d;border-radius:4px;color:#cbd7dc;font:11px/1.5 Consolas,monospace}
+.ward-export-panel button{padding:8px 10px;border:1px solid #526f8a;border-radius:4px;background:#263747;color:#d5e7f4;font-size:12px;cursor:pointer}
 .ward-add-form{display:grid;gap:10px;margin:14px 0;padding:13px;background:#202827;border:1px solid #515e54;border-radius:6px}
 .ward-add-form[hidden]{display:none}
 .ward-add-form h3{margin:0;color:#e3d5a6;font-size:15px}

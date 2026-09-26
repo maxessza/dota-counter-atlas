@@ -1,0 +1,49 @@
+{
+  "name": "Shadow Shaman",
+  "slug": "shadow-shaman",
+  "url": "https://dotacoach.gg/en/heroes/counters/shadow-shaman",
+  "patch": "7.41f",
+  "checked": "2026-09-24",
+  "pairs": [
+    {
+      "name": "Visage",
+      "reason": "Visage’s familiars interrupt Shackles and easily cancel any channeling. His burst damage deletes Shadow Shaman quickly, and he’s tanky enough to survive wards with Cloak and Gravekeeper’s Cloak."
+    },
+    {
+      "name": "Terrorblade",
+      "reason": "Terrorblade's illusions easily kill Serpent Wards while he remains untouched. Shadow Shaman lacks the AoE tools to clear illusions, and he dies in a few hits if caught out."
+    },
+    {
+      "name": "Lone Druid",
+      "reason": "Lone Druid’s bear can break Shackles or tank Serpent Wards while the Druid focuses down Shaman. The dual-target threat makes it hard to lock him down properly in fights."
+    },
+    {
+      "name": "Phantom Lancer",
+      "reason": "Too many illusions for Shadow Shaman to deal with. His single-target disables are ineffective against a flood of clones, and PL can easily slip past wards and isolate him."
+    },
+    {
+      "name": "Phantom Lancer",
+      "reason": "Naga overwhelms Shadow Shaman with illusions. Song of the Siren also resets teamfights, negating his wards or Shackles mid-fight."
+    },
+    {
+      "name": "Beastmaster",
+      "reason": "Beastmaster’s summons cancel Shackles. Primal Roar can easily kill or disable Shadow Shaman before he casts anything. He also pushes harder and faster."
+    },
+    {
+      "name": "Ringmaster",
+      "reason": "Ringmaster can outplay Shadow Shaman with mobility and overwhelming burst. He excels at killing squishy supports and can disengage from Serpent Wards quickly with his toolkit."
+    },
+    {
+      "name": "Wraith King",
+      "reason": "Shadow Shaman’s long disables don’t matter much against a hero with Reincarnation. Once Wraith King revives, he can charge down Shaman with ease, especially when BKB is up."
+    },
+    {
+      "name": "Hoodwink",
+      "reason": "Hoodwink keeps distance and punishes static casters. She can interrupt Shackles with Acorn Shot + Bushwhack and quickly reposition after dealing damage. Shadow Shaman can’t catch her alone."
+    },
+    {
+      "name": "Gyrocopter",
+      "reason": "Gyrocopter thrives in chaos and area fights, while Shadow Shaman wants controlled skirmishes. His Rocket Barrage and Flak Cannon make short work of Shaman if he’s not protected by teammates."
+    }
+  ]
+}

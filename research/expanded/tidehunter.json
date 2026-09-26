@@ -1,0 +1,41 @@
+{
+  "name": "Tidehunter",
+  "slug": "tidehunter",
+  "url": "https://dotacoach.gg/en/heroes/counters/tidehunter",
+  "patch": "7.41f",
+  "checked": "2026-09-24",
+  "pairs": [
+    {
+      "name": "Anti-Mage",
+      "reason": "Mana Break quickly burns Tidehunter's mana pool, preventing him from spamming his abilities, and Kraken Shell does not mitigate the bonus damage component. Blink allows Anti-Mage to enter combat quickly and safely after Ravage. A well-timed Counterspell can reflect Gush back at Tidehunter."
+    },
+    {
+      "name": "Ursa",
+      "reason": "Fury Swipes will keep stacking on Tidehunter since it cannot be dispelled by Kraken Shell and its bonus damage cannot be reduced by Anchor Smash. Enrage dispels the slow from Gush, and if upgraded with Aghanim's Scepter, can even dispel Ravage's stun."
+    },
+    {
+      "name": "Slark",
+      "reason": "Dark Pact dispels debuffs from Gush, Anchor Smash and even Ravage if timed correctly. Kraken Shell cannot restore attributes stolen by Essence Shift or dispel the leash if he gets Pounced."
+    },
+    {
+      "name": "Witch Doctor",
+      "reason": "Maledict is highly effective against tanky heroes like Tidehunter and can help burst him down in lane. Additionally, Witch Doctor’s Death Ward deals pure damage, which cannot be mitigated by Kraken Shell"
+    },
+    {
+      "name": "Outworld Devourer",
+      "reason": "Outworld Devourer’s Arcane Orb deals pure damage, bypassing Kraken Shell. His ultimate can burst Tidehunter due to Tide’s relatively low mana pool, and Astral Imprisonment can save allies from Ravage, making him a tough matchup"
+    },
+    {
+      "name": "Necrophos",
+      "reason": "Necrophos excels at dealing magical damage to tanky heroes like Tidehunter. His Reaper’s Scythe can quickly finish Tide off, if he gets low on health."
+    },
+    {
+      "name": "Undying",
+      "reason": "Undying’s Decay steals strength, making Tidehunter squishier during the laning phase. Additionally, Tidehunter struggles to deal with Tombstone and its zombies."
+    },
+    {
+      "name": "Lifestealer",
+      "reason": "Feast lets Lifestealer deal heavy damage to Tidehunter while healing himself, making trades unfavorable. His Rage ability also counters Ravage, making Lifestealer a difficult matchup throughout the game."
+    }
+  ]
+}

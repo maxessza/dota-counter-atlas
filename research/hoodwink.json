@@ -1,0 +1,21 @@
+{
+  "name": "Hoodwink",
+  "slug": "hoodwink",
+  "url": "https://dotacoach.gg/en/heroes/counters/hoodwink",
+  "patch": "7.41f",
+  "checked": "2026-09-24",
+  "pairs": [
+    {
+      "name": "Mars",
+      "reason": "Mars's arena can break all the trees where Hoodwink is using to push out lanes or stay behind his teammates."
+    },
+    {
+      "name": "Spirit Breaker",
+      "reason": "Spirit Breaker's charge can provide vision from a distance while Hoodwink is using the trees to hide."
+    },
+    {
+      "name": "Centaur Warrunner",
+      "reason": "Hoodwink struggles against Centaur because he is tanky and hard to burst. He can return a lot of damage with Retaliate when she trades. Stampede also allows him and his team to disengage or catch her easily."
+    }
+  ]
+}

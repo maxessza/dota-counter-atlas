@@ -1,0 +1,53 @@
+{
+  "name": "Morphling",
+  "slug": "morphling",
+  "url": "https://dotacoach.gg/en/heroes/counters/morphling",
+  "patch": "7.41f",
+  "checked": "2026-09-24",
+  "pairs": [
+    {
+      "name": "Alchemist",
+      "reason": "Morphling naturally has high base attack damage and Alch is capable of significantly reducing it with Corrosive Weaponry and cripple Morph's overall damage output. Chemical Rage is by far Alchemist's best spell, which Morphling is unable to copy with his ult - Morph. Morph can be slow to ramp up and generally speaking by the time he's ready to fight Alch is ready to take his Ancient."
+    },
+    {
+      "name": "Ancient Apparition",
+      "reason": "Ice Blast prevents Morphling from using Attribute Shift (Strength Gain) to increase his HP pool and 'heal' up. To farm optimally Morphlings keep their HP low in order to have as much Agility as possible, which allows AA to snipe him across the map with Ice Blast."
+    },
+    {
+      "name": "Axe",
+      "reason": "Axe counters Morphling with instant disable from Blink Call into Blade Mail. Morphling’s low armor while shifting strength becomes a liability. Axe punishes greedy Morph builds with pure initiation. Morphling can’t avoid dying if caught while not fully morphed."
+    },
+    {
+      "name": "Doom",
+      "reason": "Doom disables Morphling’s ability to Attribute Shift, leaving him very vulnerable. Once Doom is cast, Morphling can be bursted down quickly. Morphling relies heavily on abilities to live and fight. Doom’s spell removes his entire playstyle temporarily."
+    },
+    {
+      "name": "Phantom Lancer",
+      "reason": "PL overwhelms Morphling with illusions that deal fast damage and are hard to identify. Morphling’s single-target abilities don’t counter illusion spam. Morphing into PL is ineffective due to low stat scaling. In the late game, PL is too much to handle without AoE."
+    },
+    {
+      "name": "Rubick",
+      "reason": "Rubick becomes a threat if he steals Waveform or Morph. He can burst Morphling with his own tools. Morphling’s valuable spells often get turned against him. Rubick can outplay Morph if Morphling is careless with spell usage."
+    },
+    {
+      "name": "Luna",
+      "reason": "Luna’s fast-paced teamfight damage bursts Morphling before he can shift. She takes objectives quicker and snowballs faster. Morphling doesn’t enjoy early fights and Luna forces them. Eclipse punishes Morphling’s weak early-game."
+    },
+    {
+      "name": "Nyx Assassin",
+      "reason": "Nyx punishes Morphling with Mana Burn based on high INT from Attribute Shift. His Carapace triggers easily on Waveform or Adaptive Strike. Nyx scouts Morphling and disables him before he reacts. Mana burn spam ruins Morph’s sustain and forces defensive play."
+    },
+    {
+      "name": "Lion",
+      "reason": "Lion disables Morphling instantly with Hex and burst combo. His Finger of Death punishes Morph’s low HP when morphed to Agility. Lion doesn’t care about Morph’s shift due to chain disables. Morphling dies in one rotation if not extremely careful."
+    },
+    {
+      "name": "Dark Seer",
+      "reason": "Dark Seer’s Wall creates a strong illusion of Morphling that turns fights against him. Ion Shell and Vacuum force him to fight on DS’s terms. Morphling has a hard time bursting illusions fast enough. He becomes his own worst enemy in wall-heavy fights."
+    },
+    {
+      "name": "Bane",
+      "reason": "Bane’s Fiend’s Grip pierces BKB and disables Morphling fully. Enfeeble reduces his damage and healing during fights. Bane also sets up ganks that Morph can’t dodge. Morphling suffers if caught before shifting or after Waveform."
+    }
+  ]
+}

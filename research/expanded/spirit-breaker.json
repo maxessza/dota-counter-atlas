@@ -1,0 +1,57 @@
+{
+  "name": "Spirit Breaker",
+  "slug": "spirit-breaker",
+  "url": "https://dotacoach.gg/en/heroes/counters/spirit-breaker",
+  "patch": "7.41f",
+  "checked": "2026-09-24",
+  "pairs": [
+    {
+      "name": "Clockwerk",
+      "reason": "Spirit Breaker can never connect the Charge of Darkness on Clockwerk as long as he has Power Cogs off cooldown, as he can easily put them down before Spirit Breaker reaches him to push him away. Clockwerk's Battery Assault, Power Cogs, and Hookshot lockdown all stop Spirit Breaker from Charging away from him as well. The mana burn from Power Cogs also massively affects Spirit Breaker because of his low mana pool, and can render him unable to use his entire spell combo."
+    },
+    {
+      "name": "Dark Willow",
+      "reason": "Dark Willow's Bramble Maze massively counters Spirit Breaker's Charge of Darkness as it stops the Charge mid way if any of the Brambles fall in the Charge path. This makes it extremely difficult for Spirit Breaker to Charge in and out of fights as long as Dark Willow puts down her Bramble Maze. Dark Willow can also pop Shadow Realm before Spirit Breaker's Charge connects on her to stop him from following up with Nether Strike or his Greater Bash right clicks. Cursed Crown and Terrorize also let Dark Willow interrupt Charge of Darkness."
+    },
+    {
+      "name": "Ember Spirit",
+      "reason": "Ember Spirit has an easy time dodging the Charge of Darkness collision by timing his Sleight of Fist on a cluster of units when Charge is about to connect on him. If Ember Spirit doesn't have units for Sleight of Fist around him, he can still use Sleight of Fist into Searing Chains on Spirit Breaker from range to stop the Charge mid way to stop him from getting in and out of fights. Flame Guard also absorbs damage from Spirit Breaker's spells and Greater Bash procs while jumping to Fire Remnants keeps Ember Spirit safe from ever dying."
+    },
+    {
+      "name": "Enigma",
+      "reason": "Enigma's instant stun from Malefice lets him easily stop Spirit Breaker from Charging at him, or away from fights, by interrupting the spell. Spirit Breaker also has a difficult time interrupting Black Hole through Charge of Darkness or Nether Strike without getting caught in the AoE himself. Enigma's Eidolons also have high magic resistance, which keeps them safe from dying to the Charge collision."
+    },
+    {
+      "name": "Invoker",
+      "reason": "Invoker has multiple ways of stopping Spirit Breaker's Charge to ensure he does not connect with his spell. Spirit Breaker can practically never cast his ultimate when affected by Cold Snap as it gets interrupted by damage instances. The slow from Ice Wall also doesn't let Spirit Breaker Charge away or into fights. Invoker's Tornado also dispels Bulldoze, which is Spirit Breaker's main survival tool."
+    },
+    {
+      "name": "Medusa",
+      "reason": "Medusa's mana pool, which is effectively her HP pool, doesn't take a massive hit from Spirit Breaker's Charge of Darkness into Nether Strike combo, and keeps her safe from ever being threatened by the lockdown. Medusa can also pop Stone Gaze while Spirit Breaker is Charging towards her, which slows him down and turns him to stone if he gets too close. Once Medusa gets Aghanim's Shard, Spirit Breaker can never Charge at her as doing so will reflect a Mystic Snake towards him, which turns him to stone and interrupts the Charge."
+    },
+    {
+      "name": "Morphling",
+      "reason": "Morphling loves to Morph into Spirit Breaker to use his Bulldoze for the status resistance in fights, which makes him practically impossible to get bursted down. The Morphed Charge of Darkness also gives Morphling an initiation and lockdown tool to get on top of an enemy hero and burst them down with his massive damage through spells and right clicks. Morphling can also time his Waveform and use it in Spirit Breaker's Charge direction when it is about to connect to avoid getting stunned."
+    },
+    {
+      "name": "Puck",
+      "reason": "Despite her squishy nature, Puck remains safe from Spirit Breaker's ganks in the laning stage as a well timed Phase Shift lets her dodge the collision lockdown and damage. Puck can easily follow up with the Waning Rift silence to stop Spirit Breaker's Nether Strike usage, and create distance between herself and him by Jaunting to her Illusory Orb. Puck's Dream Coil also leashes Spirit Breaker and stops him from Charging in and out of fights, although he can break the link for a low duration stun by using Bulldoze."
+    },
+    {
+      "name": "Rubick",
+      "reason": "Rubick's instant lift from Telekinesis lets him easily stop Spirit Breaker from Charging at him, or away from fights, by interrupting the spell. Rubick can also land Spirit Breaker away from himself to avoid Nether Strike as well because of its low cast range. Rubick also loves to Steal Charge of Darkness to get himself a mobility and initiation tool that also lets him farm creeps along with Fade Bolt."
+    },
+    {
+      "name": "Shadow Demon",
+      "reason": "Shadow Demon's instant banish from Disruption lets him easily stop Spirit Breaker from Charging at him, or away from fights, by interrupting the spell. Shadow Demon's Demonic Purge also dispels Bulldoze, and massively slows down Spirit Breaker's movement speed during his Charge to practically keep him stuck in place."
+    },
+    {
+      "name": "Storm Spirit",
+      "reason": "Storm Spirit's Ball Lightning lets him easily dodge the Charge of Darkness lockdown and damage by timing his spell in Spirit Breaker's Charge direction when it is about to connect. Storm Spirit can just as easily Ball Lightning away afterwards to create distance between himself and Spirit Breaker, or use his burst damage and lockdown to turn the fight."
+    },
+    {
+      "name": "Underlord",
+      "reason": "Pit of Malice is amazing at interrupting Spirit Breaker's Charge, which is his core spell and additionally prevents him from using his Nether Strike for the root's duration, crippling his presence in fights significantly. The Status Resistance from Bulldoze greatly compresses the damage from Firestorm within it's reduced duration but does not reduce the total amount, making it less of a damage over time interaction and more into a nuke."
+    }
+  ]
+}

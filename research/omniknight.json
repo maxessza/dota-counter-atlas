@@ -1,0 +1,21 @@
+{
+  "name": "Omniknight",
+  "slug": "omniknight",
+  "url": "https://dotacoach.gg/en/heroes/counters/omniknight",
+  "patch": "7.41f",
+  "checked": "2026-09-24",
+  "pairs": [
+    {
+      "name": "Shadow Demon",
+      "reason": "Shadow Demon completely counters Guardian Angel by purging it with Demonic Purge. His Disruption removes targets before Omniknight can save them. He breaks Omniknight’s utility and saves."
+    },
+    {
+      "name": "Primal Beast",
+      "reason": "Primal Beast punishes immobile supports like Omniknight with Onslaught and Trample. He can quickly close gaps and burst Omniknight before he casts spells. Omniknight’s abilities don’t prevent Primal’s magical damage or crowd control. He struggles to save allies from Pulverize."
+    },
+    {
+      "name": "Ancient Apparition",
+      "reason": "Ancient Apparition counters Omniknight’s healing and sustain with Ice Blast. When Ice Blast is active, Purification and Guardian Angel become useless. AA’s long-range poke prevents Omniknight from positioning safely. He denies the core aspect of Omniknight’s defensive play."
+    }
+  ]
+}

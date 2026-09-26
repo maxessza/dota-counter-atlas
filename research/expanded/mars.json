@@ -1,0 +1,33 @@
+{
+  "name": "Mars",
+  "slug": "mars",
+  "url": "https://dotacoach.gg/en/heroes/counters/mars",
+  "patch": "7.41f",
+  "checked": "2026-09-24",
+  "pairs": [
+    {
+      "name": "Lifestealer",
+      "reason": "Lifestealer can use Rage to escape Arena of Blood and avoid Spear of Mars’ stun, making him difficult to control. Additionally, he thrives against heroes with large health pools, which can reduce Mars’ relative tankiness and make him more vulnerable."
+    },
+    {
+      "name": "Juggernaut",
+      "reason": "Blade Fury lets Juggernaut escape Arena of Blood and dodge Spear of Mars’ stun. It’s also a strong tool for chasing and killing Mars early, since he is more susceptible to magical damage."
+    },
+    {
+      "name": "Puck",
+      "reason": "Puck is highly elusive and difficult to control. Without items like Hex or Eul’s Scepter, landing a Spear of Mars and killing her can be very challenging."
+    },
+    {
+      "name": "Dazzle",
+      "reason": "Dazzle excels at saving teammates during fights with his Shallow Grave, which can keep allies alive even inside Mars’ Arena of Blood. His strong healing and damage mitigation make it difficult for Mars to secure kills inside the arena, giving Dazzle’s team a significant advantage in prolonged engagements."
+    },
+    {
+      "name": "Oracle",
+      "reason": "Oracle can save allies from lethal damage inside Arena of Blood using False Promise, negating Mars’ burst potential. Additionally, Fate’s Edict can disarm Mars, lowering his threat in fights, or grant magic immunity to teammates against Spear of Mars and Arena of Blood."
+    },
+    {
+      "name": "Outworld Devourer",
+      "reason": "Astral Imprisonment can save allies trapped inside Arena of Blood. Additionally, Outworld Devourer ignores Bulwark by dealing pure damage. His Sanity’s Eclipse deals significant damage due to the large mana difference between Mars and OD."
+    }
+  ]
+}

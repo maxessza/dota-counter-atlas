@@ -1,0 +1,33 @@
+{
+  "name": "Disruptor",
+  "slug": "disruptor",
+  "url": "https://dotacoach.gg/en/heroes/counters/disruptor",
+  "patch": "7.41f",
+  "checked": "2026-09-24",
+  "pairs": [
+    {
+      "name": "Sniper",
+      "reason": "Sniper’s long attack range and stationary fighting style make him difficult for Disruptor to deal with directly. Disruptor’s spells have limited reach, and without proper vision or initiation, it’s hard to catch Sniper before he deals significant damage."
+    },
+    {
+      "name": "Drow Ranger",
+      "reason": "Drow Ranger’s long-range damage and high mobility with Gust and Multishot make her a tough target for Disruptor. Without reliable gap closers or vision, it can be difficult to pin her down with your spells before she deals heavy damage."
+    },
+    {
+      "name": "Clinkz",
+      "reason": "Clinkz’s high burst damage and invisibility allow him to ambush and instantly kill Disruptor if caught out of position. Without detection or strong team coordination, it’s challenging to lock him down before he eliminates you."
+    },
+    {
+      "name": "Legion Commander",
+      "reason": "Legion Commander’s strong initiation and Duel ability pose a serious threat to Disruptor. Since Duel forces Disruptor to attack, his innate passive won’t help him escape, making it crucial to avoid getting caught or rely on teammates for saves."
+    },
+    {
+      "name": "Lifestealer",
+      "reason": "Lifestealer’s Rage makes him immune to Glimpse and Kinetic Field, and it also allows him to ignore Static Storm if timed correctly. To counter Lifestealer effectively, you need to catch him off-guard before Rage activates or coordinate with your team to lock him down once it fades—which is not always easy to do."
+    },
+    {
+      "name": "Juggernaut",
+      "reason": "Juggernaut’s Blade Fury grants Debuff Immunity, allowing him to ignore Kinetic Field, Glimpse, and Static Storm while active — making it easy for him to close the gap and secure kills. However, if you manage to initiate with Static Storm before he activates Blade Fury, you can potentially burst him down before he has a chance to use his abilities"
+    }
+  ]
+}

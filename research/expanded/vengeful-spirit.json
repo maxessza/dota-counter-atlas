@@ -1,0 +1,49 @@
+{
+  "name": "Vengeful Spirit",
+  "slug": "vengeful-spirit",
+  "url": "https://dotacoach.gg/en/heroes/counters/vengeful-spirit",
+  "patch": "7.41f",
+  "checked": "2026-09-24",
+  "pairs": [
+    {
+      "name": "Phantom Lancer",
+      "reason": "Venge struggles to deal with PL’s illusions and has no AoE clear. Swap becomes ineffective when she can’t identify the real one. Her armor reduction barely affects his illusion damage. PL overwhelms Venge by dragging fights out."
+    },
+    {
+      "name": "Naga Siren",
+      "reason": "Naga's illusions ignore armor reduction and punish Venge’s low AoE. Her Song of the Siren cancels Venge’s aggression and resets fights. Naga scales far better and pushes lanes too quickly. Venge can’t control the tempo late game."
+    },
+    {
+      "name": "Elder Titan",
+      "reason": "Elder Titan removes base armor with Natural Order, making Venge and her illusions extremely vulnerable. His stun and stomp combo disable her before she casts. ET’s AoE zoning keeps her away from her ideal positioning. Venge becomes fragile in fights."
+    },
+    {
+      "name": "Brewmaster",
+      "reason": "Brew’s Primal Split ruins Venge’s coordination and prevents focus fire. He can cyclone Venge or her carry during Swap attempts. Brew’s survivability means her armor reduction has less value. Venge can’t stop him once he splits."
+    },
+    {
+      "name": "Terrorblade",
+      "reason": "Terrorblade shrugs off armor debuffs with high stats and illusions. Venge can’t disable him long enough to prevent Sunder. His illusions melt her with right clicks. Swap doesn’t remove his massive damage presence from the fight."
+    },
+    {
+      "name": "Sand King",
+      "reason": "Sand King punishes grouped positioning and burst-kills Venge with Epicenter. Her low HP and low BKB priority make her vulnerable. Venge gets zoned out by Caustic Finale and Burrowstrike. Her tools can’t stop his AoE damage output."
+    },
+    {
+      "name": "Chaos Knight",
+      "reason": "CK’s illusions overwhelm Venge, and she lacks tools to deal with the chaos. Swap is ineffective when he pulls in a target and spawns illusions around them. Venge's low armor becomes a liability. CK benefits from extended messy engagements."
+    },
+    {
+      "name": "Beastmaster",
+      "reason": "Beastmaster’s long-range disable pierces BKB and cancels Venge’s presence. His summons ignore her armor debuffs and help push. Roar stops Swap from saving anyone. Beastmaster takes map control quickly and snowballs harder."
+    },
+    {
+      "name": "Muerta",
+      "reason": "Venge’s spells don’t affect Muerta during Pierce the Veil. Swap does nothing when she’s ethereal. Her range punishes Venge for poor positioning. Venge’s toolkit fails against Muerta’s unique mechanics and range."
+    },
+    {
+      "name": "Anti-Mage",
+      "reason": "AM jumps backlines and punishes Venge’s low mobility. She can’t disable him long enough to kill him. AM ignores her armor debuff and escapes before dying. Mana Break ruins her low mana pool, and she has no lockdown to stop him."
+    }
+  ]
+}

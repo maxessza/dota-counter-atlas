@@ -1,0 +1,37 @@
+{
+  "name": "Bounty Hunter",
+  "slug": "bounty-hunter",
+  "url": "https://dotacoach.gg/en/heroes/counters/bounty-hunter",
+  "patch": "7.41f",
+  "checked": "2026-09-24",
+  "pairs": [
+    {
+      "name": "Abaddon",
+      "reason": "Aphotic Shield is a low cooldown ability that can dispel Track and almost matches Tracks's cooldown, making it significantly more difficult for BH to play to his core strengths. Borrowed Time can be activated during Shadow Walk's stun to dispel it and can further dispel Track by itself."
+    },
+    {
+      "name": "Oracle",
+      "reason": "Fortune's End is a low cooldown ability that can dispel Track and almost matches Tracks's cooldown, making it significantly more difficult for BH to play to his core strengths. Additionally, Fortune's End can reveal BH during Shadow Walk . Fate's Edict prevents BH from attacking, hindering his ability to apply Jinada. False Promise adds another layer of protection with a save and an extra dispel for any Tracked targets."
+    },
+    {
+      "name": "Legion Commander",
+      "reason": "Press the Attack is a low cooldown ability that can dispel Track, crippling's BH vision advantage. Duel is effective at locking BH down and killing him as he has an above average BAT increasing the frequency of Moment of Courage procs."
+    },
+    {
+      "name": "Slark",
+      "reason": "Dark Pact is a low cooldown ability that can dispel Track and almost matches Tracks's cooldown, giving Slark a reliable way of dealing with it. Pounce can leash BH during Shadow Walk, although without providing vision of him. Shadow Dance and Depth Shroud prevent Slark and any of his allies from being targeted by Shuriken Toss or it's bounces even while Tracked."
+    },
+    {
+      "name": "Tidehunter",
+      "reason": "Blubber provides Tide with a constant dispel from both Track and Shadow Walk's stun as long as he is receiving enough incoming damage and has the HP to support it. Dead in the Water provides vision of BH during Shadow Walk and both Anchor Smash and Ravage can affect him during Shadow Walk."
+    },
+    {
+      "name": "Zeus",
+      "reason": "Zeus can easily reveal Bounty Hunter using Lightning Bolt or Thundergod’s Wrath, exposing him even when invisible. His innate vision and burst damage make it hard for Bounty Hunter to roam or escape unseen. True sight from Zeus’s abilities is key to countering Bounty’s invisibility and disrupting his ganks."
+    },
+    {
+      "name": "Nyx Assassin",
+      "reason": "Nyx Assassin can detect Bounty Hunter using Nyx Assassin’s innate ability Nyxth Sense , gaining an advantage in the vision game. Nyx’s high mobility and burst damage from Vendetta, Impale, and Dagon let him quickly kite and kill Bounty before he can react."
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "name": "Io",
+  "slug": "io",
+  "url": "https://dotacoach.gg/en/heroes/counters/io",
+  "patch": "7.41f",
+  "checked": "2026-09-24",
+  "pairs": [
+    {
+      "name": "Ancient Apparition",
+      "reason": "Io's entire kit is tailored towards healing, with his Tether, Overcharge and even Relocate that can be used to go back to the fountain for regen - Ice Blast shuts all of that down entirely. Since Io tends to stay close to his Tethered ally it makes it easy for Ice Blast to connect with multiple targets."
+    },
+    {
+      "name": "Underlord",
+      "reason": "Underlord punishes clumped heroes with Pit of Malice and Firestorm, making Io’s tether risky. Io’s low HP pool gets shredded by magic AoE damage. Fiend’s Gate negates Io’s Relocate advantage for map control. Underlord’s teamfight presence counters Io’s healing tempo."
+    },
+    {
+      "name": "Troll Warlord",
+      "reason": "Troll Warlord ignores Io’s saves due to Battle Trance and high attack speed. Io struggles to kite or disable him, and Overcharge isn’t enough to reduce his damage output. Troll excels in sustained fights where Io usually thrives. Relocate offers limited counterplay once Troll locks on."
+    }
+  ]
+}

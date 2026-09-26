@@ -1,0 +1,49 @@
+{
+  "name": "Drow Ranger",
+  "slug": "drow-ranger",
+  "url": "https://dotacoach.gg/en/heroes/counters/drow-ranger",
+  "patch": "7.41f",
+  "checked": "2026-09-24",
+  "pairs": [
+    {
+      "name": "Faceless Void",
+      "reason": "Time Walk can be used to close the distance within Drow Ranger, hindering her Marksmanship bonus. Faceless Void can also lock down Drow Ranger with Chronosphere before she has the chance to retaliate due to her low health pool."
+    },
+    {
+      "name": "Arc Warden",
+      "reason": "Flux along with Spark Wraith allows Arc Warden to quickly burst down Drow Ranger due to her low health. Magnetic Field will be a big nuisance while pushing towers against Arc. However, Drow Ranger can bypass Magnetic Field's evasion bonus thanks to Marksmanship but only while hitting heroes."
+    },
+    {
+      "name": "Chaos Knight",
+      "reason": "Drow Ranger cant deal with illusion heroes naturally so Chaos Knights Phantasm will be a big problem as well as Reality Rift being able to pull you in closer and disabling your Markmanship."
+    },
+    {
+      "name": "Slark",
+      "reason": "A well-timed Dark Pact can dispel Frost Arrows and Gust, letting Slark engage and escape freely. Essence Shift is very detrimental for Drow Ranger as the loss of agility means that Marksmanship will also suffer from getting weakened. Shadow Dance lets Slark quickly close the gap and deal heavy damage without giving Drow Ranger a chance to retaliate. Pounce counteracts Frost Arrows's slow, and also allows Slark easily pin Drow Ranger down or flee from her. Depth Shroud from Aghanim's Shard will allow Slark to save both, himself and his allies and will also allow them to freely fight back against Drow Ranger without her noticing them. Others"
+    },
+    {
+      "name": "Earth Spirit",
+      "reason": "Earth Spirit’s powerful initiation and disables quickly close that gap. Earth Spirit’s Boulder Smash and Rolling Boulder can stun and silence Drow, disrupting her attacks and forcing her to retreat. Additionally, Earth Spirit’s ability to control terrain and displace heroes makes it hard for Drow to find safe spots to deal damage, limiting her effectiveness in fights."
+    },
+    {
+      "name": "Primal Beast",
+      "reason": "Drow struggles against Primal Beast because he is a tanky, melee initiator who can easily close the gap on her and disrupt her positioning. His high burst damage and disables prevent Drow from staying at a safe distance to deal damage. Primal Beast’s strength and crowd control make it difficult for Drow to kite or escape, and his durability allows him to survive her attacks while locking her down early in fights."
+    },
+    {
+      "name": "Zeus",
+      "reason": "Zeus is effective against Drow because his high magical burst damage can quickly punish her relatively low magic resistance and fragile health pool. His Lightning Bolt and Arc Lightning reveal invisible heroes like Drow when she uses shadow blade, preventing her from safely initiating or escaping. Additionally, Zeus’s ultimate, Thundergod’s Wrath, can finish off fleeing enemies, making it hard for Drow to survive team fights or pickoffs."
+    },
+    {
+      "name": "Bloodseeker",
+      "reason": "Drow struggles against Bloodseeker because his high mobility and burst damage can quickly close the gap and punish her low health pool. Bloodseeker’s Thirst lets him track and chase her even when she tries to escape, while his Blood Rite silence can prevent her from casting Gust to control fights. His aggressive playstyle and healing from damage make it hard for Drow to stay safe and farm effectively."
+    },
+    {
+      "name": "Mars",
+      "reason": "Drow struggles against Mars because his tankiness and crowd control make it hard for her to find safe angles to deal damage. Mars’ Bulwark blocks Drow’s ranged attacks, reducing her damage output significantly. His Arena of Blood traps her and her team, limiting mobility and forcing close-quarters fights where Drow is vulnerable. Mars’ ability to initiate and control fights disrupts Drow’s positioning and prevents her from kiting effectively."
+    },
+    {
+      "name": "Muerta",
+      "reason": "Muerta’s Pierce the Veil increases her attack speed and damage making her immune to drow right clicks, Muerta’s ultimate can overwhelm Drow’s team, disrupting positioning and forcing fights that favor Muerta’s aggression."
+    }
+  ]
+}

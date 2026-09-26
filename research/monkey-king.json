@@ -1,0 +1,21 @@
+{
+  "name": "Monkey King",
+  "slug": "monkey-king",
+  "url": "https://dotacoach.gg/en/heroes/counters/monkey-king",
+  "patch": "7.41f",
+  "checked": "2026-09-24",
+  "pairs": [
+    {
+      "name": "Batrider",
+      "reason": "Batrider's Firefly lets him break trees and stun Monkey King if he is perched on top of a broken tree with Tree Dance. Batrider can also follow and chase down Monkey King during Firefly when he tries to use the trees to get away. Batrider's Flaming Lasso and the displacement from Flamebreak also lets him bring Monkey King outside the Wukong's Command ring, which stops his ultimate."
+    },
+    {
+      "name": "Beastmaster",
+      "reason": "Beastmaster's Wild Axes lets him cut down trees to stun Monkey King if he is perched on top of a broken tree with Tree Dance. Monkey King also struggles to run down Beastmaster because of the Hawk root and Boar movement speed slow on attacks. Later in the game, Beastmaster can also burst down Monkey King every time during his long duration lockdown with Primal Roar."
+    },
+    {
+      "name": "Bounty Hunter",
+      "reason": "Bounty Hunter's Track lets him maintain vision of Monkey King when he is perched on top of trees with Tree Dance, effectively countering his ability to stay hidden in tree lines. A casual Quelling Blade can also cut down Monkey King's tree from the Shadow Walk invisibility and stun him if he is not careful."
+    }
+  ]
+}

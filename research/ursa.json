@@ -1,0 +1,21 @@
+{
+  "name": "Ursa",
+  "slug": "ursa",
+  "url": "https://dotacoach.gg/en/heroes/counters/ursa",
+  "patch": "7.41f",
+  "checked": "2026-09-24",
+  "pairs": [
+    {
+      "name": "Phantom Lancer",
+      "reason": "Ursa has no sustained AoE to deal with illusions, it becomes worse since Phantom Lancer can create more illusions in a matter of seconds. Diffusal Blade can be used to drain Ursa mana. This is a standard item for Phantom Lancer in every match. Doppelganger applies basic dispel on Phantom Lancer, which will remove the slow from Earthshock. It also resets fights with more illusions, making hard for Ursa to hit the real Phantom Lancer. Manta Style creates two more illusions and also applies a basic dispel, further complicating the problem for Ursa to deal with."
+    },
+    {
+      "name": "Slark",
+      "reason": "Enrage cannot restore attributes stolen by Essence Shift and will reduce his physical damage output. Even if Ursa initiates with Earthshock, Slark can Pounce away or use Dark Pact after Ursa's initiation to avoid Fury Swipes' damage until Earthshock's slow is gone. Shadow Dance provides a save against the initiation of Ursa."
+    },
+    {
+      "name": "Chaos Knight",
+      "reason": "Ursa has no way to clear illusions quickly, making him vulnerable to Chaos Bolt and Phantasm combo. Reality Rift can quickly relocate or reinitiate on Ursa once the duration of Enrage is over. Phantasm can be used to dispel Earthshock's slow. Manta Style is another item that counter Ursa greatly. Ursa has low mobility, once jumped on by Reality Rift, Ursa struggles to escape. Doom"
+    }
+  ]
+}

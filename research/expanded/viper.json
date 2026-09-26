@@ -1,0 +1,49 @@
+{
+  "name": "Viper",
+  "slug": "viper",
+  "url": "https://dotacoach.gg/en/heroes/counters/viper",
+  "patch": "7.41f",
+  "checked": "2026-09-24",
+  "pairs": [
+    {
+      "name": "Naga Siren",
+      "reason": "Naga Siren’s illusions overwhelm Viper’s single-target damage style. He can’t clear illusions quickly, and they burn his mana. Song of the Siren resets fights where Viper tries to initiate. She scales harder into late game and dominates after laning."
+    },
+    {
+      "name": "Phantom Lancer",
+      "reason": "Phantom Lancer creates too many illusions for Viper to handle. Viper’s slows do little once PL gets Diffusal and Manta. He can’t clear illusions fast enough and gets overwhelmed. PL shrugs off poison damage with high sustain."
+    },
+    {
+      "name": "Terrorblade",
+      "reason": "Terrorblade resists Viper's early pressure due to high armor and Conjure Image. He outscales Viper and punishes his lack of burst. Viper can’t stop Sunder and gets destroyed in later fights. TB's illusions also act as meat shields against Viper's output."
+    },
+    {
+      "name": "Arc Warden",
+      "reason": "Arc Warden outranges Viper with Spark Wraith zoning and Tempest Double. He controls space safely while Viper struggles to close the gap. His clone soaks Viper's abilities and allows for free harassment. Arc Warden wins the map with split pressure."
+    },
+    {
+      "name": "Chaos Knight",
+      "reason": "Chaos Knight overpowers Viper with illusions and high burst damage. Viper’s slow single-target spells don’t impact CK’s phantoms. He forces Viper to buy items like Mjollnir that delay timing. CK punishes Viper's immobility and paper armor."
+    },
+    {
+      "name": "Tinker",
+      "reason": "Tinker spams lasers from fog where Viper can’t retaliate. He outscales Viper completely with high magic burst and mobility. Viper has no tools to stop rearming or teleportation. Once Blink is online, Tinker dominates the tempo."
+    },
+    {
+      "name": "Brewmaster",
+      "reason": "Brewmaster splits before Viper can kill him and dispels poison effects. Viper’s DOTs are useless against the Primal Split. He offers no way to stop Brewmaster from controlling fights. Brew’s utility and scaling outmatch Viper’s direct style."
+    },
+    {
+      "name": "Lycan",
+      "reason": "Lycan summons overwhelm Viper’s single-target approach. Viper can’t kite or burst Lycan before he closes the gap. His ultimate runs through slows and forces Viper out of fights. Lycan wins lane with sustain and summons if Viper can’t zone early."
+    },
+    {
+      "name": "Dark Seer",
+      "reason": "Dark Seer surges through Viper’s slows and sets up big AoE fights. Viper’s single-target focus is weak into illusions and Vacuum combos. Ion Shell punishes Viper in lane and ruins his supports. In teamfights, Dark Seer forces Viper to play reactively."
+    },
+    {
+      "name": "Chen",
+      "reason": "Chen's summons and heals overwhelm Viper’s damage-over-time style. He baits spells on creeps and sustains through fights. Viper struggles to lane if Chen rotates early. In the midgame, Viper’s poison is outclassed by Chen’s army and utility."
+    }
+  ]
+}

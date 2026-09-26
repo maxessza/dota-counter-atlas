@@ -1,0 +1,21 @@
+{
+  "name": "Dark Willow",
+  "slug": "dark-willow",
+  "url": "https://dotacoach.gg/en/heroes/counters/dark-willow",
+  "patch": "7.41f",
+  "checked": "2026-09-24",
+  "pairs": [
+    {
+      "name": "Juggernaut",
+      "reason": "Blade Fury makes him magic immune, allowing him to avoid Willow’s disables and burst damage. His Healing Ward provides sustain for himself and allies during fights, countering Willow’s poke. Juggernaut’s Omnislash can quickly burst Willow down if she gets caught out"
+    },
+    {
+      "name": "Axe",
+      "reason": "Berserker’s Call forces Willow to attack him, disrupting her spellcasting. His Counter Helix punishes Willow’s close-range attacks and summons. Axe’s high durability and tankiness allow him to survive Willow’s burst damage. With Culling Blade, he can finish Willow off quickly if she gets low."
+    },
+    {
+      "name": "Legion Commander",
+      "reason": "Duel locks Willow in place preventing her from escaping or casting spells freely.Legion’s high burst damage can quickly take down Willow during the duel.Willow’s disables are less effective when caught in Duel limiting her teamfight impact.Legion’s Press the Attack can also remove Dark Willow Brambles or Cursed Crown."
+    }
+  ]
+}

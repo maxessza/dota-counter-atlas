@@ -1,0 +1,45 @@
+{
+  "name": "Silencer",
+  "slug": "silencer",
+  "url": "https://dotacoach.gg/en/heroes/counters/silencer",
+  "patch": "7.41f",
+  "checked": "2026-09-24",
+  "pairs": [
+    {
+      "name": "Phantom Lancer",
+      "reason": "Silencer has no AoE or illusions control, so he gets overwhelmed by PL’s duplicates. PL can easily dodge Arcane Curse and nullify Silencer’s single-target impact. Global Silence doesn’t stop PL’s scaling or survivability."
+    },
+    {
+      "name": "Tidehunter",
+      "reason": "Tidehunter is naturally tanky and can purge Global Silence with Kraken Shell. He shrugs off Silencer’s harass and dominates the teamfight post-silence. Tide doesn't rely on constant spell casting, weakening Silencer’s kit."
+    },
+    {
+      "name": "Abaddon",
+      "reason": "Abaddon dispels Global Silence with Aphotic Shield and his ultimate, Borrowed Time, triggers despite silence. He removes Arcane Curse from himself or allies easily. Silencer has no way to stop Abaddon’s sustain-based playstyle."
+    },
+    {
+      "name": "Naga Siren",
+      "reason": "Silencer struggles heavily against illusions and Naga’s Song of the Siren resets fights, making Global Silence ineffective. Naga also has natural magic resistance and multiple targets to soak Glaives. In the late game, Silencer becomes irrelevant due to illusion spam."
+    },
+    {
+      "name": "Chen",
+      "reason": "Chen doesn’t rely on spell combos in fights, so Global Silence has limited impact. His army of creeps ignores Arcane Curse, Silencer lacks wave clear and can’t pressure Chen’s push strategy."
+    },
+    {
+      "name": "Arc Warden",
+      "reason": "Arc Warden plays at extreme range with clone split push, avoiding teamfights where Global Silence is effective. Spark Wraiths and Magnetic Field protect him from Silencer’s harassment. Silencer can’t easily catch or reach him, and the Tempest Double absorbs silences."
+    },
+    {
+      "name": "",
+      "reason": "Silencer has no AoE tools to clear spiderlings, making Broodmother dominate the lane and jungle. She’s unaffected by most of Silencer’s harass and controls the map with mobility. Brood can end the game before Silencer gets online."
+    },
+    {
+      "name": "Slark",
+      "reason": "Slark thrives in prolonged fights and can purge Arcane Curse and Global Silence with Dark Pact. He benefits from attacking repeatedly, reducing Silencer’s INT with Essence Shift. Silencer has no reliable lockdown to stop him from snowballing."
+    },
+    {
+      "name": "Lycan",
+      "reason": "Silencer has no tools to deal with units or summons, so Lycan's wolves overrun him easily. Lycan doesn’t rely on spells much, rendering Global Silence ineffective. He pushes fast and forces fights before Silencer can scale."
+    }
+  ]
+}

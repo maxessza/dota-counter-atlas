@@ -1,0 +1,57 @@
+{
+  "name": "Templar Assassin",
+  "slug": "templar-assassin",
+  "url": "https://dotacoach.gg/en/heroes/counters/templar-assassin",
+  "patch": "7.41f",
+  "checked": "2026-09-24",
+  "pairs": [
+    {
+      "name": "Huskar",
+      "reason": "Huskar's burn damage from Burning Spear is incredibly strong against Templar Assassin as it completely cancels out her Refraction from the burning over time which results in making her very vulnerable to ganks and harassments, and in turn forcing her out of the lane. Huskar often buys Heaven's Halberd."
+    },
+    {
+      "name": "Viper",
+      "reason": "The damage over time from Viper's Poison Attack and Viper Strike rapidly wear down Refraction charges, allowing Templar Assassin to be damaged. Additionally, Corrosive Skin causes her attacks to apply damage overtime on her as well."
+    },
+    {
+      "name": "Phantom Lancer",
+      "reason": "Phantom Lancer's illusions destroy Refraction charges very quickly. Diffusal Blade, his core item, drains Templar Assassin's small mana pool, rendering her unable to save herself with Meld."
+    },
+    {
+      "name": "Naga Siren",
+      "reason": "Naga’s illusions burn through Refraction instantly, removing TA's key defense. Templar Assassin struggles to clear illusions efficiently and gets overwhelmed in prolonged fights. Song of the Siren can reset fights or catch TA before she gets a kill."
+    },
+    {
+      "name": "Batrider",
+      "reason": "Sticky Napalm ruins her mobility and melts Refraction charges rapidly. Flaming Lasso completely removes her from fights, especially pre-BKB. Batrider also breaks Meld positioning and traps with Firefly vision."
+    },
+    {
+      "name": "Brewmaster",
+      "reason": "Primal Split can dispel Refraction and control Templar Assassin with cyclone. Brew's tankiness and utility make it difficult for her to burst him down. He excels in chaotic fights that disrupt Templar Assassin’s flow and force her into unfavorable targets."
+    },
+    {
+      "name": "Terrorblade",
+      "reason": "Templar Assassin cannot burst him through Sunder, and he outscales her in the late game. Terrorblade’s illusions shred Refraction and tank a lot of her damage. She struggles once he has Manta + Skadi, as she can’t isolate him easily."
+    },
+    {
+      "name": "Phoenix",
+      "reason": "Supernova completely halts Templar Assassin's right-click potential if not destroyed in time. Phoenix's AoE burn removes Refraction quickly. Slow and disarm from Fire Spirits reduce her burst and chase potential."
+    },
+    {
+      "name": "Sand King",
+      "reason": "Burrowstrike + Sandstorm combo instantly removes Refraction, making her vulnerable. Sand King has great waveclear and stops Templar Assassin’s mid-push momentum. Epicenter prevents her from blinking or diving squishy supports."
+    },
+    {
+      "name": "Troll Warlord",
+      "reason": "Troll can perma-root Templar Assassin and ignore her burst once he has BKB. His attack speed also shreds through Refraction very quickly. In a manfight, she loses unless she kills him before he ults."
+    },
+    {
+      "name": "Treant Protector",
+      "reason": "Living Armor mitigates Templar Assassin’s burst during ganks and slows tower pushes. Overgrowth roots her through BKB, ruining her backline dives. He delays the game, which is not favorable for her tempo playstyle."
+    },
+    {
+      "name": "Arc Warden",
+      "reason": "Magnetic Field makes it hard for Templar Assassin to hit targets reliably. Double heroes (main + Tempest) confuse her targeting and bait Refraction cooldowns. Arc Warden can also kite and outscale her with his clone and ranged poke"
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "name": "Chen",
+  "slug": "chen",
+  "url": "https://dotacoach.gg/en/heroes/counters/chen",
+  "patch": "7.41f",
+  "checked": "2026-09-24",
+  "pairs": [
+    {
+      "name": "Alchemist",
+      "reason": "Chen's core mechanic is having an army of creeps to aid him in battle - Alchemist's core mechanic is killing creeps as they yield extra gold. This leaves Chen in an awkward spot as every engagement with Alch could just spiral his netwroth out of control. Alchemist's strong early game allows him to deal with Chen's early game pressure better than most heroes as he can drop an Acid Spray in front of a tower to hinder Chen's push."
+    },
+    {
+      "name": "Earthshaker",
+      "reason": "Earthshaker is strong against Chen. His Echo Slam deals massive damage based on the number of enemy units, making Chen’s controlled creeps a liability in teamfights. Fissure and Enchant Totem help control Chen and isolate his heroes or creeps. Earthshaker can punish Chen’s grouped pushes by blinking in and wiping out both creeps and heroes. Overall, Chen’s strength in numbers plays directly into Earthshaker’s AoE burst, making Earthshaker a solid counter."
+    },
+    {
+      "name": "Phantom Lancer",
+      "reason": "His illusions make it difficult for Chen to control or kill him quickly. Phantom Lancer’s high mobility and confusing presence force Chen to waste creeps and spells.Chen’s single-target abilities struggle to keep up with Phantom Lancer’s illusion spam and escape potential."
+    },
+    {
+      "name": "Sven",
+      "reason": "His Great Cleave allows him to deal massive area damage, quickly wiping out Chen’s summoned units. Storm Hammer provides reliable lockdown on Chen or his creeps, preventing escape or control. With proper positioning, Sven can dominate teamfights by removing Chen’s army and focusing Chen himself."
+    },
+    {
+      "name": "Tiny",
+      "reason": "His burst damage and stun can quickly kill Chen’s controlled creeps and heroes. Tiny’s Avalanche and Toss combo disrupt Chen’s positioning and cancel creep attacks. He can clear Chen’s creep army fast with Tree Grab and AoE damage. Tiny’s burst and mobility make it hard for Chen to execute his early push and control strategy."
+    },
+    {
+      "name": "Anti-Mage",
+      "reason": "His Blink lets him dodge Chen’s disables and reposition in fights. Anti-Mage’s Mana Break burns Chen’s mana, limiting his ability to cast spells and control creeps. With Mana Void, Anti-Mage punishes Chen’s high mana usage and low mobility. Anti-Mage’s farming speed and late-game scaling make it difficult for Chen to keep up or control the map."
+    },
+    {
+      "name": "Sand King",
+      "reason": "His Burrowstrike provides a reliable stun to interrupt Chen’s spells and creep control. Sand King’s Sand Storm lets him avoid damage while poking Chen and his creeps. Epicenter can quickly clear Chen’s army and deal huge AoE damage in teamfights. Overall, Sand King’s mobility and AoE control counter Chen’s pushing and creep-based strategies effectively."
+    },
+    {
+      "name": "Keeper of the Light",
+      "reason": "His Blinding Light can disrupt Chen’s creep attacks by forcing creeps to miss their targets. Keeper’s strong mana regeneration and spammable spells allow him to out-sustain Chen in lane. Illuminate and Spirit Form deal high AoE damage, quickly clearing Chen’s creep army. Keeper’s control and damage make it difficult for Chen to maintain pressure or push effectively."
+    },
+    {
+      "name": "Dawnbreaker",
+      "reason": "Her high burst damage and mobility allow her to quickly kill Chen’s creeps and heroes. Dawnbreaker’s Starbreaker can cleave through Chen’s summoned units, reducing his pushing power. Her Solar Guardian ultimate provides global presence to counter Chen’s map control and rotations."
+    },
+    {
+      "name": "Morphling",
+      "reason": "His high mobility and Waveform let him dodge Chen’s disables and engage or escape easily. Morphling’s burst damage can quickly kill Chen’s controlled creeps and heroes. He can replicate Chen or key creeps with Morph, confusing Chen’s team and turning his own units against him.Morphling’s strong late-game scaling outmatches Chen’s early push and utility."
+    }
+  ]
+}

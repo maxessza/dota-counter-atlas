@@ -1,0 +1,21 @@
+{
+  "name": "Enchantress",
+  "slug": "enchantress",
+  "url": "https://dotacoach.gg/en/heroes/counters/enchantress",
+  "patch": "7.41f",
+  "checked": "2026-09-24",
+  "pairs": [
+    {
+      "name": "Marci",
+      "reason": "Enchantress is bad against Marci because Marci can quickly close the gap and burst her down with high physical damage through unleash, ignoring Untouchable through Sidekick’s bonus damage and her rapid mobility. Enchantress struggles to kite Marci once she's on top of her."
+    },
+    {
+      "name": "Chen",
+      "reason": "Against Chen, Enchantress can get outpaced in pushing and map control. Chen’s large creep army outscales Enchantress' Enchant, and his team-healing can nullify her chip damage from Impetus during mid to late-game pushes. Penitence also removes untouchable since it buff chen allies attack speed.Chen can also persuade enchantress creeps"
+    },
+    {
+      "name": "Ursa",
+      "reason": "Ursa counters Enchantress due to his Fury Swipes stacking damage, which bypasses Untouchable’s attack speed slow. Once Ursa gets on top of her, she can’t sustain through the damage, and her mobility isn’t enough to escape his chase potential."
+    }
+  ]
+}

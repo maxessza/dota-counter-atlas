@@ -1,0 +1,21 @@
+{
+  "name": "Pudge",
+  "slug": "pudge",
+  "url": "https://dotacoach.gg/en/heroes/counters/pudge",
+  "patch": "7.41f",
+  "checked": "2026-09-24",
+  "pairs": [
+    {
+      "name": "Abaddon",
+      "reason": "Aphotic Shield is a low cooldown ability that can outright dispel Dismember and when combined with Mist Coil, Pudge finds himself struggling to output enough damage to get through all the sustain. Withering Mist provides additional healing mitigation, which is one of core Pudge's main strengths he plays for. Borrowed Time can be used during Dismember to dispel it."
+    },
+    {
+      "name": "Anti-Mage",
+      "reason": "Counterspell can block and reflect Dismember, while providing significant Magic Resistance that mitigates a lot of Pudge's damage from Rot and Dismember. Blink's mobility makes it hard for Pudge to keep up with Anti Mage, or lock him down and stay on top of him when combined with Counterspell."
+    },
+    {
+      "name": "Beastmaster",
+      "reason": "Meat Hook is Pudge's signature and arguably most impactful ability. Call of the Wild Boar makes it hard for Pudge to land a Meat Hook on Beastmaster or any of his allies, while Call of the Wild Hawk summons hovering in a circle around Beastmaster makes it a complete Hail Marry play whether the Meat Hook would connect or not. Primal Roar interrupts Dismember."
+    }
+  ]
+}

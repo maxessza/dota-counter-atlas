@@ -1,0 +1,45 @@
+{
+  "name": "Arc Warden",
+  "slug": "arc-warden",
+  "url": "https://dotacoach.gg/en/heroes/counters/arc-warden",
+  "patch": "7.41f",
+  "checked": "2026-09-24",
+  "pairs": [
+    {
+      "name": "Meepo",
+      "reason": "Meepo packs a lot of raw HP and damage between him and all his clones making it dificult for Arc to do enough damage to outright kill him. Earthbind can chain root Arc into death preventing him from creating distance and Poof can be used to both burst Arc down and get on top of him. Flux's additional effects rarely apply to Meepo as he always has friendly units around him. Dig and Megameepo are both strong tools that buy time for Meepo to avoid damage and close the gap on Arc."
+    },
+    {
+      "name": "Phantom Lancer",
+      "reason": "Doppelganger is a low cooldown dispel that can remove Flux. Additionally, PL is able to create an abundance of Illusions with Spirit Lance, Doppelganger and his Juxtapose to soak up any Spark Wraiths without them ever getting to damage any actual heroes. Phantom Rush allows him to reliably get on top of Arc due to it's high range and low cooldown."
+    },
+    {
+      "name": "Broodmother",
+      "reason": "Spawn Spiderlings create a lot of summons for Brood, which can soak Spark Wraiths for her and mitigate the effects of Flux significantly. Spin Web provides her with unobstructed movement making it easy for her to get on top of Arc and use Insatiable Hunger to deal enough damage and sustain herself in order to kill both Arc and his Tempest Double."
+    },
+    {
+      "name": "Lycan",
+      "reason": "Shapeshift prevent Lycan from being slowed and Summon Wolves usually means he has friendly units near him to soak any Wrath Sparks and mitigate most Flux's strengths. Being a melee hero he doesn't care as much about Magnetic Field's Evasion and usually packs enough damage to just focus down Arc in a matter of seconds."
+    },
+    {
+      "name": "Marci",
+      "reason": "Marci has a natural gap close on Arc Warden using Rebound to burst him down during Unleash. Dispose can further reposition Arc Warden out of his Magnetic Field and make him vulnerable."
+    },
+    {
+      "name": "Sand King",
+      "reason": "Sand King can easily burst down Arc Warden with a surprise Epicenter initiation. A quick Blink Dagger into Burrowstrike combo leaves Arc little time to react or escape. Arc’s low durability makes him especially vulnerable to Sand King's magic burst. If caught off guard, both Arc and his clone can be eliminated before getting a chance to fight back."
+    },
+    {
+      "name": "Beastmaster",
+      "reason": "Beastmaster can lock down Arc Warden instantly with Blink Dagger into Primal Roar. The follow-up Wild Axes burst can quickly bring Arc down before he can respond. Arc’s low HP pool and reliance on positioning make him an easy target for Beastmaster’s aggression. A well-timed initiation leaves Arc no time to cast Magnetic Field or escape"
+    },
+    {
+      "name": "Warlock",
+      "reason": "Warlock can control Arc Warden from a distance using Fatal Bonds to spread incoming damage. Chaotic Offering stuns Arc and his clone, disrupting their positioning and damage output. Upheaval slows Arc dramatically, making it hard for him to kite or reposition during fights."
+    },
+    {
+      "name": "Naga Siren",
+      "reason": "Naga Siren can use Song of the Siren to set up clean initiations on Arc Warden. With her illusions, she can easily get on top of Arc and his clone, overwhelming them with physical damage. During the mid game, this pressure prevents Arc from safely farming and hitting his key item timings. A well-timed Song into burst eliminates Arc before he can use Magnetic Field or reposition."
+    }
+  ]
+}

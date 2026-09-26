@@ -1,0 +1,57 @@
+{
+  "name": "Witch Doctor",
+  "slug": "witch-doctor",
+  "url": "https://dotacoach.gg/en/heroes/counters/witch-doctor",
+  "patch": "7.41f",
+  "checked": "2026-09-24",
+  "pairs": [
+    {
+      "name": "Puck",
+      "reason": "Puck can easily dodge your Paralyzing cask and Maledict as well as Silence you during Death Ward."
+    },
+    {
+      "name": "Templar Assassin",
+      "reason": "Templar's Reflection uses instances to negate damage and all of Witch Doctors spells are instance damage. Witch Doctor also has low armor which Templar Assassin can reduce even further with Meld."
+    },
+    {
+      "name": "Anti-Mage",
+      "reason": "Anti-Mage can easily deflect your predictable Paralyzing Cask and set you up for a kill, in addition he can blink away from trouble or blink in pre-emptively with Counter Spell."
+    },
+    {
+      "name": "Medusa",
+      "reason": "Her Mana Shield makes her hard to kill with Death Ward or Maledict. She also outlasts long fights where Witch Doctor is most dangerous."
+    },
+    {
+      "name": "Pangolier",
+      "reason": "Constant mobility and spell immunity during Rolling Thunder make it hard for Witch Doctor to channel Death Ward or land Cask and Maledict effectively."
+    },
+    {
+      "name": "",
+      "reason": "– When she activates Pierce the Veil, she becomes immune to physical damage, completely negating Death Ward. She can also burst Witch Doctor quickly."
+    },
+    {
+      "name": "Faceless Void",
+      "reason": "Chronosphere completely disables Witch Doctor, often catching him before he can cast Death Ward. Void also excels at bursting supports."
+    },
+    {
+      "name": "Riki",
+      "reason": "Can sneak up and silence Witch Doctor with Smoke Screen and Tricks of the Trade, preventing spellcasting. Hard to detect pre-dust/gem."
+    },
+    {
+      "name": "Morphling",
+      "reason": "Can shift strength to survive Maledict and Death Ward. Once he gets his core items, he can burst Witch Doctor in seconds."
+    },
+    {
+      "name": "Sand King",
+      "reason": "Blink + Burrowstrike cancels Death Ward easily. His Sandstorm forces Witch Doctor to buy detection. SK's magic damage bursts him fast."
+    },
+    {
+      "name": "Bristleback",
+      "reason": "Death Ward and Maledict deal little due to his Bristleback passive and high tankiness. He excels in drawn-out fights.He can use blade mail to kill witch doctor during death ward channeling ."
+    },
+    {
+      "name": "Puck",
+      "reason": "Nearly impossible to hit with Paralyzing Cask or Maledict due to Phase Shift and high mobility. Puck can silence and burst you easily."
+    }
+  ]
+}

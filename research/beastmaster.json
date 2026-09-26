@@ -1,0 +1,21 @@
+{
+  "name": "Beastmaster",
+  "slug": "beastmaster",
+  "url": "https://dotacoach.gg/en/heroes/counters/beastmaster",
+  "patch": "7.41f",
+  "checked": "2026-09-24",
+  "pairs": [
+    {
+      "name": "Medusa",
+      "reason": "Mana Shield allows Medusa to survive Beastmaster's Primal Roar and to counter initiate with Stone Gaze. Split Shot, Mystic Snake and Gorgon's Grasp all affect multiple targets and are naturally effective at clearing Call of the Wild Boar and Call of the Wild Hawk summons. Primal Road triggers Cold Blooded making Medusa even more survivable."
+    },
+    {
+      "name": "Dawnbreaker",
+      "reason": "Both Starbreaker and Celestial hammer are both effective at clearing Call of the Wild Boar and Call of the Wild Hawk summons due to their AOE property. More importantly Solar Guardian provides a global save, and counter initiation for Primal Roared ally anywhere on the map."
+    },
+    {
+      "name": "Sand King",
+      "reason": "Sand King's kit is entirely AOE making it easy for him to clear Call of the Wild Boar and Call of the Wild Hawk. More importantly, Caustic Finale turns Beastmaster's summons against him as even a single Stinger can affect multiple summons that upon death nuke Beastmaster for massive damage."
+    }
+  ]
+}

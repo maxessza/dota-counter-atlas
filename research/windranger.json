@@ -1,0 +1,21 @@
+{
+  "name": "Windranger",
+  "slug": "windranger",
+  "url": "https://dotacoach.gg/en/heroes/counters/windranger",
+  "patch": "7.41f",
+  "checked": "2026-09-24",
+  "pairs": [
+    {
+      "name": "Centaur Warrunner",
+      "reason": "Retaliate will shred through Windranger's health if she chooses to attack him during Focus Fire. Stampede can help his teammates escape from Windrun and Focus Fire."
+    },
+    {
+      "name": "Bloodseeker",
+      "reason": "Rupture turns Windranger's mobility against her. Blood Rite's silence makes Windranger totally useless, since she's extremely reliant on abilities."
+    },
+    {
+      "name": "Axe",
+      "reason": "Windranger’s long channeling Focus Fire makes her a prime target for Berserker’s Call. Axe forces her to attack him, triggering counter helix and controlling her. She gets countered hard during her burst window."
+    }
+  ]
+}

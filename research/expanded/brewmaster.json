@@ -1,0 +1,45 @@
+{
+  "name": "Brewmaster",
+  "slug": "brewmaster",
+  "url": "https://dotacoach.gg/en/heroes/counters/brewmaster",
+  "patch": "7.41f",
+  "checked": "2026-09-24",
+  "pairs": [
+    {
+      "name": "Visage",
+      "reason": "Visage can easily outfight Brewmaster by leveraging his powerful familiars. The familiars add consistent damage and lockdown, making it difficult for Brewmaster to engage safely. Their burst and control can overwhelm Brewmaster before he fully commits to fights. Visage’s ability to zone and pressure with familiars gives him an advantage in sustained engagements."
+    },
+    {
+      "name": "Lycan",
+      "reason": "Lycan can easily turn on Brewmaster using Shape Shift for increased movement speed and damage. He can quickly chase down and pick off Brewlings due to their low durability and slower movement. Lycan’s high mobility and burst make it hard for Brewmaster to maintain control in fights. This allows Lycan to exploit Brewmaster’s weaknesses and dominate engagements"
+    },
+    {
+      "name": "Primal Beast",
+      "reason": "Primal Beast can get on top of Brewmaster using Onslaught of the Beast and Pulverize to initiate aggressively. He can use Trample to quickly kill Brewmaster’s Brewlings, removing Brewmaster’s key control tools. Primal Beast’s lockdown and burst damage make him a strong counter to Brewmaster in fights"
+    },
+    {
+      "name": "Marci",
+      "reason": "Marci can man-fight Brewmaster effectively with her high mobility and damage. Her ultimate, Unleash, allows her to take out Brewmaster’s Brewlings quickly, reducing his control in fights. With sustained pressure and disables, Marci can force Brewmaster on the defensive. This makes Marci a strong opponent who can challenge Brewmaster’s presence in engagements."
+    },
+    {
+      "name": "Lone Druid",
+      "reason": "Lone Druid can fear off Brewmaster’s Brewlings or Beastmaster with Savage Roar, disrupting their control. He can root Brewmaster or his Brewlings with Root, limiting their mobility. Being naturally tanky, Lone Druid can man-fight Brewmaster effectively in longer teamfights. His combination of control and durability makes him a strong opponent against Brewmaster’s aggression."
+    },
+    {
+      "name": "Broodmother",
+      "reason": "Broodmother excels against Brewmaster by using her spiderlings to overwhelm his Brewlings and control the battlefield. Broodmother’s ability to split push and apply map pressure forces Brewmaster to respond, limiting his teamfight impact. Her mobility and sustained damage allow her to kite Brewmaster and punish him during extended fights."
+    },
+    {
+      "name": "Naga Siren",
+      "reason": "Naga Siren’s Song of the Siren allows her team to set up perfectly on Brewmaster, preventing him from casting Primal Split. This disables Brewmaster’s key escape and control tool, leaving him vulnerable in fights. Her illusions add pressure and confusion, making it harder for Brewmaster to respond effectively. Naga’s control and setup potential make her a strong counter against Brewmaster’s playstyle."
+    },
+    {
+      "name": "Enigma",
+      "reason": "Enigma can target Brewmaster if he becomes a potential threat, using Black Hole to eliminate him early in fights. By locking Brewmaster down, Enigma prevents him from using Primal Split and disrupting team engagements. This early control can swing fights heavily in Enigma’s team’s favor. Enigma’s crowd control makes him a strong counter to Brewmaster’s initiation and split tactics."
+    },
+    {
+      "name": "Slark",
+      "reason": "Slark can dispel Brewmaster’s disables and slows with his Dark Pact, making it harder for Brewmaster to control him. He can burn Brewmaster’s mana pool using Defusal Blade, limiting Brewmaster’s ability to cast Primal Split. This pressure reduces Brewmaster’s effectiveness in fights and forces him to play more cautiously."
+    }
+  ]
+}

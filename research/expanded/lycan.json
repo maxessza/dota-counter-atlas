@@ -1,0 +1,53 @@
+{
+  "name": "Lycan",
+  "slug": "lycan",
+  "url": "https://dotacoach.gg/en/heroes/counters/lycan",
+  "patch": "7.41f",
+  "checked": "2026-09-24",
+  "pairs": [
+    {
+      "name": "Bloodseeker",
+      "reason": "Bloodseeker's Rupture is consider a great counter since using it prevents you from running around with your Ultimate."
+    },
+    {
+      "name": "Bristleback",
+      "reason": "Quill Spray can be used to kill Lycan's summons as well as Bristleback allows him to stay alive against Lycan while dishing out counter attacks."
+    },
+    {
+      "name": "Tidehunter",
+      "reason": "Kraken Shell grants him massive physical attack protection and Anchor Smash will wipe the area, clearing Lycan's wolves."
+    },
+    {
+      "name": "Naga Siren",
+      "reason": "Naga Siren’s illusions slow down Lycan's summons and confuse his target focus. Song of the Siren stops Lycan mid-push or teamfight initiation. She scales better into the late game and out-splits Lycan. Her tanky illusions also waste Lycan's Shapeshift duration."
+    },
+    {
+      "name": "Chen",
+      "reason": "Chen can dominate creeps, weakening Lycan’s unit advantage in lane and teamfights. Holy Persuasion creeps block paths and absorb wolf damage. Chen often groups early, countering Lycan's split-push strategy."
+    },
+    {
+      "name": "Techies",
+      "reason": "Techies slows down Lycan’s snowball with mine traps and area denial. Wolves trigger Proximity Mines, wasting Lycan’s resources. Blast Off silences Lycan during his Shapeshift. Lycan’s push is hard to commit to due to threat of instant burst."
+    },
+    {
+      "name": "Kunkka",
+      "reason": "Kunkka's boat buff and cleave can wipe out Lycan’s summons easily. X Marks the Spot and Torrent make kiting Lycan trivial. Kunkka’s tankiness makes it hard for Lycan to burst him. His teamfight control punishes Lycan's all-in style."
+    },
+    {
+      "name": "Sven",
+      "reason": "Sven has Great Cleave to instantly kill Lycan's wolves and units. He becomes immune to slows with Black King Bar, making Lycan’s chase ineffective. Sven outdamages Lycan in most engagements post-15 minutes. Storm Hammer stuns Lycan before he gets full value from Shapeshift."
+    },
+    {
+      "name": "Batrider",
+      "reason": "Batrider easily kites Lycan with sticky Napalm and Flaming Lasso. Lycan’s summons don’t help against magic damage over time and repositioning. Firefly burns through creeps and wolves quickly. Once lassoed, Lycan can't deal his burst damage effectively."
+    },
+    {
+      "name": "Necrophos",
+      "reason": "Necrophos punishes Lycan’s commitment with Reaper’s Scythe. Ghost Shroud makes him untargetable by Lycan’s physical damage. Lycan’s units feed Death Pulse sustain. Lycan can't burst him down before he outheals the damage."
+    },
+    {
+      "name": "Meepo",
+      "reason": "Meepo’s high stat gain and clones can overwhelm Lycan faster than he can respond. He uses Poof and Earthbind to lock Lycan in place. Lycan’s summons become ineffective due to AoE nukes. In a farm race, Meepo scales faster and snowballs harder."
+    }
+  ]
+}

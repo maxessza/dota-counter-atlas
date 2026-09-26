@@ -1,0 +1,21 @@
+{
+  "name": "Morphling",
+  "slug": "morphling",
+  "url": "https://dotacoach.gg/en/heroes/counters/morphling",
+  "patch": "7.41f",
+  "checked": "2026-09-24",
+  "pairs": [
+    {
+      "name": "Alchemist",
+      "reason": "Morphling naturally has high base attack damage and Alch is capable of significantly reducing it with Corrosive Weaponry and cripple Morph's overall damage output. Chemical Rage is by far Alchemist's best spell, which Morphling is unable to copy with his ult - Morph. Morph can be slow to ramp up and generally speaking by the time he's ready to fight Alch is ready to take his Ancient."
+    },
+    {
+      "name": "Ancient Apparition",
+      "reason": "Ice Blast prevents Morphling from using Attribute Shift (Strength Gain) to increase his HP pool and 'heal' up. To farm optimally Morphlings keep their HP low in order to have as much Agility as possible, which allows AA to snipe him across the map with Ice Blast."
+    },
+    {
+      "name": "Axe",
+      "reason": "Axe counters Morphling with instant disable from Blink Call into Blade Mail. Morphling’s low armor while shifting strength becomes a liability. Axe punishes greedy Morph builds with pure initiation. Morphling can’t avoid dying if caught while not fully morphed."
+    }
+  ]
+}

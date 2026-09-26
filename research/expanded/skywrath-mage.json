@@ -1,0 +1,49 @@
+{
+  "name": "Skywrath Mage",
+  "slug": "skywrath-mage",
+  "url": "https://dotacoach.gg/en/heroes/counters/skywrath-mage",
+  "patch": "7.41f",
+  "checked": "2026-09-24",
+  "pairs": [
+    {
+      "name": "Visage",
+      "reason": "Familiars interrupt Skywrath’s positioning and can cancel channeling supports nearby. Visage’s cloak resists burst, and Skywrath has no way to clear summons effectively. He gets punished hard in extended fights."
+    },
+    {
+      "name": "Chen",
+      "reason": "Chen’s creeps tank Mystic Flare and break combo setups. He provides sustain and healing that negates Skywrath’s quick burst style. Skywrath can’t pick off targets easily through Hand of God and creeps."
+    },
+    {
+      "name": "Lycan",
+      "reason": "Lycan’s high movement speed and summons overwhelm Skywrath. He runs Skywrath down with ease, and Skywrath’s spells don’t stop Lycan’s push. Once Lycan builds BKB, Skywrath is a non-threat."
+    },
+    {
+      "name": "Lone Druid",
+      "reason": "The Spirit Bear tanks Mystic Flare and disables Skywrath with entangle. Skywrath has no control over the bear or its durability. The Druid himself can kill Sky quickly with ranged damage or Blink Bear rushes."
+    },
+    {
+      "name": "Wraith King",
+      "reason": "Skywrath wastes a full combo on Wraith King’s first life. With BKB and reincarnation, Wraith King ignores Skywrath’s control completely. He closes the gap and punishes squishy supports easily."
+    },
+    {
+      "name": "",
+      "reason": "Oracle nullifies Skywrath’s entire playstyle. False Promise prevents death from Mystic Flare, and Fate’s Edict gives magic immunity to allies. He hard-counters burst-heavy magic dealers like Skywrath."
+    },
+    {
+      "name": "Medusa",
+      "reason": "Medusa’s mana shield absorbs Skywrath’s magical damage, and she survives long enough to outscale him. His burst becomes less useful as her tankiness increases. Mystic Flare is almost completely negated."
+    },
+    {
+      "name": "Templar Assassin",
+      "reason": "TA’s Refraction absorbs all of Skywrath’s magic poke. She can kill him in a couple of hits with Blink + Meld before he gets a second spell off. His damage is wasted on her shield unless perfectly timed."
+    },
+    {
+      "name": "Meepo",
+      "reason": "Meepo punishes low-mobility supports like Skywrath with net and poof combo. His clones spread out and take less damage from single-target spells. Skywrath has no AoE or way to keep Meepos off him."
+    },
+    {
+      "name": "Tiny",
+      "reason": "Tiny shrugs off Skywrath’s damage once he gets items. He jumps in with Blink + Toss combo and deletes Skywrath instantly. Skywrath’s lack of control makes him easy prey for Tiny’s burst and mobility."
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "name": "Visage",
+  "slug": "visage",
+  "url": "https://dotacoach.gg/en/heroes/counters/visage",
+  "patch": "7.41f",
+  "checked": "2026-09-24",
+  "pairs": [
+    {
+      "name": "Winter Wyvern",
+      "reason": "Since the Familiars are always around Visage, catching him in a Winters Curse and potentially kill him."
+    },
+    {
+      "name": "Luna",
+      "reason": "Moon Glaives is very effective against Visage because not only it can easily destroy Visage's Familiars, but can also remove one instance of Gravekeeper's Cloak upon each hit to Visage, leaving him susceptible to damage. Once Visage's Familiars are picked off and all instances of Gravekeeper's Cloak are removed, Luna will be able to easily kill Visage with Eclipse."
+    },
+    {
+      "name": "Tidehunter",
+      "reason": "Visage's Familiars cannot penetrate Kraken Shell and will do almost no damage to Tidehunter. Anchor Smash's bonus damage has the potential to kill Familiars or reduce their damage."
+    },
+    {
+      "name": "Naga Siren",
+      "reason": "Visage is bad against Naga Siren because her illusions overwhelm Visage and make it hard for him to identify and focus the real target. Her Song of the Siren resets fights and completely wastes Visage’s burst timing with Familiars. Naga’s illusions soak up Soul Assumption charges, denying burst potential. Over time, her Radiance and Diffusal Blade combo also burns Visage’s mana and weakens his survivability."
+    },
+    {
+      "name": "Phantom Lancer",
+      "reason": "Visage is bad against Phantom Lancer because the massive number of illusions confuse Visage’s auto-targeting from Familiars and force Soul Assumption onto the wrong units. Phantom Lancer is hard to catch due to Doppelganger and high agility scaling, while Visage lacks reliable area-of-effect damage to clear illusions. Once Phantom Lancer builds Manta Style and Heart, he becomes unkillable for Visage. The birds also lose effectiveness against dispersed illusions."
+    },
+    {
+      "name": "Lycan",
+      "reason": "Visage struggles against Lycan because Lycan and his units can quickly focus and destroy Visage’s Familiars, reducing his teamfight impact. Lycan’s summons do not trigger Soul Assumption effectively due to their spread-out damage. Visage has no hard disable to stop Lycan from diving supports or taking objectives with his army. Lycan's physical burst overwhelms Visage before he can reposition or summon defensive Gravekeeper’s Cloak stacks."
+    },
+    {
+      "name": "Bristleback",
+      "reason": "Visage is weak against Bristleback since Bristleback has high sustain and armor, which reduces Visage’s physical damage from Familiars and auto-attacks. Soul Assumption is not reliable because Bristleback doesn’t take burst damage, only slow chip damage. Visage cannot burst Bristleback down even with full charges, and his constant Quill Spray spam can shred Visage’s Familiars and Gravekeeper’s Cloak layers. Bristleback also builds tanky items that ignore Visage's output."
+    },
+    {
+      "name": "Void Spirit",
+      "reason": "Visage is bad against Void Spirit because Void Spirit is highly mobile and can easily dodge Soul Assumption projectiles and Familiars. His Aether Remnant and Dissimilate allow him to quickly reposition and burst down Visage before he can react. Visage’s slow movement and cast animations make him a prime target for Void Spirit’s high tempo and magic burst. In addition, Void Spirit’s silence or control prevents Visage from responding."
+    },
+    {
+      "name": "Crystal Maiden",
+      "reason": "Visage is bad against Crystal Maiden because she can easily freeze Visage or his Familiars with Frostbite, completely halting their impact. Her Freezing Field deals high AoE magic damage that melts Visage’s cloak layers and Familiars. Crystal Maiden also provides sustain to her team through Arcane Aura, helping allies deal with Visage’s mana-intensive pokes. Her crowd control punishes Visage’s lack of mobility."
+    },
+    {
+      "name": "Kunkka",
+      "reason": "Visage is bad against Kunkka because Kunkka’s high AoE damage from Tidebringer and spells like Boat and Torrent disrupt Visage’s positioning and quickly remove Gravekeeper’s Cloak layers. X Mark the Spot ensures Visage cannot flee, and Ghost Ship gives the enemy team damage mitigation during Visage’s burst window. His Familiars are easily killed by Tidebringer cleave. Kunkka's tanky build also shrugs off Visage's limited magic burst."
+    }
+  ]
+}

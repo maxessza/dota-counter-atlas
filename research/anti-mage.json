@@ -1,0 +1,21 @@
+{
+  "name": "Anti-Mage",
+  "slug": "anti-mage",
+  "url": "https://dotacoach.gg/en/heroes/counters/anti-mage",
+  "patch": "7.41f",
+  "checked": "2026-09-24",
+  "pairs": [
+    {
+      "name": "Night Stalker",
+      "reason": "Crippling Fear prevents AM from abusing his amazing mobility by not allowing him to use Blink. Dark Ascension makes it hard for AM to play on the outskirts of fights and wait for his opportune moment as NS's vision outranges Blink substantially. NS has one of the lowest Intelligence gains in DOTA and generally builds for rightclick making him a poor Mana Void target."
+    },
+    {
+      "name": "Meepo",
+      "reason": "Simply put Meepo stats checks AM like no other hero as any stats he builds get it's value multiplied and is easily able to overwhelm AM after just a couple of items and a couple of extra Meepos. Earthbind can be used to chain root AM to death."
+    },
+    {
+      "name": "Huskar",
+      "reason": "Mana Break and Mana Void literally do nothing against Huskar as he is the only hero in DOTA without a Mana pool. Counterspell does NOT block/ reflect Life Break nor does Blink disjoint it as Huskar still follows him."
+    }
+  ]
+}

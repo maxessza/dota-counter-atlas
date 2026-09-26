@@ -1,0 +1,21 @@
+{
+  "name": "Dragon Knight",
+  "slug": "dragon-knight",
+  "url": "https://dotacoach.gg/en/heroes/counters/dragon-knight",
+  "patch": "7.41f",
+  "checked": "2026-09-24",
+  "pairs": [
+    {
+      "name": "Necrophos",
+      "reason": "Heartstopper Aura and Reaper's Scythe go right through Dragon Knight's armor."
+    },
+    {
+      "name": "Ursa",
+      "reason": "Fury Swipes can tear Dragon knight down as it stacks infinitely."
+    },
+    {
+      "name": "Outworld Devourer",
+      "reason": "Arcane Orb's constant pure damage output is devastating to Dragon Knight. Dragon Knight's relatively low mana pool leads to heavy damage from Sanity's Eclipse, which also bypasses his armor."
+    }
+  ]
+}

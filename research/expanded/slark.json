@@ -1,0 +1,61 @@
+{
+  "name": "Slark",
+  "slug": "slark",
+  "url": "https://dotacoach.gg/en/heroes/counters/slark",
+  "patch": "7.41f",
+  "checked": "2026-09-24",
+  "pairs": [
+    {
+      "name": "Necrophos",
+      "reason": "Death Pulse, Hearthstopper Aura and Death Seeker (Aghanim's Shard Upgrade) can affect Slark during Shadow Dance and Depth Shroud (Aghanim's Shard Upgrade), which are his main defensive tools. Dark Pact does not dispel Reaper's Scythe and Ghost Shroud prevents Slark from attacking Necro and gaining Essence Shift stacks."
+    },
+    {
+      "name": "Bloodseeker",
+      "reason": "Rupture damages Slark during Pounce and makes it more difficult for him to play in and out of fights as eventually Thirst will reveal him and prevent him from healing with Barracuda. Blood Rite and Blood Mist (Aghanim's Scepter upg) can damage Slark during Shadow Dance and Depth Shroud due to it's AOE property."
+    },
+    {
+      "name": "Earthshaker",
+      "reason": "Despite Dark Pact being able to dispell both Aftershock and Fissure's stuns the sheer amount of constant AOE control that Earthshaker provides simply overwhelms Slark as they are able to affect him during Shadow Dance and Depth Shroud."
+    },
+    {
+      "name": "Enigma",
+      "reason": "Both Black Hole and Midnight Pulse can affect Slark despite his heavy defensive kit. Dark Pact does not dispel either, while Shadow Dance and Depth Shroud (Aghanim's Shard upgrade) do not prevent their effects due to them being AOE, giving Enigma a reliable way of locking down Slark . Black Hole can suck Slark back in as he Pounces and Midnight Pulse can destroy a large are of trees preventing him from hiding to heal up with Barracuda."
+    },
+    {
+      "name": "Leshrac",
+      "reason": "Leshrac's abundance of AOE damage allows him to damage Slark during his core defensive mechanims - Shadow Dance and Depth Shroud. Slark's low Strength gain makes him an easy target for Lesh in the early and mid game, before Slark farms up some tanky items and often finds himself run down by Lesh."
+    },
+    {
+      "name": "Night Stalker",
+      "reason": "Crippling Fear cares little about Dark Pact as it does not get dispelled by it - this prevents Slark from getting of his highest impact spells, which are also his main survivability tools: Shadow Dance and Depth Shroud (Aghanim's Shard upgrade); as well as limiting his mobility due to him not being able to cast Pounce and get away. Dark Ascension's unobstructed vision makes it a nightmare for Slark to disengage a fight and hide somewhere in order to heal up with Barracuda."
+    },
+    {
+      "name": "Grimstroke",
+      "reason": "Soulbind prevents Slark from using Pounce and Shadow Dance to escape. Ink Swell disables Slark mid-fight and forces poor engagements. Grimstroke’s combo with stun partners locks Slark down long enough to kill. Slark can’t purge the Soulbind debuff with Dark Pact."
+    },
+    {
+      "name": "Disruptor",
+      "reason": "Disruptor’s Glimpse pulls Slark back after escapes and cancels Shadow Dance healing. Static Storm prevents him from using spells during teamfights. Kinetic Field keeps him locked in place for coordinated burst. Disruptor counters Slark’s hit-and-run playstyle completely."
+    },
+    {
+      "name": "Leshrac",
+      "reason": "Leshrac’s AoE damage bypasses Slark’s regen and punishes his low HP pool. Split Earth and Edict zone him out from fights and objectives. Slark can’t sustain through magic burst without BKB. Leshrac dominates in fights Slark wants to extend."
+    },
+    {
+      "name": "Omniknight",
+      "reason": "Guardian Angel nullifies Slark’s physical damage entirely. He protects Slark’s targets, especially cores, from getting bursted. Slark is forced to disengage or waste key spells on supports."
+    },
+    {
+      "name": "Elder Titan",
+      "reason": "Elder Titan reduces Slark’s base armor with Natural Order, exposing his fragility. Echo Stomp locks him down and prevents Shadow Dance. Astral Spirit reveals Slark even in fog or invis. Titan’s area control counters Slark’s sneaky mobility."
+    },
+    {
+      "name": "Riki",
+      "reason": "Riki silences Slark with Smoke Screen and wins in mirror invis fights. Tricks of the Trade avoids most of Slark’s damage attempts. Riki punishes Slark during pounce cooldowns. His early burst control shuts down Slark before scaling."
+    },
+    {
+      "name": "Mars",
+      "reason": "Mars pins Slark with Spear of Mars to cancel mobility spells. Arena of Blood traps him and blocks Pounce paths. Mars builds early armor and disables that make Slark ineffective. Slark struggles to fight when confined or kited out."
+    }
+  ]
+}

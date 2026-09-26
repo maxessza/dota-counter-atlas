@@ -1,0 +1,21 @@
+{
+  "name": "Phantom Lancer",
+  "slug": "phantom-lancer",
+  "url": "https://dotacoach.gg/en/heroes/counters/phantom-lancer",
+  "patch": "7.41f",
+  "checked": "2026-09-24",
+  "pairs": [
+    {
+      "name": "Underlord",
+      "reason": "Atrophy Aura reduces BASE attack damage and PL being an Illusion hero greatly benefits from stacking Agility and increasing his Base damage and Attack Speed to empowers his Illusions. Agility stacking means high armor so both Firestorm and Pit of Malice are great at providing reliable Magic damage and Crowd Control for him and his Illusions due to their AOE properties."
+    },
+    {
+      "name": "Leshrac",
+      "reason": "Leshrac's AoE abilities destroy Phantom Lancer's illusions. Diabolic Edict and Pulse Nova require no targeting, thus hitting Phantom Lancer whenever he's nearby."
+    },
+    {
+      "name": "Jakiro",
+      "reason": "Jakiro's AoE abilities are great against Phantom Lancer: Dual Breath slows down and damages Phantom Lancer and his illusions. Liquid Fire will not only deal AoE damage but also lowers Phantom Lancer's attack speed. Ice Path and Macropyre combo can easily clear all of Phantom Lancer's illusions. Jakiro can predict Doppelganger and Ice Path on top."
+    }
+  ]
+}

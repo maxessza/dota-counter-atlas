@@ -1,0 +1,21 @@
+{
+  "name": "Medusa",
+  "slug": "medusa",
+  "url": "https://dotacoach.gg/en/heroes/counters/medusa",
+  "patch": "7.41f",
+  "checked": "2026-09-24",
+  "pairs": [
+    {
+      "name": "Alchemist",
+      "reason": "Simply put by the time Medusa is ready to fight Alchemist is ready to end the game. Her inability to pressure early or scale quickly when paired against Alch's farming potential often result's in games where she has half an inventory versus a maxed out Alch. Chemical Rage and Berserk Potion dispel Gorgon's Grasp."
+    },
+    {
+      "name": "Anti-Mage",
+      "reason": "Mana Break is amazing at shredding trough Medusa's mana pool and turning her core defensive mechanic Mana Shield against her with a huge Mana Void follow up . Manta is a staple item for AM that provides him with dispel for Gorgon's Grasp root and Counter Spell can block/reflect Mystic Snake."
+    },
+    {
+      "name": "Dark Seer",
+      "reason": "Wall of Replica and Normal Punch (Aghanim's Scepter Upgrade) can create multiple Illusions of Medusa to do devastating amounts of damage to her own team as she tends to build heavy stat items to improve her own Manta Illusions' damage and durability. The Illusions DS creates inherit both Mana Shield and Split Shot if it was active at the moment of creating the Illusion. Surge is amazing at disengaging from Stone Gaze or closing the gap on Dusa."
+    }
+  ]
+}

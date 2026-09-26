@@ -108,9 +108,16 @@
           <button id="ward-edit-toggle" class="ward-edit-toggle" type="button" aria-pressed="false">ปรับตำแหน่งหมุด</button>
           <button id="ward-add-start" class="ward-add-start" type="button" aria-pressed="false" hidden>＋ เพิ่ม Ward เอง</button>
           <button id="ward-delete-selected" class="ward-delete-selected" type="button" hidden>ลบจุด Sentry ที่เลือก</button>
+          <button id="ward-export-button" class="ward-export-button" type="button" hidden>คัดลอกชุด Ward สำหรับ Git</button>
           <button id="ward-reset-positions" class="ward-reset-positions" type="button" hidden>คืนค่า Ward เริ่มต้น</button>
           <span id="ward-edit-hint" class="ward-edit-hint" aria-live="polite" hidden></span>
         </div>
+        <details id="ward-export-panel" class="ward-export-panel" hidden>
+          <summary>ชุด Ward สำหรับแชร์เป็นค่าเริ่มต้น</summary>
+          <p>คัดลอก JSON นี้มาให้ Codex เพื่อบันทึกจุดที่ปรับไว้เป็นค่าเริ่มต้นของโปรเจกต์</p>
+          <textarea id="ward-export-text" rows="8" readonly spellcheck="false" aria-label="ข้อมูล Ward ที่แก้ไขแล้ว"></textarea>
+          <button id="ward-export-copy" type="button">คัดลอก JSON</button>
+        </details>
         <div class="ward-map-layout">
           <div class="ward-map-canvas">
             <svg id="ward-map" class="ward-map" viewBox="0 0 634 599" role="group" aria-label="แผนที่ Dota 2 ที่เลือกหมุด Ward ได้">

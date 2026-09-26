@@ -1,0 +1,49 @@
+{
+  "name": "Puck",
+  "slug": "puck",
+  "url": "https://dotacoach.gg/en/heroes/counters/puck",
+  "patch": "7.41f",
+  "checked": "2026-09-24",
+  "pairs": [
+    {
+      "name": "Night Stalker",
+      "reason": "Night Stalker silences and reveals Puck during Night Time. Crippling Fear prevents all spellcasting and forces BKB. Puck has no safe escape once silenced. Night Stalker is one of the best counters to mobile, squishy heroes."
+    },
+    {
+      "name": "Riki",
+      "reason": "Riki’s Smoke Screen disables Puck’s spell usage completely. He can scout and follow Puck even in trees or during Orb. Diffusal Blade and burst damage kill Puck fast. Puck struggles in teamfights when silenced from invisibility."
+    },
+    {
+      "name": "Lone Druid",
+      "reason": "Lone Druid’s bear is tanky and applies strong push and root pressure. Puck can’t clear the bear easily with his burst. Once rooted, Puck dies quickly to physical damage. Druid forces early towers and ends games before Puck scales."
+    },
+    {
+      "name": "Huskar",
+      "reason": "Huskar shrugs off magic damage and forces fights before Puck is ready. Burning Spear and Inner Fire punish Puck’s low HP pool. Coil doesn’t stop Huskar’s aggression. Puck can’t burst him without coordinated help."
+    },
+    {
+      "name": "Dragon Knight",
+      "reason": "Dragon Knight’s magic resistance and regen negate Puck’s early damage. He doesn’t care about being silenced. Dragon Form allows safe pushing, making Puck’s split-push less effective. He tanks Coil and shrugs off poke damage."
+    },
+    {
+      "name": "Spectre",
+      "reason": "Spectre haunts into Puck’s backline and forces him to disengage. Dispersion punishes constant spell spam. She thrives in long fights while Puck relies on quick kills. Spectre wins in the late game and scales harder."
+    },
+    {
+      "name": "Broodmother",
+      "reason": "Broodmother overwhelms Puck with spiderlings and map control. Puck can’t clear spiders fast enough and lacks physical burst. Brood also builds items like Orchid that punish squishy spellcasters. Puck cannot contest her in the early-mid game."
+    },
+    {
+      "name": "Bane",
+      "reason": "Bane’s Fiend’s Grip goes through Puck’s shift and disables for a long time. Nightmare forces awkward Phase Shift usage. Bane has more lockdown than Puck can escape from. Puck gets punished if he mistimes spell dodges."
+    },
+    {
+      "name": "Nyx Assassin",
+      "reason": "Nyx reflects Puck’s spells with Carapace and uses Mana Burn for heavy damage. Vendetta makes Puck cautious in side lanes. Nyx locks Puck down longer than she can Phase Shift or Blink. He also builds natural detection and disables."
+    },
+    {
+      "name": "Tiny",
+      "reason": "Tiny bursts Puck instantly with Avalanche-Toss combo. He can Blink in and catch Puck before she reacts. Tiny’s physical and magical burst are dangerous. Puck often dies before she can cast anything when caught."
+    }
+  ]
+}

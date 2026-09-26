@@ -1,0 +1,21 @@
+{
+  "name": "Techies",
+  "slug": "techies",
+  "url": "https://dotacoach.gg/en/heroes/counters/techies",
+  "patch": "7.41f",
+  "checked": "2026-09-24",
+  "pairs": [
+    {
+      "name": "Abaddon",
+      "reason": "Abaddon's Aphotic Shield protects him and his allies by absorbing most of Techies' burst damage through his spell combo to prevent him from getting kills. Abaddon can also pop Borrowed Time, even during the Blast Off! stun, and run into Proximity Mines to not only waste them, but also heal himself back to full. The Aphotic Shield dispel also takes off the Reactive Tazer disarm, letting Abaddon destroy Proximity Mines and run at Techies with his right clicks."
+    },
+    {
+      "name": "Anti-Mage",
+      "reason": "Anti Mage's high magic resistance through Counterspell lets him tank and survive Techies' spell combo, and possibly Blink away before all his Proximity Mines explode to avoid getting bursted. Anti Mage can also Blink on Techies and burn his mana through Mana Break on right clicks, making him completely useless. Once Anti Mage buys Manta Style, he can dispel the Reactive Tazer disarm and easily burst down Techies with Mana Void after jumping him with Blink."
+    },
+    {
+      "name": "Ember Spirit",
+      "reason": "Ember Spirit can easily dodge Techies' Blast Off! and Sticky Bomb by timing his Sleight of Fist on a bunch of units. Ember Spirit can also throw Fire Remnants and jump to them during Sleight of Fist to avoid exploding Proximity Mines around him. Flame Guard also provides a magic damage barrier to absorb a lot of Techies' damage from his spells. Ember Spirit can also deal damage from range with his Sleight of Fist into Searing Chains combo to avoid running into Proximity Mines."
+    }
+  ]
+}

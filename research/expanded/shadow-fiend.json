@@ -1,0 +1,49 @@
+{
+  "name": "Shadow Fiend",
+  "slug": "shadow-fiend",
+  "url": "https://dotacoach.gg/en/heroes/counters/shadow-fiend",
+  "patch": "7.41f",
+  "checked": "2026-09-24",
+  "pairs": [
+    {
+      "name": "Chen",
+      "reason": "Chen’s creeps pressure Shadow Fiend in lane, and his team-wide sustain punishes burst-based heroes like SF. Shadow Fiend has a hard time dealing with spread-out fights and split-push."
+    },
+    {
+      "name": "Troll Warlord",
+      "reason": "Troll is a hard counter in manfights. Shadow Fiend relies on burst and kiting, but Troll wins long engagements and can disarm Shadow Fiend with Whirling Axes and lock him down with bash."
+    },
+    {
+      "name": "Zeus",
+      "reason": "Zeus outranges and out-pokes Shadow Fiend. He doesn’t care about armor or BKB early, and constantly chips SF down. Zeus can cancel Blink Dagger from fog with his global ult."
+    },
+    {
+      "name": "Lina",
+      "reason": "Lina outranges SF and can kill him before he gets BKB. Her high burst and fast right-clicks make laning and mid-game fights difficult for Shadow Fiend unless he gets the jump first."
+    },
+    {
+      "name": "Shadow Demon",
+      "reason": "Shadow Demon can disrupt Shadow Fiend’s combos. He removes SF from the fight with Disruption, sets up ganks, and can use Shadow Poison to scout and cancel Blink Dagger."
+    },
+    {
+      "name": "Sniper",
+      "reason": "Sniper’s range makes it difficult for Shadow Fiend to approach. Unless SF blinks directly onto him, Sniper can kite him all fight long. Headshot also prevents SF from closing the gap effectively."
+    },
+    {
+      "name": "Keeper of the Light",
+      "reason": "Keeper blinds and wave clear delay Shadow Fiend’s push. Chakra Magic and Will-o-Wisp are disruptive during Requiem channeling. His mobility makes it hard for SF to catch and burst him."
+    },
+    {
+      "name": "Tiny",
+      "reason": "Tiny can burst SF down instantly with a combo. He wins early skirmishes, tosses SF out of position, and scales into a tanky initiator. Shadow Fiend struggles to survive without BKB."
+    },
+    {
+      "name": "Windranger",
+      "reason": "Windranger’s Windrun negates SF’s right-click damage unless he has MKB. Shackleshot can interrupt Requiem and she can burst SF with Focus Fire if he doesn’t have Ghost Scepter/BKB."
+    },
+    {
+      "name": "Spirit Breaker",
+      "reason": "Spirit Breaker punishes SF’s low mobility and poor defensive options. Charge cancels SF’s channeling and blink. In the early and mid-game, Spirit Breaker is a constant threat across the map."
+    }
+  ]
+}

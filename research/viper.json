@@ -1,0 +1,21 @@
+{
+  "name": "Viper",
+  "slug": "viper",
+  "url": "https://dotacoach.gg/en/heroes/counters/viper",
+  "patch": "7.41f",
+  "checked": "2026-09-24",
+  "pairs": [
+    {
+      "name": "Naga Siren",
+      "reason": "Naga Siren’s illusions overwhelm Viper’s single-target damage style. He can’t clear illusions quickly, and they burn his mana. Song of the Siren resets fights where Viper tries to initiate. She scales harder into late game and dominates after laning."
+    },
+    {
+      "name": "Phantom Lancer",
+      "reason": "Phantom Lancer creates too many illusions for Viper to handle. Viper’s slows do little once PL gets Diffusal and Manta. He can’t clear illusions fast enough and gets overwhelmed. PL shrugs off poison damage with high sustain."
+    },
+    {
+      "name": "Terrorblade",
+      "reason": "Terrorblade resists Viper's early pressure due to high armor and Conjure Image. He outscales Viper and punishes his lack of burst. Viper can’t stop Sunder and gets destroyed in later fights. TB's illusions also act as meat shields against Viper's output."
+    }
+  ]
+}

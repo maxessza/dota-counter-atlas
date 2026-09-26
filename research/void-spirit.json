@@ -1,0 +1,21 @@
+{
+  "name": "Void Spirit",
+  "slug": "void-spirit",
+  "url": "https://dotacoach.gg/en/heroes/counters/void-spirit",
+  "patch": "7.41f",
+  "checked": "2026-09-24",
+  "pairs": [
+    {
+      "name": "Meepo",
+      "reason": "Meepo overwhelms Void Spirit with clones and disables before he escapes. Void Spirit’s spells aren’t enough to burst down all Meepos. He gets rooted and nuked before using his mobility. Meepo snowballs harder and punishes every small mistake."
+    },
+    {
+      "name": "Lone Druid",
+      "reason": "Void Spirit cannot quickly kill Lone Druid or his bear, wasting his combo. The bear roots Void Spirit and punishes his limited HP pool. LD also wins lane by tanking through early nukes. Once the bear gets Desolator or Bash, Void Spirit can’t escape easily."
+    },
+    {
+      "name": "Chen",
+      "reason": "Chen’s summons tank Void Spirit’s burst and make pickoffs harder. Divine Favor and Hand of God keep allies alive after being engaged on. Chen’s early push punishes Void Spirit’s slow wave clear. Void Spirit has trouble fighting multiple creeps and heals"
+    }
+  ]
+}

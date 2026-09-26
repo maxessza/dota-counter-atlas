@@ -1,0 +1,57 @@
+{
+  "name": "Faceless Void",
+  "slug": "faceless-void",
+  "url": "https://dotacoach.gg/en/heroes/counters/faceless-void",
+  "patch": "7.41f",
+  "checked": "2026-09-24",
+  "pairs": [
+    {
+      "name": "Night Stalker",
+      "reason": "Crippling Fear can silence Faceless Void for a long time, preventing him from using his Time Walk and Chronosphere."
+    },
+    {
+      "name": "Abaddon",
+      "reason": "Mist Coil and Aphotic Shield enable Abaddon to keep an ally alive during Chronosphere. Borrowed Time prevents Faceless Void from killing Abaddon during his Chronosphere."
+    },
+    {
+      "name": "Kunkka",
+      "reason": "Ghostship can stun Faceless Void and give damage reduction to allies that are trapped during Chronosphere. Torrent can stun Faceless Void from outside Chronosphere. X Marks the Spot can bring back Faceless Void if he escapes using Time Walk."
+    },
+    {
+      "name": "Wraith King",
+      "reason": "Void often wastes Chrono on WK’s first life. Reincarnation punishes Void’s long cooldown commitment and forces defensive repositioning."
+    },
+    {
+      "name": "Enigma",
+      "reason": "Black Hole pierces BKB and can catch Void before or after Chrono. Enigma also punishes grouped-up fights,"
+    },
+    {
+      "name": "Medusa",
+      "reason": "Medusa’s tankiness and Stone Gaze punish Void for standing still during Chrono. She can outlast his burst and counter-initiate easily."
+    },
+    {
+      "name": "Silencer",
+      "reason": "Global Silence interrupts Time Walk, Chrono, and BKB timings. Faceless Void needs precise fights, which Silencer disrupts."
+    },
+    {
+      "name": "Winter Wyvern",
+      "reason": "Cold Embrace saves Chrono targets. Winter’s ultimate also punishes grouped teammates, especially after Void drops a bad Chronosphere."
+    },
+    {
+      "name": "Enchantress",
+      "reason": "Strong laner that bullies Void early with ranged harass. Her untouchable reduces Void’s right-click effectiveness, and she’s hard to burst down alone."
+    },
+    {
+      "name": "Lifestealer",
+      "reason": "Rage makes Lifestealer immune to magic damage during Chrono’s duration. If he Infests a creep or hero, Void has to waste time in chrono to reach lifestealer."
+    },
+    {
+      "name": "Disruptor",
+      "reason": "Glimpse and Static Storm are direct counters. Disruptor can trap Void post-Time Walk and silence him before Chrono, denying initiation."
+    },
+    {
+      "name": "Necrophos",
+      "reason": "Necro’s Heartstopper Aura and Reaper’s Scythe punish low-HP Void. In extended fights, Void becomes an easy target without BKB or help."
+    }
+  ]
+}

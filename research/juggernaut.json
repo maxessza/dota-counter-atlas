@@ -1,0 +1,21 @@
+{
+  "name": "Juggernaut",
+  "slug": "juggernaut",
+  "url": "https://dotacoach.gg/en/heroes/counters/juggernaut",
+  "patch": "7.41f",
+  "checked": "2026-09-24",
+  "pairs": [
+    {
+      "name": "Axe",
+      "reason": "Berserker's Call pierces spell immunity, making a Blade Fury teleport escape impossible. It's very useful against Omnislash as well. Juggernaut's low base health and high attack speed causes him to take a lot of damage from Counter Helix. Axe is a common Blade Mail and Blink Dagger carrier making him a very big potential threat before Juggernaut get his items."
+    },
+    {
+      "name": "Legion Commander",
+      "reason": "Duel pierces spell immunity, making a Blade Fury teleport escape impossible as well as being a threat with Blink Dagger and Blade Mail all over the map."
+    },
+    {
+      "name": "Windranger",
+      "reason": "Windrun negates the damage from Omnislash and gives Windranger enough movement speed to get out of Blade Fury range."
+    }
+  ]
+}

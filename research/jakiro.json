@@ -1,0 +1,21 @@
+{
+  "name": "Jakiro",
+  "slug": "jakiro",
+  "url": "https://dotacoach.gg/en/heroes/counters/jakiro",
+  "patch": "7.41f",
+  "checked": "2026-09-24",
+  "pairs": [
+    {
+      "name": "Anti-Mage",
+      "reason": "Blink allows Anti-Mage to both, escape from Jakiro and to hunt down Jakiro, who has no way to escape without items. Counterspell protects Anti-Mage against Jakiro's mostly-magical damage. Both Mana Void and Mana Burn is very hazardous for Jakiro because of his high mana."
+    },
+    {
+      "name": "Clockwerk",
+      "reason": "Battery Assault prevents Jakiro from casting spells as all his spells have very long cast times. Jakiro is also an easy target for Clockwerk's Hookshot + Power Cogs combo, as he has little mobility and no escape without items. Alternatively, if the enemy Clockwerk traps one of his own allies or Jakiro's allies in the cogs, it gives Jakiro an ideal setup to punish Clockwerk and his ally or to save Jakiro's ally."
+    },
+    {
+      "name": "Rubick",
+      "reason": "Fade Bolt can hinder Jakiro's early pushing power by clearing creep waves. All of Jakiro's spells are great for Rubick to Spell Steal. Ice Path is a great spell for Rubick so steal, since Rubick has no cast time on stolen abilities, making Rubick's version of Ice Path much more reliable than Jakiro's. Macropyre is a great way for Rubick to deal immense amount of damage."
+    }
+  ]
+}

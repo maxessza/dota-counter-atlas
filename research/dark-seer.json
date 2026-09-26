@@ -1,0 +1,21 @@
+{
+  "name": "Dark Seer",
+  "slug": "dark-seer",
+  "url": "https://dotacoach.gg/en/heroes/counters/dark-seer",
+  "patch": "7.41f",
+  "checked": "2026-09-24",
+  "pairs": [
+    {
+      "name": "Bloodseeker",
+      "reason": "Rupture makes it more difficult to get value out of Surge as the hasted movement speed now comes with a damage cost. Sanguiovore helps sustain Bloodseeker in lane against Ion Shell harass. Bloodseeker's Illusions do not inhherit Thirst, making him a weak Illusion hero that does not spawn a LVL 30 META TB with Wall of Replica or Normal Punch."
+    },
+    {
+      "name": "Oracle",
+      "reason": "Fortune's End can dispel both Ion Shell and Surge, while providing valuable lockdown versus any Surged Targets. Fortune's End is particularly effective at shutting down Dark Seer's lane completely as it is one of the few level 1 dispels, that's AOE on top of that and Ion Shell is DS's main laning tool."
+    },
+    {
+      "name": "Ursa",
+      "reason": "Most of Ursa's abilities are active appart from Fury Swipes, which is his main damage steroid that Wall of Replica and Normal Punch (Aghanim's Scepter Upgrade) Illusions do not inherit. Despite being a melee hero Ursa can focus down any Ion Shelled creeps in lane with Overpower and Fury Swipes to mitigate getting harassed and DS generally finds himself struggling greatly when facing Ursa in lane."
+    }
+  ]
+}

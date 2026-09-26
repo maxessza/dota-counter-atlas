@@ -1,0 +1,21 @@
+{
+  "name": "Spirit Breaker",
+  "slug": "spirit-breaker",
+  "url": "https://dotacoach.gg/en/heroes/counters/spirit-breaker",
+  "patch": "7.41f",
+  "checked": "2026-09-24",
+  "pairs": [
+    {
+      "name": "Clockwerk",
+      "reason": "Spirit Breaker can never connect the Charge of Darkness on Clockwerk as long as he has Power Cogs off cooldown, as he can easily put them down before Spirit Breaker reaches him to push him away. Clockwerk's Battery Assault, Power Cogs, and Hookshot lockdown all stop Spirit Breaker from Charging away from him as well. The mana burn from Power Cogs also massively affects Spirit Breaker because of his low mana pool, and can render him unable to use his entire spell combo."
+    },
+    {
+      "name": "Dark Willow",
+      "reason": "Dark Willow's Bramble Maze massively counters Spirit Breaker's Charge of Darkness as it stops the Charge mid way if any of the Brambles fall in the Charge path. This makes it extremely difficult for Spirit Breaker to Charge in and out of fights as long as Dark Willow puts down her Bramble Maze. Dark Willow can also pop Shadow Realm before Spirit Breaker's Charge connects on her to stop him from following up with Nether Strike or his Greater Bash right clicks. Cursed Crown and Terrorize also let Dark Willow interrupt Charge of Darkness."
+    },
+    {
+      "name": "Ember Spirit",
+      "reason": "Ember Spirit has an easy time dodging the Charge of Darkness collision by timing his Sleight of Fist on a cluster of units when Charge is about to connect on him. If Ember Spirit doesn't have units for Sleight of Fist around him, he can still use Sleight of Fist into Searing Chains on Spirit Breaker from range to stop the Charge mid way to stop him from getting in and out of fights. Flame Guard also absorbs damage from Spirit Breaker's spells and Greater Bash procs while jumping to Fire Remnants keeps Ember Spirit safe from ever dying."
+    }
+  ]
+}

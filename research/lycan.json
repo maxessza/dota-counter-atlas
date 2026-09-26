@@ -1,0 +1,21 @@
+{
+  "name": "Lycan",
+  "slug": "lycan",
+  "url": "https://dotacoach.gg/en/heroes/counters/lycan",
+  "patch": "7.41f",
+  "checked": "2026-09-24",
+  "pairs": [
+    {
+      "name": "Bloodseeker",
+      "reason": "Bloodseeker's Rupture is consider a great counter since using it prevents you from running around with your Ultimate."
+    },
+    {
+      "name": "Bristleback",
+      "reason": "Quill Spray can be used to kill Lycan's summons as well as Bristleback allows him to stay alive against Lycan while dishing out counter attacks."
+    },
+    {
+      "name": "Tidehunter",
+      "reason": "Kraken Shell grants him massive physical attack protection and Anchor Smash will wipe the area, clearing Lycan's wolves."
+    }
+  ]
+}

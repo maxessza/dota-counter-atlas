@@ -1,0 +1,21 @@
+{
+  "name": "Ogre Magi",
+  "slug": "ogre-magi",
+  "url": "https://dotacoach.gg/en/heroes/counters/ogre-magi",
+  "patch": "7.41f",
+  "checked": "2026-09-24",
+  "pairs": [
+    {
+      "name": "Phantom Lancer",
+      "reason": "Phantom Lancer overwhelms Ogre Magi with illusions that Ignite cannot clear quickly. Ogre Magi lacks strong Area of effect damage and becomes mana-drained in long fights. Phantom Lancer dodges stuns and resets with Doppelganger. Ogre Magi’s single-target spells are inefficient against illusion heroes."
+    },
+    {
+      "name": "Anti-Mage",
+      "reason": "Anti-Mage reflects Ogre Magi’s high mana pool back against him with Mana Void. He can Blink out of Ignite and Fireblast range. Ogre Magi is unable to lock Anti-Mage down long enough without teammates. Bloodlust gives little value if Anti-Mage controls the backline."
+    },
+    {
+      "name": "Enigma",
+      "reason": "Ogre Magi lacks the range to interrupt Enigma’s Black Hole reliably. Ignite is not enough to force Enigma out of position. His slow mobility makes him an easy target during teamfights. Enigma can outscale Ogre Magi with better control and Area of effect presence."
+    }
+  ]
+}

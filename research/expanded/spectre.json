@@ -1,0 +1,165 @@
+{
+  "name": "Spectre",
+  "slug": "spectre",
+  "url": "https://dotacoach.gg/en/heroes/counters/spectre",
+  "patch": "7.41f",
+  "checked": "2026-09-24",
+  "pairs": [
+    {
+      "name": "Abaddon",
+      "reason": "Abaddon provides healing and sustain and barriers, which do wonders versus Spectre as she struggles to output significant damage proactively and lacks burst. Aphotic Shield dispels Spectral Dagger and his Aghanim's Scepter further amplifies his impact as it makes him heal in an AOE."
+    },
+    {
+      "name": "Underlord",
+      "reason": "Underlord is able to abuse Spectre when she's at her weakest - in the laning stage. He can constanly harass and pressure her in addition to reducing her rightclick damage in order to deny her creeps. His global ult helps keep up with Spectre's global presence."
+    },
+    {
+      "name": "Undying",
+      "reason": "Undying is able to abuse Spectre when she's at her weakest - in the laning stage. He can constantly harass and pressure her with Decay and Rightclicks in order to disrupt her ability to secure sufficient resources in the lane, offsetting her entire game."
+    },
+    {
+      "name": "Wraith King",
+      "reason": "Wraith King's innate sustain allows him to man fight Spectre as by herself she doesn't output amazing damage and the Dispersion damage she relies on is offset by WK's Lifesteal. Silver Edge, which provides Break is a naturally great pickup for WK. He's got 2 lives."
+    },
+    {
+      "name": "Dark Seer",
+      "reason": "Dark Seer is able shut Spectre down in lane due to Ion Shell and offset her game entirely. What's worse is that even if Spectre ever gets to that late game where she thrives, Dark Seer is able to make multiple Illusions of her and use Spectre's strength against her and her team as Wall of Replica and Normal Punch (Aghanim's Scepter Upgrade) Illusions inherit Desolate."
+    },
+    {
+      "name": "Oracle",
+      "reason": "Oracle provides healing and sustain, which do wonders versus Spectre as she struggles to output significant damage proactively and lacks burst. Fortune's End dispels Spectral Dagger, Fate's Edict prevents Spectre from attacking and his ult - False Promise is an all purpose save button."
+    },
+    {
+      "name": "Io",
+      "reason": "Healing, sustain and durability do wonders versus Spectre as she struggles to output significant damage proactively and lacks burst. Io supplies his team with plenty of that. On top of that he can use his ult - Relocate as a last rest save."
+    },
+    {
+      "name": "Necrophos",
+      "reason": "Necro can sustain himself and easily pressure Spectre in lane with Death Pulse. Worse than that he can also sustain his allies due to his AOE heals. Ghost Shroud prevents Spectre from attacking him and Dispersion does neither reduce nor reflect any damage from Hearthstopper Aura."
+    },
+    {
+      "name": "Ember Spirit",
+      "reason": "Ember Spirit's early game prowess and proneness to roaming with ease as early as minute 6 makes Spectre and easy target for him. Often times Spectre would have to relinquish her lane, even if it is going well, in order to not show on the map until she's strong enough to fight back."
+    },
+    {
+      "name": "Lifestealer",
+      "reason": "Lifestealer is one of Spectre's hardest counters as his kit counters Spectre at EVERY stage of the game. LS is so good against her that even if he is an ENTIRE item behind he still easily wins out. His abundance of lifesteal combined with his debuff immunity and actual immunity from Infest is too much for Spectre to handle."
+    },
+    {
+      "name": "Witch Doctor",
+      "reason": "Witch Doctor provides his team with much needed AOE heal to mitigate Spectre's Dipsersion and Radiance damage. He has a natural save against her with Aghanim's Shard, which is a staple item for him and a Maledict into Death Ward combo is usually enough to get her killed in the early-mid game."
+    },
+    {
+      "name": "Meepo",
+      "reason": "Simply put, as strong as Spectre can get she is 1 body and Meepo can be 5. Meepo generally builds stats items to becomes quite tanky and has multiple ways of sustaing himself between Ransack and both Aghanim's Shard and Scepter. On top of that he can root Spectre indefinitely with multiple Earthbinds."
+    },
+    {
+      "name": "Pudge",
+      "reason": "A core Pudge can decimate a Spectre both in lane and in game. In lane, his base damage is about 50% higher than Spectre's, making last hitting difficult. Due to Rot + Aghanim's Scepter being enough damage for Pudge that leaves him the rest of his inventory slots for sustain and tank items. Often Spectre finds herself rundown by Pudge."
+    },
+    {
+      "name": "Enchantress",
+      "reason": "Enchatress provides consistent harass in lane with both her Impetus, rightclicks and a creep from Enchant. Her ult - Untouchable makes it almost impossible for Spectre to land a hit on her before she gets some Attack Speed items and Enchantress Nature's Attendants provide healing and sustain for her and her team."
+    },
+    {
+      "name": "Slardar",
+      "reason": "Slardar can completely crush a Spectre in lane due to his abundance of damage and crowd control and forces her to leave lane as he hits level 6. His ult - Corrosive Haze serves as a reliable debuff and provides vision of Spectre troughout the game substracting up to 3000 gold of value from Spectre in terms of armor."
+    },
+    {
+      "name": "Slark",
+      "reason": "Slark's Essence Shift steals stats directly from Spectre and does't get mitigated by Dispresion in any way. Slark's various sources of sustain (Barracuda, Shadow Dance, Depth Shroud - Aghanim's Shard Upgrade) and Dark Pact being a low-cooldown dispel for Spectral Dagger gives Slark all the tool he needs to deal with Spectre."
+    },
+    {
+      "name": "Doom",
+      "reason": "Doom is able to prevent Spectre from receiving any heals by using his ult - Doom on her, effectively removing her from the fight. In lane, he is able to reliably pressure her with all 3 of his basic spells if he finds a suitable neutral creep. Additionally, as the game goes on Doom can enhance his ult with Break."
+    },
+    {
+      "name": "Shadow Demon",
+      "reason": "Shadow Demon can Break with his ult - Demonic Purge, once he picks up Aghanim's Scepter. Half of Spectre's Spells are passives and most of her damage comes exactly from those 2 passives so Break effects inhibit her more than any other hero in DOTA. Additionally, he can save teammates with Disruption from Spectre's global initiation and create Spectre Illusions of his own that inherit Desolate."
+    },
+    {
+      "name": "Viper",
+      "reason": "Viper has a reliable short cool down Break with his ult - Viper Strike. Half of Spectre's Spells are passives and most of her damage comes exactly from those 2 passives so Break effects inhibit her more than any other hero in DOTA. In lane, Viper is able to harass and pressure her significantly with Poison Touch."
+    },
+    {
+      "name": "Shadow Shaman",
+      "reason": "Shadow Shaman can Break Spectre with his Hex once he enhances it with his talent. Half of Spectre's Spells are passives and most of her damage comes exactly from those 2 passives so Break effects inhibit her more than any other hero in DOTA. He naturally builds Blink Dagger and can setup for his team on Spectre."
+    },
+    {
+      "name": "Primal Beast",
+      "reason": "Primal Beast has a spammable Break once he gets to his Aghanim's Scepter. Half of Spectre's Spells are passives and most of her damage comes exactly from those 2 passives so Break effects inhibit her more than any other hero in DOTA. On top of that he likes to apply pressure early AND he itemizes quite tanky."
+    },
+    {
+      "name": "Phantom Assassin",
+      "reason": "Phantom Assassin can pick up and Aghs Shard as early as the 15 minute mark to give her a low-cooldown AOE Break. Half of Spectre's Spells are passives and most of her damage comes exactly from those 2 passives so Break effects inhibit her more than any other hero in DOTA. Her insane burst damage in combination with Break can utterly delete a Spectre."
+    },
+    {
+      "name": "Hoodwink",
+      "reason": "Hoowink can Break with her ult - Sharpshooter and is not uncommon for a Spectre to be comboed to death by a single Hoodwink even if she's support. Half of Spectre's Spells are passives and most of her damage comes exactly from those 2 passives so Break effects inhibit her more than any other hero in DOTA."
+    },
+    {
+      "name": "Leshrac",
+      "reason": "Leshrac deals massive amounts of AOE damage without having to itemize for it - this allows him to itemize for sustain and tankiness in order to buy himself time to unleash that damage. For most of the game Spectre struggles to output enough damage to go trough his sustain alone and often find herself being rundown by Leshrac."
+    },
+    {
+      "name": "Brewmaster",
+      "reason": "Simply put Spectre is unable to do enough damage to kill Brewmaster during his ult - Primal Split, forcing her to kite instead of fight in an attempt to wait it out. In lane, Brewmaster is able to greatly pressure Spectre with just his basic spells and force her to leave lane early."
+    },
+    {
+      "name": "Dazzle",
+      "reason": "Dazzle's entire kit works too well against Spectre. His Poison touch can easily get the lane out of control and boot Spectre out of lane early, even from the support position. His Grave provides a save for his teamates and Shadow Wave is an AOE heal, which Spectres generally struggle against."
+    },
+    {
+      "name": "Broodmother",
+      "reason": "Broodmother's fast-paced and push-oriented gameplay, when paired against Spectre's weak early game, can easily result in Spectre and her team being set back so much that a comeback is highly improbable. She simply lacks the tools to deal with heavy early aggression. She also has built in sustain and high kill threat on Spectre in the early game."
+    },
+    {
+      "name": "Chen",
+      "reason": "Chen's fast-paced and push-oriented gameplay, when paired against Spectre's weak early game, can easily result in Spectre and her team being set back so much that a comeback is highly improbable. She simply lacks the tools to deal with heavy early aggression. In lane, Chen can completely crush a Spectre with his creeps and provides an extra layer of healing for his team."
+    },
+    {
+      "name": "Beastmaster",
+      "reason": "Beastmater's fast-paced and push-oriented gameplay, when paired against Spectre's weak early game, can easily result in Spectre and her team being set back so much that a comeback is highly improbable. She simply lacks the tools to deal with heavy early aggression. In lane, he can easily pressure her with his Summons and Wild Axes."
+    },
+    {
+      "name": "Lycan",
+      "reason": "Lycan's fast-paced and push-oriented gameplay, when paired against Spectre's weak early game, can easily result in Spectre and her team being set back so much that a comeback is highly improbable. She simply lacks the tools to deal with heavy early aggression. In lane, he can easily pressure her with summons and just his high stats."
+    },
+    {
+      "name": "Lone Druid",
+      "reason": "Lycan's fast-paced and push-oriented gameplay, when paired against Spectre's weak early game, can easily result in Spectre and her team being set back so much that a comeback is highly improbable. She simply lacks the tools to deal with heavy early aggression. In lane, he can completely crush her with his Spirit Bear being so high stated."
+    },
+    {
+      "name": "Visage",
+      "reason": "Visage's fast-paced and push-oriented gameplay, when paired against Spectre's weak early game, can easily result in Spectre and her team being set back so much that a comeback is highly improbable. She simply lacks the tools to deal with heavy early aggression. In lane, he can easily pressure her with Soul Assumption and rightclicks."
+    },
+    {
+      "name": "Tinker",
+      "reason": "Tinker provides healing, sustain and barriers, which do wonders versus Spectre as she struggles to output significant damage proactively and lacks burst. March of the Machines can heal in an AOE, Defense Matrix provides a Barrier and Status Resist and Laser prevents Spectre from landing attacks. His innate - Eureka! allows him to spam Greaves and Holy Locket in a fight."
+    },
+    {
+      "name": "Omniknight",
+      "reason": "Healing, sustain and durability do wonders versus Spectre as she struggles to output significant damage proactively and lacks burst. Omniknight supplies his team with plenty of that. Even his Aghanim's Scepter makes his ult - Guardian Angel global, to help match Spectre's global pressence."
+    },
+    {
+      "name": "Juggernaut",
+      "reason": "Juggernaut is one of the strongest early game carries that doesn't mind grouping up to take objectives early and that's Spectre's weakest point of the game. She simply lacks the tools to deal with early aggression. His Healing Ward provides massive AOE sustain, Omnislash can outright kill Spectre, Blade Fury dispels Spectral Dagger and later in the game Blade Dance starts healing him."
+    },
+    {
+      "name": "Huskar",
+      "reason": "Huskar's fast-paced and push-oriented gameplay, when paired against Spectre's weak early game, can easily result in Spectre and her team being set back so much that a comeback is highly improbable. She simply lacks the tools to deal with heavy early aggression. He has amazing sustain, increased Magic Resistance and is able to dispel Spectral Dagger with Life Break."
+    },
+    {
+      "name": "Troll Warlord",
+      "reason": "Troll has amazing rightclick and consistent damage scaling from his base abilities alone - this allows him to itemize for sustain and mobility so he give himself the best opportunity to land all that damage. He can chain root Spectre into a 1v1 she can rarely win as Troll's Battle Trance additionally provides him with massive lifesteal and the inability to die to damage."
+    },
+    {
+      "name": "Dawnbreaker",
+      "reason": "Dawnbreaker is a nightmare for Spectre to lane into as DB is able s to apply immense pressure with his Star Breaker and Celestial Hammer spells alone, while sustaining herself with Luminosity. More importantly Solar Guardian is able to match Spectre's global pressene perfectly as it provides AOE healing and Crowd Control on top of being global."
+    },
+    {
+      "name": "Timbersaw",
+      "reason": "Timbersaw can completely boot a Spectre out of lane even before leveling up his ult as he does overwhelming damage via Whirling Death and Timber Chain, while having plenty of sustain from Reactive Armor. Throughout the game Spectre struggles to comfortably go on Timber as that just gives him an opportunity to cast his spells efficiently."
+    }
+  ]
+}

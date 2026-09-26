@@ -1,0 +1,41 @@
+{
+  "name": "Alchemist",
+  "slug": "alchemist",
+  "url": "https://dotacoach.gg/en/heroes/counters/alchemist",
+  "patch": "7.41f",
+  "checked": "2026-09-24",
+  "pairs": [
+    {
+      "name": "Dragon Knight",
+      "reason": "DK's Frost Dragon facet reduces Chemical Rage's healing substantially, which is Alch's main defensive tool. Additionally, he can reduce his overall damage output greatly with Breather Fire and Frost Dragon and provides reliable lockdown with Dragon Tail. His strong early game allows him to match Alch's strong early game better than most heroes."
+    },
+    {
+      "name": "Pudge",
+      "reason": "Aghanim's Scepter and Shiva's Guard are staple items for Pudge and reduce Chemical Rage's healing, which is Alch's main defensive tool. Pudge is able to provide a strong permament slow on Alch preventing him from both attacking and retreating and has a reliable lockdown with Dismember."
+    },
+    {
+      "name": "Ancient Apparition",
+      "reason": "AA's Ice Blast negates Chemical Rage's healing completely, which is Alch's main defensive tool. This usually forces Alch to flee from the fight entirely and wait it out. Additionally, his facet Bone Chill reduces strenght, which further impacts his overall potency."
+    },
+    {
+      "name": "Drow Ranger",
+      "reason": "Drow Rangers's Aghanim's Scpeter reduces Chemical Rage's healing significantly, which is Alch's main defensive tool. She is able to provide a strong consistent slow on Alch preventing him from both attacking and retreating and does more than enough damage to kill him."
+    },
+    {
+      "name": "Doom",
+      "reason": "Doom's Doom negates Chemical Rage's healing completely, which is Alch's main defensive tool. This usually forces Alch to flee from the fight entirely and wait it out. He can Devour a Vhoul Assassin neutral to almost entirely decrease Chemical Rage's sustain outside of Doom."
+    },
+    {
+      "name": "Necrophos",
+      "reason": "Alch's damage is exclusively physical and Necro's Ghost Shroud completely negates it. Reaper's Scythe is a powerful tool to burst him and his Hearthstopper Aura can further reduce Chemical Rage's healing substantially, which is Alch's main defensive tool."
+    },
+    {
+      "name": "Abaddon",
+      "reason": "Abaddon's Apothic Shield can dispel Alch's Unstable Concoction's stun as well as Abyssal Blade's. His innate Withering Mist can reduce Chemical Rage's healing, which is Alch's main defensive tool. He provides sustain for his team to extend the fight past Chemical Rage's duration."
+    },
+    {
+      "name": "Juggernaut",
+      "reason": "In a man fight Alch simply loses to Jugg. Omnislash can provides a reliable burst to outright kill Alch even during Chemical Rage. He can use Blade Flurry to soak Alch's Unstable Concoction and Healing Ward to sustain his team and extend the fight past Chemical Rage's duration."
+    }
+  ]
+}

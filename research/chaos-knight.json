@@ -1,0 +1,21 @@
+{
+  "name": "Chaos Knight",
+  "slug": "chaos-knight",
+  "url": "https://dotacoach.gg/en/heroes/counters/chaos-knight",
+  "patch": "7.41f",
+  "checked": "2026-09-24",
+  "pairs": [
+    {
+      "name": "Shadow Demon",
+      "reason": "SD can use Disruption on both CK and his Phantasm Illusions to create Illusions of his own that inherit Chaos Strike, while CK's own innate Reins of Chaos can be triggered by Disruption to create additional Illusions for SD. Disruption can also be used as a save to disrupt CK's Chaos Bolt/Reality Rift combo and prevent him from bursting a single target down."
+    },
+    {
+      "name": "Dark Seer",
+      "reason": "Wall of Replica and Normal Punch (Aghanim's Scepter Upgrade) can create Illusions of CK that inherit Chaos Strike. CK's own innate Reins of Chaos can trigger both on Wall of Replica and Normal Punch, creating additional Illusions. Normal Punch can additionally create Illusions from ANY CK Illusions and not necessarily CK himself."
+    },
+    {
+      "name": "Tidehunter",
+      "reason": "Blubber can dispel both Chaos Strike and Reality Rift, allowing Tide to counter initiate and stun CK and all of his Illusions with Ravage. Anchor Smash can mitigate most of CK's and his Illusions' damage as most of his total damage output comes from attacking. Dead in the Water (Aghanim's Shard Upgrade) prevents CK from using Reality Rift and his Illusions do reduced damage to it. Kraken Shell provides further damage mitigation against CK's attacks."
+    }
+  ]
+}

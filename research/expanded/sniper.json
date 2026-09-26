@@ -1,0 +1,57 @@
+{
+  "name": "Sniper",
+  "slug": "sniper",
+  "url": "https://dotacoach.gg/en/heroes/counters/sniper",
+  "patch": "7.41f",
+  "checked": "2026-09-24",
+  "pairs": [
+    {
+      "name": "Storm Spirit",
+      "reason": "While Storm may struggle against Sniper early on, he can dominate in the mid to late game using Ball Lightning and Electric Vortex to quickly close the gap and burst Sniper down."
+    },
+    {
+      "name": "Centaur Warrunner",
+      "reason": "Centaur Warrunner is naturally tanky, and with Blade Mail and his passive Retaliate, he can reflect a lot of Sniper’s damage. As a frequent Blink Dagger buyer, he can close the distance easily and punish Sniper. His ultimate, Stampede, helps his team initiate or escape, making him an effective counter to Sniper."
+    },
+    {
+      "name": "Morphling",
+      "reason": "Morphling can turn into Sniper and outdamage him with higher attack speed and agility when fully morphed. He can also chase and finish Sniper off using Waveform, making it hard for Sniper to escape or trade effectively."
+    },
+    {
+      "name": "",
+      "reason": ""
+    },
+    {
+      "name": "Pudge",
+      "reason": "Pudge can easily hook and solo kill Sniper in the early game due to Sniper’s low mobility. In the late game, Pudge can displace Sniper by hooking him out of position, making him a strong counter throughout the match."
+    },
+    {
+      "name": "Spectre",
+      "reason": "Spectre can use Reality to jump directly onto Sniper, bypassing his range advantage. In the mid to late game, Spectre's tankiness and sustained damage make it easy for her to kill Sniper before he can escape or fight back."
+    },
+    {
+      "name": "Phantom Assassin",
+      "reason": "Phantom Assassin can easily close the gap on Sniper and burst him down with high crit damage at any stage of the game. Sniper’s low mobility and fragility make him an easy target for PA’s quick pickoffs."
+    },
+    {
+      "name": "Slark",
+      "reason": "Slark can easily kill Sniper by using Pounce to lock him down and Shadow Dance to stay elusive during the fight. Sniper’s lack of mobility makes him a prime target for Slark’s aggressive pickoffs."
+    },
+    {
+      "name": "Mars",
+      "reason": "Mars is a natural Blink Dagger buyer, allowing him to quickly initiate on Sniper. With Arena of Blood and Spear of Mars, he can trap and pin Sniper, making him an easy kill due to his low mobility and defenses."
+    },
+    {
+      "name": "Earth Spirit",
+      "reason": "Earth Spirit’s spells let him roll in quickly and silence or stun Sniper, making it easy to burst him down. His mobility and crowd control allow him to pick off Sniper during fights before he can react."
+    },
+    {
+      "name": "Primal Beast",
+      "reason": "Primal Beast can use Trample to start, followed by Onslaught to close the gap, and then finish with Pulverize (ultimate) to disable and burst down Sniper. This combo makes it easy for Primal Beast to catch and kill Sniper despite his range advantage."
+    },
+    {
+      "name": "Lycan",
+      "reason": "With his ultimate Shapeshift, Lycan gains increased movement speed and attack damage, allowing him to quickly close the gap and pick off Sniper before he can react."
+    }
+  ]
+}

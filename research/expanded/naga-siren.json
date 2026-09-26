@@ -1,0 +1,33 @@
+{
+  "name": "Naga Siren",
+  "slug": "naga-siren",
+  "url": "https://dotacoach.gg/en/heroes/counters/naga-siren",
+  "patch": "7.41f",
+  "checked": "2026-09-24",
+  "pairs": [
+    {
+      "name": "Techies",
+      "reason": "Techies' immense AOE capabilities do wonders against Mirror Image, as Techies can clear them with Sticky Bomb, Blast Off! and Proximity Mines - hindering one of Naga's core gameplay advantages of splitpushing with Illusions. Reactive Tazer can disarm Naga and all of her Illusions."
+    },
+    {
+      "name": "Underlord",
+      "reason": "Atrophy Aura reduces BASE attack damage and Naga being an Illusion hero greatly benefits from stacking Agility and increasing her base damage and Attack Speed to empowers her Illusions. Agility stacking means high armor so both Firestorm and Pit of Malice are great at providing reliable Magic damage and Crowd Control for Mirror Image due to their AOE properties."
+    },
+    {
+      "name": "Leshrac",
+      "reason": "Leshrac's abundance of AOE damage can easily clear Naga's Mirror Image Illusions troughout the entirety of the game, which is her core farming and fighting tool. Being an Illusion, melee hero she struggles to stay on Leshrac to damage him as she prefers Heart over Satanic for sustain."
+    },
+    {
+      "name": "Axe",
+      "reason": "Naga being an Agility Illusion hero means she dishes out a large number of attacks with lower,relative to other heroes, damage per hit. This means Axe can proc Counter Helix like crazy to clear Mirror Image Illusions, as the Pure damage bypasses her high armor. Berserker's Call is able to control Naga and her Illusions simultaneously."
+    },
+    {
+      "name": "Earthshaker",
+      "reason": "Mirror Image provides extra targets for Echo Slam to build up echo damage, while Fissure and Aftershock provide consistent AOE control and damage to help deal with any Illusions and mitigate Naga's constant split pushing. Fissure in particular is effective at blocking off lanes and paths making it difficult for Mirror Image Illusions to function."
+    },
+    {
+      "name": "Necrophos",
+      "reason": "Necro's abundance of AOE damage can easily clear Naga's Mirror Image Illusions troughout the entirety of the game, which is her core farming and fighting tool. Being an Illusion, melee hero she struggles to stay on Necro to damage him as she prefers Heart over Satanic for sustain."
+    }
+  ]
+}

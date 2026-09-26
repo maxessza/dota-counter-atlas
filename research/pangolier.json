@@ -1,0 +1,21 @@
+{
+  "name": "Pangolier",
+  "slug": "pangolier",
+  "url": "https://dotacoach.gg/en/heroes/counters/pangolier",
+  "patch": "7.41f",
+  "checked": "2026-09-24",
+  "pairs": [
+    {
+      "name": "Beastmaster",
+      "reason": "Beastmaster's Primal Roar pierces debuff immunity, and lets him control Pangolier during Rolling Thunder for a lengthy duration to waste most of his ultimate. Outside of Rolling Thunder, Beastmaster can easily jump and stun Pangolier with Primal Roar and burst him down with his physical damage."
+    },
+    {
+      "name": "Bloodseeker",
+      "reason": "Bloodseeker's Rupture heavily counters Pangolier's Rolling Thunder as the movement while rolling does massive damage when affected by the ultimate. This makes Pangolier immediately stop Rolling Thunder or die while rolling. The Blood Rite silence also prevents Pangolier from using his other spells to fight back, letting Bloodseeker easily fight him and burst him down."
+    },
+    {
+      "name": "Centaur Warrunner",
+      "reason": "Centaur Warrunner's Retaliate reflects a ton of Pangolier's massive damage back to him, while his high HP pool keeps him from getting bursted by Pangolier's spells. Once Centaur gets Blade Mail, Swashbuckle threatens Pangolier even more with the reflected damage. Centaur's Stampede also boost the movement speed of his entire team to avoid the Rolling Thunder collision and disengage during Pangolier's ultimate."
+    }
+  ]
+}

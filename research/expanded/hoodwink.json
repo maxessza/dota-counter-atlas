@@ -1,0 +1,49 @@
+{
+  "name": "Hoodwink",
+  "slug": "hoodwink",
+  "url": "https://dotacoach.gg/en/heroes/counters/hoodwink",
+  "patch": "7.41f",
+  "checked": "2026-09-24",
+  "pairs": [
+    {
+      "name": "Mars",
+      "reason": "Mars's arena can break all the trees where Hoodwink is using to push out lanes or stay behind his teammates."
+    },
+    {
+      "name": "Spirit Breaker",
+      "reason": "Spirit Breaker's charge can provide vision from a distance while Hoodwink is using the trees to hide."
+    },
+    {
+      "name": "Centaur Warrunner",
+      "reason": "Hoodwink struggles against Centaur because he is tanky and hard to burst. He can return a lot of damage with Retaliate when she trades. Stampede also allows him and his team to disengage or catch her easily."
+    },
+    {
+      "name": "Sand King",
+      "reason": "Sand King’s Sand Storm gives him invisibility and damage over time, making it hard for Hoodwink to land her combo. He can also blink and burst her with Epicenter before she escapes. His teamfight presence outscales hers in mid to late game"
+    },
+    {
+      "name": "Phantom Lancer",
+      "reason": "Hoodwink’s single-target burst is weak against Phantom Lancer’s illusions. She has no built-in AoE or clear way to identify the real one. Once he gets Diffusal Blade, she runs out of mana quickly and can't escape easily."
+    },
+    {
+      "name": "Timbersaw",
+      "reason": "Timbersaw is tanky and shrugs off Hoodwink’s magic burst. He also cuts down trees constantly with his abilities, disabling her Scurry movement. Her tree-based spells become unreliable when Timbersaw is nearby."
+    },
+    {
+      "name": "Spirit Breaker",
+      "reason": "Spirit Breaker can lock down Hoodwink easily with Charge of Darkness and Nether Strike. Her escape is limited once he connects. He is tanky enough to survive her burst and excels at punishing squishy heroes like her."
+    },
+    {
+      "name": "Wraith King",
+      "reason": "Wraith King’s Reincarnation makes it hard for Hoodwink to kill him efficiently. She wastes her combo on his first life, and he can slow or stun her after reviving. He becomes harder to burst down as the game progresses."
+    },
+    {
+      "name": "Ogre Magi",
+      "reason": "Hoodwink struggles against Ogre Magi because he is very tanky and has high base armor, making it hard for her to burst him. His Fireblast and Ignite can lock her down and harass her in lane. Multicast makes his disables unpredictable and dangerous."
+    },
+    {
+      "name": "Visage",
+      "reason": "Visage is hard for Hoodwink to deal with due to his high magic resistance and Gravekeeper’s Cloak, which reduces her burst damage. His Familiars can scout and chase her easily, and her spells don’t clear them effectively. He also thrives in clustered fights where Hoodwink is less effective."
+    }
+  ]
+}

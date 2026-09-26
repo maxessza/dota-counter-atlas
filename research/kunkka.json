@@ -1,0 +1,21 @@
+{
+  "name": "Kunkka",
+  "slug": "kunkka",
+  "url": "https://dotacoach.gg/en/heroes/counters/kunkka",
+  "patch": "7.41f",
+  "checked": "2026-09-24",
+  "pairs": [
+    {
+      "name": "Timbersaw",
+      "reason": "He shrugs off Kunkka’s physical damage with Reactive Armor. Kunkka lacks magic burst to bring him down. Timber also out-pushes and controls lanes faster than Kunkka."
+    },
+    {
+      "name": "Lifestealer",
+      "reason": "Lifestealer is immune to X-Torrent combo while Rage is active. He can use Infest to dodge Boat and burst squishy supports around Kunkka. Kunkka struggles to kite or kill a fat Lifestealer."
+    },
+    {
+      "name": "Alchemist",
+      "reason": "Alchemist farms faster and scales harder than Kunkka. Acid Spray + Radiance burn ruins Kunkka’s Cleave-focused fighting style. He tanks through combo and recovers instantly with regen or BKB"
+    }
+  ]
+}

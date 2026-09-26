@@ -1,0 +1,21 @@
+{
+  "name": "Spectre",
+  "slug": "spectre",
+  "url": "https://dotacoach.gg/en/heroes/counters/spectre",
+  "patch": "7.41f",
+  "checked": "2026-09-24",
+  "pairs": [
+    {
+      "name": "Abaddon",
+      "reason": "Abaddon provides healing and sustain and barriers, which do wonders versus Spectre as she struggles to output significant damage proactively and lacks burst. Aphotic Shield dispels Spectral Dagger and his Aghanim's Scepter further amplifies his impact as it makes him heal in an AOE."
+    },
+    {
+      "name": "Underlord",
+      "reason": "Underlord is able to abuse Spectre when she's at her weakest - in the laning stage. He can constanly harass and pressure her in addition to reducing her rightclick damage in order to deny her creeps. His global ult helps keep up with Spectre's global presence."
+    },
+    {
+      "name": "Undying",
+      "reason": "Undying is able to abuse Spectre when she's at her weakest - in the laning stage. He can constantly harass and pressure her with Decay and Rightclicks in order to disrupt her ability to secure sufficient resources in the lane, offsetting her entire game."
+    }
+  ]
+}

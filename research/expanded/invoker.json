@@ -1,0 +1,93 @@
+{
+  "name": "Invoker",
+  "slug": "invoker",
+  "url": "https://dotacoach.gg/en/heroes/counters/invoker",
+  "patch": "7.41f",
+  "checked": "2026-09-24",
+  "pairs": [
+    {
+      "name": "Anti-Mage",
+      "reason": "Anti Mage can easily close the gap on Invoker with Blink and burst him down by burning his mana and finishing him off with Mana Void. The mana burn also means Invoker may not have enough mana to use key defensive spells. Anti Mage can also Blink away from Invoker's spell combo and reflect Cold Snap or Rod of Atos easily."
+    },
+    {
+      "name": "Broodmother",
+      "reason": "Broodmother is a very fast hero and is hard to keep in place to burst down with Invoker's spell combo. Invoker is also a slow hero without active Wex orbs and high levels in Ghost Walk, which makes him vulnerable to get run down by Spiderlings under the Orchid silence, which is a common purchase for Broodmother. The Necrotic Webs facet also reduces the HP regen from active Quas orbs."
+    },
+    {
+      "name": "Centaur Warrunner",
+      "reason": "Centaur's Stampede can easily help his entire time close the gap on a slow and squishy Invoker and burst him down before he can react with his spells. Centaur is also a very high HP hero, and with Blade Mail on top of Retaliate, Invoker can easily die if he throws his spell combo on Centaur."
+    },
+    {
+      "name": "Doom",
+      "reason": "Doom completely shuts down Invoker with his ultimate as he cannot throw any spells in its duration or heal himself with active Quas orbs. Doom can easily run down a slow and squishy Invoker during Scorched Earth and finish him off every time while his ultimate is active."
+    },
+    {
+      "name": "Faceless Void",
+      "reason": "Faceless Void's Time Dilation causes a lot of damage over time and slows down Invoker when he has used his spell combo and most of his spells are on cooldown. This makes it easier for Faceless Void to run him down, even without committing Chronosphere or Time Zone every time. Time Walk also completely counters Invoker's spell combo as Faceless Void can easily gain back all his HP while getting away."
+    },
+    {
+      "name": "Juggernaut",
+      "reason": "Juggernaut's Blade Fury grants him debuff immunity and high magic resistance to take very little damage from Invoker's spell combo, as most of his spells do magic damage and do not pierce spell immunity. Invoker also doesn't have good ways to get away from Omnislash and is susceptible to dying every time when targeted with the ultimate."
+    },
+    {
+      "name": "Kez",
+      "reason": "Kez has a number of mobility spells to close the gap on a slow and squishy Invoker and follow up with his damage spells and silence to kill Invoker every time. Kez's ultimate Raptor Dance also gives him magic damage immunity to nullify most of Invoker's damage spells, and is very hard to lockdown for Invoker's spell combo."
+    },
+    {
+      "name": "Kunkka",
+      "reason": "Kunkka has an easy way to harass Invoker with Tidebringer as he has low HP, armor, and movement speed to dodge the damage. This makes Invoker have more active Quas orbs to stay healthy and low right click damage to contest last hits. Once Kunkka reaches level 6, he always has kill threat on Invoker with his spell combo and right clicks."
+    },
+    {
+      "name": "Lifestealer",
+      "reason": "Lifestealer's Rage grants him debuff immunity and high magic resistance to take very little damage from Invoker's spell combo, as most of his spells do magic damage and do not pierce spell immunity. Lifestealer also has kill threat on a slow and squishy Invoker during Open Wounds as he can dodge Invoker's defensive spells and not let him get away."
+    },
+    {
+      "name": "Night Stalker",
+      "reason": "Night Stalker has massive kill threat on Invoker once he has Blink Dagger to get on top of Invoker and silence him with Crippling Fear. Night Stalker also has flying movement during Dark Ascension as well as high movement and attack speed from his passive to find and stay on top of a slow and squishy Invoker and kill him every time with his massive night vision."
+    },
+    {
+      "name": "Nyx Assassin",
+      "reason": "Nyx Assassin always has kill threat on a squishy Invoker with Vendetta and follow up spell combo alongside Dagon. Invoker's high mana pool works against him as it lets Nyx Assassin do even more damage to him with Mind Flare. Nyx Assassin can also use Invoker's AoE damage spells to stun him with Spiked Carapace. The Nyxth Sense innate also lets him spot Invoker when he's invisible during Ghost Walk."
+    },
+    {
+      "name": "Pugna",
+      "reason": "Pugna's Nether Ward returns massive damage to Invoker every time he casts a spell in its AoE as most of his spells have a high mana cost. Pugna can also threaten Invoker with Life Drain as long as interrupt spells like Cold Snap and Tornado are on cooldown. Life Drain also provides vision on Invoker while he is invisible during Ghost Walk."
+    },
+    {
+      "name": "Queen of Pain",
+      "reason": "Queen of Pain's harass through spells and right clicks in the laning stage makes Invoker keep active Quas orbs for HP regen to stay healthy in the lane, which causes him to do less damage on right clicks to contest last hits. Queen of Pain can easily dodge EMP and the rest of Invoker's spell combo with Blink, which leads to her always having the upper hand in the matchup."
+    },
+    {
+      "name": "Riki",
+      "reason": "Riki's Blink Strike lets him close the gap on a slow and squishy Invoker and do massive backstab damage. Blink Strike along with Tricks of the Trade also let Riki dodge Invoker's EMP and the rest of his spell combo to keep the upper hand in the matchup. Later in the game, Invoker is always an easy kill for Riki with Diffusal Blade, Blink Strike, and Smoke Screen."
+    },
+    {
+      "name": "Silencer",
+      "reason": "Silener's silence through Global Silence and Last Word can completely disrupt Invoker's spell combo throughout the game and render him useless in teamfights. Arcane Curse also lets Silencer do a lot of slow and damage to Invoker if he casts his spell combo while affected by the spell."
+    },
+    {
+      "name": "Templar Assassin",
+      "reason": "Templar Assassin's high damage through Refraction charges always gives her the upper hand in last hits during the laning stage. Psi Blades spill damage also lets her do a lot of damage to Invoker because of his low HP and armor. Invoker's kill threat on Templar Assassin is also significantly reduced by the defensive Refraction barrier charges, which absorb most of the damage instances."
+    },
+    {
+      "name": "Viper",
+      "reason": "Viper has an easy time of applying Poison Attack on a slow and squishy Invoker in the laning stage, which makes him keep active Quas orbs in the lane to stay healthy and leads to not having bonus damage on right clicks to contest last hits. Viper's Corrosive Skin also gives him magic resistance to take much less damage from Invoker's spell combo."
+    },
+    {
+      "name": "Visage",
+      "reason": "Visage has an easy time of running down a slow and squishy Invoker with Familiars under the effect of Grave Chill and Orchid, and follow up with Soul Assumption to do massive damage. Visage can also absorb a lot of damage from Invoker's spell combo with his Gravekeeper's Cloak layers, and later on with Aghanim's Shard, he can completely dodge all the Invoker spells."
+    },
+    {
+      "name": "Void Spirit",
+      "reason": "Void Spirit's Astral Step lets him get on top of Invoker and follow up with his high damage spell combo to kill a squishy Invoker. Spells like Dissimilate and Astral Step also let Void Spirit completely dodge Invoker's entire spell combo. The Sanctuary facet also gives him an all damage barrier to absorb some of the damage from Invoker's spells and right clicks."
+    },
+    {
+      "name": "Weaver",
+      "reason": "Weaver's high mobility with Shukuchi makes it very difficult for Invoker to keep him in place for his spell combo and burst him down. The high mobility also lets Weaver close the gap on Invoker and threaten his life with the high damage right clicks. Time Lapse also lets Weaver completely reverse all the burst damage dealt by Invoker."
+    },
+    {
+      "name": "Zeus",
+      "reason": "Zeus' harass through spells in the laning stage makes Invoker keep active Quas orbs for HP regen to stay healthy in the lane, which causes him to do less damage on right clicks to contest last hits. Queen of Pain can easily dodge EMP and the rest of Invoker's spell combo with Heavenly Jump, which leads to him always having the upper hand in the matchup. Zeus also has ways to find Invoker when he is invisible during Ghost Walk."
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "name": "Dawnbreaker",
+  "slug": "dawnbreaker",
+  "url": "https://dotacoach.gg/en/heroes/counters/dawnbreaker",
+  "patch": "7.41f",
+  "checked": "2026-09-24",
+  "pairs": [
+    {
+      "name": "Viper",
+      "reason": "Viper is going to be able to Break your passive ability and slow your attack speed which is going to significantly reduce your effectiveness and damage output."
+    },
+    {
+      "name": "Nyx Assassin",
+      "reason": "Spiked Carapace can stop Dawnbreaker's Solar Guardian which will eliminate her global presence and limits her movement around the map."
+    },
+    {
+      "name": "Drow Ranger",
+      "reason": "Gust can shut down most of Dawnbreaker's abilities, rendering her useless. Laning is also hard against this ranged carry hero."
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "name": "Magnus",
+  "slug": "magnus",
+  "url": "https://dotacoach.gg/en/heroes/counters/magnus",
+  "patch": "7.41f",
+  "checked": "2026-09-24",
+  "pairs": [
+    {
+      "name": "Ember Spirit",
+      "reason": "Ember Spirit avoids Reverse Polarity with Sleight of Fist and Remnant mobility. Magnus struggles to lock him down consistently without help. Ember also clears waves and keeps pressure across the map, outpacing Magnus. Empower becomes less effective if Ember controls tempo."
+    },
+    {
+      "name": "Puck",
+      "reason": "Puck dodges Reverse polarity with Phase Shift and cancels Blink Dagger with constant poke. Magnus’s combo is unreliable against Puck’s elusive nature. Dream Coil counters Magnus’s mobility by punishing Skewer plays. Puck dominates long fights where Magnus can’t connect clean spells."
+    },
+    {
+      "name": "Faceless Void",
+      "reason": "Faceless Void’s Chronosphere counters Magnus’s teamfight initiation. Magnus cannot use Reverse polarity or Skewer while frozen in Chrono. Void also avoids Skewer with Time Walk. Empowered carries can’t deal damage if stuck in Chronosphere."
+    },
+    {
+      "name": "Huskar",
+      "reason": "Huskar jumps into Magnus before he can initiate and punishes him with Burning Spears. Magnus doesn’t have enough burst to bring down Huskar through magic resistance. Reverse polarity is less impactful against tanky frontline heroes like him. Huskar plays faster than Magnus prefers."
+    },
+    {
+      "name": "Bane",
+      "reason": "Bane disables Magnus through reverse polarity with Fiend’s Grip from long range. His brain sap trades well in lane and ruins Magnus’s early farm. Nightmare interrupts Blink Dagger setups. Bane excels at picking off Empowered cores before they can use their buffs."
+    },
+    {
+      "name": "Kez",
+      "reason": "Kez keeps Magnus from finding clean reverse polarity by breaking his positioning with disruptive spells. His tempo makes it hard for Magnus to reach late-game timing. Skewer is punished and turned into over-commitments. Magnus’s spells lose value when forced to fight early"
+    },
+    {
+      "name": "Earthshaker",
+      "reason": "Earthshaker counters reverse polarity with his own initiation and long-range stuns. Fissure and Echo Slam interrupt Magnus's combos and punish grouped teamplay. Both heroes want to initiate but Earthshaker can do it more reliably from distance. Magnus is forced into poor initiations."
+    },
+    {
+      "name": "Tidehunter",
+      "reason": "Tidehunter shrugs off Shockwave and Reverse polarity with Kraken Shell. Ravage counters Magnus’s initiation by stunning his whole team. Magnus struggles to displace Tide from the frontlines with Skewer. Tide dominates big 5v5 fights Magnus relies on."
+    },
+    {
+      "name": "Visage",
+      "reason": "Visage’s familiars interrupt Magnus’s Blink Dagger, preventing clean initiation. Gravekeeper’s Cloak reduces cleave burst from Empowered allies. Reverse Polarity has low value against spread-out familiars and tanky cores. Visage outpressures Magnus in laning and early objectives."
+    },
+    {
+      "name": "Enigma",
+      "reason": "Enigma turns Magnus’s grouped playstyle against him with Black Hole. Reverse polarity has similar cooldown and purpose, so Enigma can counter-initiate directly. Magnus has no way to stop BKB Black Hole without allies. Enigma scales harder in pure teamfight presence."
+    }
+  ]
+}

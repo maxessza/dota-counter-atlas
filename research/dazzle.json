@@ -1,0 +1,21 @@
+{
+  "name": "Dazzle",
+  "slug": "dazzle",
+  "url": "https://dotacoach.gg/en/heroes/counters/dazzle",
+  "patch": "7.41f",
+  "checked": "2026-09-24",
+  "pairs": [
+    {
+      "name": "Axe",
+      "reason": "Axe's Culling Blade can kill a hero protected by Dazzle's Shallow Grave if the target's HP is below the Culling Blade threshold. Shallow Grave prevents a hero from dying by damage, but Culling Blade is an instant kill that bypasses death prevention effects like Grave. As long as the target's HP is low enough, Axe will execute them even under Grave."
+    },
+    {
+      "name": "Ancient Apparition",
+      "reason": "Ice Blast prevents all healing, disabling Shallow Grave's sustain and Shadow Wave’s healing. The debuff lingers, making it dangerous for low-HP targets even after retreating. If a hero under Shallow Grave drops below the Ice Blast kill threshold, they will die as soon as Grave ends."
+    },
+    {
+      "name": "Phantom Lancer",
+      "reason": "He can dispel Shadow Poison with Doppelganger. His illusions burn Dazzle’s mana quickly with defusal blade making him unable to cast spells or use Shallow Grave. Phantom Lancer can kite Dazzle and pressure him constantly rendering him useless in fights without mana."
+    }
+  ]
+}

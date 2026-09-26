@@ -1,0 +1,21 @@
+{
+  "name": "Centaur Warrunner",
+  "slug": "centaur-warrunner",
+  "url": "https://dotacoach.gg/en/heroes/counters/centaur-warrunner",
+  "patch": "7.41f",
+  "checked": "2026-09-24",
+  "pairs": [
+    {
+      "name": "Lifestealer",
+      "reason": "Rage/Unfettered can be used to soak/dispel Hoof Stomp and Double Edge. Aghanim Scepter allows LS to Infest any retreating with Stampede targets and stay on top of them. His abudance of sustain trough Feast, which scales with Rawhide and Open Wounds can easily result in a situation where LS completely outheals Centaur's Retaliate and total damage output."
+    },
+    {
+      "name": "Wraith King",
+      "reason": "Reincarnation makes it difficult to all in WK with Stampede as he'd have an extra life to spare. Wraithfire Blast can lock down any retreating with Stampede targets so WK can stay on top of them. His abudance of sustain trough Vampiric Spirit can easily result in a situation where WK completely outheals Centaur's Retaliate and total damage output."
+    },
+    {
+      "name": "Juggernaut",
+      "reason": "Blade Fury can be used to greatly mitigate the damage and Crowd Control of Hoof Stomp and Double Edge. Omnislash and Swiftslash (Aghanim's Scepter upgrade) allows Juggernaut to stay on top of any retreating with Stampede targets. His abudance of sustain trough Healing Ward and his Blade Dance Lifesteal talent can easily result in a situation where Juggernaut completely outheals Centaur's Retaliate and total damage output."
+    }
+  ]
+}

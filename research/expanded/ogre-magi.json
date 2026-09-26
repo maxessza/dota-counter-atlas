@@ -1,0 +1,49 @@
+{
+  "name": "Ogre Magi",
+  "slug": "ogre-magi",
+  "url": "https://dotacoach.gg/en/heroes/counters/ogre-magi",
+  "patch": "7.41f",
+  "checked": "2026-09-24",
+  "pairs": [
+    {
+      "name": "Phantom Lancer",
+      "reason": "Phantom Lancer overwhelms Ogre Magi with illusions that Ignite cannot clear quickly. Ogre Magi lacks strong Area of effect damage and becomes mana-drained in long fights. Phantom Lancer dodges stuns and resets with Doppelganger. Ogre Magi’s single-target spells are inefficient against illusion heroes."
+    },
+    {
+      "name": "Anti-Mage",
+      "reason": "Anti-Mage reflects Ogre Magi’s high mana pool back against him with Mana Void. He can Blink out of Ignite and Fireblast range. Ogre Magi is unable to lock Anti-Mage down long enough without teammates. Bloodlust gives little value if Anti-Mage controls the backline."
+    },
+    {
+      "name": "Enigma",
+      "reason": "Ogre Magi lacks the range to interrupt Enigma’s Black Hole reliably. Ignite is not enough to force Enigma out of position. His slow mobility makes him an easy target during teamfights. Enigma can outscale Ogre Magi with better control and Area of effect presence."
+    },
+    {
+      "name": "Beastmaster",
+      "reason": "Beastmaster punishes static heroes like Ogre Magi with Hawk vision and early pressure. His summons absorb Ignite and create overwhelming physical damage. Ogre Magi cannot easily escape from Roar plus summon damage. He gets zoned during lane phase and offers little in return."
+    },
+    {
+      "name": "Meepo",
+      "reason": "Meepo spreads Ogre Magi’s single-target stuns thin across multiple targets. Ignite fails to deal significant Area of effect damage to his clones. Ogre Magi becomes overrun by net chains and burst nukes. Meepo farms faster and dominates Ogre Magi in early game tempo."
+    },
+    {
+      "name": "Chaos Knight",
+      "reason": "Chaos Knight’s illusions are hard to distinguish and survive through Ogre Magi’s magic damage. Ogre Magi has no reliable Area of effect control to handle multiple illusions. Chaos Knight burst-kills Ogre Magi with Reality Rift and Chaos Bolt. Ogre Magi’s low mobility lets Chaos Knight isolate him easily."
+    },
+    {
+      "name": "Slark",
+      "reason": "Slark can purge Ignite and Bloodlust using Dark Pact, reducing Ogre Magi’s utility. He farms stacks off Ogre Magi during extended fights. Slark’s mobility prevents him from being easily stunned. Ogre Magi’s inability to secure vision makes him vulnerable to constant ganks."
+    },
+    {
+      "name": "Shadow Demon",
+      "reason": "Shadow Demon disrupts Ogre Magi or his allies, dodging Fireblast chains. His illusions benefit from Ogre Magi’s Bloodlust, working against him. He zones Ogre Magi out of fights with ranged harassment. Ogre Magi lacks the tools to burst him down reliably."
+    },
+    {
+      "name": "Warlock",
+      "reason": "Warlock’s Fatal Bonds punishes Ogre Magi’s tendency to stick with his team. Chaotic Offering stuns him from a distance where Ogre Magi cannot respond. Warlock outscales Ogre Magi in teamfights with massive Area of effect impact. Ogre Magi cannot cancel Warlock’s cast animations reliably."
+    },
+    {
+      "name": "Magnus",
+      "reason": "Magnus blinks past Ogre Magi to grab cores with Reverse Polarity. Ogre Magi’s stuns cannot prevent his initiation reliably. Empower buffs melee carries beyond what Ogre Magi’s Bloodlust provides. He becomes outclassed in teamfight presence as the game progresses."
+    }
+  ]
+}

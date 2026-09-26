@@ -1,0 +1,85 @@
+{
+  "name": "Axe",
+  "slug": "axe",
+  "url": "https://dotacoach.gg/en/heroes/counters/axe",
+  "patch": "7.41f",
+  "checked": "2026-09-24",
+  "pairs": [
+    {
+      "name": "Abaddon",
+      "reason": "Abaddon's ulti can be used DURING Berserker's Call.Despite Culling Blade going trough Borrowed Time, Abaddon still provides barriers and healing for allies caught out by Axe's Berserker's Call. His Aphotic Shield additionally dispells Battle Hunger."
+    },
+    {
+      "name": "Shadow Demon",
+      "reason": "SD can use Disruption on Axe to interfere with his with Berserker's Call, or an ally to provide them with invulnerability during it. Aghanim's Scepter gives Break to his ultimate, which greatly cripples Axe's capabilities."
+    },
+    {
+      "name": "Tusk",
+      "reason": "Tuskar can use Snowball to save his entire team from Berserker's Call and provide them with invulnerability. Additionally, his Aghanim's Scepter allows him to reposition Axe a great distance away from his Called targets."
+    },
+    {
+      "name": "Bane",
+      "reason": "Bane's Nightmare provides 1 second of invulnerability that could be more than enough to save his allies from Berserker's Call. Addiotionally, if timed accurately Nightmare can completely dodge Berserker's Call taunt effect altogether."
+    },
+    {
+      "name": "Doom",
+      "reason": "Doom's ultimate essentially takes Axe out of the game for a period of time. When put on autocast his Infernal Blade can trigger during Berserker's Call stunning Axe briefly and doing Max HP percentage damage."
+    },
+    {
+      "name": "Pugna",
+      "reason": "Pugna's Decrepify can be used both on Axe to prevent allies from attacking him or on allies to prevent them from attacking Axe during Berserker's Call. Additionally, he can use Life Drain on Taunted allies to sustain them trough it."
+    },
+    {
+      "name": "Witch Doctor",
+      "reason": "Witch Doctor's ultimate - Death Ward is great at killing Axe as it does Pure damage, which is not mitigated by armor. Despite Death Ward attacking quickly it does not trigger Counter Helix. Voodoo Restoration provides healing for his allies."
+    },
+    {
+      "name": "Lifestealer",
+      "reason": "A natural counter to Axe as he has built in Lifesteal that scales with Axe's high HP, making him significantly difficult to burst in a single combo. Additionally, Rage causes him to avoid BM damage and Open Wounds provides him even more Lifesteal."
+    },
+    {
+      "name": "Spectre",
+      "reason": "Spectre's Dispersion reduces all types of damage, including Pure Damage, which makes her a hard target to burst in a single Axe Combo. Additionally, her other passive Desolate deals Pure damage, which does not get mitigated by Axe's armor."
+    },
+    {
+      "name": "Leshrac",
+      "reason": "Leshrac consistent output of Magic and Pure damage do not get mitigated by Axe's armor. His low Attack Speed and general tanky itemization make him impossible for Axe to kill him on his own. This relegates Axe to using his Call for Crowd Control."
+    },
+    {
+      "name": "Necrophos",
+      "reason": "Necro's kit leaves Axe in shambles. He deals exclusively Magic damage, which also scales with % Max HP that does not get reduced by Axe's armor. He provides hefty AOE healing, which helps keep his team topped up. His low attack speed barely procs Counter Helix."
+    },
+    {
+      "name": "Primal Beast",
+      "reason": "Primal's natural large HP pool and slow attack speed make him a poor target for for Berserker's Call in terms of bursting him. His ult pierces BKB and his Aghanim's Scepter gives him an AOE Break, which further limits Axe's damage and kill potential."
+    },
+    {
+      "name": "Pudge",
+      "reason": "Pudge's natural large HP pool and slow attack speed make him a poor target for for Berserker's Call in terms of bursting him. Additionally, he can hook Axe or any of his allies to disrupt his Combo. Aghanim's Shard allows him to Dismember a teammate and save them."
+    },
+    {
+      "name": "Spirit Breaker",
+      "reason": "Bulldoze provides SB with a large amount of Status Resist, which mitigates the duration of Berserker's Call greatly. Planar Pocket prevents Axe from casting CB on his targets as it redirects it to SB. SB has low cooldown BKB piercing Crowd Control to interrupt Axe consistently."
+    },
+    {
+      "name": "Timbersaw",
+      "reason": "Whirling Death reduces a percentage of Axe's total Strength, for scaling damage troughout the game. All his spells are Pure damage, which do not get mitigated by armor. He generally has low Attack Speed and his ultimate prevents him from attacking, making it hard to get CH procs."
+    },
+    {
+      "name": "Wraith King",
+      "reason": "A natural counter to Axe as he has built in Lifesteal to sustain trough his Berserker's Call. Additionally, he can deal Pure damage to Axe, which does not get mitigated by armor and has at least 1 extra life, making it impossible to kill him in a single Call+BM+CB combo."
+    },
+    {
+      "name": "Venomancer",
+      "reason": "Venomancer's overwhelming Magic damage does not get mitigated with armor. In lane, Veno has constant poke, slow and harass to prevent Axe from cutting creep waves or sustaining. Plague wards do NOT take damage from Counter Helix nor do they proc it."
+    },
+    {
+      "name": "Outworld Devourer",
+      "reason": "OD's ability to deal heavy Pure and Magic damage naturally counters Axe as it doesn't get reduced by armor. Astral Imprisonment can be used both on Axe and allies to disrupt his Call. If set to autocast Arcane Orb persists during Call."
+    },
+    {
+      "name": "Ursa",
+      "reason": "Ursa's ultimate 'Enrage' allows him to mitigate all damage by 80%. Aghanim's Scepter further allows him to even use it during Berserker's Call. His infinitely scaling damage would eventually overwhelm even Axe's high armor and HP."
+    }
+  ]
+}

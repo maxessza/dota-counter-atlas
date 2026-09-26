@@ -1,0 +1,21 @@
+{
+  "name": "Terrorblade",
+  "slug": "terrorblade",
+  "url": "https://dotacoach.gg/en/heroes/counters/terrorblade",
+  "patch": "7.41f",
+  "checked": "2026-09-24",
+  "pairs": [
+    {
+      "name": "Dark Seer",
+      "reason": "Wall of Replica and Normal Punch (Aghanim's Scepter Upgrade) can create multiple Illusions of TB to do devastating amounts of damage to his own team as he tends to build heavy stat items to improve his own Mirror Image Illusions' damage and durability. The Illusions DS creates inherit Metamorphosis if it was active at the moment of creating the Illusion. In lane, TB struggles versus Ion Shell as he is a low HP but high Armor melee hero, that lacks wave clear. Surge is amazing at both disengaging and closing the gap on TB as Conjure Image's slow does not work during it."
+    },
+    {
+      "name": "Axe",
+      "reason": "Axe is the hardest counter to TB. He clears illusions with Battle Hunger and Counter Helix, locks TB with Berserker’s Call, and bursts him down before Sunder with Culling Blade. His toolkit punishes illusion-based heroes hard."
+    },
+    {
+      "name": "Phantom Lancer",
+      "reason": "PL overwhelms TB with illusions. TB can't tell the real PL apart, and Reflection isn’t useful against illusions. PL also has natural Diffusal Blade to burn TB’s mana, making Sunder risky or impossible to use."
+    }
+  ]
+}

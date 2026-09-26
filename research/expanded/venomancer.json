@@ -1,0 +1,49 @@
+{
+  "name": "Venomancer",
+  "slug": "venomancer",
+  "url": "https://dotacoach.gg/en/heroes/counters/venomancer",
+  "patch": "7.41f",
+  "checked": "2026-09-24",
+  "pairs": [
+    {
+      "name": "Phantom Lancer",
+      "reason": "Venomancer struggles against Phantom Lancer due to his illusions overwhelming Plague Wards. His poison damage is spread thin across duplicates. PL can dispel slows with Doppelganger and easily avoid Gale. Venomancer can’t stop PL from farming or taking over long fights."
+    },
+    {
+      "name": "Arc Warden",
+      "reason": "Arc Warden outranges Venomancer and uses his clone to kill Plague Wards safely. His magnetic field allows allies to ignore poison chip damage. Venomancer cannot approach Arc Warden without being punished by spark wraiths and flux. He loses map control and poke wars."
+    },
+    {
+      "name": "Brewmaster",
+      "reason": "Brewmaster dispels all of Venomancer’s damage-over-time effects with Primal Split. During the split, he removes Plague Wards and disables Venomancer’s positioning. Gale and Nova become useless once dispelled. Brewmaster’s utility and tankiness outlasts Venomancer’s slow burn."
+    },
+    {
+      "name": "Storm Spirit",
+      "reason": "Storm Spirit zips in and out of fights, ignoring all of Venomancer’s slow-based control. He can burst Venomancer before poison becomes a threat. Venomancer lacks disables to lock Storm down. Once behind, he can’t recover against Storm’s map pressure."
+    },
+    {
+      "name": "Tinker",
+      "reason": "Tinker has the range and burst to kill Venomancer without getting close. Venomancer’s slow poison damage is too slow to pressure Tinker’s farming pace. Tinker’s mobility keeps him out of reach."
+    },
+    {
+      "name": "Shadow Demon",
+      "reason": "Shadow Demon can purge Poison Sting and Gale from his allies, nullifying Venomancer’s control. His illusions from Disruption can tank wards and push waves. Venomancer’s chip damage is ineffective when SD can save allies at critical moments. He completely removes Venomancer’s influence in key fights."
+    },
+    {
+      "name": "Naga Siren",
+      "reason": "Naga Siren overwhelms Venomancer with illusions that absorb his poison damage. Her Song of the Siren resets fights and renders Poison Nova useless. Venomancer’s chip damage can’t handle her high armor and magic resistance. He becomes a liability once she gets farm."
+    },
+    {
+      "name": "Sniper",
+      "reason": "Sniper outranges Venomancer and kills Plague Wards from a distance. He is rarely in range to be hit by Gale or Nova. Venomancer struggles to close the gap without getting punished. In fights, Sniper stays safe while Venomancer slowly melts."
+    },
+    {
+      "name": "Anti-Mage",
+      "reason": "Anti-Mage dispels Gale and slows with Manta Style and ignores wards with Blink. Venomancer’s lack of disables makes it impossible to stop AM from farming. His low mobility is punished hard by Mana Void. Anti-Mage scales out of control while Venomancer stalls."
+    },
+    {
+      "name": "Morphling",
+      "reason": "Morphling easily shrugs off poison with his attribute shifting and high sustain. Venomancer can’t burst him before Morph’s regen takes over. Morphling also clears Plague Wards with waveforms. His mobility and late-game strength make Venomancer fall off hard."
+    }
+  ]
+}

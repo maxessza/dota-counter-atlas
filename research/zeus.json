@@ -1,0 +1,21 @@
+{
+  "name": "Zeus",
+  "slug": "zeus",
+  "url": "https://dotacoach.gg/en/heroes/counters/zeus",
+  "patch": "7.41f",
+  "checked": "2026-09-24",
+  "pairs": [
+    {
+      "name": "Storm Spirit",
+      "reason": "Storm counters Zeus by using Ball Lightning to quickly close the gap and dodge Zeus’s spells. His mobility and Electric Vortex allow him to lock Zeus down, preventing him from casting spells and bursting him down before Zeus can react."
+    },
+    {
+      "name": "Meepo",
+      "reason": "Meepo can chain Net to lock down Zeus and quickly burst him down with multiple clones, making it hard for Zeus to escape or cast spells effectively."
+    },
+    {
+      "name": "Broodmother",
+      "reason": "Broodmother’s webs let her sustain against Zeus’s nukes by providing regeneration and damage reduction. Her mobility in the webs also allows her to chase down Zeus easily, making it hard for him to escape."
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "name": "Elder Titan",
+  "slug": "elder-titan",
+  "url": "https://dotacoach.gg/en/heroes/counters/elder-titan",
+  "patch": "7.41f",
+  "checked": "2026-09-24",
+  "pairs": [
+    {
+      "name": "Puck",
+      "reason": "Puck is very elusive and difficult to control with Echo Stomp. Landing Earth Splitter is nearly impossible unless Puck is already disabled before the cast"
+    },
+    {
+      "name": "Vengeful Spirit",
+      "reason": "Vengeful Spirit can save allies caught in Echo Stomp and Earth Splitter with Nether Swap. Magic Missile provides strong early control on Elder Titan, preventing him from chasing with Astral Spirit’s buff. Additionally, she can cancel the channel of Echo Stomp, making her a solid counter to Elder Titan."
+    },
+    {
+      "name": "Ursa",
+      "reason": "Ursa can trade effectively with Elder Titan early in lane due to Fury Swipes, and has the potential to chase and kill him. Enrage grants significant status resistance and damage reduction, enabling Ursa to either escape Echo Stomp and Earth Splitter combos or mitigate much of their damage"
+    }
+  ]
+}

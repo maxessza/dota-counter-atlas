@@ -1,0 +1,21 @@
+{
+  "name": "Clinkz",
+  "slug": "clinkz",
+  "url": "https://dotacoach.gg/en/heroes/counters/clinkz",
+  "patch": "7.41f",
+  "checked": "2026-09-24",
+  "pairs": [
+    {
+      "name": "Phantom Lancer",
+      "reason": "Clinkz struggles against Phantom Lancer because PL buys Manta and Diffusal Blade, making it hard to identify the real one. This often leaves Clinkz out of mana, allowing Phantom Lancer to kill him easily."
+    },
+    {
+      "name": "Naga Siren",
+      "reason": "Naga buys Manta and uses Ensnare to lock down Clinkz, making it difficult for him to catch the real Naga, leaving him vulnerable to being killed by naga or her allies."
+    },
+    {
+      "name": "Chaos Knight",
+      "reason": "Chaos Knight buys Manta, allowing him to quickly turn and burst Clinkz if he tries to initiate, making it risky for Clinkz to engage."
+    }
+  ]
+}

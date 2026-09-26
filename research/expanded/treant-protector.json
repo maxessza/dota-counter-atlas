@@ -1,0 +1,49 @@
+{
+  "name": "Treant Protector",
+  "slug": "treant-protector",
+  "url": "https://dotacoach.gg/en/heroes/counters/treant-protector",
+  "patch": "7.41f",
+  "checked": "2026-09-24",
+  "pairs": [
+    {
+      "name": "Timbersaw",
+      "reason": "Timbersaw's set of skills completely counters Treant as it destroys trees and can easily catch him in them."
+    },
+    {
+      "name": "Slark",
+      "reason": "Slark's Dark Pact can easily dispel Overgrowth and Leech Seed naturally and run to safety or run in knowing he is safe."
+    },
+    {
+      "name": "Tidehunter",
+      "reason": "Tidehunters Kraken Shell removes all your debuffs at a certain threshold which makes Treant less useful in the mid to late game."
+    },
+    {
+      "name": "Chen",
+      "reason": "Chen floods the map with creeps, bypassing Living Armor’s value through constant pressure. He outheals or dispels Treant’s chip damage, and his Hand of God negates Leech Seed damage completely."
+    },
+    {
+      "name": "Naga Siren",
+      "reason": "Naga pushes multiple lanes and illusions burn through Living Armor fast. Song of the Siren resets any Overgrowth initiation, wasting Treant's major cooldown. Treant struggles to clear illusions or find the real Naga."
+    },
+    {
+      "name": "Necrophos",
+      "reason": "Treant’s high HP and sustain become liabilities versus Reaper’s Scythe. Heartstopper Aura ignores armor and whittles him down. Treant can’t burst Necro or stop him from sustaining through Leech Seed."
+    },
+    {
+      "name": "Enchantress",
+      "reason": "Treant's right-clicks are almost meaningless against Untouchable. Enchantress out-sustains him and punishes melee supports with impetuous harass. Her creeps also tank through Overgrowth and pressure early towers."
+    },
+    {
+      "name": "Phoenix",
+      "reason": "Phoenix’s Supernova zones Treant hard. He has low attack speed and cannot contest the egg. Fire Spirits destroy Treant’s early presence and reduce the healing potential from Living Armor and Leech Seed."
+    },
+    {
+      "name": "Doom",
+      "reason": "Doom removes Treant’s entire kit with one spell. After being doomed, Treant contributes nothing to the fight. Scorched Earth also negates healing from Leech Seed and Living Armor, nullifying his sustain playstyle."
+    },
+    {
+      "name": "Dark Willow",
+      "reason": "Treant’s slow movement and predictable plays are easy to punish with Brambles and Cursed Crown. Shadow Realm lets Willow avoid Overgrowth and strike back with massive damage. Treant also can't reveal her easily."
+    }
+  ]
+}

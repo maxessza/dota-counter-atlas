@@ -1,0 +1,49 @@
+{
+  "name": "Weaver",
+  "slug": "weaver",
+  "url": "https://dotacoach.gg/en/heroes/counters/weaver",
+  "patch": "7.41f",
+  "checked": "2026-09-24",
+  "pairs": [
+    {
+      "name": "Faceless Void",
+      "reason": "Chronosphere completely shuts Weaver down, catching him before he can Time Lapse. Void’s time-lock bashes are hard to dodge during fights. Weaver cannot fight into Void once BKB and items are up. His lack of hard disable makes Void scale freely."
+    },
+    {
+      "name": "Phantom Lancer",
+      "reason": "Weaver can’t handle Phantom Lancer’s illusions without AoE damage. He gets overwhelmed by Diffusal Blade and mana burn. Time Lapse often targets the wrong illusion, making survival unreliable. PL dominates long fights where Weaver loses control."
+    },
+    {
+      "name": "Morphling",
+      "reason": "Morphling outscales Weaver and can morph into him for mobility. Weaver has no way to burst Morphling before he shifts to strength. Morphling’s sustain and magic burst punish Weaver's low HP. In late game, Morphling wins almost every duel."
+    },
+    {
+      "name": "Puck",
+      "reason": "Puck’s silence and Dream Coil both counter Weaver’s escape tools. Weaver struggles to hit moving targets with Puck’s evasive playstyle. Puck also scales better into midgame utility. Coil forces Weaver into risky fights without his ult."
+    },
+    {
+      "name": "Rubick",
+      "reason": "Rubick can steal Time Lapse or Shukuchi and turn them against Weaver. His lift disables Weaver long enough to kill him. Rubick builds survivability and utility faster. A good Rubick makes Weaver’s mobility a liability."
+    },
+    {
+      "name": "Visage",
+      "reason": "Visage punishes Weaver’s low HP with burst from familiars. Soul Assumption stacks quickly from Weaver’s pokes. Gravekeeper's Cloak reduces poke damage significantly. Weaver also struggles to kill familiars without cleave or AoE."
+    },
+    {
+      "name": "Riki",
+      "reason": "Riki silences Weaver with Smoke Screen, making Time Lapse unusable. His mobility is hard to track, and Diffusal Blade removes Weaver’s mana. Riki punishes poor positioning and weak detection. He wins lane with constant harass and slows."
+    },
+    {
+      "name": "Nyx Assassin",
+      "reason": "Nyx lands Impale and Mana Burn reliably on Weaver. Carapace punishes Shukuchi usage. Nyx has built-in detection with Vendetta and nullifies Weaver’s split pushing. He can kill Weaver before he reacts."
+    },
+    {
+      "name": "Drow Ranger",
+      "reason": "Drow slows Weaver with Frost Arrows, limiting his escape. Gust silences and prevents both Shukuchi and Time Lapse. She outdamages him once Dragon Lance is online. Weaver has difficulty closing the distance without Blink or BKB."
+    },
+    {
+      "name": "Dark Willow",
+      "reason": "Dark Willow roots and stuns Weaver, forcing out Time Lapse early. Shadow Realm avoids his auto attacks. Cursed Crown and Brambles combo into disables. Her control denies Weaver free movement in chaotic fights."
+    }
+  ]
+}

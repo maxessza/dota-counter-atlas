@@ -1,0 +1,57 @@
+{
+  "name": "Phantom Assassin",
+  "slug": "phantom-assassin",
+  "url": "https://dotacoach.gg/en/heroes/counters/phantom-assassin",
+  "patch": "7.41f",
+  "checked": "2026-09-24",
+  "pairs": [
+    {
+      "name": "Axe",
+      "reason": "Phantom Strike's extra attack speed will cause Phantom Assassin to trigger Counter Helix more often, which can be fatal for Phantom Assassin in the early game. Jumping on Axe with Phantom Strike is not a good idea for Phantom Assassin at all as it makes her a seriously easy target for a counter-initiation with Berserker's Call and Blade Mail. Most of Axe's abilities pierce Black King Bar, allowing him to lock down Phantom Assassin at any time. Berserker's Call greatly reduces Phantom Assassin's ability to crit hard against Axe, and may cause her to kill herself when used with Blade Mail. Berserker's Call can also affect Phantom Assassin even if she has Black King Bar active as Berserker's Call can fully pierce spell immunity, making Berserker's Call one of the best abilities in the game against heroes like Phantom Assassin who wants to kill opponents quickly without being interrupted. Culling Blade can often kill Phantom Assassin before she can do anything due to her low health and strength gain. And every time Culling Blade successfully kills Phantom Assassin or any of her teammates, Axe gains permanent armor from it, which in combination with armour items that Axe often purchases like Blade Mail, Crimson Guard, Assault Cuirass and Shiva's Guard can make Phantom Assassin's attacks only tickle Axe."
+    },
+    {
+      "name": "Troll Warlord",
+      "reason": "Whirling Axes (Melee) makes it hard for Phantom Assassin to land a Coup de Grace. Troll Warlord often buys Silver Edge and Monkey King Bar, the items that greatly help against Phantom Assassin's Blur ability. Battle Trance completely negates Phantom Assassin's large damage output, preventing Troll Warlord from dying easily. The lifesteal also allows Troll Warlord to restore much of his health."
+    },
+    {
+      "name": "Windranger",
+      "reason": "Phantom Assassin's Blur is useless against Windranger as she commonly buys items that require Javelin like Maelstrom, Monkey King Bar or Bloodthorn, and other than Stifling Dagger, Phantom Assassin has nothing else that can bypass Windrun. Additionally, Phantom Assassin doesn't like building Monkey King Bar because her crits are reliant on attack damage. Focus Fire can still deal considerable damage despite Blur's evasion due to the increased attack speed."
+    },
+    {
+      "name": "Pangolier",
+      "reason": "Phantom Assassin struggles against Pangolier because his Rolling Thunder constantly disarms her, making it impossible for her to deal right-click damage. He is tanky, mobile, and can kite her easily in fights. Pangolier's Diffusal Blade also burns her mana, stopping her from escaping with Phantom Strike."
+    },
+    {
+      "name": "Pudge",
+      "reason": "Pudge counters Phantom Assassin by tanking through her burst and locking her down with Dismember, which goes through Black King Bar. He can easily build Blade Mail or Ghost Scepter, punishing her in direct fights."
+    },
+    {
+      "name": "Bristleback",
+      "reason": "Phantom Assassin's single-target burst is ineffective against Bristleback's Quill Spray and Goo spam. His back damage reduction and consistent AoE pressure overwhelm her in prolonged engagements. Bristleback simply doesn't die to critical strikes alone. Phantom Assassin's Break Fan of knives is now her aghanim's which is flat 4200 gold Phantom Assassin need other items before she can buy aghanim so it delays her kill window the game while bristle can dominate."
+    },
+    {
+      "name": "Earth Spirit",
+      "reason": "Earth Spirit disables Phantom Assassin with silences and slows, making it hard for her to stick to targets. He is tanky and mobile, and his early-game aggression delays her item timings. His Geomagnetic Grip silences her before she can burst him down."
+    },
+    {
+      "name": "Doom",
+      "reason": "Phantom Assassin cannot function under Doom, as it disables all her active abilities and prevents escape or burst. Doom can also build Scythe of Vyse or Shiva's Guard, reducing her mobility and crit damage. She’s heavily reliant on spells to fight and flee, which Doom nullifies completely."
+    },
+    {
+      "name": "Queen of Pain",
+      "reason": "Queen of Pain kites Phantom Assassin with her blink and magic damage. She deals significant burst before Phantom Assassin can get close. Her high mobility makes her difficult to target, and she farms faster in the early game."
+    },
+    {
+      "name": "Timbersaw",
+      "reason": "Phantom Assassin’s physical burst has little effect on Timbersaw, who stacks reactive armor quickly and deals pure damage in return. She cannot burst him before he turns the fight. Timbersaw also clears waves faster and pressures lanes, limiting her farm."
+    },
+    {
+      "name": "Tiny",
+      "reason": "Tiny’s burst damage deletes Phantom Assassin before she can react. His Avalanche-Toss combo is deadly during her squishy early-game phase. He also builds Silver Edge to disable her Blur, and his tree cleave punishes her in melee range."
+    },
+    {
+      "name": "Dawnbreaker",
+      "reason": "Dawnbreaker’s Starbreaker disables Phantom Assassin and deals heavy physical damage. Solar Guardian allows her to join fights and heal allies, making it hard for Phantom Assassin to get solo pickoffs. Dawnbreaker is naturally tanky and doesn’t die to one crit."
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "name": "Juggernaut",
+  "slug": "juggernaut",
+  "url": "https://dotacoach.gg/en/heroes/counters/juggernaut",
+  "patch": "7.41f",
+  "checked": "2026-09-24",
+  "pairs": [
+    {
+      "name": "Axe",
+      "reason": "Berserker's Call pierces spell immunity, making a Blade Fury teleport escape impossible. It's very useful against Omnislash as well. Juggernaut's low base health and high attack speed causes him to take a lot of damage from Counter Helix. Axe is a common Blade Mail and Blink Dagger carrier making him a very big potential threat before Juggernaut get his items."
+    },
+    {
+      "name": "Legion Commander",
+      "reason": "Duel pierces spell immunity, making a Blade Fury teleport escape impossible as well as being a threat with Blink Dagger and Blade Mail all over the map."
+    },
+    {
+      "name": "Windranger",
+      "reason": "Windrun negates the damage from Omnislash and gives Windranger enough movement speed to get out of Blade Fury range."
+    },
+    {
+      "name": "Lone Druid",
+      "reason": "Lone Druid's Spirit Bear can tank Juggernaut's Omnislash effectively, reducing its impact. The bear’s Entangling Claws can disable Juggernaut even through Blade Fury. Lone Druid out-pushes and out-farms, forcing early fights Juggernaut isn’t ready for."
+    },
+    {
+      "name": "Visage",
+      "reason": "Familiars soak Omnislash hits and can stun him repeatedly. Visage’s tanky nature and armor reduce Juggernaut's kill potential. His burst damage can overwhelm Juggernaut’s sustain."
+    },
+    {
+      "name": "Muerta",
+      "reason": "Muerta’s Pierce the Veil makes her immune to physical damage—Juggernaut’s main output. She can kite Juggernaut and deal magic damage outside his Blade Fury immunity. Omnislash is completely negated during her ultimate."
+    },
+    {
+      "name": "Night Stalker",
+      "reason": "Night Stalker excels in nighttime vision and silences Juggernaut. The silence disables Blade Fury. He also builds tanky and can chase Juggernaut with ease making it easy to lock down juggernaut before he gets spells off."
+    },
+    {
+      "name": "Riki",
+      "reason": "Riki’s Smoke Screen disables Juggernaut’s right-clicks and spells. Juggernaut struggles to deal with invisibility without detection. Riki can gank and snowball early, shutting Juggernaut’s farm."
+    },
+    {
+      "name": "Morphling",
+      "reason": "Morphling’s high armor and Agi-based tankiness make him hard to burst. He can waveform out of Omnislash or replicate Juggernaut’s stats/abilities. Magic burst and sustain make him win drawn-out fights."
+    },
+    {
+      "name": "Anti-Mage",
+      "reason": "Anti-Mage blinks out of Omnislash easily. He burns Juggernaut's mana, making it harder to Blade Fury or heal. AM scales faster and wins late-game duels."
+    }
+  ]
+}

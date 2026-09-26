@@ -18,6 +18,10 @@ const wardEditToggle = document.querySelector('#ward-edit-toggle');
 const wardResetPositions = document.querySelector('#ward-reset-positions');
 const wardAddStart = document.querySelector('#ward-add-start');
 const wardDeleteSelected = document.querySelector('#ward-delete-selected');
+const wardExportButton = document.querySelector('#ward-export-button');
+const wardExportPanel = document.querySelector('#ward-export-panel');
+const wardExportText = document.querySelector('#ward-export-text');
+const wardExportCopy = document.querySelector('#ward-export-copy');
 const wardAddForm = document.querySelector('#ward-add-form');
 const wardNewTitle = document.querySelector('#ward-new-title');
 const wardNewType = document.querySelector('#ward-new-type');
@@ -221,6 +225,7 @@ function updateWardEditControls() {
  wardEditToggle.textContent = wardEditMode ? 'เสร็จสิ้นการปรับหมุด' : 'ปรับตำแหน่งหมุด';
  wardEditToggle.classList.toggle('is-editing', wardEditMode);
  wardAddStart.hidden = !wardEditMode;
+ wardExportButton.hidden = !wardEditMode;
  wardAddStart.textContent = wardPlacementMode ? 'ยกเลิกเลือกตำแหน่ง' : '＋ เพิ่ม Ward เอง';
  wardAddStart.setAttribute('aria-pressed', String(wardPlacementMode));
  wardDeleteSelected.hidden = !wardEditMode || !selected || (selected.type !== 'sentry' && !wardCustomSpotIds.has(selected.id));
@@ -232,7 +237,7 @@ function updateWardEditControls() {
 }
 function setWardEditMode(enabled) {
  wardEditMode = enabled; wardDragging = null;
- if (!wardEditMode) { wardPlacementMode = false; pendingWardPosition = null; wardAddForm.hidden = true; }
+ if (!wardEditMode) { wardPlacementMode = false; pendingWardPosition = null; wardAddForm.hidden = true; wardExportPanel.hidden = true; wardExportPanel.open = false; }
  if (wardEditMode) wardEditHint.textContent = 'ลากหมุดเพื่อย้ายตำแหน่ง หรือกด ＋ เพิ่ม Ward เอง · เลือกหมุดแล้วใช้ลูกศรขยับละเอียด';
  updateWardEditControls();
 }
@@ -241,6 +246,7 @@ function resetWardPositions() {
  wardSpots.splice(0, wardSpots.length, ...wardDefaultSpots);
  wardDeletedSpotIds.clear(); wardCustomSpotIds.clear(); pendingWardPosition = null; wardPlacementMode = false; wardSelectedSpotId = null;
  wardAddForm.hidden = true; wardAddForm.reset();
+ wardExportPanel.hidden = true; wardExportPanel.open = false; wardExportText.value = '';
  let cleared = true;
  try { localStorage.removeItem(wardPositionStorageKey); localStorage.removeItem(wardCatalogStorageKey); } catch { cleared = false; }
  wardHasEdits = false; renderWardMap();
@@ -252,6 +258,22 @@ function beginWardPlacement() {
  if (wardPlacementMode) { wardPlacementMode = false; pendingWardPosition = null; wardEditHint.textContent = 'ยกเลิกการเลือกตำแหน่งแล้ว'; }
  else { wardPlacementMode = true; pendingWardPosition = null; wardAddForm.hidden = true; wardNewType.value = activeWardType; wardNewSide.value = wardSide.value === 'both' ? 'radiant' : wardSide.value; wardEditHint.textContent = 'คลิกตำแหน่งที่ต้องการบนแผนที่เพื่อวาง Ward ใหม่'; }
  updateWardEditControls();
+}
+function exportWardDefaults() {
+ const spots = wardSpots.filter(spot => !wardDeletedSpotIds.has(spot.id)).map(spot => ({id:spot.id,type:spot.type,side:spot.side,x:spot.x,y:spot.y,title:spot.title,zone:spot.zone,note:spot.note}));
+ wardExportText.value = JSON.stringify({version:1,spots}, null, 2);
+ wardExportPanel.hidden = false; wardExportPanel.open = true;
+ wardEditHint.textContent = 'คัดลอกชุดนี้มาให้ผม เพื่อฝังตำแหน่งและข้อความเป็นค่าเริ่มต้นใน Git';
+ wardExportText.focus(); wardExportText.select();
+}
+async function copyWardDefaults() {
+ try {
+  await navigator.clipboard.writeText(wardExportText.value);
+  wardEditHint.textContent = 'คัดลอกข้อมูลแล้ว · นำมาวางในแชตเพื่อบันทึกเป็นค่าเริ่มต้นในโปรเจกต์';
+ } catch {
+  wardExportText.focus(); wardExportText.select();
+  wardEditHint.textContent = 'เลือกข้อความในช่องแล้วกด Ctrl+C จากนั้นนำมาวางในแชต';
+ }
 }
 function deleteSelectedWard() {
  const spot = wardSpots.find(item => item.id === wardSelectedSpotId);
@@ -589,6 +611,8 @@ wardEditToggle.addEventListener('click', () => setWardEditMode(!wardEditMode));
 wardResetPositions.addEventListener('click', resetWardPositions);
 wardAddStart.addEventListener('click', beginWardPlacement);
 wardDeleteSelected.addEventListener('click', deleteSelectedWard);
+wardExportButton.addEventListener('click', exportWardDefaults);
+wardExportCopy.addEventListener('click', copyWardDefaults);
 wardAddForm.addEventListener('submit', event => {
  event.preventDefault();
  if (!pendingWardPosition) { wardEditHint.textContent = 'เลือกตำแหน่งบนแผนที่ก่อนบันทึก Ward'; return; }

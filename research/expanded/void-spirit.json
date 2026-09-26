@@ -1,0 +1,49 @@
+{
+  "name": "Void Spirit",
+  "slug": "void-spirit",
+  "url": "https://dotacoach.gg/en/heroes/counters/void-spirit",
+  "patch": "7.41f",
+  "checked": "2026-09-24",
+  "pairs": [
+    {
+      "name": "Meepo",
+      "reason": "Meepo overwhelms Void Spirit with clones and disables before he escapes. Void Spirit’s spells aren’t enough to burst down all Meepos. He gets rooted and nuked before using his mobility. Meepo snowballs harder and punishes every small mistake."
+    },
+    {
+      "name": "Lone Druid",
+      "reason": "Void Spirit cannot quickly kill Lone Druid or his bear, wasting his combo. The bear roots Void Spirit and punishes his limited HP pool. LD also wins lane by tanking through early nukes. Once the bear gets Desolator or Bash, Void Spirit can’t escape easily."
+    },
+    {
+      "name": "Chen",
+      "reason": "Chen’s summons tank Void Spirit’s burst and make pickoffs harder. Divine Favor and Hand of God keep allies alive after being engaged on. Chen’s early push punishes Void Spirit’s slow wave clear. Void Spirit has trouble fighting multiple creeps and heals"
+    },
+    {
+      "name": "Night Stalker",
+      "reason": "Night Stalker silences and sticks to Void Spirit during nighttime. Void Spirit can't escape easily with Void and Crippling Fear. Once BKB is online, Night Stalker becomes unkillable for him. Void Spirit needs defensive items to survive early ganks."
+    },
+    {
+      "name": "Monkey King",
+      "reason": "Monkey King controls Void Spirit with Jingu and Boundless Strike. Void Spirit can’t freely move inside Wukong’s Command. He loses lane trades and gets zoned in fights. Monkey punishes missed steps with burst and lifesteal."
+    },
+    {
+      "name": "Broodmother",
+      "reason": "Brood’s webs make her too mobile to catch with Void Spirit’s combo. She controls space too well for him to fight in. He gets run over without strong AoE follow-up."
+    },
+    {
+      "name": "Huskar",
+      "reason": "Huskar shrugs off Void Spirit’s burst and forces bad trades with Burning Spears. Void Spirit cannot disarm him or escape easily once jumped on. Inner Fire interrupts Void Spirit’s combo and resets fights. Huskar scales better in sustained brawls."
+    },
+    {
+      "name": "Io",
+      "reason": "Io keeps cores alive through Void Spirit’s burst with Overcharge and Tether. Relocate saves allies from pickoffs, wasting Void’s cooldowns. Void Spirit can’t isolate supports easily with Io backing them. He struggles to outdamage healing."
+    },
+    {
+      "name": "Terrorblade",
+      "reason": "Terrorblade survives Void Spirit's burst and punishes him during Metamorphosis. Void Spirit lacks the AoE or physical damage to bring illusions down. Sunder resets fights before Void Spirit can finish him. TB’s range also keeps Void Spirit zoned out."
+    },
+    {
+      "name": "Anti-Mage",
+      "reason": "Anti-Mage blinks away from Void Spirit’s combo and punishes his low mana pool. He scales harder and counters Void Spirit with Mana Void. Void Spirit can’t burst AM unless silenced early and perfectly executed. Once Manta is online, AM escapes every time."
+    }
+  ]
+}

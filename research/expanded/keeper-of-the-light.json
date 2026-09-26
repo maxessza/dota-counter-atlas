@@ -1,0 +1,45 @@
+{
+  "name": "Keeper of the Light",
+  "slug": "keeper-of-the-light",
+  "url": "https://dotacoach.gg/en/heroes/counters/keeper-of-the-light",
+  "patch": "7.41f",
+  "checked": "2026-09-24",
+  "pairs": [
+    {
+      "name": "Nyx Assassin",
+      "reason": "Nyx thrives against KotL’s high manapool and low HP. Mana Burn deals huge damage due to KotL’s intelligence scaling. He easily catches KotL while he channels Illuminate or Recall with Vendetta and Carapace."
+    },
+    {
+      "name": "Slardar",
+      "reason": "Slardar’s high mobility and Corrosive Haze quickly delete squishy backliners like KotL. He can blink-stun KotL before he reacts with Will-o-Wisp or Blinding Light. KotL has no hard disable to stop Slardar’s initiation."
+    },
+    {
+      "name": "Weaver",
+      "reason": "Weaver ignores Will-o-Wisp with Shukuchi and Time Lapse. He can chase and kill KotL with Geminate Attack while remaining hard to catch. KotL's low armor and HP are vulnerable to Weaver’s sustained poke."
+    },
+    {
+      "name": "Mirana",
+      "reason": "Moonlight Shadow helps gank or disengage from KotL’s channeled spells. Arrow punishes long Illuminate channels. High mobility lets her avoid Will-o-Wisp and Blinding Light easily."
+    },
+    {
+      "name": "Sand King",
+      "reason": "KotL is vulnerable to surprise Burrowstrike into Epicenter. Sand King often sits in fog or burrows in, making KotL’s recall risky. He punishes KotL’s squishy positioning and long cast times"
+    },
+    {
+      "name": "Chaos Knight",
+      "reason": "Chaos Bolt and Phantasm burst down KotL before he casts anything. KotL has no AoE lockdown to control the illusions. Will-o-Wisp is slow and unreliable against CK’s fast, chaotic fighting style."
+    },
+    {
+      "name": "Anti-Mage",
+      "reason": "KotL’s large mana pool makes him a prime Mana Void target. Blink lets AM close the gap and kill him easily. KotL has no reliable way to stop AM’s split-push or farm pace."
+    },
+    {
+      "name": "Phantom Lancer",
+      "reason": "KotL struggles with PL’s illusions — his spells don’t clear them effectively. Once PL closes the gap, KotL dies quickly with little peel. He can also dodge Illuminate and Will-o-Wisp effects with Doppelganger."
+    },
+    {
+      "name": "Earth Spirit",
+      "reason": "Earth Spirit can silence and burst KotL before he casts spells. His mobility lets him roll in and out past Will-o-Wisp. KotL’s channeling is disrupted by Earth Spirit’s AoE control."
+    }
+  ]
+}

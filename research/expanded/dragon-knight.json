@@ -1,0 +1,57 @@
+{
+  "name": "Dragon Knight",
+  "slug": "dragon-knight",
+  "url": "https://dotacoach.gg/en/heroes/counters/dragon-knight",
+  "patch": "7.41f",
+  "checked": "2026-09-24",
+  "pairs": [
+    {
+      "name": "Necrophos",
+      "reason": "Heartstopper Aura and Reaper's Scythe go right through Dragon Knight's armor."
+    },
+    {
+      "name": "Ursa",
+      "reason": "Fury Swipes can tear Dragon knight down as it stacks infinitely."
+    },
+    {
+      "name": "Outworld Devourer",
+      "reason": "Arcane Orb's constant pure damage output is devastating to Dragon Knight. Dragon Knight's relatively low mana pool leads to heavy damage from Sanity's Eclipse, which also bypasses his armor."
+    },
+    {
+      "name": "Viper",
+      "reason": "Dragon Knight struggles against Viper because Viper directly counters what makes DK strong—his tankiness and sustain. Viper’s Nethertoxin disables Dragon Blood, so DK loses his armor and HP regen, making him much easier to harass and kill in lane. Poison Attack stacks slow and damage over time, wearing down DK even under his tower. Viper’s range and lane dominance make it hard for DK to farm or trade effectively. Overall, Viper shuts down DK’s durability and lane presence, forcing him into a passive, underfarmed position early on."
+    },
+    {
+      "name": "Arc Warden",
+      "reason": "Arc can kite him endlessly with ranged attacks and slows. DK relies on getting close to deal damage, especially in Elder Dragon Form, but Arc’s Magnetic Field makes it hard for DK to hit buildings or heroes. The double Spark Wraiths and constant poke from Tempest Double chip away at DK over time, even through his tankiness. Arc can also farm faster and outscale DK in the late game, where his damage output and split push become overwhelming."
+    },
+    {
+      "name": "Ringmaster",
+      "reason": "Ringmaster counters Dragon Knight by dealing max HP damage with Impalement Arts, bypassing his armor and regen. Wheel of Wonder punishes DK’s melee nature by pulling him in and bursting him if he faces it. Escape Act makes it hard for DK to finish targets. Ringmaster’s control and damage completely disrupt DK’s frontline impact."
+    },
+    {
+      "name": "Batrider",
+      "reason": "Batrider is good against Dragon Knight because Sticky Napalm stacks reduce DK’s turn rate and stack damage over time, which DK can't shrug off early. Firefly lets Batrider bypass DK’s armor by dealing pure damage over terrain. Flaming Lasso pulls DK out of position, disrupting his tanky frontline role. Batrider's constant harassment and mobility make it hard for DK to farm or fight back effectively."
+    },
+    {
+      "name": "Crystal Maiden",
+      "reason": "Crystal Maiden is good against Dragon Knight because her mana regeneration aura helps allies spam spells to break through his tankiness. Her Frostbite roots DK in place, making it hard for him to close gaps or escape. Crystal Nova slows his already low mobility, and her ultimate deals high magic damage that ignores his armor. Early game, her control and burst can zone him out before he gets tanky."
+    },
+    {
+      "name": "Slark",
+      "reason": "Slark is good against Dragon Knight because he builds up Essence Shift stacks during long fights, gradually weakening DK’s strength while boosting his own. DK’s low burst damage and slow attacks make it hard to punish Slark before he escapes. Slark can dispel Dragon Tail stun and Corrosive Breath with Dark Pact, avoiding control and damage. His mobility lets him kite DK, heal with Shadow Dance, and re-engage on his terms."
+    },
+    {
+      "name": "Witch Doctor",
+      "reason": "Witch Doctor is good against Dragon Knight because his Maledict amplifies damage based on lost health, which works well against DK’s high HP pool. Paralyzing Cask can interrupt DK’s channeled actions and stall his initiation. Death Ward deals high physical damage over time, punishing DK even through his armor if he’s stunned. Witch Doctor's sustained damage and control make it hard for DK to frontline effectively in fights."
+    },
+    {
+      "name": "Timbersaw",
+      "reason": "Whirling Death, Timber Chain, and Chakram deal pure or magic damage that ignores DK’s high armor. Whirling Death also reduces DK’s strength, lowering his HP and weakening his tankiness. Timbersaw thrives in extended fights, where DK’s low burst can't threaten him, while Timbersaw can shred DK over time. DK’s melee nature and reliance on physical durability make him an easy target for Timber"
+    },
+    {
+      "name": "Lone Druid",
+      "reason": "Spirit Bear can tank Dragon Knight’s attacks and harass him safely from a distance. The bear’s ranged attacks and mobility make it hard for DK to trade effectively. Lone Druid’s high physical damage can quickly bring down Dragon Knight’s towers and structures, bypassing DK’s frontline presence. Additionally, Lone Druid can split push and force DK to respond, limiting his impact in team fights."
+    }
+  ]
+}

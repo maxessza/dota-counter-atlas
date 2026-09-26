@@ -1,0 +1,21 @@
+{
+  "name": "Drow Ranger",
+  "slug": "drow-ranger",
+  "url": "https://dotacoach.gg/en/heroes/counters/drow-ranger",
+  "patch": "7.41f",
+  "checked": "2026-09-24",
+  "pairs": [
+    {
+      "name": "Faceless Void",
+      "reason": "Time Walk can be used to close the distance within Drow Ranger, hindering her Marksmanship bonus. Faceless Void can also lock down Drow Ranger with Chronosphere before she has the chance to retaliate due to her low health pool."
+    },
+    {
+      "name": "Arc Warden",
+      "reason": "Flux along with Spark Wraith allows Arc Warden to quickly burst down Drow Ranger due to her low health. Magnetic Field will be a big nuisance while pushing towers against Arc. However, Drow Ranger can bypass Magnetic Field's evasion bonus thanks to Marksmanship but only while hitting heroes."
+    },
+    {
+      "name": "Chaos Knight",
+      "reason": "Drow Ranger cant deal with illusion heroes naturally so Chaos Knights Phantasm will be a big problem as well as Reality Rift being able to pull you in closer and disabling your Markmanship."
+    }
+  ]
+}

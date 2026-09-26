@@ -1,0 +1,21 @@
+{
+  "name": "Phantom Assassin",
+  "slug": "phantom-assassin",
+  "url": "https://dotacoach.gg/en/heroes/counters/phantom-assassin",
+  "patch": "7.41f",
+  "checked": "2026-09-24",
+  "pairs": [
+    {
+      "name": "Axe",
+      "reason": "Phantom Strike's extra attack speed will cause Phantom Assassin to trigger Counter Helix more often, which can be fatal for Phantom Assassin in the early game. Jumping on Axe with Phantom Strike is not a good idea for Phantom Assassin at all as it makes her a seriously easy target for a counter-initiation with Berserker's Call and Blade Mail. Most of Axe's abilities pierce Black King Bar, allowing him to lock down Phantom Assassin at any time. Berserker's Call greatly reduces Phantom Assassin's ability to crit hard against Axe, and may cause her to kill herself when used with Blade Mail. Berserker's Call can also affect Phantom Assassin even if she has Black King Bar active as Berserker's Call can fully pierce spell immunity, making Berserker's Call one of the best abilities in the game against heroes like Phantom Assassin who wants to kill opponents quickly without being interrupted. Culling Blade can often kill Phantom Assassin before she can do anything due to her low health and strength gain. And every time Culling Blade successfully kills Phantom Assassin or any of her teammates, Axe gains permanent armor from it, which in combination with armour items that Axe often purchases like Blade Mail, Crimson Guard, Assault Cuirass and Shiva's Guard can make Phantom Assassin's attacks only tickle Axe."
+    },
+    {
+      "name": "Troll Warlord",
+      "reason": "Whirling Axes (Melee) makes it hard for Phantom Assassin to land a Coup de Grace. Troll Warlord often buys Silver Edge and Monkey King Bar, the items that greatly help against Phantom Assassin's Blur ability. Battle Trance completely negates Phantom Assassin's large damage output, preventing Troll Warlord from dying easily. The lifesteal also allows Troll Warlord to restore much of his health."
+    },
+    {
+      "name": "Windranger",
+      "reason": "Phantom Assassin's Blur is useless against Windranger as she commonly buys items that require Javelin like Maelstrom, Monkey King Bar or Bloodthorn, and other than Stifling Dagger, Phantom Assassin has nothing else that can bypass Windrun. Additionally, Phantom Assassin doesn't like building Monkey King Bar because her crits are reliant on attack damage. Focus Fire can still deal considerable damage despite Blur's evasion due to the increased attack speed."
+    }
+  ]
+}

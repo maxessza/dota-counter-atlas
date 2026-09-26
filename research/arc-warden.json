@@ -1,0 +1,21 @@
+{
+  "name": "Arc Warden",
+  "slug": "arc-warden",
+  "url": "https://dotacoach.gg/en/heroes/counters/arc-warden",
+  "patch": "7.41f",
+  "checked": "2026-09-24",
+  "pairs": [
+    {
+      "name": "Meepo",
+      "reason": "Meepo packs a lot of raw HP and damage between him and all his clones making it dificult for Arc to do enough damage to outright kill him. Earthbind can chain root Arc into death preventing him from creating distance and Poof can be used to both burst Arc down and get on top of him. Flux's additional effects rarely apply to Meepo as he always has friendly units around him. Dig and Megameepo are both strong tools that buy time for Meepo to avoid damage and close the gap on Arc."
+    },
+    {
+      "name": "Phantom Lancer",
+      "reason": "Doppelganger is a low cooldown dispel that can remove Flux. Additionally, PL is able to create an abundance of Illusions with Spirit Lance, Doppelganger and his Juxtapose to soak up any Spark Wraiths without them ever getting to damage any actual heroes. Phantom Rush allows him to reliably get on top of Arc due to it's high range and low cooldown."
+    },
+    {
+      "name": "Broodmother",
+      "reason": "Spawn Spiderlings create a lot of summons for Brood, which can soak Spark Wraiths for her and mitigate the effects of Flux significantly. Spin Web provides her with unobstructed movement making it easy for her to get on top of Arc and use Insatiable Hunger to deal enough damage and sustain herself in order to kill both Arc and his Tempest Double."
+    }
+  ]
+}

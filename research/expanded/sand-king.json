@@ -1,0 +1,33 @@
+{
+  "name": "Sand King",
+  "slug": "sand-king",
+  "url": "https://dotacoach.gg/en/heroes/counters/sand-king",
+  "patch": "7.41f",
+  "checked": "2026-09-24",
+  "pairs": [
+    {
+      "name": "Lifestealer",
+      "reason": "Lifestealers Rage provides Magic Resistance and Debuff Immunity which helps with all of Sandkings Spells."
+    },
+    {
+      "name": "Juggernaut",
+      "reason": "Blade Fury provides Magic Resistance and Debuff Immunity which helps with all of Sandkings Spells."
+    },
+    {
+      "name": "Wraith King",
+      "reason": "Sand King relies on comboing enemies from 100 to 0 using Epicenter and Burrowstrike. However, Wraith King's Reincarnation makes him a poor target, as Sand King usually doesn't want to commit his full combo on a hero who immediately comes back to life"
+    },
+    {
+      "name": "Ursa",
+      "reason": "Ursa can pressure Sand King in lane because Fury Swipes deal significant damage, and as a melee hero, Sand King often struggles to trade effectively. Additionally, Ursa’s Enrage helps him mitigate much of Sand King’s combo damage, allowing Ursa to survive and stay in the fight longer"
+    },
+    {
+      "name": "Oracle",
+      "reason": "Oracle can consistently save allies targeted by Sand King using False Promise and Fate’s Edict, either allowing them to keep fighting or completely mitigating the burst of magical damage Sand King deals"
+    },
+    {
+      "name": "Vengeful Spirit",
+      "reason": "Vengeful Spirit can save her allies by using Nether Swap to reposition them away from Sand King’s Sandstorm and Epicenter after he initiates. However, if she has Aghanim's Scepter, Sand King tends to avoid committing his full combo on her due to the threat of her second life"
+    }
+  ]
+}

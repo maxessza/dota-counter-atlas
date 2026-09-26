@@ -1,0 +1,45 @@
+{
+  "name": "Lion",
+  "slug": "lion",
+  "url": "https://dotacoach.gg/en/heroes/counters/lion",
+  "patch": "7.41f",
+  "checked": "2026-09-24",
+  "pairs": [
+    {
+      "name": "Tidehunter",
+      "reason": "Blubber can dispel both Earth Spike and Hex without a cooldown essentially, as long as Tide is taking sufficient damage and can survie it. This makes Tide impossible to initiate on without a Break as upon dispelling the crowd control with Blubber he can instantly \"turn the tide\" with Ravage."
+    },
+    {
+      "name": "Spectre",
+      "reason": "Shadow Step allows Spectre to consistently get on top of Lion and dirsupt him from efficiently using his Earth Spike and Hex. Spectral Dagger allows Spectre to track him down even in Glimmer Cape and Dispersion makes it hard for Lion to fight back with Finger of Death."
+    },
+    {
+      "name": "Rubick",
+      "reason": "Rubick takes Lion's kit and turns it against him and his team, but better. Spell Steal increases the duration of both Earth Spike and Hex, while Arcane Supremacy increases the damage of Earth Spike and Finger of Death. Might and Magus provides additional Magic Resistance to Rubick making him suprisingly tanky versus Lion's exclusive magic damage kit."
+    },
+    {
+      "name": "Visage",
+      "reason": "Gravekeeper's Cloak makes it hard for Lion to burst down Visage with Finger of Death. Visage tends to pressure towers early with his Familiars, which Lion struggles with due to his lack of strong wave clear. Most importantly, Visage can just go \"Sic 'em, boys!\" and unleash his Familiars on Lion as he lacks the innate damage block to mitigate their high frequency of attacks as he a ranged hero."
+    },
+    {
+      "name": "Lifestealer",
+      "reason": "Rage prevents Lion from controlling Lifestealer with Earth Spike or Hex, while mitigating most of his damage. Infest can be used to save an ally from being bursted by Finger of Death or to heal back Lifestealer up and reset his resources to keep fighting."
+    },
+    {
+      "name": "Beastmaster",
+      "reason": "Beastmaster’s summoned units make it difficult for Lion to commit to his spells, often forcing him to target the wrong unit. Beastmaster can also soak up Lion’s damage and use his summons to quickly eliminate Lion from the fight, limiting his impact"
+    },
+    {
+      "name": "Phantom Assassin",
+      "reason": "Lion is very squishy and can be burst down quickly by Phantom Assassin. Once PA gets BKB, Lion’s disables become almost useless."
+    },
+    {
+      "name": "Rubick",
+      "reason": "Lion has strong disables, but Rubick can turn the tide by stealing key spells like Hex or Finger of Death. Rubick’s longer range and spell versatility give him an edge in drawn-out fights. Positioning and timing are crucial for Lion to avoid getting outplayed."
+    },
+    {
+      "name": "Gyrocopter",
+      "reason": "Gyro’s AoE damage can quickly burst Lion down due to his low HP. Lion must pick his timings well to avoid getting caught in Flak Cannon and Call Down."
+    }
+  ]
+}

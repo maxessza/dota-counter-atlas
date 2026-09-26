@@ -1,0 +1,49 @@
+{
+  "name": "Undying",
+  "slug": "undying",
+  "url": "https://dotacoach.gg/en/heroes/counters/undying",
+  "patch": "7.41f",
+  "checked": "2026-09-24",
+  "pairs": [
+    {
+      "name": "Ursa",
+      "reason": "Ursas Overpower is a great counter for killing the tombstone. Fury Swipes also counters the tanky profile Undying has."
+    },
+    {
+      "name": "Lina",
+      "reason": "Lina's attack range and Fiery Soul are an incredible counter to Tombstone."
+    },
+    {
+      "name": "Snapfire",
+      "reason": "Lil' Shredder destroys Tombstone quickly from a safe range. Her high magic burst punishes Undying's low mobility and poor scaling. She also zones Undying out of teamfights and punishes his early grouping."
+    },
+    {
+      "name": "Jakiro",
+      "reason": "Jakiro attacks twice so he can easily destroy tombstone. Ice Path and Dual Breath interrupt Tombstone fights and slow Undying’s early aggression. His long-range spell makes Undying’s push ineffective."
+    },
+    {
+      "name": "Medusa",
+      "reason": "Zombies barely affect Medusa due to her Split Shot and high effective mana pool. Stone Gaze disables Undying and forces him out of position if he commits early. She simply outscales and ignores his impact in long fights."
+    },
+    {
+      "name": "Luna",
+      "reason": "Luna’s fast right-clicks and bouncing Glaives kill Tombstone instantly, even from afar. Her Eclipse punishes Undying's low magic resistance and clustered teamfights. She’s fast, farm-heavy, and doesn’t care about his decay stacking."
+    },
+    {
+      "name": "Gyrocopter",
+      "reason": "Gyrocopter clears zombies with Flak Cannon, and can kill Tombstone from long range. His AoE magic damage punishes early group fights, where Undying usually shines. Once he gets BKB, Undying can't threaten him at all."
+    },
+    {
+      "name": "Meepo",
+      "reason": "Meepo’s multi hits kills Tombstone and zombies instantly. He can ignore Decay due to sheer numbers and overwhelm Undying with fast tempo. Undying has no answer to Meepo’s early snowball and control."
+    },
+    {
+      "name": "",
+      "reason": "Undying is gold-starved, and Bounty thrives by abusing him with Track for snowball gold. Bounty can kite and harass Undying, and pick off backline supports when Tombstone is down. He’s elusive and very hard for Undying to lock down."
+    },
+    {
+      "name": "Monkey King",
+      "reason": "MK can easily kill Tombstone from trees or inside his ultimate. Zombies don’t stop Monkey King’s Jingu stacks or ult, and his mobility outmaneuvers Undying. In lane, MK can out-trade Decay with lifesteal and higher burst."
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "name": "Mirana",
+  "slug": "mirana",
+  "url": "https://dotacoach.gg/en/heroes/counters/mirana",
+  "patch": "7.41f",
+  "checked": "2026-09-24",
+  "pairs": [
+    {
+      "name": "Bloodseeker",
+      "reason": "Rupture damages Mirana during Leap and is a big deterent for her to spam it as she has one of the lowest strength gains in the game and Pure Damage is primarily countered by flat HP and HP regeneration. Thirst allows BS to reveal any opponents under the effects of Moonlight Shadow that have been damaged sufficiently."
+    },
+    {
+      "name": "Puck",
+      "reason": "Dream Coil prevents Mirana from using Leap. Waining Rift, Phase Shift and Ethereal Jaunt can be used to dodge Sacred Arrow and Starstorm. Jostling Rift can cancel Leap mid air."
+    },
+    {
+      "name": "Mars",
+      "reason": "Arena of Blood prevents Mirana and her teammates from attacking across its walls, mitigating a huge component of her damage output, while simultaneously preventing her from Leaping in and out of it. Bulwark can mitigate the damage from her attacks and further re-direct them to Mars. God's Rebuke and Spear of Mars can interrupt Leap mid air."
+    },
+    {
+      "name": "Spectre",
+      "reason": "Mirana is one of the squishiest heroes in the game with good mobility. This makes her a perfect target for Spectre to eliminate. Spectral Dagger provides partial vision of her enemies allowing Spectre and her team to track the movements of their enemies during Moonlight Shadow."
+    },
+    {
+      "name": "Nyx Assassin",
+      "reason": "Mirana is one of the squishiest heroes in the game, making it a nightmare for her to survive a Nyx's burst combo at all stages of a game as Vendetta does Pure damage. Impale can interrupt Leap mid air, while Spiked Carapace can soak the damage from Sacred Arrow and Starstorm, locking down Mirana in the process."
+    },
+    {
+      "name": "Abaddon",
+      "reason": "Sacred Arrow can be dispelled by both Aphotic Shield on any of Abaddon's allies, as well as Borrowed Time from Abaddon himself."
+    }
+  ]
+}

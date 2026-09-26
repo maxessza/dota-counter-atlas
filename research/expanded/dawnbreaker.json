@@ -1,0 +1,33 @@
+{
+  "name": "Dawnbreaker",
+  "slug": "dawnbreaker",
+  "url": "https://dotacoach.gg/en/heroes/counters/dawnbreaker",
+  "patch": "7.41f",
+  "checked": "2026-09-24",
+  "pairs": [
+    {
+      "name": "Viper",
+      "reason": "Viper is going to be able to Break your passive ability and slow your attack speed which is going to significantly reduce your effectiveness and damage output."
+    },
+    {
+      "name": "Nyx Assassin",
+      "reason": "Spiked Carapace can stop Dawnbreaker's Solar Guardian which will eliminate her global presence and limits her movement around the map."
+    },
+    {
+      "name": "Drow Ranger",
+      "reason": "Gust can shut down most of Dawnbreaker's abilities, rendering her useless. Laning is also hard against this ranged carry hero."
+    },
+    {
+      "name": "Disruptor",
+      "reason": "Your ultimate will be a perfect setup for Kinetic Field and Static Storm. You can also not escape from Kinetic Field with your hammer and you can be glimpsed when you land with your ultimate."
+    },
+    {
+      "name": "Silencer",
+      "reason": "Global Silence cancels Dawnbreaker’s ultimate, preventing her from joining fights and reducing her impact during team engagements."
+    },
+    {
+      "name": "Phoenix",
+      "reason": "Phoenix counters Dawnbreaker because she has low attack speed, making it hard to trade damage. Additionally, Phoenix’s supernova is unaffected by Dawnbreaker’s spells, allowing Phoenix to dominate teamfights."
+    }
+  ]
+}

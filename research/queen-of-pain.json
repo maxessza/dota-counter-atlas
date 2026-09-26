@@ -1,0 +1,21 @@
+{
+  "name": "Queen of Pain",
+  "slug": "queen-of-pain",
+  "url": "https://dotacoach.gg/en/heroes/counters/queen-of-pain",
+  "patch": "7.41f",
+  "checked": "2026-09-24",
+  "pairs": [
+    {
+      "name": "Anti-Mage",
+      "reason": "Anti Mage's Blink together with Mana Break on right clicks lets him get on top of Queen of Pain and burn her mana. This makes Queen of Pain Blink defensively every time if she doesn't want to get bursted by Mana Void because of her high mana pool. Anti Mage can also easily block and reflect Shadow Strike with Counterspell, leaving only Scream of Pain and Sonic Wave as her real damage sources. Anti Mage's magic resistance through Counterspell also reduce a lot of Queen of Pain's spell damage."
+    },
+    {
+      "name": "Bloodseeker",
+      "reason": "Bloodseeker's Rupture keeps Queen of Pain in place and prevents her from using Blink to get away if she wants to avoid taking a ton of damage. This lets Bloodseeker follow up with the Blood Rite silence and damage on a squishy and immobile Queen of Pain and burst her down with his right clicks."
+    },
+    {
+      "name": "Centaur Warrunner",
+      "reason": "Centaur Warrunner's Return Retaliate returns a ton of Queen of Pain's burst damage back to her, threatening her life if she uses her spell combo on a tanky Centaur. Once Centaur gets Blade Mail, this reflection damage is even greater and practically prevents Queen of Pain from ever targeting him with her burst damage without the fear of dying herself. Stampede also enables Centaur's entire to close the gap on a squishy Queen of Pain."
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "name": "Lifestealer",
+  "slug": "lifestealer",
+  "url": "https://dotacoach.gg/en/heroes/counters/lifestealer",
+  "patch": "7.41f",
+  "checked": "2026-09-24",
+  "pairs": [
+    {
+      "name": "Batrider",
+      "reason": "Flaming Lasso pierces Debuff Immunity capable of stunning an repositioning LS even during his Rage. Flamebreak can be used to kite LS and Firefly allows Batrider to move over impassable terrain like cliffs to prevent him from hitting you."
+    },
+    {
+      "name": "Bane",
+      "reason": "Fiend's Grip pierces debuff immunity making it great at controlling LS during his Rage. Enfeeble greatly reduces his rightclick damage, which is his main source of damage and forces him to get even closer in order to use Infest or Open Wounds. Nightmare is effective at controlling or isolating him in a fight and Brain Sap can damage him during Rage."
+    },
+    {
+      "name": "Enigma",
+      "reason": "Black Hole pierces Rage's Debuff Immunity and does not get mitigated by Unfettered's Status Resistance nor does it get dispelled as it is a channel, giving Enigma a reliable way of locking down LS. Midnight Pulse also pierces Rage's Debuff Immunity and does not get mitigated by Status Resistance. In lane Eidolons are amazing at securing last hits and more importantly denies due ot LS's low base attack damage."
+    }
+  ]
+}

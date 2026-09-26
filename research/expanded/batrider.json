@@ -1,0 +1,49 @@
+{
+  "name": "Batrider",
+  "slug": "batrider",
+  "url": "https://dotacoach.gg/en/heroes/counters/batrider",
+  "patch": "7.41f",
+  "checked": "2026-09-24",
+  "pairs": [
+    {
+      "name": "Pudge",
+      "reason": "Pudge has various ways of saving his teammates from Batrider's spells. He can Meat Hook his allies away from Firefly or Batrider himself during Flaming Lasso to drag his ally back to safety. He can also pick up an Aghanim's Shard and use Dismember on an ally to cancel the Flaming Lasso altogether or prevent Flamebreak's burn duration."
+    },
+    {
+      "name": "Abaddon",
+      "reason": "Aphotic Shield is a low cooldown Strong Dispel, which can dispel both Flaming Lasso as well as remove Sticky Napalm Stacks consistently. Borrowed Time can be used DURING Flaming Lasso to dispel it."
+    },
+    {
+      "name": "Slark",
+      "reason": "Dark Pact is a low cooldown Strong Dispel, which can dispel Flaming Lasso, Flamebreak's DOT as well as remove Sticky Napalm Stacks consistently. Pounce provides a reliable lockdown for Batrider to mitigate his mobility and Shadow Dance and Depth Shroud prevent Flaming Lasso from being cast on anyone under their effects."
+    },
+    {
+      "name": "Oracle",
+      "reason": "False Promise is a Strong Dispel and can dispel Flaming Lasso as well as Sticky Napalm and Flamebreak's DOT. Fortune's End provides additional dispel for Stick Napalm and Flamebreak as well as a root to control Batrider. Even if both of them are on cooldown Fate's Edict still provides protection from Batrider's exclusively magic damage kit.."
+    },
+    {
+      "name": "Ursa",
+      "reason": "By itself Ursa's Enrage provides sufficient Status Resistance and Damage reduction on its own to mitigate Flaming Lasso's effects. Aghanim's Scepter however allows Ursa to Enrage DURING Flaming Lasso and outright kill Batrider. Earthshock can be used to traverse terrain and stick on Batrider during his Firefly."
+    },
+    {
+      "name": "Legion Commander",
+      "reason": "Press the Attack is a Strong Dispel and can dispel Flaming Lasso as well as Sticky Napalm and Flamebreak's DOT. Duel provides substantial lockdown for an elusive Batrider and can be used as counter initiation to his Flaming Lasso."
+    },
+    {
+      "name": "Tidehunter",
+      "reason": "Kraken Shell removes Sticky Napalm stacks and dispels Flaming Lasso quickly. Tide is tanky enough to frontline and make Batrider’s pickoff attempts meaningless with Ravage follow-up during dives."
+    },
+    {
+      "name": "Viper",
+      "reason": "Batrider suffers against ranged magic harass, and Nethertoxin punishes his tendency to stay in one spot. Viper zones him out of lane and teamfights with longer range and persistent damage."
+    },
+    {
+      "name": "Enigma",
+      "reason": "Batrider needs to dive into fights, but Black Hole punishes him for doing so. Midnight Pulse also melts his HP rapidly. Enigma’s control can outscale Bat's early tempo if he farms well."
+    },
+    {
+      "name": "Phoenix",
+      "reason": "Phoenix stays far away from Sticky Napalm stacks and zones Bat with Sun Ray. Supernova disrupts Bat’s dives, forcing him to retreat or commit fully into a losing fight. Phoenix also heals Lasso targets."
+    }
+  ]
+}

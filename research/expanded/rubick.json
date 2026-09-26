@@ -1,0 +1,49 @@
+{
+  "name": "Rubick",
+  "slug": "rubick",
+  "url": "https://dotacoach.gg/en/heroes/counters/rubick",
+  "patch": "7.41f",
+  "checked": "2026-09-24",
+  "pairs": [
+    {
+      "name": "Anti-Mage",
+      "reason": "Fade Bolt does little damage to Anti-Mage due to Counterspell's magic resistance. Most of Rubick's spells are single targets and can be reflected by Counterspell. The only spell that provides some utility for Rubick is Blink. Blink does little on its own to counter Anti-Mage when coming from behind except allowing Rubick to escape. Rubick can easily run out of mana to cast the spell due to Mana Break, if not dying to Anti-Mage's physical damage already."
+    },
+    {
+      "name": "Night Stalker",
+      "reason": "Crippling Fear silences nearby heroes and cannot be dispelled, which hinders Rubick's way to retaliate when being jumped on. With Hunter in the Night and Dark Ascension, Night Stalker can find Rubick easily in teamfights. The two spells grants more than enough damage to hunt Rubick down without defensive items."
+    },
+    {
+      "name": "Slark",
+      "reason": "Pounce and Dark Pact together with some attacks can take Rubick down quickly. Rubick's spells are ineffective due to the strong dispel effect of Dark Pact. Even though Shadow Dance is a great spell to steal, Slark's untargetable nature and his low cooldown spells prevents Rubick from stealing. Also Slark can freely use other abilities for the duration of Shadow Dance."
+    },
+    {
+      "name": "Elder Titan",
+      "reason": "Elder Titan’s aura makes Rubick extremely squishy. Rubick can’t steal any truly game-breaking spells from him, and Echo Stomp's setup often catches Rubick before he can respond. Titan thrives in chaotic fights where Rubick struggles to cast."
+    },
+    {
+      "name": "Tusk",
+      "reason": "Tusk closes the gap quickly with Snowball and punishes Rubick’s weak mobility. He isolates Rubick with Walrus Punch and Ice Shards, removing him from the fight before he can react. Tusk is hard to steal anything impactful from."
+    },
+    {
+      "name": "Leshrac",
+      "reason": "Leshrac deals constant AoE magic damage, which shreds Rubick’s low HP pool. Even with Spell Steal, Rubick doesn’t benefit much unless he gets Pulse Nova, and Lesh is hard to catch without heavy follow-up."
+    },
+    {
+      "name": "Batrider",
+      "reason": "Batrider destroys Rubick with Sticky Napalm stacks and Flaming Lasso. Rubick has no way to save himself and has poor turn-rate for escape. Lasso is hard to steal without risking positioning."
+    },
+    {
+      "name": "Razor",
+      "reason": "Razor's Static Link shuts Rubick down completely if latched. Rubick can’t burst or escape him, and he rarely gets to steal anything meaningful. Razor thrives in extended fights where Rubick struggles to contribute."
+    },
+    {
+      "name": "Pangolier",
+      "reason": "Pangolier's Rolling Thunder ruins Rubick’s ability to channel or position properly. Even if Rubick steals Shield Crash or Swashbuckle, it’s hard to get value without being interrupted by the rolling stun."
+    },
+    {
+      "name": "Phantom Assassin",
+      "reason": "Rubick’s low armor and HP make him food for Coup de Grace. He can’t control PA alone, and she shrugs off most of his disables. PA also often builds BKB, making Rubick useless against her mid-to-late game."
+    }
+  ]
+}

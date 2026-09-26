@@ -1,0 +1,49 @@
+{
+  "name": "Luna",
+  "slug": "luna",
+  "url": "https://dotacoach.gg/en/heroes/counters/luna",
+  "patch": "7.41f",
+  "checked": "2026-09-24",
+  "pairs": [
+    {
+      "name": "Dark Seer",
+      "reason": "Wall of Replica and Normal Punch (Aghanim's Scepter Upgrade) can create multiple Illusions of Luna to do devastating amounts of damage to her own team as she tends to build heavy stat items to improve her own Manta Illusions' damage and durability. The Illusions DS creates inherit both Moon Glaives and Lunar Blessing. Surge is amazing at disengaging from Eclipse or closing the gap on Luna."
+    },
+    {
+      "name": "Juggernaut",
+      "reason": "Both Blade Fury and Omnislash are direct counters to Eclipse, offering Juggernaut spell immunity and invulnerabilty. Therefore, Luna will need assistance in taking down Juggernaut as going solo will not be successful. Because of her low range, Luna cannot easily destroy Healing Ward."
+    },
+    {
+      "name": "Shadow Demon",
+      "reason": "Demonic Purge takes off Luna's superior mobility, removing the need for chasing her and allowing your team to reposition in team fights or escape when at low HP. If Shadow Demon has Aghanim's Scepter it will also take away glaive bounces and extra damage from Luna's passive. And Luna's commonly items Manta Style and Black King Bar does not work dispell to Demonic Purge Luna's illusions created by Disruption are very valuable with their Moon Glaives. These will effectively counter her pushing attempts and are painfully effective in team fights. Disruption can be used to save an ally from Eclipse. For the same reasons, Shadow Demon makes a very powerful ally for Luna when they are in the same team."
+    },
+    {
+      "name": "Chen",
+      "reason": "Chen's creeps soak up a large portion of Luna’s glaive bounces and Eclipse beams. His army and sustain delay Luna’s timing to take objectives. Chen out-pushes early and counters Luna’s 5-man group-up with map pressure."
+    },
+    {
+      "name": "Underlord",
+      "reason": "Atrophy Aura reduces Luna’s right-click damage drastically, especially during midgame. Pit of Malice roots her in Eclipse or to forces her to use BKB . Underlord's tankiness and aura-based playstyle slow down Luna’s tempo."
+    },
+    {
+      "name": "Medusa",
+      "reason": "Medusa’s Mana Shield absorbs most of Luna’s magical and physical burst. Medusa out-scales Luna in ultra-late-game and holds high ground much better. During fights medusa can turn with stone gaze."
+    },
+    {
+      "name": "Dark Willow",
+      "reason": "Brambles and Cursed Crown interrupt Luna’s positioning and channeled fights. Shadow Realm and Bedlam allow Willow to out-trade and kite Luna in lane, Terrorize can be used to reset or setup on luna."
+    },
+    {
+      "name": "Bristleback",
+      "reason": "Luna’s glaives hit Bristle from behind, charging up Quills. She can't kill him fast enough, and her magic damage is ineffective vs his tankiness. Bristle punishes close-range heroes like Luna with constant harass."
+    },
+    {
+      "name": "Bane",
+      "reason": "Fiend’s Grip pierces BKB and completely disables Luna during fights. Nightmare saves his cores from Eclipse or Lucent Beam burst. Bane has the tools to lock Luna down and render her damage useless."
+    },
+    {
+      "name": "Wraith King",
+      "reason": "Luna blows cooldowns on his first life, only for him to respawn and re-engage. She lacks burst to kill both Wraith King and his team unless farmed significantly. WK makes her glaives and Eclipse unreliable due to many skeletons."
+    }
+  ]
+}

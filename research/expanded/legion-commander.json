@@ -1,0 +1,41 @@
+{
+  "name": "Legion Commander",
+  "slug": "legion-commander",
+  "url": "https://dotacoach.gg/en/heroes/counters/legion-commander",
+  "patch": "7.41f",
+  "checked": "2026-09-24",
+  "pairs": [
+    {
+      "name": "Dazzle",
+      "reason": "Shallow Grave prevents Legion Commander from killing her opponents in Duels. Shadow Wave will heal an ally caught in a Duel, as well as dealing damage to Legion Commander."
+    },
+    {
+      "name": "Outworld Devourer",
+      "reason": "Astral Imprisonment prevents Legion Commander from killing her opponents in Duels."
+    },
+    {
+      "name": "Pugna",
+      "reason": "Decrepify on either hero stops Legion Commander from completing a Duel, and dissuades her from initiating Duels on ethereal allies. Life Drain can help Pugna's teammates win a fight, either by killing Legion Commander or replenishing her target's health."
+    },
+    {
+      "name": "Winter Wyvern",
+      "reason": "Winter Wyvern is one of the hardest counters to Legion Commander. Cold Embrace completely mitigates LC’s physical damage and can save allies during Duel. In addition, Winter’s Curse can be cast on LC mid-Duel, stopping her attacks and potentially turning the fight against her."
+    },
+    {
+      "name": "Shadow Demon",
+      "reason": "Shadow Demon’s Disruption can save allies caught in Duel, preventing Legion Commander from securing bonus damage. His ultimate, Demonic Purge, removes buffs from Overwhelming Odds and Press the Attack, leaving LC vulnerable and easier to kill."
+    },
+    {
+      "name": "Dawnbreaker",
+      "reason": "Dawnbreaker can often survive Duel when played as a core, thanks to her tankiness and healing during the fight. As a support, she can heal allies during Duel with Solar Guardian, frequently saving them from being finished off."
+    },
+    {
+      "name": "",
+      "reason": "Oracle’s ultimate, False Promise, prevents Legion Commander from winning Duel and gaining bonus damage. Fate’s Edict can disarm LC during Duel if she lacks debuff immunity, while Fortune’s End can dispel buffs from Overwhelming Odds and Press the Attack, further weakening her."
+    },
+    {
+      "name": "Wraith King",
+      "reason": "Legion Commander often struggles to kill Wraith King during Duel due to his lifesteal, crits, and high tankiness. Even if the duel succeeds, Wraith King’s Reincarnation brings him back to life, making him a difficult and risky target for LC to lock down."
+    }
+  ]
+}

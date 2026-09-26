@@ -1,0 +1,21 @@
+{
+  "name": "Shadow Demon",
+  "slug": "shadow-demon",
+  "url": "https://dotacoach.gg/en/heroes/counters/shadow-demon",
+  "patch": "7.41f",
+  "checked": "2026-09-24",
+  "pairs": [
+    {
+      "name": "Riki",
+      "reason": "A Disruption save for a teammate of SD can easily turn into set up for an enemy Riki as he can preemptively place Smoke Screen and Tricks of the Trade on top of it. Tricks of the Trade can be timed to avoid Demonic Purge's or Shadow Poison's damage."
+    },
+    {
+      "name": "Leshrac",
+      "reason": "A Disruption save for a teammate of SD can easily turn into set up for an enemy Leshrac as he can preemptively cast Split Earth to time its duration. Leshrac doesn't really have buffs or passives for Demonic Purge to Dispel or Break (including his level 20 damage reduction talent) and Disruption doesn't stop him from doing damage with Diabolic Edict or Pulse Nova."
+    },
+    {
+      "name": "Meepo",
+      "reason": "A Disruption save for a teammate of SD can easily turn into set up for an enemy Meepo as he can preemptively cast Earthbind or Poof to time its duration for a chain root or massive magic damage burst. Dig can be timed to avoid Demonic Purge's or Shadow Poison's damage and effects."
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "name": "Troll Warlord",
+  "slug": "troll-warlord",
+  "url": "https://dotacoach.gg/en/heroes/counters/troll-warlord",
+  "patch": "7.41f",
+  "checked": "2026-09-24",
+  "pairs": [
+    {
+      "name": "Razor",
+      "reason": "Static Link can drain most or all of Troll Warlord's damage, making him useless in a teamfight or unable to last hit in lane. This is especially effective during Battle Trance, because Troll has no option to cancel the link. Storm Surge allows Razor to chase after or run away from Troll Warlord while doing damage with Eye of the Storm."
+    },
+    {
+      "name": "Sniper",
+      "reason": "Shrapnel and Headshot allows Sniper to kite Troll Warlord effectively. Having natural big attack range together with increased attack range from Hurricane Pike allow Sniper to sit and fire at Troll Warlord from a safe distance."
+    },
+    {
+      "name": "Winter Wyvern",
+      "reason": "Cold Embrace can protect Troll Warlord's target, especially during Battle Trance. Winter's Curse can turn Troll Warlord's high physical damage and attack speed against his allies."
+    }
+  ]
+}

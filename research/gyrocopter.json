@@ -1,0 +1,21 @@
+{
+  "name": "Gyrocopter",
+  "slug": "gyrocopter",
+  "url": "https://dotacoach.gg/en/heroes/counters/gyrocopter",
+  "patch": "7.41f",
+  "checked": "2026-09-24",
+  "pairs": [
+    {
+      "name": "Arc Warden",
+      "reason": "Arc kites Gyro with Spark Wraiths and constant slow. His Tempest Double safely harasses from range, while Gyro can't reach or burst him before being chipped down."
+    },
+    {
+      "name": "Lifestealer",
+      "reason": "Lifestealer shrugs off Gyro’s magic damage with Rage. He can also infest and burst Gyro in fights, taking advantage of Gyro’s low armor and lack of hard disables."
+    },
+    {
+      "name": "Viper",
+      "reason": "Viper’s Nethertoxin shuts down Flak Cannon by disabling passives. His poison and Break effects reduce Gyro’s ability to sustain or kite."
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "name": "Beastmaster",
+  "slug": "beastmaster",
+  "url": "https://dotacoach.gg/en/heroes/counters/beastmaster",
+  "patch": "7.41f",
+  "checked": "2026-09-24",
+  "pairs": [
+    {
+      "name": "Medusa",
+      "reason": "Mana Shield allows Medusa to survive Beastmaster's Primal Roar and to counter initiate with Stone Gaze. Split Shot, Mystic Snake and Gorgon's Grasp all affect multiple targets and are naturally effective at clearing Call of the Wild Boar and Call of the Wild Hawk summons. Primal Road triggers Cold Blooded making Medusa even more survivable."
+    },
+    {
+      "name": "Dawnbreaker",
+      "reason": "Both Starbreaker and Celestial hammer are both effective at clearing Call of the Wild Boar and Call of the Wild Hawk summons due to their AOE property. More importantly Solar Guardian provides a global save, and counter initiation for Primal Roared ally anywhere on the map."
+    },
+    {
+      "name": "Sand King",
+      "reason": "Sand King's kit is entirely AOE making it easy for him to clear Call of the Wild Boar and Call of the Wild Hawk. More importantly, Caustic Finale turns Beastmaster's summons against him as even a single Stinger can affect multiple summons that upon death nuke Beastmaster for massive damage."
+    },
+    {
+      "name": "Ember Spirit",
+      "reason": "Ember's kit is entirely AOE making it easy for him to clear Call of the Wild Boar and Call of the Wild Hawk. The multiple summons allow Ember to stay invulnerable for longer during Sleight of Fist. Flameguard provides him protection from Beastmaster's heavy Magic Damage and he can dodge a lot of damage from Wild Axes and Drums of Slom with Sleight of Fist and Fire Remnant."
+    },
+    {
+      "name": "Bristleback",
+      "reason": "Bristleback's heavy AOE kit makes it easy for him to clear Call of the Wild Boar and Call of the Wild Hawk with Quill Spray and Hairball. Beastmaster can take a lot of towers early and Bristleback can simply park his body infront of a tower and turn his Bristleback towards a pushing Beastmaster to delay or stop the push altogether."
+    },
+    {
+      "name": "Elder Titan",
+      "reason": "Elder Titan’s Spirit clears the zoo with bonus damage, and Echo Stomp controls the entire army. His aura reduces armor and magic resistance, punishing Beastmaster’s summons and frontline presence heavily."
+    },
+    {
+      "name": "Gyrocopter",
+      "reason": "Gyro punishes summons with Flak Cannon and Call Down. He clears pushes fast and scales better in teamfights. Beastmaster can’t burst Gyro easily, and the longer the fight goes, the worse it becomes for Beastmaster."
+    },
+    {
+      "name": "Kunkka",
+      "reason": "Kunkka’s Torrent and Boat stall pushes and disrupt the zoo. Cleave from Tidebringer eliminates summons quickly. Kunkka also scales into a tanky frontliner that shrugs off Primal Roar and zone control."
+    },
+    {
+      "name": "Tidehunter",
+      "reason": "Anchor Smash massively reduces damage from Beastmaster’s units. Kraken Shell removes Primal Roar, making it nearly useless. Beastmaster cannot push through Ravage and the teamfight dominance Tide brings."
+    },
+    {
+      "name": "Lina",
+      "reason": "Lina’s Dragon Slave and Light Strike Array instantly clear summons. Laguna Blade bursts Beastmaster if he overcommits. Her range and spell damage make it very hard for him to establish a siege safely."
+    }
+  ]
+}

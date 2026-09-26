@@ -1,0 +1,21 @@
+{
+  "name": "Alchemist",
+  "slug": "alchemist",
+  "url": "https://dotacoach.gg/en/heroes/counters/alchemist",
+  "patch": "7.41f",
+  "checked": "2026-09-24",
+  "pairs": [
+    {
+      "name": "Dragon Knight",
+      "reason": "DK's Frost Dragon facet reduces Chemical Rage's healing substantially, which is Alch's main defensive tool. Additionally, he can reduce his overall damage output greatly with Breather Fire and Frost Dragon and provides reliable lockdown with Dragon Tail. His strong early game allows him to match Alch's strong early game better than most heroes."
+    },
+    {
+      "name": "Pudge",
+      "reason": "Aghanim's Scepter and Shiva's Guard are staple items for Pudge and reduce Chemical Rage's healing, which is Alch's main defensive tool. Pudge is able to provide a strong permament slow on Alch preventing him from both attacking and retreating and has a reliable lockdown with Dismember."
+    },
+    {
+      "name": "Ancient Apparition",
+      "reason": "AA's Ice Blast negates Chemical Rage's healing completely, which is Alch's main defensive tool. This usually forces Alch to flee from the fight entirely and wait it out. Additionally, his facet Bone Chill reduces strenght, which further impacts his overall potency."
+    }
+  ]
+}

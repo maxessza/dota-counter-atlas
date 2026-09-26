@@ -1,0 +1,33 @@
+{
+  "name": "Enigma",
+  "slug": "enigma",
+  "url": "https://dotacoach.gg/en/heroes/counters/enigma",
+  "patch": "7.41f",
+  "checked": "2026-09-24",
+  "pairs": [
+    {
+      "name": "Alchemist",
+      "reason": "The massive HP regen from Chemical Rage provides solid protection from being bursted during a Black Hole. Enigma's many Eidolons trigger Greevil's Greed and often become the focus of Alch for some massive easy gold. Malefice get's dispelled by both Chemical Rage and Berserk Potion."
+    },
+    {
+      "name": "Bristleback",
+      "reason": "Bristleback can mitigate significant damage during Black Hole and Midnight Pulse and even kill off Enigma with Quill Spray procs before a full Black Hole channel is completed. Eidolons have relatively low armor and mostly provide extra Gold and XP for Bristleback."
+    },
+    {
+      "name": "Spectre",
+      "reason": "Spectre's Dispersion makes her one of the better heroes to survie a Black Hole as Dispersion reduces ANY damage source incluing BH's Pure damage. Shadow Step and Haunt allow Spectre to focus Enigma and prevent him from executing a clean Black Hole."
+    },
+    {
+      "name": "Silencer",
+      "reason": "Global Silence can interrupt Black Hole from anywhere on the map, forcing Enigma to either catch Silencer in it or not use it altogether until he is dead or Global Silence is on cooldown. Even if Enigma is under the effects of BKB or any other form of debuff immunity Global Silence would still interrupt BLack Hole's channel."
+    },
+    {
+      "name": "Rubick",
+      "reason": "Spell Steal arms Rubick and his team with an empowered Black Hole. Arcane Supremacy amplifies the cast range and damage of Malefice, Midnight Pulse and Black Hole. Telekinesis can instantly interrupt Black Hole or be used to break Linken's along with Fade Bolt to steal it."
+    },
+    {
+      "name": "Warlock",
+      "reason": "Chaotic Offering has a huge AOE and cast range that can reliably interrupt Black Hole, even during BKB or any other form of debuff immunity. Clipping Enigma with any of Warlock's basic spells -Fatal Bonds, Shadow Word, Upheaval before he gets to use Black Hole can disrupt his Blink initiation. His basic abilities are also effective at clearing Eidolons."
+    }
+  ]
+}

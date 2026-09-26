@@ -1,0 +1,49 @@
+{
+  "name": "Warlock",
+  "slug": "warlock",
+  "url": "https://dotacoach.gg/en/heroes/counters/warlock",
+  "patch": "7.41f",
+  "checked": "2026-09-24",
+  "pairs": [
+    {
+      "name": "Tidehunter",
+      "reason": "Tide shrugs off Fatal Bonds and Upheaval with Kraken Shell. He wins teamfights with Ravage before Warlock can impact the fight, and Golems can’t pierce his tankiness. He scales better in 5v5s."
+    },
+    {
+      "name": "Bounty Hunter",
+      "reason": "Bounty thrives on hunting supports like Warlock, who lacks escape or armor. Track ensures Warlock gets deleted first in fights, and his constant harassment keeps Warlock from safely warding or channeling."
+    },
+    {
+      "name": "Elder Titan",
+      "reason": "ET negates Warlock’s sustain by reducing magic resistance. His spirit combo and Echo Stomp can zone Warlock and stop his channeled abilities. Bonds are useless if Warlock dies before casting."
+    },
+    {
+      "name": "Morphling",
+      "reason": "Morphling's mobility and sustain shrug off Bonds and Upheaval. He quickly kills Warlock in the backline and survives Mystic Flare-level bursts. Warlock has no way to lock Morphling down."
+    },
+    {
+      "name": "Bristleback",
+      "reason": "Bristle thrives in long fights and shrugs off Warlock's harassment. Fatal Bonds doesn't deter him, and Golems do little unless the whole team commits. He’s too tanky for Warlock to influence meaningfully."
+    },
+    {
+      "name": "Underlord",
+      "reason": "Underlord punishes grouped-up heroes, and Warlock’s entire spell kit relies on clustering. Pit of Malice and Firestorm zone Warlock out of teamfights, while Dark Rift can nullify Offering follow-up."
+    },
+    {
+      "name": "Shadow Fiend",
+      "reason": "Shadow Fiend’s AoE and quick right-click damage punish Warlock’s slow casting and low armor. He can burst Warlock before Offering lands. If SF gets BKB, Warlock becomes helpless during engagements."
+    },
+    {
+      "name": "Sand King",
+      "reason": "Sand King can blink-stun Warlock before he casts. His Epicenter + Caustic combo melts supports grouped under Fatal Bonds. Warlock also struggles to position safely against invis or blink initiation."
+    },
+    {
+      "name": "Keeper of the Light",
+      "reason": "Keeper’s blinding light and high mobility make it hard for Warlock to land Upheaval. He can interrupt channeling with Will-o-Wisp and push lanes faster than Warlock can defend."
+    },
+    {
+      "name": "Phoenix",
+      "reason": "Phoenix’s Fire Spirits reduce right-click effectiveness of Golems. Supernova zones Warlock out and punishes his low attack speed. Warlock can’t cancel Supernova unless massively ahead."
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "name": "Underlord",
+  "slug": "underlord",
+  "url": "https://dotacoach.gg/en/heroes/counters/underlord",
+  "patch": "7.41f",
+  "checked": "2026-09-24",
+  "pairs": [
+    {
+      "name": "Rubick",
+      "reason": "Spell Steal turns all of Underlord's spells against his own team and even further empowers their already amazing values. The % Max HP damage from Firestorm scales with Arcane Supremacy's Spell Amlification resulting in devastating damage troughout the entirety of the game."
+    },
+    {
+      "name": "Ursa",
+      "reason": "Ursa is both a hard lane and game matchup for Underlord as Fury Swipes' stacking damage does not get mitigated by Atrophy Aura. Enrage dispels both Pit of Malice and Firestorm and Earthshock can still be used during Pit of Malice, given it does not make Ursa leap forward."
+    },
+    {
+      "name": "Lifestealer",
+      "reason": "Lifestealer has multiple ways of dispelling both Pit of Malice and Firestorm trough Rage/Unfettered and Infest. Infest can be used during Pit of Malice's root and Rage negates Atrophy Aura's damage reduction for it's duration. Being a tank shredder Lifestealer naturally matches up well versus Underlord as he has ample sustain trough Open Wounds, Infest and Feast."
+    },
+    {
+      "name": "Juggernaut",
+      "reason": "Blade Fury can dispel both Pit of Malice and Firestorm. Healing Ward provides Jugg and his team with AOE healing to counteract Underlords AOE damage. Omnislash and Swiftslash (Jugg's Aghanim's Scepter) can be used during Pit of Malice's root and dispel him, while not being affected by Atrophy Aura for their duration."
+    },
+    {
+      "name": "Huskar",
+      "reason": "Berserker's Blood provides Huskar with Magic Resistance to mitigate the damage from Firestorm and ample sustain to counteract it's DOT effect. Life Break can be used during Pit of Malice to dispel the root and leave it's AOE altogether."
+    }
+  ]
+}

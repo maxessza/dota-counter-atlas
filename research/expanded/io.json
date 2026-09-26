@@ -1,0 +1,49 @@
+{
+  "name": "Io",
+  "slug": "io",
+  "url": "https://dotacoach.gg/en/heroes/counters/io",
+  "patch": "7.41f",
+  "checked": "2026-09-24",
+  "pairs": [
+    {
+      "name": "Ancient Apparition",
+      "reason": "Io's entire kit is tailored towards healing, with his Tether, Overcharge and even Relocate that can be used to go back to the fountain for regen - Ice Blast shuts all of that down entirely. Since Io tends to stay close to his Tethered ally it makes it easy for Ice Blast to connect with multiple targets."
+    },
+    {
+      "name": "Underlord",
+      "reason": "Underlord punishes clumped heroes with Pit of Malice and Firestorm, making Io’s tether risky. Io’s low HP pool gets shredded by magic AoE damage. Fiend’s Gate negates Io’s Relocate advantage for map control. Underlord’s teamfight presence counters Io’s healing tempo."
+    },
+    {
+      "name": "Troll Warlord",
+      "reason": "Troll Warlord ignores Io’s saves due to Battle Trance and high attack speed. Io struggles to kite or disable him, and Overcharge isn’t enough to reduce his damage output. Troll excels in sustained fights where Io usually thrives. Relocate offers limited counterplay once Troll locks on."
+    },
+    {
+      "name": "Kunkka",
+      "reason": "Kunkka’s AoE spells disrupt Io’s positioning and punish close tethering. X Mark ruins Relocate attempts by pulling allies back into danger. Boat's damage reduction counters Io’s burst healing. Io gets overwhelmed in teamfights when Kunkka controls space."
+    },
+    {
+      "name": "Lina",
+      "reason": "Lina bursts Io instantly with her combo, making it hard for him to channel or save. Her range punishes any aggressive Relocate attempts. Io’s partner is usually squishy, and Lina can kill them even through healing. She forces Io to play passively and defensively."
+    },
+    {
+      "name": "Monkey King",
+      "reason": "Monkey King punishes grouped heroes with Wukong’s Command, forcing Io to disengage. His high mobility allows him to follow Relocate attempts. Io can’t sustain allies inside Monkey’s arena without being at risk himself. Monkey thrives when Io tries to group and sustain."
+    },
+    {
+      "name": "Magnus",
+      "reason": "Magnus’s Reverse Polarity hits both Io and his tethered partner, punishing close positioning. Empowered cores outscale Io’s healing advantage. Skewer displaces Io from his partner, making saves difficult. Io struggles to recover fights once Magnus initiates."
+    },
+    {
+      "name": "Lone Druid",
+      "reason": "Lone Druid’s high physical burst from Spirit Bear overwhelms Io’s healing. The Bear can interrupt Io’s channeling and tank Relocate’s repositioning. Io gets zoned out of fights with Savage Roar and pressure. He can’t stop the push tempo or single-target kill pressure."
+    },
+    {
+      "name": "Winter Wyvern",
+      "reason": "Winter Wyvern’s Winter’s Curse punishes Io’s close tethering by turning his own ally against him. Splinter Blast and Arctic Burn ignore Io’s healing advantages. Her defensive toolkit is stronger than Io’s saves in late fights. She scales better into long engagements."
+    },
+    {
+      "name": "Crystal Maiden",
+      "reason": "Crystal Maiden roots Io and interrupts his channeling with Frostbite. Her AoE slow punishes clumped Relocate plays. Freezing Field zones Io out of teamfights entirely. Io can’t stop her disables or scale to keep up with her control."
+    }
+  ]
+}

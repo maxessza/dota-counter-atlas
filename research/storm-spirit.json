@@ -1,0 +1,21 @@
+{
+  "name": "Storm Spirit",
+  "slug": "storm-spirit",
+  "url": "https://dotacoach.gg/en/heroes/counters/storm-spirit",
+  "patch": "7.41f",
+  "checked": "2026-09-24",
+  "pairs": [
+    {
+      "name": "Anti-Mage",
+      "reason": "Mana Break can quickly burn Storm Spirit's mana, preventing him from escaping. Blink allows Anti-Mage to catch up to Storm Spirit when he tries to use his Ball Lightning to escape. Mana Void deals massive damage to Storm Spirit as well as his teammates, as Storm Spirit depletes his mana pool by using Ball Lightning. Counterspell's passive magic resistance reduces much of Storm Spirit's magical damage dealt to Anti-Mage, and the active aspect may even make Storm Spirit disable himself"
+    },
+    {
+      "name": "Doom",
+      "reason": "Doom prevents Storm Spirit from using all of his abilities and items, rendering Storm Spirit useless in a fight."
+    },
+    {
+      "name": "Ember Spirit",
+      "reason": "Flame Guard absorbs up to 500 magical damage (700 with Level 10 talents), which helps Ember Spirit survive against Storm Spirit's high magical damage. Searing Chains can root enemies up to 3 seconds, making Storm Spirit unable to escape with Ball Lightning. Fire Remnant deals high magical damage when casting multiple instances at once, granting Ember Spirit the damage to burst Storm Spirit down in the early to mid game."
+    }
+  ]
+}

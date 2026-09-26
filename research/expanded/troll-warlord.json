@@ -1,0 +1,49 @@
+{
+  "name": "Troll Warlord",
+  "slug": "troll-warlord",
+  "url": "https://dotacoach.gg/en/heroes/counters/troll-warlord",
+  "patch": "7.41f",
+  "checked": "2026-09-24",
+  "pairs": [
+    {
+      "name": "Razor",
+      "reason": "Static Link can drain most or all of Troll Warlord's damage, making him useless in a teamfight or unable to last hit in lane. This is especially effective during Battle Trance, because Troll has no option to cancel the link. Storm Surge allows Razor to chase after or run away from Troll Warlord while doing damage with Eye of the Storm."
+    },
+    {
+      "name": "Sniper",
+      "reason": "Shrapnel and Headshot allows Sniper to kite Troll Warlord effectively. Having natural big attack range together with increased attack range from Hurricane Pike allow Sniper to sit and fire at Troll Warlord from a safe distance."
+    },
+    {
+      "name": "Winter Wyvern",
+      "reason": "Cold Embrace can protect Troll Warlord's target, especially during Battle Trance. Winter's Curse can turn Troll Warlord's high physical damage and attack speed against his allies."
+    },
+    {
+      "name": "Axe",
+      "reason": "Troll Warlord is bad against Axe because Axe's Berserker's Call forces Troll Warlord to attack him during his ultimate, which allows Axe to lock him down and kill him easily with Blade Mail and Culling Blade. Troll Warlord's reliance on right-clicking makes him vulnerable to the counterattack mechanic of Axe, especially during the laning and early mid-game phase. Troll Warlord cannot out-sustain the pure disable and burst Axe brings with his spell combo."
+    },
+    {
+      "name": "Naga Siren",
+      "reason": "Troll Warlord struggles against Naga Siren because her illusions overwhelm him and make it difficult to focus the real hero during fights. Ensnare prevents Troll Warlord from repositioning or escaping, especially when he’s channeling Battle Trance. Naga Siren's Song of the Siren can reset fights or waste Troll Warlord’s ultimate duration. The illusion spam and evasion from Manta Style or Butterfly also weaken Troll Warlord’s impact in late-game duels."
+    },
+    {
+      "name": "Muerta",
+      "reason": "Troll Warlord is bad against Muerta because when she activates Pierce the Veil, she becomes immune to physical damage, which completely nullifies Troll Warlord’s right-click-focused kit. His ultimate Battle Trance cannot affect Muerta during this time, making her a direct counter in one-on-one scenarios. Muerta can kite Troll Warlord using her ranged advantage and crowd control like The Calling. She also scales better in ranged matchups while Troll Warlord relies heavily on gap closing."
+    },
+    {
+      "name": "Slark",
+      "reason": "Troll Warlord suffers against Slark because Slark can dispel Troll’s root from Whirling Axes with Dark Pact and disengage easily with Pounce. Slark becomes stronger during prolonged fights thanks to Essence Shift, which works against Troll Warlord's extended engagement style. Slark also builds items like Black King Bar and Skadi, which mitigate Troll’s burst and regen. In late fights, Slark can dodge Battle Trance and reset using Shadow Dance, making Troll Warlord ineffective."
+    },
+    {
+      "name": "Ancient Apparition",
+      "reason": "Troll Warlord is weak versus Ancient Apparition due to Ice Blast completely countering his sustain during Battle Trance. Troll Warlord relies on life steal to stay alive when low HP, and Ancient Apparition’s ultimate prevents healing, making him an easy target when low. In addition, Cold Feet and Chilling Touch slow his mobility and attack effectiveness. Ancient Apparition stays far behind in fights, making it hard for Troll Warlord to punish him directly."
+    },
+    {
+      "name": "Bane",
+      "reason": "Troll Warlord is countered by Bane because Bane has multiple strong disables including Nightmare and Fiend’s Grip that bypass Black King Bar and stop Troll Warlord during Battle Trance. Enfeeble reduces his damage and lifesteal, directly weakening his power in duels and skirmishes. Bane’s toolkit allows him to peel for his teammates or lock Troll down in critical moments. He can also stay out of Troll’s attack range while controlling him from afar."
+    },
+    {
+      "name": "Underlord",
+      "reason": "Troll Warlord is bad against Clinkz because Clinkz has high burst damage and mobility, allowing him to kill Troll before he can use Battle Trance. Clinkz’s Skeleton Walk helps him kite or escape Troll’s chase, while Burning Barrage pierces through Troll’s defenses. Clinkz usually hits a strong mid-game timing before Troll Warlord is online, punishing him while he’s still farming. Troll Warlord also lacks reliable detection or lockdown to control Clinkz."
+    }
+  ]
+}

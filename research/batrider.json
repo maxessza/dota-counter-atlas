@@ -1,0 +1,21 @@
+{
+  "name": "Batrider",
+  "slug": "batrider",
+  "url": "https://dotacoach.gg/en/heroes/counters/batrider",
+  "patch": "7.41f",
+  "checked": "2026-09-24",
+  "pairs": [
+    {
+      "name": "Pudge",
+      "reason": "Pudge has various ways of saving his teammates from Batrider's spells. He can Meat Hook his allies away from Firefly or Batrider himself during Flaming Lasso to drag his ally back to safety. He can also pick up an Aghanim's Shard and use Dismember on an ally to cancel the Flaming Lasso altogether or prevent Flamebreak's burn duration."
+    },
+    {
+      "name": "Abaddon",
+      "reason": "Aphotic Shield is a low cooldown Strong Dispel, which can dispel both Flaming Lasso as well as remove Sticky Napalm Stacks consistently. Borrowed Time can be used DURING Flaming Lasso to dispel it."
+    },
+    {
+      "name": "Slark",
+      "reason": "Dark Pact is a low cooldown Strong Dispel, which can dispel Flaming Lasso, Flamebreak's DOT as well as remove Sticky Napalm Stacks consistently. Pounce provides a reliable lockdown for Batrider to mitigate his mobility and Shadow Dance and Depth Shroud prevent Flaming Lasso from being cast on anyone under their effects."
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "name": "Elder Titan",
+  "slug": "elder-titan",
+  "url": "https://dotacoach.gg/en/heroes/counters/elder-titan",
+  "patch": "7.41f",
+  "checked": "2026-09-24",
+  "pairs": [
+    {
+      "name": "Puck",
+      "reason": "Puck is very elusive and difficult to control with Echo Stomp. Landing Earth Splitter is nearly impossible unless Puck is already disabled before the cast"
+    },
+    {
+      "name": "Vengeful Spirit",
+      "reason": "Vengeful Spirit can save allies caught in Echo Stomp and Earth Splitter with Nether Swap. Magic Missile provides strong early control on Elder Titan, preventing him from chasing with Astral Spirit’s buff. Additionally, she can cancel the channel of Echo Stomp, making her a solid counter to Elder Titan."
+    },
+    {
+      "name": "Ursa",
+      "reason": "Ursa can trade effectively with Elder Titan early in lane due to Fury Swipes, and has the potential to chase and kill him. Enrage grants significant status resistance and damage reduction, enabling Ursa to either escape Echo Stomp and Earth Splitter combos or mitigate much of their damage"
+    },
+    {
+      "name": "Shadow Demon",
+      "reason": "Shadow Demon can use Disruption to save allies caught by Elder Titan’s Echo Stomp. His Shadow Poison effectively harasses and kills Elder Titan in lane, as Elder Titan struggles to hit Shadow Demon—who can safely halt his aggression while stacking more poison thanks to Disruption"
+    },
+    {
+      "name": "Shadow Shaman",
+      "reason": "Shadow Shaman can harass Elder Titan in lane with his spells and keep him controlled for a long time using Shackles or Hex, preventing him from landing hits and dealing damage even with the Astral Spirit buff. These disables can also interrupt the channel of Echo Stomp."
+    },
+    {
+      "name": "Enchantress",
+      "reason": "Enchantress can harass Elder Titan in lane with Impetus. Additionally, Enchant provides her a dispel against Astral Spirit’s buff, completely negating Elder Titan’s bonus damage and further countering him"
+    },
+    {
+      "name": "Lycan",
+      "reason": "Lycan’s high mobility and summon pressure ignore Elder Titan’s AoE control. His units dodge Echo Stomp easily and force Titan into poor positioning. Natural Order has little effect on his summons. Titan gets overrun before he can charge up damage."
+    },
+    {
+      "name": "Naga Siren",
+      "reason": "Naga Siren’s illusions are too numerous for Elder Titan to focus effectively. Song of the Siren resets after Earth Splitter setups, wasting his combo. Her illusions waste Astral Spirit hits, limiting his damage output. Titan’s abilities are inefficient against illusion-heavy heroes."
+    },
+    {
+      "name": "Hoodwink",
+      "reason": "Dark Seer forces Elder Titan to fight in clustered zones where Vacuum into Wall destroys him. Illusions benefit from his own aura and Spirit damage. Titan’s stomp is often interrupted by Vacuum and Ion Shell poke. He can’t zone Dark Seer’s team effectively."
+    },
+    {
+      "name": "Troll Warlord",
+      "reason": "Troll Warlord wins prolonged fights, which Elder Titan prefers, but outperforms him in that context. Battle Trance prevents Troll from dying to Earth Splitter. Titan has no hard disables to stop Troll from sustaining. Troll out-scales Titan in most scenarios."
+    }
+  ]
+}

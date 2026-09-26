@@ -1,0 +1,57 @@
+{
+  "name": "Sven",
+  "slug": "sven",
+  "url": "https://dotacoach.gg/en/heroes/counters/sven",
+  "patch": "7.41f",
+  "checked": "2026-09-24",
+  "pairs": [
+    {
+      "name": "Razor",
+      "reason": "Razors high movement speed will kite and Static Link will sap Sven's insane attack damage, and it even goes through Black King Bar."
+    },
+    {
+      "name": "Medusa",
+      "reason": "Mana Shield makes it very hard for Sven to burst her within Storm Hammer's stun duration. Stone Gaze makes it very difficult for Sven to fight Medusa at any stage of the game."
+    },
+    {
+      "name": "Axe",
+      "reason": "Berserker's Call prevents Sven from bursting his targets before Axe can interfere. The worst kind of opponent for Sven is one who can stop him from attacking who he wants to, which is exactly what Axe does. Culling Blade may finish off Sven before he has the chance to lifesteal or run with Warcry. Axe is a very common Blade Mail carrier which will make very short work of a Sven with God's Strength activated."
+    },
+    {
+      "name": "Slardar",
+      "reason": "Slardar shreds Sven's high armor advantage with Corrosive Haze, turning him from a tank into a glass cannon. Slardar’s bash interrupts Sven's movement and combos, making it harder to burst down targets. Once Slardar initiates first, Sven often gets killed before even casting his ult. Vision from Haze also makes Sven’s farming patterns more predictable."
+    },
+    {
+      "name": "Troll Warlord",
+      "reason": "Troll Warlord thrives in long, drawn-out fights, while Sven is all about quick bursts with God Strength. If Troll survives Sven’s combo, he wins the fight almost every time with his attack speed and Battle Trance. Troll also builds Basher and Satanic, making him tanky and hard to kite. Sven's stun is unreliable if Troll gets BKB first."
+    },
+    {
+      "name": "Templar Assassin",
+      "reason": "Templar Assassin is a huge problem for Sven because of her Refraction, which blocks his burst damage and wastes his God Strength window. She can kite Sven using her traps and outrange him while keeping her armor intact. If Sven doesn’t have nullifier , TA can dodge most of his pressure. Her faster farming tempo also outpaces Sven's in many games."
+    },
+    {
+      "name": "Phantom Assassin",
+      "reason": "Phantom Assassin is a nightmare if Sven doesn't build Monkey King Bar, since her Blur and evasion allow her to survive his burst. Once PA gets Desolator and BKB, she can outfight Sven with faster crits. Her mobility lets her dodge Warcry's effectiveness and reach Sven’s supports first. If Sven’s combo fails, he becomes easy prey."
+    },
+    {
+      "name": "Bristleback",
+      "reason": "Bristleback is simply too tanky for Sven to deal with, especially in prolonged fights. Sven’s physical damage feeds Quill Spray, which returns more punishment the longer the fight goes. Bristle shrugs off burst and builds items like Crimson Guard and Shiva’s, further reducing Sven’s impact. He becomes impossible to kill without magic burst."
+    },
+    {
+      "name": "Lifestealer",
+      "reason": "Lifestealer is a direct counter due to his Rage, which makes him magic immune and immune to Storm Hammer. He sustains through Sven’s physical burst with Feast and Armlet, outlasting Sven in a man-fight. Lifestealer can also infest into tanky allies to initiate safely. Sven has a small window to act before he’s kited and brought down."
+    },
+    {
+      "name": "Phoenix",
+      "reason": "Phoenix completely ruins Sven’s teamfight with Supernova, which requires physical attacks to destroy. Sven can’t hit fast enough during BKB, especially with Phoenix slowing attack speed. The Sun Ray also cuts through Sven’s high HP pool, and Fire Spirits reduce his DPS to nothing. Phoenix is a strong disengage tool when Sven jumps in."
+    },
+    {
+      "name": "Enchantress",
+      "reason": "Enchantress takes very little damage from Sven’s right-clicks due to Untouchable, drastically slowing his attack speed. She also uses Nature’s Attendants to heal through his burst. Sven relies on speed to kill squishy heroes, and Enchantress is anything but. With proper positioning, she kites him endlessly with slows and range."
+    },
+    {
+      "name": "Batrider",
+      "reason": "Batrider counters Sven with his Flaming Lasso, which pulls him away from the fight and wastes his ult duration. The sticky napalm stacks reduce Sven’s mobility and make him easy to kill. Even with BKB, Batrider can reposition Sven and throw off his whole initiation. Sven can’t stand and fight when constantly being moved and slowed."
+    }
+  ]
+}

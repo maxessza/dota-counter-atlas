@@ -1,0 +1,21 @@
+{
+  "name": "Tiny",
+  "slug": "tiny",
+  "url": "https://dotacoach.gg/en/heroes/counters/tiny",
+  "patch": "7.41f",
+  "checked": "2026-09-24",
+  "pairs": [
+    {
+      "name": "Alchemist",
+      "reason": "Tiny naturally has high base attack damage due to his ult - Grow. Alch is capable of reducing it with Corrosive Weaponry and cripple Tiny's overall damage output significantly. Alch acquires items quite fast to build up his HP pool, making it hard for Tiny to burst him with a single Toss + Avalanche + Tree Throw combo and can quickly heal back up with Chemical Rage."
+    },
+    {
+      "name": "Lifestealer",
+      "reason": "Lifestealer’s Rage makes him immune to all of Tiny’s magic-based combo. He out-sustains Tiny in fights and bursts him with Feast damage. Tiny can’t kill Lifestealer unless he’s controlled by someone else. Lifestealer shrugs off every spell and punishes his low armor."
+    },
+    {
+      "name": "Necrophos",
+      "reason": "Necrophos shrugs off Tiny’s burst with sustain and Ghost Shroud. Reaper’s Scythe punishes Tiny’s low status resistance early. Avalanche and Toss do little once Necrophos is tanky. He scales better and punishes Tiny’s lack of BKB early."
+    }
+  ]
+}

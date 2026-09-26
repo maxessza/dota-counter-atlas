@@ -1,0 +1,37 @@
+{
+  "name": "Centaur Warrunner",
+  "slug": "centaur-warrunner",
+  "url": "https://dotacoach.gg/en/heroes/counters/centaur-warrunner",
+  "patch": "7.41f",
+  "checked": "2026-09-24",
+  "pairs": [
+    {
+      "name": "Lifestealer",
+      "reason": "Rage/Unfettered can be used to soak/dispel Hoof Stomp and Double Edge. Aghanim Scepter allows LS to Infest any retreating with Stampede targets and stay on top of them. His abudance of sustain trough Feast, which scales with Rawhide and Open Wounds can easily result in a situation where LS completely outheals Centaur's Retaliate and total damage output."
+    },
+    {
+      "name": "Wraith King",
+      "reason": "Reincarnation makes it difficult to all in WK with Stampede as he'd have an extra life to spare. Wraithfire Blast can lock down any retreating with Stampede targets so WK can stay on top of them. His abudance of sustain trough Vampiric Spirit can easily result in a situation where WK completely outheals Centaur's Retaliate and total damage output."
+    },
+    {
+      "name": "Juggernaut",
+      "reason": "Blade Fury can be used to greatly mitigate the damage and Crowd Control of Hoof Stomp and Double Edge. Omnislash and Swiftslash (Aghanim's Scepter upgrade) allows Juggernaut to stay on top of any retreating with Stampede targets. His abudance of sustain trough Healing Ward and his Blade Dance Lifesteal talent can easily result in a situation where Juggernaut completely outheals Centaur's Retaliate and total damage output."
+    },
+    {
+      "name": "Ember Spirit",
+      "reason": "Hoof stop has a relatively long cast point and can be dodged with both Sleight of Fist and dashing to a Remnant. Ember's biggest asset however is that he can root multiple targets with Searing Chains during Stampede for almost the entirety of it's duration."
+    },
+    {
+      "name": "Tidehunter",
+      "reason": "Blubber provides a dispel for Hoof Stomp's stun, Double Edge's slow (Aghanim's Shard Upgrade) and Stampede's slow. Dead in the Water (Aghanim's Shard upgrade) leashes enemies and slows them even during Stampede. Ravage can obviously completely ruin a Stampede initiation or disengage."
+    },
+    {
+      "name": "Ursa",
+      "reason": "Ursas Fury Swipes are a nuisance in all stages of the game to Centaur. In addition, in mid to late game Ursas shard and Aghanims upgrade are an incredible counter to the initiation of Centaur."
+    },
+    {
+      "name": "Slark",
+      "reason": "Slark can easily kite Centaur Warrunner with his mobility. If Slark builds Diffusal Blade, he can burn Centaur’s mana, preventing key spells like Hoof Stomp or Stampede. Centaur struggles to lock Slark down due to his Dark Pact and Pounce. Slark can disengage and re-engage at will, avoiding return damage. With enough Essence Shift stacks, Slark can finish Centaur off in extended fights."
+    }
+  ]
+}

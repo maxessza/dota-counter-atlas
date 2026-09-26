@@ -1,0 +1,49 @@
+{
+  "name": "Oracle",
+  "slug": "oracle",
+  "url": "https://dotacoach.gg/en/heroes/counters/oracle",
+  "patch": "7.41f",
+  "checked": "2026-09-24",
+  "pairs": [
+    {
+      "name": "Shadow Demon",
+      "reason": "Demonic Purge dispels Fate's Edict Magic Resistance and Purifying Flame's heal buff, while Demonic Cleanse (Aghanim's Shard Upgade) dispels both Fortune's End's root and Fate's Edict Disarm. Shadow Poison cannot be dispelled by Fortune's End. Disruption can prevent Fortune's End from connecting to it's target and dispelling and vital buffs or debuffs from it."
+    },
+    {
+      "name": "Lone Druid",
+      "reason": "LD can pick up an Aghanim's Shard and when combined with his level 15 talent for Savage Roar can have a low cooldown dispel for both Fate's Edict's disarm and Fortune's End's root for both LD and the Spirit Bear, that almost matches Fate's Edict cooldown. This makes it hard for Oracle to stop LD and Spirit Bear to run rampart."
+    },
+    {
+      "name": "Undying",
+      "reason": "Decay partially works trough both False Promise and Fate's Edict's Magic Resistance as it keeps reducing Strength and the target's current HP. The only thing that Fortune's End can dispel are Flesh Golem's Plague and Tombstone's Deathlust Slow, which can be easily re-applied. Oracle does not contribute in any meaningful way towards Tombstone's destruction."
+    },
+    {
+      "name": "Outworld Devourer",
+      "reason": "Arcane Orb does Pure damage and is OD's main damage source, which does not get mitigated by Fate's Edict's Magic Resistance. Astral Imprisonment can be used to dodge Fortune's End and perserve any vital buffs or debuffs on the target."
+    },
+    {
+      "name": "Razor",
+      "reason": "Static Link keeps draining damage even if Razor is disarmed by Fate's Edict and the stolen damage cannot be dispelled with Fortune's End. All of Oracle's basic abilities trigger Storm Surge if they target Razor. Eye of the Storm's damage is physical and cannot be mitigated by Fate's Edict, while it's armor reducing debuff cannot be dispelled by Fortune's End."
+    },
+    {
+      "name": "Visage",
+      "reason": "Visage’s Familiars interrupt Oracle’s channeling and apply constant pressure. Oracle struggles to clear them, and his spells don’t stop Visage’s tanky frontline presence. Oracle also dies quickly to focused physical burst."
+    },
+    {
+      "name": "Anti-Mage",
+      "reason": "Anti-Mage punishes Oracle’s heavy mana reliance. Mana Void deletes him mid-cast, and Oracle has no mobility to escape once Blink is on top of him. Fate’s Edict also becomes a liability due to Oracle’s need for spellcasting."
+    },
+    {
+      "name": "Io",
+      "reason": "Io’s sustain, mobility, and Relocate allow his team to outscale Oracle’s defensive plays. Oracle can’t stop a save-relocate or punish Io’s constant tethered healing. In late game, Io simply outperforms Oracle in utility."
+    },
+    {
+      "name": "Monkey King",
+      "reason": "Monkey King dominates Oracle with fast jumps and teamfight zoning from Wukong’s Command. Oracle has a hard time positioning safely, and False Promise can’t stop Monkey from deleting a target inside the circle."
+    },
+    {
+      "name": "Pangolier",
+      "reason": "Pangolier’s mobility and spell immunity during Rolling Thunder make it hard for Oracle to counter him. He can’t reliably purge or disable Pango mid-roll, and Oracle is often an easy bounce target in the backline."
+    }
+  ]
+}

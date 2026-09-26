@@ -1,0 +1,49 @@
+{
+  "name": "Lone Druid",
+  "slug": "lone-druid",
+  "url": "https://dotacoach.gg/en/heroes/counters/lone-druid",
+  "patch": "7.41f",
+  "checked": "2026-09-24",
+  "pairs": [
+    {
+      "name": "Kunkka",
+      "reason": "Ghost Ship mitigates Lone Druid’s burst damage, and X Mark locks down the Druid or the Bear. The cleave from Tidebringer clears the Bear and Druid if they clump, making Kunkka a consistent teamfight counter."
+    },
+    {
+      "name": "Pangolier",
+      "reason": "Pango’s Rolling Thunder stuns both the Druid and Bear repeatedly, stopping them from attacking. Shield Crash reduces incoming damage, and Swashbuckle bypasses the Bear’s root. His control overwhelms Lone Druid in fights."
+    },
+    {
+      "name": "Lich",
+      "reason": "Chain Frost punishes Lone Druid’s tendency to group with his Bear. Frost Shield also reduces Bear damage and slows push tempo. Lich is great at punishing melee-centric heroes with AoE."
+    },
+    {
+      "name": "Viper",
+      "reason": "Viper melts the Bear quickly with Nethertoxin, removing its passive. He slows the Druid down with Poison Attack, and Viper Strike cripples any attempt to disengage. A classic lane and mid-game counter."
+    },
+    {
+      "name": "Underlord",
+      "reason": "Underlord’s Pit of Malice controls both the Bear and Druid. Firestorm melts their HP pools, and Atrophy Aura cripples their damage. Lone Druid struggles to take objectives through Underlord’s wave clear."
+    },
+    {
+      "name": "Phantom Lancer",
+      "reason": "The Bear can’t keep up with PL illusions. Lone Druid’s kit is built around focusing a single target, so he struggles to identify and kill the real PL, especially post-Manta and Heart. PL also burns through the Bear with Diffusal Blade."
+    },
+    {
+      "name": "Jakiro",
+      "reason": "Jakiro has strong push stall with Liquid Fire and Macropyre. He chips at the Bear’s HP with DoT, and Ice Path stops Bear initiations. Lone Druid’s push gets delayed significantly."
+    },
+    {
+      "name": "Monkey King",
+      "reason": "Monkey King uses tree vision to avoid fights and punishes Bear initiations with Wukong’s Command. The Bear gets shredded inside the arena, and Monkey’s armor and crit scaling allow him to trade better in extended fights."
+    },
+    {
+      "name": "Dark Seer",
+      "reason": "Ion Shell kills waves instantly and punishes clumping. Vacuum + Wall destroys both Druid and Bear in tight areas. The Bear clone from Wall of Replica is a dangerous threat that turns Druid’s strength against him."
+    },
+    {
+      "name": "Winter Wyvern",
+      "reason": "Winter’s Curse turns Lone Druid’s Bear into a team killer. The Bear often stays near his allies, making Wyvern’s ult devastating. Her Arctic Burn and Splinter Blast also stall pushes and kite the Bear."
+    }
+  ]
+}

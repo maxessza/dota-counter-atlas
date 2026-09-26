@@ -1,0 +1,21 @@
+{
+  "name": "Necrophos",
+  "slug": "necrophos",
+  "url": "https://dotacoach.gg/en/heroes/counters/necrophos",
+  "patch": "7.41f",
+  "checked": "2026-09-24",
+  "pairs": [
+    {
+      "name": "Ancient Apparition",
+      "reason": "Ice Blast prevents Necro from healing trough Sadist and Death Pulse, while having Ghost Shroud amplify it's damage as it reduces Magic Resistance. Necro has no innate mobility spells and is quite slow and stationery, making it difficult for him to disengage easily and wait out the duration of Ice Blast in safety."
+    },
+    {
+      "name": "Arc Warden",
+      "reason": "Necro is strong and sturdy but slow and stationary making Spark Wraith and Flux amazing tools at wearing him down and keeping him at bay. Tempest Double allows Arc to continue fighting and splitpushing even if Reaper's Scythe manages to kill the main Arc, diminishing it's effectiveness. Shiva's Guard as well as Necro's level 20 talent reduces Barracuda's HP regen."
+    },
+    {
+      "name": "Shadow Demon",
+      "reason": "Disruption is just a nightmare for Necro - any Illusions that it creates inherit Hearthstopper Aura as well as other auras like Radiance or Shiva, which Necro naturally builds into, as well as Sadist and Profane Potency to help them stay alive. Disruption can be used as a save from Reaper's Scythe as it has a fairly long connection time. Demonic Purge dispels Ghost Shroud and hinders Necro's already low mobility even further."
+    }
+  ]
+}
