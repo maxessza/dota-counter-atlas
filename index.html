@@ -29,7 +29,7 @@
       <div class="draft-intro">
         <p class="eyebrow">DRAFT ASSISTANT</p>
         <h2 id="draft-heading">วางแผนดราฟต์สองฝั่ง</h2>
-        <p>ใส่ฮีโร่ฝั่งตรงข้ามและตัวที่ทีมเราเลือกแล้ว ระบบจะแนะนำตัวถัดไปสำหรับตำแหน่งที่ยังว่าง</p>
+        <p>ใส่ฮีโร่ฝั่งตรงข้ามและตัวที่ทีมเราเลือกแล้ว ระบบจะแนะนำตัวถัดไป พร้อมสรุปไอเทมที่ใช้รับมือศัตรูหลายตัวและตำแหน่งที่ควรพิจารณาซื้อ</p>
       </div>
       <div class="draft-lineups">
         <section class="draft-team" aria-labelledby="enemy-team-heading">
@@ -65,6 +65,11 @@
     </section>
     <div class="workspace">
       <aside>
+        <nav class="workspace-nav" aria-label="เลือกเครื่องมือ">
+          <button id="show-hero-mode" class="workspace-nav-button is-active" type="button" aria-pressed="true"><span aria-hidden="true">◇</span> แก้ทางฮีโร่</button>
+          <button id="show-ward-map" class="workspace-nav-button" type="button" aria-pressed="false"><span aria-hidden="true">◉</span> แผนที่ Ward</button>
+        </nav>
+        <div id="hero-sidebar-content">
         <label for="search">ค้นหาฮีโร่</label>
         <input id="search" type="search" placeholder="ชื่อภาษาอังกฤษ / ชื่อย่อ เช่น AM" autocomplete="off">
         <label for="attribute" class="filter-label">ประเภทฮีโร่</label>
@@ -78,13 +83,69 @@
         <p id="count" class="small muted" aria-live="polite"></p>
         <nav id="heroes" aria-label="เลือกฮีโร่"></nav>
         <p class="scope">ครบ 127 ฮีโร่ตามรายชื่อที่ตรวจ</p>
+        </div>
       </aside>
       <section id="detail" aria-live="polite"></section>
+      <section id="ward-map-view" class="ward-map-view" aria-labelledby="ward-map-heading" hidden>
+        <div class="map-screen-head">
+          <div><p class="eyebrow">TACTICAL VISION</p><h2 id="ward-map-heading">แผนที่แนะนำจุด Ward</h2><p>เลือกหมุดบนแผนที่เพื่อดูพื้นที่ที่ควรมีวิสัยทัศน์และเหตุผลประกอบ</p></div>
+          <span class="ward-patch">PATCH 7.41f</span>
+        </div>
+        <div class="ward-map-toolbar">
+          <div class="ward-controls" role="group" aria-label="ชนิดตำแหน่ง Ward">
+            <button type="button" class="ward-filter is-active" data-ward-type="observer" aria-pressed="true">Observer · มองเห็น</button>
+            <button type="button" class="ward-filter" data-ward-type="sentry" aria-pressed="false">Sentry · ตรวจจับ</button>
+          </div>
+          <div class="ward-map-filters">
+            <label class="ward-side-label" for="ward-side">แสดงฝั่ง</label>
+            <select id="ward-side"><option value="both">ทั้งสองฝั่ง</option><option value="radiant">Radiant</option><option value="dire">Dire</option></select>
+            <label class="ward-side-label" for="ward-area">โซน</label>
+            <select id="ward-area"><option value="all">ทุกโซน</option><option value="river">แม่น้ำ / รูน</option><option value="jungle">ป่า / สามเหลี่ยม</option><option value="lane">เลน / ทางเข้า</option><option value="portal">Portal / Gate</option><option value="objective">Roshan / Tormentor</option></select>
+            <span id="ward-count" class="ward-count" aria-live="polite"></span>
+          </div>
+        </div>
+        <div class="ward-position-tools">
+          <button id="ward-edit-toggle" class="ward-edit-toggle" type="button" aria-pressed="false">ปรับตำแหน่งหมุด</button>
+          <button id="ward-add-start" class="ward-add-start" type="button" aria-pressed="false" hidden>＋ เพิ่ม Ward เอง</button>
+          <button id="ward-delete-selected" class="ward-delete-selected" type="button" hidden>ลบจุด Sentry ที่เลือก</button>
+          <button id="ward-reset-positions" class="ward-reset-positions" type="button" hidden>คืนค่า Ward เริ่มต้น</button>
+          <span id="ward-edit-hint" class="ward-edit-hint" aria-live="polite" hidden></span>
+        </div>
+        <div class="ward-map-layout">
+          <div class="ward-map-canvas">
+            <svg id="ward-map" class="ward-map" viewBox="0 0 634 599" role="group" aria-label="แผนที่ Dota 2 ที่เลือกหมุด Ward ได้">
+              <image class="map-background-image" href="assets/dota-2-ward-map.png" x="0" y="0" width="634" height="599" preserveAspectRatio="none"/>
+              <g id="ward-markers"></g>
+            </svg>
+          </div>
+          <aside class="ward-map-reason">
+            <p class="eyebrow">WARD SPOT</p>
+            <div class="ward-legend"><span><i class="legend-dot observer-dot"></i>Observer</span><span><i class="legend-dot sentry-dot"></i>Sentry / ตรวจ</span></div>
+            <div id="ward-spot-info" class="ward-spot-info" aria-live="polite"><strong>เลือกหมุดบนแผนที่</strong><span>เหตุผลและพื้นที่ที่แนะนำจะแสดงตรงนี้</span></div>
+            <form id="ward-add-form" class="ward-add-form" hidden>
+              <h3>เพิ่ม Ward ใหม่</h3>
+              <p class="ward-add-location">ตำแหน่งบนแผนที่ที่เลือกแล้ว</p>
+              <label for="ward-new-title">ชื่อจุด<input id="ward-new-title" maxlength="70" required placeholder="เช่น Ward ทางเข้าป่าฝั่ง Radiant"></label>
+              <label for="ward-new-note">เหตุผล / ข้อความ<textarea id="ward-new-note" maxlength="300" rows="3" required placeholder="อธิบายว่าจุดนี้ช่วยทีมอย่างไร"></textarea></label>
+              <div class="ward-add-fields">
+                <label for="ward-new-type">ชนิด<select id="ward-new-type"><option value="observer">Observer</option><option value="sentry">Sentry</option></select></label>
+                <label for="ward-new-side">ฝั่ง<select id="ward-new-side"><option value="radiant">Radiant</option><option value="dire">Dire</option><option value="both">ทั้งสองฝั่ง</option></select></label>
+              </div>
+              <label for="ward-new-zone">โซน<select id="ward-new-zone"><option value="river">แม่น้ำ / รูน</option><option value="jungle">ป่า / สามเหลี่ยม</option><option value="lane">เลน / ทางเข้า</option><option value="portal">Portal / Gate</option><option value="objective">Roshan / Tormentor</option></select></label>
+              <div class="ward-add-actions"><button type="submit">บันทึก Ward</button><button id="ward-add-cancel" type="button">ยกเลิก</button></div>
+            </form>
+            <div class="ward-purpose"><strong>หลักคิด</strong><p>วาง Ward เพื่อเห็นทางเดินหรือทางเข้าพื้นที่ที่ทีมกำลังเล่น ไม่จำเป็นต้องปักจุดเดิมทุกเกม</p></div>
+          </aside>
+        </div>
+        <p class="ward-caveat">พื้นหลังใช้ภาพแผนที่ที่แนบมา ส่วนหมุดเป็นพื้นที่แนะนำโดยประมาณ ไม่ใช่พิกัดจริงหรือจุดวางตายตัว ควรตรวจเทียบกับแผนที่ในเกม ทางเดินฮีโร่ และสถานการณ์จริง</p>
+        <p class="ward-source">แนวทาง: <a href="https://dota2.tools/blog/7-41e-ward-recommendation" target="_blank" rel="noopener noreferrer">Ward Recommendations 7.41e</a> · <a href="https://teamsmurf.com/dota-2-7-41f-ward-map/?currency=USD" target="_blank" rel="noopener noreferrer">Ward Map 7.41f</a></p>
+      </section>
     </div>
     <footer>คู่มือจากกลไกการเล่น • ไม่ใช่อันดับอัตราชนะสด • ตรวจแหล่งข้อมูล 25 ก.ย. 2026<br>ผลจริงขึ้นกับเลน ไอเทม ฝีมือ และดราฟต์ทั้งทีม ข้อมูลอาจเปลี่ยนตามแพตช์ · <a class="roster-source" href="https://api.opendota.com/api/heroes" target="_blank" rel="noopener noreferrer">รายชื่อฮีโร่: OpenDota</a></footer>
   </main>
 </body>
 </html>
+
 
 
 

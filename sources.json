@@ -927,5 +927,20 @@
       "Largo": "Dota Coach counter items, patch 7.41e"
     },
     "note": "Displayed item explanations describe general item mechanics and purchase conditions; they are not a required build or a guarantee of countering the hero."
+},
+  "wardSources": {
+    "checked": "2026-09-26",
+    "backgroundAsset": "assets/dota-2-ward-map.png",
+    "recommendations": {
+      "url": "https://dota2.tools/blog/7-41e-ward-recommendation",
+      "patch": "7.41e",
+      "scope": "Illustrated suggestions around portals, river runes, jungle, and lanes"
+    },
+    "currentMapGuide": {
+      "url": "https://teamsmurf.com/dota-2-7-41f-ward-map/?currency=USD",
+      "patch": "7.41f",
+      "scope": "Current-patch warding guidance; map markers in this project are approximate zone illustrations"
+    },
+    "note": "The supplied map image is used as the background; overlay markers are approximate area suggestions, not verified placement coordinates. Adapt them to the current in-game map and game state."
   }
 }
